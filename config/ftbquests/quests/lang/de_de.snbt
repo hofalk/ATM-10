@@ -196,112 +196,112 @@
 	quest.00FF2CA7BA326007.quest_subtitle: "Mandarine + Wildkirsche"
 	quest.01046CFBD7411AA6.quest_subtitle: "Stufe: &54"
 	quest.0104C2E2E30B966B.quest_desc: [
-		"Is the &cBlood Chest&r not working fast enough? Do you have too many items that need to be repaired? You can make a &cColossal Blood Chest&r to solve these problems.\\n\\nTo build one, you need to make 25 &9Reinforced Undead Planks&r. Using these, you want to make a 3x3x3 hollow cube, then place a &cColossal Blood Chest&r block to close off the multiblock structure. If done right, you'll have a massive &cBlood Chest&r you can now use. Some might call is colossal.\\n\\nThis also allows you to upgrade it using &6Promises&r.\\n"
+		"Arbeitet die &cBlutkiste&r nicht schnell genug? Hast du zu viele Gegenstände, die repariert werden müssen? Du kannst eine &cKolossale Blutkiste&r bauen, um diese Probleme zu lösen.\\n\\nUm eine zu bauen, benötigst du 25 &9Verstärkte Untote Bretter&r. Mit diesen baust du einen 3x3x3 hohlen Würfel, dann platzierst du einen &cKolossale Blutkiste&r-Block, um die Multiblock-Struktur abzuschließen. Wenn es richtig gemacht ist, hast du nun eine riesige &cBlutkiste&r, die du nutzen kannst. Manche würden sie kolossal nennen.\\n\\nDies ermöglicht dir auch, sie mit &6Versprechen&r zu verbessern.\\n"
 		"{image:atm:textures/questpics/evilcraft/bloodchest.png width:250 height:200 align:1}"
 	]
-	quest.0104C2E2E30B966B.quest_subtitle: "Blood Chest Sr"
-	quest.0104C2E2E30B966B.title: "&aColossal Repairs"
-	quest.010607466D565B53.quest_desc: ["Like get in touch with Mother Nature man. \\n\\nWith &aRooted Boots&r nature is your Bestfriend! When standing on Grass you will Regenerate Hearts. Also when you Eat Food when standing on Grass it will act as if you Bonemealed it."]
-	quest.010607466D565B53.quest_subtitle: "Feet"
-	quest.010607466D565B53.title: "&aRooted Boots"
-	quest.0107D516E038E0DB.quest_desc: ["The &eLich Tower&r is home to the &eLich&r! The fight has 3 phases:\\n\\nPhase 1: The &eLich&r surrounds himself in shields, and attacks you with &5Ender Pearls&r that shoot out like Ghast fireballs. Reflect them back to the &eLich&r to break his shields! As his shields break, he'll send out duplicates to distract you.\\n\\nPhase 2: The &eLich&r switches scepters to summon Zombies to help him in the fight. With his defenses down, you will be able to melee him!\\n\\nPhase 3: Once all of the charges are spent on his Scepter, he will switch to a &eGolden Sword&r and go berserk. Kill him fast!"]
-	quest.0107D516E038E0DB.title: "&eBring out your Dead"
-	quest.0108F3EFDFD6DFD0.quest_desc: ["The Storage Link allows you to connect multiple storages that are not attached to a Storage Controller or any blocks that are connected to it.\\n\\nSo its a way to wirelessly connect a \"multiblock\" of storages without needing to right-click each one of them.\\n\\n14 blocks of range still applies."]
+	quest.0104C2E2E30B966B.quest_subtitle: "Bluttruhe Sr"
+	quest.0104C2E2E30B966B.title: "&aKolossale Reparaturen"
+	quest.010607466D565B53.quest_desc: ["Komm in Kontakt mit Mutter Natur, Mann. \\n\\nMit &aVerwurzelten Stiefeln&r ist die Natur dein bester Freund! Wenn du auf Gras stehst, regenerierst du Herzen. Und wenn du Nahrung zu dir nimmst, während du auf Gras stehst, wirkt es, als hättest du es mit Knochenmehl gedüngt."]
+	quest.010607466D565B53.quest_subtitle: "Füße"
+	quest.010607466D565B53.title: "&aVerwurzelte Stiefel"
+	quest.0107D516E038E0DB.quest_desc: ["Der &eLich-Turm&r ist die Heimat des &eLich&r! Der Kampf hat 3 Phasen:\\n\\nPhase 1: Der &eLich&r umgibt sich mit Schilden und greift dich mit &5Enderperlen&r an, die wie Ghast-Feuerbälle schießen. Reflektiere sie zurück zum &eLich&r, um seine Schilde zu brechen! Während seine Schilde zerbrechen, sendet er Duplikate aus, um dich abzulenken.\\n\\nPhase 2: Der &eLich&r wechselt zu einem Zepter, um Zombies zu beschwören, die ihm im Kampf helfen. Da seine Verteidigung nun geschwächt ist, kannst du ihn im Nahkampf angreifen!\\n\\nPhase 3: Sobald alle Ladungen seines Zepters verbraucht sind, wechselt er zu einem &eGoldenen Schwert&r und wird wild. Töte ihn schnell!"]
+	quest.0107D516E038E0DB.title: "&eBringt eure Toten heraus"
+	quest.0108F3EFDFD6DFD0.quest_desc: ["Mit dem Speicherlink kannst du mehrere Speicher verbinden, die nicht an einen Speichercontroller oder Blöcke, die damit verbunden sind, angeschlossen sind.\\n\\nEs ist also eine Möglichkeit, einen \"Multiblock\" von Speichern drahtlos zu verbinden, ohne jeden einzelnen anklicken zu müssen.\\n\\nDie Reichweite von 14 Blöcken gilt weiterhin."]
 	quest.01119871B1D5C576.quest_desc: [
-		"Just about every &6Village&r can have &6&lPriests&r in them. This includes modded &6Villages&r. \\n\\nUsually they hang in the middle of the &6Village&r like by the Markets. Not every &6Village&r will have one."
+		"In fast jedem &6Dorf&r können &6&lPriester&r sein. Das gilt auch für modifizierte &6Dörfer&r. \\n\\nNormalerweise halten sie sich in der Mitte des &6Dorfes&r auf, etwa in der Nähe der Märkte. Nicht jedes &6Dorf&r hat einen Priester."
 		"{image:atm:textures/questpics/iron_spells/spells_village.png width:200 height:100 align:center}"
 	]
-	quest.01119871B1D5C576.title: "&6Village"
-	quest.0115271C840CD387.quest_desc: ["Time to upgrade that boiler perhaps?"]
-	quest.0115271C840CD387.quest_subtitle: "So much steam"
-	quest.011D8CADA29C9C70.quest_desc: ["&eQIO Drives&r determine the Storage within &e&lQIO Drive Arrays&r. \\n\\nThey are placed within the &5Machines&r Inventory in order to be used. You can place up to 12 of them. \\n\\nThe &eQIO Drives&r hold the &eItems&r and they will automatically fill up the first &eQIO Drive&r in order. \\n\\nEach of them have an &eItem Storage&r limit and &eItem Type&r limit. The better the &eQIO Drive&r, the more &eItems&f and &eItem Types&r you'll get! \\n\\n&aQIO Drive&r: is the most basic, having 16k Items and 128 Types. This is the only one not needing a &2&lFission Reactor&r to Craft. \\n\\n&cHyper-Dense QIO Drive&r: and everything after will need the &2&lFission Reactor&r. This one holds 128k Items and 256 Item Types. \\n\\n&bTime-Dilating QIO Drive&r: can store 1,048k Items and 1,024 Item Types. \\n\\n&dSupermassive QIO Drive&r: will need &dAntimatter&r to Craft but will obviously give the most Storage. Allowing 16b Items and 8,192 Item Types."]
-	quest.011D8CADA29C9C70.title: "&eQIO Drives"
-	quest.011F787E620DE9E8.quest_desc: ["To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \\n\\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \\n\\nYou can exchange the Mob in it by simplying clicking a different Mob with it."]
-	quest.011F787E620DE9E8.quest_subtitle: "He's uninvited!"
+	quest.01119871B1D5C576.title: "&6Dorf"
+	quest.0115271C840CD387.quest_desc: ["Zeit, den Kessel aufzurüsten, vielleicht?"]
+	quest.0115271C840CD387.quest_subtitle: "So viel Dampf"
+	quest.011D8CADA29C9C70.quest_desc: ["&eQIO-Laufwerke&r bestimmen den Speicher innerhalb von &e&lQIO-Laufwerk-Arrays&r. \\n\\nSie werden im Inventar der &5Maschine&r platziert, um genutzt zu werden. Du kannst bis zu 12 davon einsetzen. \\n\\nDie &eQIO-Laufwerke&r speichern die &eGegenstände&r und füllen automatisch das erste &eQIO-Laufwerk&r in der Reihenfolge. \\n\\nJedes hat ein Limit für &eGegenstandsspeicher&r und &eGegenstandstypen&r. Je besser das &eQIO-Laufwerk&r, desto mehr &eGegenstände&f und &eGegenstandstypen&r bekommst du! \\n\\n&aQIO-Laufwerk&r: ist das grundlegendste mit 16k Gegenständen und 128 Typen. Dies ist das einzige, das keinen &2&lSpaltungsreaktor&r zum Herstellen benötigt. \\n\\n&cHyperdichtes QIO-Laufwerk&r: und alles danach benötigt den &2&lSpaltungsreaktor&r. Dieses speichert 128k Gegenstände und 256 Gegenstandstypen. \\n\\n&bZeitverzerrendes QIO-Laufwerk&r: kann 1.048k Gegenstände und 1.024 Gegenstandstypen speichern. \\n\\n&dSupermassives QIO-Laufwerk&r: benötigt &dAntimaterie&r zum Herstellen, bietet aber offensichtlich den meisten Speicherplatz. Ermöglicht 16 Milliarden Gegenstände und 8.192 Gegenstandstypen."]
+	quest.011D8CADA29C9C70.title: "&eQIO-Laufwerke"
+	quest.011F787E620DE9E8.quest_desc: ["Um den Mob-Filter einzustellen, musst du einfach mit dem Mob-Filter auf den Mob klicken, den du nie wieder sehen willst. \\n\\nJeder Filter kann nur 1 Mob enthalten, wenn du also Zombies, Skelette, Spinnen, Creeper und Endermen nicht mehr spawnen lassen willst, benötigst du 5 Mob-Filter. \\n\\nDu kannst den Mob darin austauschen, indem du einfach mit dem Filter auf einen anderen Mob klickst."]
+	quest.011F787E620DE9E8.quest_subtitle: "Er ist nicht eingeladen!"
 	quest.012366E4E4095FC4.quest_desc: [
-		"Filter Casings are necessary to actually filter out bad particulates from the air and make the room &eclean&r"
+		"Filtergehäuse sind notwendig, um schädliche Partikel aus der Luft zu filtern und den Raum &esauber&r zu machen"
 		""
-		"When building your cleanroom, use a &awrench&r to break these otherwise they will not drop when broken"
+		"Beim Bau deines Reinraums verwende einen &aSchraubenschlüssel&r, um diese zu entfernen, sonst werden sie beim Zerbrechen nicht fallengelassen"
 		""
-		"All of the ceiling needs to be Filter Casings, minus 1 for where the Cleanroom controller block goes"
+		"Die gesamte Decke muss aus Filtergehäusen bestehen, minus 1 für den Platz, an dem der Reinraumcontroller-Block platziert wird"
 	]
-	quest.012912FDAFCD1C66.quest_desc: ["&e&lCaliburn&r will start off not much better than a &bDiamond Sword&r but once upgraded; the &bDiamond Sword&r looks more like a normal Stick than &e&lCaliburn&r! \\nBoth &4&lMorgan&r and &e&lCaliburn&r have their actual Damage and their Innate Cap. \\n\\nInnate Cap is max Damage it can be increased to. To increase the Innate Cap of &e&lCaliburn&r, enchant it with &5Smite&r then toss it in the &3Lake&r with Nether Stars. \\n\\nTo get the Max Cap you need 60 Nether Stars. Once upgraded it can't be upgraded anymore so make sure you toss in all 60 at once! \\n\\nTo increase the normal Damage you'll need to enchant it with &5Smite&r then back in the &3Lake&r it goes! You'll need more damage in order to..."]
-	quest.012912FDAFCD1C66.title: "Upgrading &l&eCaliburn"
-	quest.0133DA323E24A455.quest_desc: ["Talking about replacing things (&6Hazmat Suit&r with &aRadiation Shielding &7Unit&r) lets replace the &eScube Gear&r! \\n\\nWith this &7Module Unit&r added to our &a&lMekaSuit Helmet&r, we will be able to swim &9Underwater&r and breathe! \\n\\nIf we have a &cJetpack &7Unit&r in our &a&lMekaSuit Bodyarmor&r it will feed it &7Hydrogen&r when in &9Water&r."]
-	quest.0133DA323E24A455.quest_subtitle: "Helmet"
-	quest.0133DA323E24A455.title: "&9Electrolytic Breathing &7Unit"
-	quest.0145727E40D7F674.quest_subtitle: "Cempedack + Breadfruit"
-	quest.01516BC726013B7C.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.0152938EE5651409.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.017194E29D6745E8.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.01748C2CD9C97523.quest_desc: ["&cReappearing Blocks&r are like really cool doors. Once right-clicked, they'll disappear for a short time.\\n\\n&cVanishing Blocks&r will disappear when right-clicked, but they don't come back."]
-	quest.01748C2CD9C97523.title: "&cReappearing \\& Vanishing Blocks"
-	quest.019CA0E35F888222.quest_subtitle: "More Filtering Options"
-	quest.019CA0E35F888222.title: "&eAdvanced Restock Upgrade"
-	quest.01A90E2541C91DB2.quest_desc: ["Most &5Machines&r, atleast the simple ones, can use &8Upgrades&r! \\n\\n&8Upgrades&r are in the Top Right of the GUI. This screen might be confusing but don't worry I'll explain it! \\n\\nFirst, the bottom shows the &8Supported Upgrades&r. The clear &8Upgrades&r are &aSupported&r while the more transperant ones are &4not&r! You can also hover over them with your Mouse to see their names and if they are &aSupported&r. \\n\\n&8Upgrades&r are added through the Top Slot, they'll then show up in the Right. Here you can Click them to see how many are in the Machine and see their Effect! \\n\\nIf you'd like to take our &8Upgrades&r out, Click the one you want out, then hit the Uninstall Button. This will move the &8Upgrade&r into the Bottom Slot."]
-	quest.01A90E2541C91DB2.title: "&8Machine Upgrades"
-	quest.01AFC11EAAB6CB3B.quest_desc: ["&eBone Reptile Armor&r is made from &eKoboleton Bones&r, &eAncient Metal&r, and for the Helmet a &eKobolediator Skull&r. \\n\\nThese don't appear to do anything special, just give very good stats for cheap Armor!"]
-	quest.01AFC11EAAB6CB3B.title: "&eBone Reptile Armor"
-	quest.01B13BBB41BBB460.quest_desc: ["&cUtherium Armor&r has same stats as Netherite Armor! \\n\\nWithout needing a Smithing Template!"]
-	quest.01B13BBB41BBB460.title: "&cUtherium&r Armor"
-	quest.01B2DDD81065B4EF.quest_subtitle: "Jungle + Cherry"
-	quest.01C169A7FA424F6E.quest_subtitle: "Tier: &a2"
-	quest.01C5D8357D8B0D62.quest_desc: ["If you know how a Detector Rail works then this Module will be explanatory for you. \\n\\nBasically if a certain Item is in the Router, it will emit a Redstone Signal out of the Router. \\n\\nIn the Module you can set the Item, where the Signal comes from, and how strong a Signal."]
+	quest.012912FDAFCD1C66.quest_desc: ["&e&lCaliburn&r ist anfangs nicht viel besser als ein &bDiamantschwert&r, aber nach dem Upgraden sieht das &bDiamantschwert&r eher wie ein normaler Stock aus als &e&lCaliburn&r! \\nSowohl &4&lMorgan&r als auch &e&lCaliburn&r haben ihren tatsächlichen Schaden und ihre angeborene Obergrenze. \\n\\nDie angeborene Obergrenze ist der maximale Schaden, auf den es erhöht werden kann. Um die angeborene Obergrenze von &e&lCaliburn&r zu erhöhen, verzaubere es mit &5Bann&r und wirf es dann mit Netherstern in den &3See&r. \\n\\nUm die maximale Obergrenze zu erreichen, benötigst du 60 Nethersterne. Sobald es aufgerüstet ist, kann es nicht mehr aufgerüstet werden, also stelle sicher, dass du alle 60 auf einmal hineinwirfst! \\n\\nUm den normalen Schaden zu erhöhen, musst du es mit &5Bann&r verzaubern und dann geht es zurück in den &3See&r! Du wirst mehr Schaden brauchen, um..."]
+	quest.012912FDAFCD1C66.title: "Aufwertung von &l&eCaliburn"
+	quest.0133DA323E24A455.quest_desc: ["Wenn wir über das Ersetzen von Dingen sprechen (&6Hazmat-Anzug&r mit &aStrahlenabschirmungs&7-Einheit&r), lass uns die &eScube-Ausrüstung&r ersetzen! \\n\\nMit dieser &7Moduleinheit&r, die zu unserem &a&lMekaSuit-Helm&r hinzugefügt wurde, können wir &9Unterwasser&r schwimmen und atmen! \\n\\nWenn wir eine &cJetpack-&7Einheit&r in unserer &a&lMekaSuit-Körperrüstung&r haben, versorgt sie diese mit &7Wasserstoff&r, wenn wir im &9Wasser&r sind."]
+	quest.0133DA323E24A455.quest_subtitle: "Helm"
+	quest.0133DA323E24A455.title: "&9Elektrolytische Atem&7-Einheit"
+	quest.0145727E40D7F674.quest_subtitle: "Cempedack + Brotfrucht"
+	quest.01516BC726013B7C.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.0152938EE5651409.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.017194E29D6745E8.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.01748C2CD9C97523.quest_desc: ["&cWiederkehrende Blöcke&r sind wie wirklich coole Türen. Nach einem Rechtsklick verschwinden sie für kurze Zeit.\\n\\n&cVerschwindende Blöcke&r verschwinden nach einem Rechtsklick, kommen aber nicht zurück."]
+	quest.01748C2CD9C97523.title: "&cWiederkehrende \\& Verschwindende Blöcke"
+	quest.019CA0E35F888222.quest_subtitle: "Mehr Filteroptionen"
+	quest.019CA0E35F888222.title: "&eErweitertes Nachfüll-Upgrade"
+	quest.01A90E2541C91DB2.quest_desc: ["Die meisten &5Maschinen&r, zumindest die einfachen, können &8Upgrades&r verwenden! \\n\\n&8Upgrades&r befinden sich oben rechts in der GUI. Dieser Bildschirm mag verwirrend sein, aber keine Sorge, ich erkläre es! \\n\\nZuerst zeigt der untere Teil die &8Unterstützten Upgrades&r. Die klaren &8Upgrades&r werden &aunterstützt&r, während die transparenteren &4nicht&r unterstützt werden! Du kannst auch mit deiner Maus darüber schweben, um ihre Namen zu sehen und ob sie &aunterstützt&r werden. \\n\\n&8Upgrades&r werden durch den oberen Slot hinzugefügt, sie erscheinen dann rechts. Hier kannst du darauf klicken, um zu sehen, wie viele in der Maschine sind und ihren Effekt sehen! \\n\\nWenn du deine &8Upgrades&r entfernen möchtest, klicke auf das, das du entfernen willst, und drücke dann die Deinstallieren-Taste. Dies bewegt das &8Upgrade&r in den unteren Slot."]
+	quest.01A90E2541C91DB2.title: "&8Maschinen-Upgrades"
+	quest.01AFC11EAAB6CB3B.quest_desc: ["&eKnochen-Reptilien-Rüstung&r wird aus &eKoboleton-Knochen&r, &eAltem Metall&r und für den Helm einem &eKobolediator-Schädel&r hergestellt. \\n\\nDiese scheinen nichts Besonderes zu bewirken, sondern bieten einfach sehr gute Werte für günstige Rüstungen!"]
+	quest.01AFC11EAAB6CB3B.title: "&eKnochen-Reptilien-Rüstung"
+	quest.01B13BBB41BBB460.quest_desc: ["&cUtherium-Rüstung&r hat die gleichen Werte wie Netherit-Rüstung! \\n\\nOhne eine Schmiedeform zu benötigen!"]
+	quest.01B13BBB41BBB460.title: "&cUtherium&r-Rüstung"
+	quest.01B2DDD81065B4EF.quest_subtitle: "Dschungel + Kirsche"
+	quest.01C169A7FA424F6E.quest_subtitle: "Stufe: &a2"
+	quest.01C5D8357D8B0D62.quest_desc: ["Wenn du weißt, wie eine Detektorschiene funktioniert, dann wird dieses Modul für dich selbsterklärend sein. \\n\\nIm Grunde sendet es ein Redstone-Signal vom Router aus, wenn ein bestimmter Gegenstand im Router ist. \\n\\nIm Modul kannst du den Gegenstand festlegen, woher das Signal kommt und wie stark das Signal ist."]
 	quest.01CF1A9D9F29AFF7.quest_subtitle: "Pomelo + Orange"
-	quest.01D895369791881A.quest_desc: ["Now we get 2 ZPM processors for each craft! This is a great breakthrough, and will make expanding our machine footprint much easier!"]
-	quest.01D895369791881A.quest_subtitle: "Stacking them up"
-	quest.01E1A7BCDAE8EB9F.title: "Red Means Fast"
-	quest.01EE2526B43B6502.quest_subtitle: "Tier: &b3"
-	quest.01F18150EC923482.quest_subtitle: "Getting Started"
-	quest.01F322AEFCC6109E.quest_desc: ["Tangled Skulls can be dropped from... well Tangled Skulls. \\n\\nThey can be used as a projectile like a Wither Head thrown from a Wither. \\n\\nIt will be used up when you do that though."]
+	quest.01D895369791881A.quest_desc: ["Jetzt bekommen wir 2 ZPM-Prozessoren für jedes Herstellungsrezept! Das ist ein großer Durchbruch und wird die Erweiterung unserer Maschinenkapazität erheblich erleichtern!"]
+	quest.01D895369791881A.quest_subtitle: "Sie stapeln sich"
+	quest.01E1A7BCDAE8EB9F.title: "Rot bedeutet schnell"
+	quest.01EE2526B43B6502.quest_subtitle: "Stufe: &b3"
+	quest.01F18150EC923482.quest_subtitle: "Erste Schritte"
+	quest.01F322AEFCC6109E.quest_desc: ["Verwickelte Schädel können von... nun, verwickelten Schädeln fallengelassen werden. \\n\\nSie können als Projektil verwendet werden, wie ein Witherkopf, der von einem Wither geworfen wird. \\n\\nEs wird jedoch verbraucht, wenn du das tust."]
 	quest.01F3F0C25BA72BDA.quest_desc: [
-		"Aside from the storage of items and fluids, AE2 also provides a native way of storing entire &estructures&f inside of storage cells, not too dissimilarly to the Compact Machines mod. "
+		"Neben der Speicherung von Gegenständen und Flüssigkeiten bietet AE2 auch eine eigene Möglichkeit, ganze &eStrukturen&f in Speicherzellen zu speichern, ähnlich wie beim Compact Machines Mod. "
 		""
-		"The &bSpatial IO Port&f allows structures contained within a &bSpatial Containment Structure&f to be captured within a specially-designed storage cell, activated via a redstone signal. "
+		"Der &bSpatial IO Port&f ermöglicht es, Strukturen innerhalb einer &bSpatial Containment Structure&f in einer speziell entwickelten Speicherzelle zu erfassen, aktiviert durch ein Redstone-Signal. "
 		""
-		"If a mob or player happens to stand inside of the SCS while the space is being captured, they too will be transported to where the rest of the space goes, i.e. in a dedicated dimension. Just make sure you have a way to get back out and in if you're the one being captured."
+		"Wenn sich ein Mob oder Spieler in der SCS befindet, während der Raum erfasst wird, wird auch er dorthin transportiert, wo der Rest des Raumes hingeht, d.h. in eine eigene Dimension. Stelle nur sicher, dass du einen Weg hast, herauszukommen und wieder hineinzukommen, wenn du derjenige bist, der erfasst wird."
 	]
-	quest.01F3F0C25BA72BDA.title: "Spatial IO"
-	quest.01F51EBFEC660549.quest_subtitle: "Silver Lime + European Larch"
-	quest.01F7F3589EBD8872.quest_subtitle: "Feed a Shroombee a Brown Mushroom"
-	quest.01F7F3589EBD8872.title: "Brown Shroombee"
+	quest.01F3F0C25BA72BDA.title: "Räumliches Ein/Ausgabe"
+	quest.01F51EBFEC660549.quest_subtitle: "Silberlinde + Europäische Lärche"
+	quest.01F7F3589EBD8872.quest_subtitle: "Füttere eine Pilzbiene mit einem braunen Pilz"
+	quest.01F7F3589EBD8872.title: "Braune Pilzbiene"
 	quest.02057E81D8139BAE.quest_desc: [
-		"If you're planning on going to space, you better believe that you need a new set of gear for the journey."
+		"Wenn du vorhast, ins All zu fliegen, solltest du besser glauben, dass du für die Reise eine neue Ausrüstung brauchst."
 		""
-		"You'll need to make a full &aSpace Suit&r for your first trip, which will be to the &bMoon&r. Come to find out, the Moon is kind of cold and lacks Oxygen. Without a Suit, you won't last long. :)"
+		"Du brauchst einen vollständigen &aRaumanzug&r für deine erste Reise, die zum &bMond&r führen wird. Es stellt sich heraus, dass der Mond ziemlich kalt ist und keinen Sauerstoff hat. Ohne einen Anzug wirst du nicht lange überleben. :)"
 	]
-	quest.02057E81D8139BAE.title: "&aSuiting Up"
-	quest.02089D95AA679502.quest_subtitle: "Drops from the Arachnarch's Loot Bag"
+	quest.02057E81D8139BAE.title: "&aRüste dich aus"
+	quest.02089D95AA679502.quest_subtitle: "Fällt aus der Beutetasche des Arachnarchen"
 	quest.020E6AF37A0421C8.quest_desc: [
-		"The Water Tank is like having a barrel outside. Just this barrel is much bigger. It collects water and can hold water for Steam Locomotives. \\n\\nThe amount of water is makes is dependent on the biome and visible to the sky. \\n\\nIt's made by a 3x3x3 Water Tank blocks with the center being hollow."
+		"Der Wassertank ist wie ein Fass im Freien. Nur ist dieses Fass viel größer. Er sammelt Wasser und kann Wasser für Dampflokomotiven speichern. \\n\\nDie Menge an Wasser, die er produziert, hängt vom Biom ab und muss freie Sicht zum Himmel haben. \\n\\nEr besteht aus 3x3x3 Wassertankblöcken, wobei die Mitte hohl ist."
 		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
 	]
-	quest.020E6AF37A0421C8.title: "Water Tank"
-	quest.02190383FEE793ED.quest_desc: ["All that is left to do is use a &eChemical Reaction&r to pull the Chlorine off the Iridium!"]
-	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
+	quest.020E6AF37A0421C8.title: "Wassertank"
+	quest.02190383FEE793ED.quest_desc: ["Alles, was noch zu tun ist, ist eine &eChemische Reaktion&r zu verwenden, um das Chlor vom Iridium zu entfernen!"]
+	quest.022C38096F79EF07.quest_desc: ["Bei &6&lForbidden \\& Arcanus&r geht es darum, das Arkane zu nutzen, um Rituale mit der Schmiede durchzuführen und stärker zu werden! \\n\\nOder wofür die meisten es kennen, Eternal Stella. Es gibt mehr in diesem Mod, weißt du!"]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
-	quest.0251FD45582C3164.quest_subtitle: "Don't sniff this"
-	quest.0253D241383EC848.quest_desc: ["Raiden is a Fictional Character in the Mortal Kombat Fightin.... Oh wait... It said Radon, not Raiden..."]
+	quest.0251FD45582C3164.quest_subtitle: "Nicht daran schnüffeln"
+	quest.0253D241383EC848.quest_desc: ["Raiden ist eine fiktive Figur im Mortal Kombat Kampf.... Oh warte... Es heißt Radon, nicht Raiden..."]
 	quest.0253D241383EC848.quest_subtitle: "Raiden"
 	quest.02593CD4B4AE814C.quest_desc: [
-		"&bSalt&r is important for Incubating &eAlchemical Sulfurs&r! \\n\\nTo get &bSalt&r we'll need to cook some Items. Different Items make different &bSalts&r though. The &bSalts&r have different Tiers with them going higher the rarer they are. \\n\\nTo cook the &bSalt&r out we need to put the Items into the Oven and use a Heat source to Heat it. Then take the &bSalt&r out of the Oven!"
+		"&bSalz&r ist wichtig für die Inkubation von &eAlchemischem Schwefel&r! \\n\\nUm &bSalz&r zu bekommen, müssen wir einige Gegenstände kochen. Verschiedene Gegenstände erzeugen jedoch unterschiedliche &bSalze&r. Die &bSalze&r haben verschiedene Stufen, die höher werden, je seltener sie sind. \\n\\nUm das &bSalz&r herauszukochen, müssen wir die Gegenstände in den Ofen legen und eine Wärmequelle verwenden, um sie zu erhitzen. Dann nimm das &bSalz&r aus dem Ofen!"
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
-	quest.02593CD4B4AE814C.title: "Desalination Plant"
+	quest.02593CD4B4AE814C.title: "Entsalzungsanlage"
 	quest.025CFCC2206C8FD7.quest_desc: [
-		"An 'easy' way to get chromium is to use lava in a centrifuge. This will give you nuggets that can then be crafted into ingots. "
+		"Eine 'einfache' Methode, um Chrom zu erhalten, ist die Verwendung von Lava in einer Zentrifuge. Dies ergibt Nuggets, die dann zu Barren verarbeitet werden können. "
 		""
-		"These can then be macerated into dust to be used for stainless steel."
+		"Diese können dann zu Staub zermahlen werden, um für Edelstahl verwendet zu werden."
 	]
-	quest.0262E0D49A12F817.quest_subtitle: "Upgrades!"
-	quest.02643BAD1AE747C6.quest_desc: ["The &3Advanced Liquid Compressor&r works the same as the Liquid Compressor, only way better!"]
-	quest.026A71F98A52E3A5.quest_desc: ["Within villages, there are &ointeresting&r villagers that just so happen to be &dWerewolves&r.\\n\\nSlaying these beasts will give you &dWerewolf Flesh&r."]
+	quest.0262E0D49A12F817.quest_subtitle: "Verbesserungen!"
+	quest.02643BAD1AE747C6.quest_desc: ["Der &3Fortgeschrittene Flüssigkeitskompressor&r funktioniert genauso wie der Flüssigkeitskompressor, nur viel besser!"]
+	quest.026A71F98A52E3A5.quest_desc: ["In Dörfern gibt es &ointeressante&r Dorfbewohner, die zufällig &dWerwölfe&r sind.\\n\\nWenn du diese Bestien erschlägst, erhältst du &dWerwolffleisch&r."]
 	quest.026C63594F813BCC.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lFähigkeitstyp:&r Aktiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Removes all negative debuffs from the player when actived, has a cooldown."
+		"Entfernt bei Aktivierung alle negativen Debuffs vom Spieler, hat eine Abklingzeit."
 	]
 	quest.0272E58516A0C284.quest_desc: [
 		"Valid Upgrades:"
