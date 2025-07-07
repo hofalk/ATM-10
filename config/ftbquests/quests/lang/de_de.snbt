@@ -98,36 +98,36 @@
 	quest.002B8F2DE2CB4D2C.quest_desc: ["Halte einen Schild in deiner Nebenhand und die &7Schriftrolle der Stärkung&r in deiner Haupthand und halte die rechte Maustaste gedrückt."]
 	quest.002B8F2DE2CB4D2C.title: "Starker Schild"
 	quest.002D65E4D7E8F62B.title: "Stufe 2 Grader Katalysator"
-	quest.00307A898A639191.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.00453FF528AA0B1C.quest_desc: ["Lonestar Skeletons are hostile Mobs that can spawn anywhere. \\n\\nThey have 10 Hearts and will throw their Sword at you to attack you. \\n\\nOn death they can drop Bones, Swamp Silver Nuggets, Shattered Swords, and the drops added by Corail for Undead Mobs."]
-	quest.00453FF528AA0B1C.title: "Lonestar Skeletons"
-	quest.004D61425172324F.quest_desc: ["&8Chainmail Armor&r is a little worse than Iron. Its main use in &l&2Minecraft&r was its elusive nature, only being obtained through Trades and Mob Drops. \\n\\nOf course this is modded though, so we can craft it now! Which takes away its purpose..."]
+	quest.00307A898A639191.quest_desc: ["Dieses Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf dieses Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDieses Quest ist absichtlich versteckt. Wenn du es siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.00453FF528AA0B1C.quest_desc: ["Lonestar-Skelette sind feindliche Kreaturen, die überall erscheinen können. \\n\\nSie haben 10 Herzen und werfen ihr Schwert nach dir, um dich anzugreifen. \\n\\nBei ihrem Tod können sie Knochen, Sumpfsilber-Nuggets, Zerbrochene Schwerter und die von Corail hinzugefügten Drops für Untote fallen lassen."]
+	quest.00453FF528AA0B1C.title: "Lonestar-Skelette"
+	quest.004D61425172324F.quest_desc: ["&8Kettenrüstung&r ist etwas schlechter als Eisenrüstung. Ihr Hauptzweck in &l&2Minecraft&r war ihre Seltenheit, da sie nur durch Handel und Drops von Kreaturen erhältlich war. \\n\\nNatürlich ist dies modifiziert, also können wir sie jetzt herstellen! Was ihren Zweck irgendwie untergräbt..."]
 	quest.004D61425172324F.quest_subtitle: "12"
-	quest.004D61425172324F.title: "&8Chainmail Armor"
+	quest.004D61425172324F.title: "&8Kettenrüstung"
 	quest.0052E5592A6BBEC1.quest_desc: [
-		"This is &2&lMinecraft&r, I can't tell you how to build..."
+		"Dies ist &2&lMinecraft&r, ich kann dir nicht sagen, wie du bauen sollst..."
 		"{@pagebreak}"
-		"But I can give you tips for it!"
+		"Aber ich kann dir Tipps dafür geben!"
 	]
-	quest.0052E5592A6BBEC1.title: "&lBuilding Tips!&r"
-	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r, and &eRegalium&r can be Mined for. \\n&cUtheric&r and &aForgotten&r you need to kill for. \\n\\nAny other questions?"]
-	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metals"
-	quest.00611844AFD5C31E.quest_desc: ["While the Inscriber and Charger will natively accept RF/FE, the vast majority of an ME network uses its own dedicated power system called AE.\\n\\nRF/FE can be converted into the native AE at a ratio of 2:1 RF:AE, either directly through an ME Controller, or through the &bEnergy Acceptor&f, which can instead be connected to any part of the network."]
-	quest.00611844AFD5C31E.quest_subtitle: "Plug in"
-	quest.0072C4F028C327CB.quest_subtitle: "Magmatic + Nomad"
-	quest.0072C4F028C327CB.title: "BlazBee"
-	quest.00764A738DA6451C.quest_desc: ["Kill 4 &dEndermites&r. \\n\\nWe're just killing everything now aren't we?"]
-	quest.007A11C49E06F15F.quest_desc: ["These can be Crafted. \\n\\nThe &9Crafting Component Blueprint&r is one of the most important &9Blueprints&r. \\n\\nIt is used to help the &6Engineer's Workbench&r make small Mechanical Components for cheaper than Crafting Tables. \\n\\nIt also can be used for Crafting unique Items like Light Bulbs and Circuits!"]
-	quest.007A11C49E06F15F.title: "&9Crafting Components Blueprints "
+	quest.0052E5592A6BBEC1.title: "&lBau-Tipps!&r"
+	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststahl&r, &7Cloggrum&r und &eRegalium&r können abgebaut werden. \\nFür &cUtherisch&r und &aVergessen&r musst du töten. \\n\\nNoch weitere Fragen?"]
+	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metalle"
+	quest.00611844AFD5C31E.quest_desc: ["Während der Inscriber und das Ladegerät nativ RF/FE akzeptieren, verwendet der Großteil eines ME-Netzwerks sein eigenes dediziertes Energiesystem namens AE.\\n\\nRF/FE kann im Verhältnis von 2:1 RF:AE entweder direkt durch einen ME-Controller oder durch den &bEnergieakzeptor&f, der stattdessen mit einem beliebigen Teil des Netzwerks verbunden werden kann, in das native AE umgewandelt werden."]
+	quest.00611844AFD5C31E.quest_subtitle: "Einstecken"
+	quest.0072C4F028C327CB.quest_subtitle: "Magmatisch + Nomade"
+	quest.0072C4F028C327CB.title: "FeuerbieneBee"
+	quest.00764A738DA6451C.quest_desc: ["Töte 4 &dEndermilben&r. \\n\\nWir töten jetzt einfach alles, oder?"]
+	quest.007A11C49E06F15F.quest_desc: ["Diese können hergestellt werden. \\n\\nDie &9Herstellungskomponenten-Blaupause&r ist eine der wichtigsten &9Blaupausen&r. \\n\\nSie wird verwendet, um der &6Ingenieurswerkbank&r zu helfen, kleine mechanische Komponenten günstiger herzustellen als mit Werkbänken. \\n\\nSie kann auch zur Herstellung einzigartiger Gegenstände wie Glühbirnen und Schaltkreise verwendet werden!"]
+	quest.007A11C49E06F15F.title: "&9Herstellungskomponenten-Blaupausen"
 	quest.008D186B4E0ED14F.quest_desc: [
-		"The Steam Oven is another machine that uses Steam for something useful. \\n\\nBy putting Steam into the Steam Oven it will act as a furnace to any items in it. Making Ingots from Ores and cooking food items. \\n\\nIt's a 2x2x2 machine of Steam Oven blocks."
+		"Der Dampfofen ist eine weitere Maschine, die Dampf für etwas Nützliches verwendet. \\n\\nIndem du Dampf in den Dampfofen leitest, funktioniert er wie ein Ofen für alle darin befindlichen Gegenstände. Er stellt Barren aus Erzen her und kocht Lebensmittel. \\n\\nEs ist eine 2x2x2 Maschine aus Dampfofenblöcken."
 		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
 	]
-	quest.008D186B4E0ED14F.title: "Steam Oven"
-	quest.008DBEF8893F1B63.quest_desc: ["Of all the elements, Helium is the most stable; it will not burn or react with other elements. Helium has the lowst melting point and boiling points. It exists as a gas, except under extreme conditions where it can be transitioned into the 4th State of Matter, Plasma."]
-	quest.008DBEF8893F1B63.quest_subtitle: "Massive Multiblock"
+	quest.008D186B4E0ED14F.title: "Dampfofen"
+	quest.008DBEF8893F1B63.quest_desc: ["Von allen Elementen ist Helium das stabilste; es brennt nicht und reagiert nicht mit anderen Elementen. Helium hat den niedrigsten Schmelz- und Siedepunkt. Es existiert als Gas, außer unter extremen Bedingungen, wo es in den 4. Aggregatzustand, das Plasma, übergehen kann."]
+	quest.008DBEF8893F1B63.quest_subtitle: "Massiver Multiblock"
 	quest.008E65AF545A706E.quest_desc: [
-		"While being one of the most expensive &5Machines&r in &5&lMekanism&r, it isn't actually that difficult to use! \\n\\nFirst, after Building it, we'll need to Fuel it with &aPolonium&r. &cTube&r some into one of the &dSPS Ports&r because we'll need to charge our &aPolonium&r into &dAntimatter&r! \\n\\nTo charge it we'll need to Power our &dSupercharged Coils&r! &aCable&r &msome&r massive amounts of &aEnergy&r into the &dSPS Ports&r so they can move it to the &dSupercharged Coils&r. \\nEach &dSupercharged Coil&r can only take so much &aEnergy&r so for optimal efficiency use 2! Yes, you can use 1 but come on we need &dAntimatter&r this year not next year! \\n\\nOnce we've blasted the &aPolonium&r with &menough&r millions of FE we'll get our &dAntimatter&r. Wait this is &cChemical&r &dAntimatter&r?!?! We need..."
+		"Obwohl es eine der teuersten &5Maschinen&r in &5&lMekanism&r ist, ist sie eigentlich nicht so schwer zu benutzen! \\n\\nZuerst müssen wir sie nach dem Bau mit &aPolonium&r betanken. &cLeite&r etwas in einen der &dSPS-Ports&r, denn wir müssen unser &aPolonium&r in &dAntimaterie&r umwandeln! \\n\\nUm es aufzuladen, müssen wir unsere &dSupergeladenen Spulen&r mit Energie versorgen! &aKable&r &mmassive&r Mengen an &aEnergie&r in die &dSPS-Ports&r, damit sie zu den &dSupergeladenen Spulen&r gelangen können. \\nJede &dSupergeladene Spule&r kann nur eine bestimmte Menge &aEnergie&r aufnehmen, also verwende für optimale Effizienz 2! Ja, du könntest auch nur 1 verwenden, aber komm schon, wir brauchen &dAntimaterie&r dieses Jahr und nicht erst nächstes Jahr! \\n\\nSobald wir das &aPolonium&r mit &mgenug&r Millionen FE beschossen haben, erhalten wir unsere &dAntimaterie&r. Moment, das ist &cChemische&r &dAntimaterie&r?!?! Wir brauchen..."
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/mek/mek_sps1.png width:100 height:75 align:center}"
 		"{image:atm:textures/questpics/mek/mek_sps2.png width:100 height:90 align:center}"
@@ -139,62 +139,62 @@
 		"{@pagebreak}"
 	]
 	quest.008E65AF545A706E.quest_subtitle: "&d&lSPS"
-	quest.008E65AF545A706E.title: "&d&lSuper-Critical Phase Shifter"
-	quest.009041EBAD28D526.quest_subtitle: "Now were at 4x"
+	quest.008E65AF545A706E.title: "&d&lSuper-Kritischer Phasenverschieber"
+	quest.009041EBAD28D526.quest_subtitle: "Jetzt sind wir bei 4x"
 	quest.0095422BC87AA135.quest_desc: [
-		"Again? Dude, we want &7Ingots &fnot &7Clumps &fand not &7Shards&r! &7INGOTS&r! \\n\\nThrow those &7Ore Shards&r into a &b&lPurifier&r with &bOxygen&r (most likely from our previous &9&lElectrolytic Separator&r) to make &7Ore Clumps&r. \\n\\nNow we just repeat steps from previous Tier. &4Crush &fthe &7Clumps&f to get &7Dirty Dust&r. \\n\\n&dEnrich &fthe &7Dirty Dust&r to clean it. \\n\\nThen, &6Smelt &fthe &7Dust &fto get our &7Ingots&r!"
+		"Schon wieder? Alter, wir wollen &7Barren &fund nicht &7Klumpen &fund nicht &7Scherben&r! &7BARREN&r! \\n\\nWirf diese &7Erzscherben&r in einen &b&lReiniger&r mit &bSauerstoff&r (höchstwahrscheinlich aus unserem vorherigen &9&lElektrolytischen Separator&r), um &7Erzklumpen&r herzustellen. \\n\\nJetzt wiederholen wir die Schritte aus der vorherigen Stufe. &4Zerkleinere &fdie &7Klumpen&f, um &7Schmutzigen Staub&r zu erhalten. \\n\\n&dReinige &fden &7Schmutzigen Staub&r, um ihn zu säubern. \\n\\nDann &6Schmelze &fden &7Staub&f, um unsere &7Barren&r zu erhalten!"
 		"{image:atm:textures/questpics/mek/mek_tier3_3.png width:250 height:100 align:center}"
 	]
-	quest.0095422BC87AA135.quest_subtitle: "Tier 3 Ore Processing"
-	quest.0095422BC87AA135.title: "&7Shard&f, to &7Clump&f, to &7Dust&f, to &7Ingot"
-	quest.00A17728A387B426.quest_desc: ["Wood Nests are used to lure Carpenter Bees and the Blue Banded Bee.\\n\\nDark Oak Nests lures 3 different bees.\\n\\nThese can be placed in any Overworld Biome."]
-	quest.00A17728A387B426.quest_subtitle: "Can be used in any Overworld biome"
-	quest.00A17728A387B426.title: "Wood Nests"
-	quest.00A6020BC979947F.quest_desc: ["With your freshly summoned &9Marid Crusher&r, you can break down an Echo Shard and an Iesnium Ingot, which when combined with a Glow Ink Sac creates Cyan Chalk."]
-	quest.00A6020BC979947F.title: "&3Cyan Chalk"
-	quest.00A91BD731486644.quest_subtitle: "Ceylon Ebony + Sour Cherry"
-	quest.00AC7CC291A3E590.quest_desc: ["You've probably (definitely) seen structures around the world with what looks like Beacons coming out of them. They're made of cobblestone, have 4 legs supporting them, kinda high in the air! \\n\\nHopefully you know it but they're called &8Dark Temples&r and they have an &aEnviromental Accumulator&r which we need. \\n\\nYou'll have to wait for Thunderstorm to happen to fill your Weather Container. Then, you can make your &3Lightning Bomb&r!"]
-	quest.00AC7CC291A3E590.title: "&3Lightning Bomb"
-	quest.00B7DD3AFC94B037.quest_subtitle: "Beech + Alder"
+	quest.0095422BC87AA135.quest_subtitle: "Stufe 3 Erzverarbeitung"
+	quest.0095422BC87AA135.title: "&7Scherbe&f zu &7Klumpen&f zu &7Staub&f zu &7Barren"
+	quest.00A17728A387B426.quest_desc: ["Holznester werden verwendet, um Zimmermann-Bienen und die Blau-Gebänderte Biene anzulocken.\\n\\nDunkeleichennester locken 3 verschiedene Bienen an.\\n\\nDiese können in jedem Überbiom platziert werden."]
+	quest.00A17728A387B426.quest_subtitle: "Kann in jedem Überbiom verwendet werden"
+	quest.00A17728A387B426.title: "Holznester"
+	quest.00A6020BC979947F.quest_desc: ["Mit deinem frisch beschworenen &9Marid-Zermalmer&r kannst du einen Echoscherben und einen Iesnium-Barren zerbrechen, die zusammen mit einem Leuchtenden Tintensack Türkisfarbene Kreide ergeben."]
+	quest.00A6020BC979947F.title: "&3Türkisfarbene Kreide"
+	quest.00A91BD731486644.quest_subtitle: "Ceylon-Ebenholz + Sauerkirsche"
+	quest.00AC7CC291A3E590.quest_desc: ["Du hast wahrscheinlich (definitiv) Strukturen in der Welt gesehen, aus denen etwas wie Leuchttürme herausragt. Sie sind aus Kopfsteinpflaster gebaut, haben 4 Stützbeine, ziemlich hoch in der Luft! \\n\\nHoffentlich kennst du sie, aber sie heißen &8Dunkle Tempel&r und enthalten einen &aUmwelt-Akkumulator&r, den wir brauchen. \\n\\nDu musst auf ein Gewitter warten, um deinen Wetterbehälter zu füllen. Dann kannst du deine &3Blitzbombe&r herstellen!"]
+	quest.00AC7CC291A3E590.title: "&3Blitzbombe"
+	quest.00B7DD3AFC94B037.quest_subtitle: "Buche + Erle"
 	quest.00BF4E98A328801D.quest_desc: [
-		"Give that dust an acid bath with &bHydrochloric Acid&r in the &eChemical Bath&r to make this"
+		"Gib diesem Staub ein Säurebad mit &bSalzsäure&r in der &eChemischen Badewanne&r, um dies herzustellen"
 		""
-		"You'll then need to &eElectrolyze&r it to get the &dTungsten&r out"
+		"Dann musst du es &eElektrolysieren&r, um das &dWolfram&r herauszuholen"
 	]
-	quest.00C24A7DFEAEE956.quest_subtitle: "Increases AoE Effect"
-	quest.00CB8D60E7831A57.quest_desc: ["Catacombs are massive underground structures made of Depthrock Bricks. They might have a part sticking out of the ground you can find. \\n\\nWithin the huge maze lies &7Forgottens&r, hidden Chests, and the boss: &aForgotten Guardian&r. \\n\\nHope you're prepared for it!"]
-	quest.00CB8D60E7831A57.title: "Catacombs"
-	quest.00D7BCC68D971A53.quest_desc: ["Living creatures nearby will be automatically tracked, even through walls. If it's an aggressive mob you'll get a warning when it targets you."]
+	quest.00C24A7DFEAEE956.quest_subtitle: "Erhöht den Flächeneffekt"
+	quest.00CB8D60E7831A57.quest_desc: ["Katakomben sind riesige unterirdische Strukturen aus Tiefengestein-Ziegeln. Sie könnten einen Teil haben, der aus dem Boden herausragt und den du finden kannst. \\n\\nIn dem riesigen Labyrinth befinden sich &7Vergessene&r, versteckte Truhen und der Boss: &aVergessener Wächter&r. \\n\\nHoffe, du bist darauf vorbereitet!"]
+	quest.00CB8D60E7831A57.title: "Katakomben"
+	quest.00D7BCC68D971A53.quest_desc: ["Lebende Kreaturen in der Nähe werden automatisch verfolgt, auch durch Wände hindurch. Wenn es sich um ein aggressives Monster handelt, erhältst du eine Warnung, wenn es dich als Ziel ausgewählt hat."]
 	quest.00D7BCC68D971A53.quest_subtitle: "Max: 1"
-	quest.00DB5495C3A44999.quest_desc: ["Shift-Right Click an inventory to empty."]
-	quest.00DEFA26F2B896D6.quest_subtitle: "Silver Lime + Oak/Birch"
-	quest.00E19377BAE5DD6A.quest_desc: ["This one adds &7Shears&r to our &dMeka-Tool&r! \\n\\nWe can't use it with the &2Farming &7Unit&r or &5Teleportation &7Unit&r."]
-	quest.00E19377BAE5DD6A.quest_subtitle: "Meka-Tool"
-	quest.00E19377BAE5DD6A.title: "&7Shearing Unit"
-	quest.00E1F1279F97557B.quest_desc: ["Similar to the Extruder MK1 but this one is more evolved! Can be used with Patterns so when Blocks are placed they will go in that pattern!"]
-	quest.00EC37E07591FFC4.quest_desc: ["The last thing you need for Replica, obviously involves another Scroll. Scroll of the Mystic Eyes of Death Collection. It will allow you to collect Souls from watchings mobs die. Each death is only a very little bit of souls so you'll need to see a lot of death. Once you have 100 you're ready to get Replica."]
-	quest.00EC37E07591FFC4.title: "Souls"
+	quest.00DB5495C3A44999.quest_desc: ["Shift-Rechtsklick auf ein Inventar, um es zu leeren."]
+	quest.00DEFA26F2B896D6.quest_subtitle: "Silberlinde + Eiche/Birke"
+	quest.00E19377BAE5DD6A.quest_desc: ["Dies fügt &7Scheren&r zu unserem &dMeka-Werkzeug&r hinzu! \\n\\nWir können es nicht mit der &2Landwirtschafts-&7Einheit&r oder der &5Teleportations-&7Einheit&r verwenden."]
+	quest.00E19377BAE5DD6A.quest_subtitle: "Meka-Werkzeug"
+	quest.00E19377BAE5DD6A.title: "&7Scher-Einheit"
+	quest.00E1F1279F97557B.quest_desc: ["Ähnlich dem Extruder MK1, aber dieser ist weiterentwickelt! Kann mit Mustern verwendet werden, sodass platzierte Blöcke diesem Muster folgen!"]
+	quest.00EC37E07591FFC4.quest_desc: ["Das letzte, was du für Replica brauchst, beinhaltet natürlich eine weitere Schriftrolle. Die Schriftrolle der Mystischen Augen der Todessammlung. Sie ermöglicht es dir, Seelen zu sammeln, indem du zuschaust, wie Monster sterben. Jeder Tod liefert nur sehr wenige Seelen, also musst du viel Tod miterleben. Sobald du 100 hast, bist du bereit für Replica."]
+	quest.00EC37E07591FFC4.title: "Seelen"
 	quest.00F00B0B66059996.quest_desc: [
-		"Alright another &lMultiblock&r! This one requiring more ports than any Naval Base has seen! \\n\\nWe'll need &bFluid Input &fand &bOutputs&r, and &eItem Input &fand &eOutputs&r. \\n\\nNow we need to follow a long list of stuff so listen carefully! \\n\\nFirst, we'll need Unrefined Liquid Souls which comes from using a Fluid Extractor (from &lIF&r) on a Soul Tree. \\n\\nThen, we can use the &b&lRunic Crucible&r to combine Souls, Unrefined Liquid Souls, and &dLiquefied Source&r to get Liquid Souls! \\n\\nWe'll need to use a &cHeated &6Mechanical Mixer&r to combine &5Amethyst Shards&r with &aGreater Experience Gems&r to make &dLiquefied Source&r! \\n\\nNext, we'll use the Liquid Souls, &dLiquefied Source&r, and some Items from &l&5Mekanism&r to finally craft &5Obsidiansteel&r."
+		"Gut, noch ein &lMultiblock&r! Dieser benötigt mehr Anschlüsse als jede Marinebasis je gesehen hat! \\n\\nWir brauchen &bFlüssigkeitseingang &fund &bAusgänge&r, sowie &eItemeingang &fund &eAusgänge&r. \\n\\nJetzt müssen wir eine lange Liste von Dingen befolgen, also hör genau zu! \\n\\nZuerst brauchen wir Unraffinierte Flüssige Seelen, die man mit einem Flüssigkeitsextraktor (aus &lIF&r) an einem Seelenbaum gewinnt. \\n\\nDann können wir den &b&lRunen-Schmelztiegel&r verwenden, um Seelen, Unraffinierte Flüssige Seelen und &dVerflüssigte Quelle&r zu Flüssigen Seelen zu kombinieren! \\n\\nWir müssen einen &cErhitzten &6Mechanischen Mixer&r verwenden, um &5Amethystsplitter&r mit &aGrößeren Erfahrungsedelsteinen&r zu &dVerflüssigter Quelle&r zu kombinieren! \\n\\nDanach verwenden wir die Flüssigen Seelen, &dVerflüssigte Quelle&r und einige Gegenstände aus &l&5Mekanism&r, um endlich &5Obsidianstahl&r herzustellen."
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:125 height:100 align:center}"
-		"First layer of the &l&bRunic Crucible&r has a &6Gilded Chiseled Polished Darkstone&r in the middle, around it is &9Polished Darkstone&r. Then, on the sides we'll have upside down &9Polished Darkstone Stairs&r, with &7Rune Blocks&r on the corners."
+		"Die erste Schicht des &l&bRunen-Schmelztiegel&r hat einen &6Vergoldeten Gemeißelten Polierten Dunkelstein&r in der Mitte, umgeben von &9Poliertem Dunkelstein&r. An den Seiten haben wir umgedrehte &9Polierte Dunkelstein-Treppen&r, mit &7Runenblöcken&r an den Ecken."
 		"{image:atm:textures/questpics/chap3/creative_crucible2.png width:125 height:100 align:center}"
-		"Smack dab in the middle we'll put an &bArcane Crystal&r with &9Polished Darkstone Stairs&r around it. On the sides will be &6Arcane Polished Darkstone Pillars&r, &9Polished Darkstone&r which will be replaced by Hatches, and &6Arcane Polished Darkstone&r."
+		"Genau in der Mitte setzen wir einen &bArkanen Kristall&r mit &9Polierten Dunkelstein-Treppen&r drum herum. An den Seiten werden &6Arkane Polierte Dunkelstein-Säulen&r, &9Polierter Dunkelstein&r (der durch Luken ersetzt wird) und &6Arkaner Polierter Dunkelstein&r platziert."
 		"{image:atm:textures/questpics/chap3/creative_crucible3.png width:125 height:100 align:center}"
-		"Just place &bArcane Crystal Blocks&r on each corner and call it a day!"
+		"Platziere einfach &bArkane Kristall-Blöcke&r an jeder Ecke und fertig!"
 		"{image:atm:textures/questpics/chap3/creative_crucible4.png width:125 height:100 align:center}"
-		"Finally, with a block of space, place the &7Quantum Injector&r above the middle &bArcane Crystal Block&r."
+		"Abschließend, mit einem Block Abstand, platziere den &7Quanten-Injektor&r über dem mittleren &bArkanen Kristall-Block&r."
 		"{image:atm:textures/questpics/chap3/creative_crucible5.png width:150 height:100 align:center}"
 		"{image:atm:textures/questpics/chap3/creative_crucible6.png width:150 height:100 align:center}"
-		"The &9Polished Darkstone blocks&r in the middle layer are where we'll place our Hatches!"
+		"Die &9Polierten Dunkelsteinblöcke&r in der mittleren Schicht sind der Ort, an dem wir unsere Luken platzieren!"
 	]
-	quest.00F00B0B66059996.title: "&b&lRunic Crucible"
-	quest.00FD36C207845895.quest_desc: ["Place an Obsidian Nest in the End to lure this bee."]
-	quest.00FD36C207845895.quest_subtitle: "&9Requires Obsidian Nest"
-	quest.00FD36C207845895.title: "Draconic Bee"
-	quest.00FF2CA7BA326007.quest_subtitle: "Mandarin + Wild Cherry"
-	quest.01046CFBD7411AA6.quest_subtitle: "Tier: &54"
+	quest.00F00B0B66059996.title: "&b&lRunen-Schmelztiegel"
+	quest.00FD36C207845895.quest_desc: ["Platziere ein Obsidian-Nest im Ende, um diese Biene anzulocken."]
+	quest.00FD36C207845895.quest_subtitle: "&9Benötigt Obsidian-Nest"
+	quest.00FD36C207845895.title: "Drakonische Biene"
+	quest.00FF2CA7BA326007.quest_subtitle: "Mandarine + Wildkirsche"
+	quest.01046CFBD7411AA6.quest_subtitle: "Stufe: &54"
 	quest.0104C2E2E30B966B.quest_desc: [
 		"Is the &cBlood Chest&r not working fast enough? Do you have too many items that need to be repaired? You can make a &cColossal Blood Chest&r to solve these problems.\\n\\nTo build one, you need to make 25 &9Reinforced Undead Planks&r. Using these, you want to make a 3x3x3 hollow cube, then place a &cColossal Blood Chest&r block to close off the multiblock structure. If done right, you'll have a massive &cBlood Chest&r you can now use. Some might call is colossal.\\n\\nThis also allows you to upgrade it using &6Promises&r.\\n"
 		"{image:atm:textures/questpics/evilcraft/bloodchest.png width:250 height:200 align:1}"
