@@ -7248,256 +7248,256 @@
 	quest.464DDEAF167BD0D5.quest_subtitle: "&f9 &cAngriffsschaden"
 	quest.464F35993A49096D.quest_desc: ["Abgestimmte Diamanten/Smaragde sind Mahou-Batterien und du wirst viel Mahou für Morgan benötigen. Ein voller abgestimmter Smaragd kann für das 5000-Mahou-Caliburn-Ritual verwendet werden."]
 	quest.464F35993A49096D.title: "Genug Mahou? Wahrscheinlich!"
-	quest.46542F4A273E64EB.quest_desc: ["Another &eChemical Reactor&r recipe, this time using &6Electrum Foil&r and either &9Sodium Persulfate&r or &0Iron III Chloride&r"]
+	quest.46542F4A273E64EB.quest_desc: ["Ein weiteres &eChemischer Reaktor&r-Rezept, diesmal mit &6Elektrum-Folie&r und entweder &9Natriumpersulfat&r oder &0Eisen-III-Chlorid&r"]
 	quest.46567ED894E9883C.quest_desc: [
-		"This is where it gets fun! \\n\\nUse 4 &6Deorum&r Ingots, 4 &bArcane Crystals&r, and a &9Chiseled Polished Darkstone&r to upgrade from &3&lTier 2&r to &e&lTier 3&r. \\n\\nNow we can hold even more Essences, even more Relics, and even more Recipes!"
+		"Hier wird es lustig! \\n\\nVerwende 4 &6Deorum&r-Barren, 4 &bArkane Kristalle&r und einen &9Gemeißelten polierten Dunkelstein&r, um von &3&lStufe 2&r auf &e&lStufe 3&r aufzurüsten. \\n\\nJetzt können wir noch mehr Essenzen, noch mehr Relikte und noch mehr Rezepte aufnehmen!"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier2.png width:100 height:100 align:center}"
 	]
-	quest.46567ED894E9883C.title: "&e&lTier 3 &6Forge"
-	quest.465B08461B460DAC.quest_desc: ["&dEndermaptera&r live around the &dRuined Citadel&r. \\n\\nThey have 8 &4Hearts&r and only a basic attack of gnawing at you. \\n\\nIf they gnaw at you too much they might break their jaws, to which they won't drop on death anymore. \\n\\nSo make sure to kill them quickly if you want those &dVoid Jaws&r!"]
-	quest.465B08461B460DAC.quest_subtitle: "End Cockroaches"
+	quest.46567ED894E9883C.title: "&e&lStufe 3 &6Schmiede"
+	quest.465B08461B460DAC.quest_desc: ["&dEndermaptera&r leben rund um die &dRuinierte Zitadelle&r. \\n\\nSie haben 8 &4Herzen&r und nur einen grundlegenden Angriff, bei dem sie an dir nagen. \\n\\nWenn sie zu viel an dir nagen, könnten sie sich ihre Kiefer brechen, die sie dann beim Tod nicht mehr fallen lassen. \\n\\nAlso töte sie schnell, wenn du diese &dLeeren Kiefer&r haben willst!"]
+	quest.465B08461B460DAC.quest_subtitle: "End-Kakerlaken"
 	quest.465B08461B460DAC.title: "&dEndermaptera"
 	quest.465F4502C4D5DCFE.quest_desc: [
-		"3 Vanadium dust + 1 Gallium dust on &aProgram 1&r makes this stuff"
+		"3 Vanadium-Staub + 1 Gallium-Staub auf &aProgramm 1&r erzeugt dieses Zeug"
 		""
-		"You'll need plenty of this later on, but for now it is used in making advanced surface mount devices"
+		"Du wirst später viel davon brauchen, aber vorerst wird es zur Herstellung fortschrittlicher Oberflächenmontage-Geräte verwendet"
 		""
-		"Vanadium you can get by &eCentrifuging&r &2Vanadium Magnetite Dust&r, which you can find in &6The End&r or &3The Overworld&r"
+		"Vanadium kannst du durch &eZentrifugieren&r von &2Vanadium-Magnetit-Staub&r erhalten, den du im &6End&r oder in der &3Oberwelt&r finden kannst"
 		""
-		"Alternatively, you could &eCentrifuge&r &cRuby&r or &9Sapphire&r slurries"
+		"Alternativ könntest du &cRubin&r- oder &9Saphir&r-Aufschlämmungen &ezentrifugieren&r"
 	]
-	quest.4664AFCFB5618CEB.quest_desc: ["&bGlacite&r is found in the cold biomes of &5&lEternal Starlight&r!"]
+	quest.4664AFCFB5618CEB.quest_desc: ["&bGlacit&r wird in den kalten Biomen von &5&lEternal Starlight&r gefunden!"]
 	quest.4664AFCFB5618CEB.quest_subtitle: "17"
-	quest.4664AFCFB5618CEB.title: "&bGlacite Armor"
-	quest.4665E6FD0AAED164.quest_desc: ["The &fCharm of Keeping II&r works the same as the &6Charm of Keeping I&r but stops you from losing the stuff in your hotbar when you die too."]
-	quest.4665E6FD0AAED164.title: "&fCharm of Keeping II"
-	quest.4676E9CD0F312C1A.quest_subtitle: "Mandarin + Kumquat"
-	quest.467CDD14AE21A850.quest_subtitle: "Increases Fuel Efficiency of Dynamos"
-	quest.46932D87871BE12F.title: "&5&lChemical Crystallizer Multiblock"
+	quest.4664AFCFB5618CEB.title: "&bGlacit-Rüstung"
+	quest.4665E6FD0AAED164.quest_desc: ["Der &fTalisman des Behaltens II&r funktioniert genauso wie der &6Talisman des Behaltens I&r, verhindert aber auch den Verlust der Gegenstände in deiner Schnellzugriffsleiste, wenn du stirbst."]
+	quest.4665E6FD0AAED164.title: "&fTalisman des Behaltens II"
+	quest.4676E9CD0F312C1A.quest_subtitle: "Mandarine + Kumquat"
+	quest.467CDD14AE21A850.quest_subtitle: "Erhöht die Treibstoffeffizienz von Dynamos"
+	quest.46932D87871BE12F.title: "&5&lChemischer Kristallisator Multiblock"
 	quest.469443A3BA0C3BEE.quest_desc: [
-		"Converts items from a liquid to a solid, some requiring casts."
+		"Wandelt Gegenstände von flüssig zu fest um, einige erfordern Gussformen."
 		""
-		"There is also a bee spawn egg recipe it can create."
+		"Es kann auch ein Bienen-Spawn-Ei-Rezept erstellen."
 	]
-	quest.469663FE3DA932EF.quest_desc: ["Combines Liquids with Items"]
+	quest.469663FE3DA932EF.quest_desc: ["Kombiniert Flüssigkeiten mit Gegenständen"]
 	quest.4699B9569F9E65A0.quest_desc: [
-		"Once you've learned the Soul symbol, you can do \"animal\" sacrifice. Kill an animal while near the altar, its blood will fill the Goblet."
-		"Then chant \"Animal Sacrifice\" on a new day, you should learn how to make Unholy Symbols."
-		"Drop a Pewter Inlay on the ground, then Chant on it, should turn into a Unholy Symbol."
-		"You only need 1 for all your crafting needs. Can make more if you like putting them in frames."
+		"Sobald du das Seelen-Symbol gelernt hast, kannst du \"Tieropfer\" durchführen. Töte ein Tier in der Nähe des Altars, sein Blut wird den Kelch füllen."
+		"Dann intoniere \"Tieropfer\" an einem neuen Tag, du solltest lernen, wie man Unheilige Symbole herstellt."
+		"Lasse eine Zinn-Einlage auf den Boden fallen, dann intoniere darauf, es sollte sich in ein Unheiliges Symbol verwandeln."
+		"Du brauchst nur 1 für all deine Crafting-Bedürfnisse. Du kannst mehr herstellen, wenn du sie gerne in Rahmen platzierst."
 	]
-	quest.4699B9569F9E65A0.quest_subtitle: "Let the darkness flow!"
+	quest.4699B9569F9E65A0.quest_subtitle: "Lass die Dunkelheit fließen!"
 	quest.46B515C90C13A72F.quest_desc: [
-		"If you want to make the &6ATM Star&r, you'll need a ton of resources! "
+		"Wenn du den &6ATM-Stern&r herstellen möchtest, benötigst du eine Menge Ressourcen! "
 		""
-		"The ATM packs provide a variety of ways to generate tons of resources using various mods! While some of these aren't required for the Star itself, this quest branches out to show you all of the different ways to generate the resources you'll need!"
+		"Die ATM-Packs bieten verschiedene Möglichkeiten, um mit verschiedenen Mods tonnenweise Ressourcen zu generieren! Obwohl einige davon nicht unbedingt für den Stern selbst erforderlich sind, verzweigt sich diese Quest, um dir alle verschiedenen Möglichkeiten zu zeigen, die Ressourcen zu generieren, die du brauchst!"
 	]
-	quest.46B515C90C13A72F.title: "&2Resource Generation&r"
-	quest.46BE62C20C720D10.quest_desc: ["Makes Endermen not get angry at you like Carved Pumpkins."]
+	quest.46B515C90C13A72F.title: "&2Ressourcen-Generierung&r"
+	quest.46BE62C20C720D10.quest_desc: ["Sorgt dafür, dass Endermen nicht wütend auf dich werden, ähnlich wie geschnitzte Kürbisse."]
 	quest.46BE62C20C720D10.quest_subtitle: "Max: 1"
-	quest.46CC8E7ED59F51D2.quest_desc: ["&5Tidal Claws&r are a confirmed drop from &5&lThe Leviathan&r. \\n\\nIt has two modes, attack and grapple. Attack is with Left Click, Grapple is with Right Click. \\n\\nWhen you use its attack it will launch the claw and go through max of 5 mobs. Dealing damage and giving &5Abyssal Curse&r which will continue to damage them. \\n\\nThe grapple instead will latch on to whatever is in range and pull you toward it. \\n\\nThere's no durability so enjoy it forever!"]
-	quest.46CC8E7ED59F51D2.title: "&5Tidal Claws"
-	quest.46D756F4DC6CC894.title: "&dNetherite Backpack"
+	quest.46CC8E7ED59F51D2.quest_desc: ["&5Gezeitenklauen&r sind ein bestätigter Drop von &5&lDem Leviathan&r. \\n\\nSie haben zwei Modi, Angriff und Greifer. Angriff ist mit Linksklick, Greifer mit Rechtsklick. \\n\\nWenn du den Angriff verwendest, wird die Klaue abgefeuert und geht durch maximal 5 Mobs. Sie verursacht Schaden und gibt &5Abgründigen Fluch&r, der ihnen weiterhin Schaden zufügt. \\n\\nDer Greifer hingegen wird sich an allem festhalten, was in Reichweite ist, und dich dorthin ziehen. \\n\\nEs gibt keine Haltbarkeit, also genieße es für immer!"]
+	quest.46CC8E7ED59F51D2.title: "&5Gezeitenklauen"
+	quest.46D756F4DC6CC894.title: "&dNetherit-Rucksack"
 	quest.46DBCB578DA28296.quest_desc: [
-		"This is Modern Industrialisation (MI)."
+		"Das ist Modern Industrialisation (MI)."
 		""
-		"The outcome of this mod will for the purposes of this pack be quad uranium rods."
+		"Das Ergebnis dieses Mods wird für die Zwecke dieses Modpacks Quad-Uranstäbe sein."
 		""
-		"This is a complicated mod and you may need some guides but this quest should hopefully get you through to the end."
+		"Dies ist ein komplizierter Mod und du benötigst möglicherweise einige Anleitungen, aber diese Quest sollte dir hoffentlich bis zum Ende helfen."
 	]
 	quest.46DBCB578DA28296.title: "Modern Industrialisation"
-	quest.46DCB235D3FEDA61.quest_desc: ["Similar to Iron Tools just all of these slow down whoever is hit by them. \\n\\nWell besides the Hoe, but do you really care about a simple hoe?"]
-	quest.46DCB235D3FEDA61.title: "&bFroststeel&r Tools"
+	quest.46DCB235D3FEDA61.quest_desc: ["Ähnlich wie Eisenwerkzeuge, nur dass alle diese denjenigen verlangsamen, der von ihnen getroffen wird. \\n\\nNaja, außer der Hacke, aber interessiert dich wirklich eine einfache Hacke?"]
+	quest.46DCB235D3FEDA61.title: "&bFroststahl&r-Werkzeuge"
 	quest.46E6B1600AA8A61E.quest_desc: [
-		"Valid Upgrades:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
+		"Gültige Upgrades:"
+		"- Mob-Scanner"
+		"- Auto-Räucherer"
+		"- Wunden Kauterisieren"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Intrinsische Fähigkeit:"
+		"- Lava-Reparatur"
 	]
 	quest.46EE2F9818F8D1D9.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Automaticly clears any blocks affected by gravity directly above the block mined."
+		"Räumt automatisch alle durch Schwerkraft betroffenen Blöcke direkt über dem abgebauten Block weg."
 	]
-	quest.46EF342785B112DA.quest_desc: ["Using steam, you'll get better ratios for bolts, gears, rings, and rods. However it uses lubricant and you really can't make that just yet..."]
-	quest.46F1A93B071CD980.quest_desc: ["Benzene + Ethylene in a &eChemical Reactor&r will result in &bStyrene&r"]
+	quest.46EF342785B112DA.quest_desc: ["Mit Dampf erhältst du bessere Verhältnisse für Bolzen, Zahnräder, Ringe und Stangen. Es verbraucht jedoch Schmiermittel und das kannst du noch nicht wirklich herstellen..."]
+	quest.46F1A93B071CD980.quest_desc: ["Benzol + Ethylen in einem &eChemischen Reaktor&r ergibt &bStyrol&r"]
 	quest.46F5DC6A7FF02DF2.quest_desc: [
-		"Silver and 4 electrotine dust in a &eMixer&r on &aProgram 2&r will create &bBlue Alloy Dust&r"
+		"Silber und 4 Elektrotinstaub in einem &eMixer&r auf &aProgramm 2&r erzeugen &bBlaulegierungs-Staub&r"
 		""
-		"You can just smelt this dust in a furnace to get the ingot"
+		"Du kannst diesen Staub einfach in einem Ofen schmelzen, um den Barren zu erhalten"
 	]
 	quest.46FEF3DB6A5B52A0.quest_desc: [
-		"Battle Cubes are a dungeon in the &6&lBumblezone&r! \\n\\nSimilar to Trial Chambers these have multiple rooms with spawners and obviously Loot! \\n\\nIn the rooms are Cobwebs and Wool to represent Spider Eggs, within them lies Spider or Cave Spider Spawners and sometimes valuable Loot like Diamond or Emerald Blocks! \\n\\nThere is also some Honey Cocoons in the last room that can hold some valuable Loot, like a &5Throne Pillar Compass&r!\\n"
+		"Kampfwürfel sind ein Verlies im &6&lBumblezone&r! \\n\\nÄhnlich wie bei Testkammern gibt es hier mehrere Räume mit Spawnern und natürlich Beute! \\n\\nIn den Räumen befinden sich Spinnweben und Wolle, die Spinneneier darstellen. In ihnen liegen Spinnen- oder Höhlenspinnen-Spawner und manchmal wertvolle Beute wie Diamant- oder Smaragdblöcke! \\n\\nIm letzten Raum gibt es auch einige Honigkokons, die wertvolle Beute enthalten können, wie einen &5Thron-Säulen-Kompass&r!\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_cube.png width:200 height:100 align:center}"
 	]
-	quest.46FEF3DB6A5B52A0.title: "Battle Cubes"
-	quest.47043AF7D1FABC43.quest_desc: ["The &bDis-Enchanting Table&r is a probably the most helpful Tip here. \\n\\nSimply put an Enchanted Item in the Left Slot and a Book in the Middle Slot. Then, the Enchants will go to the Right Slot in Book form! \\n\\nYou can also use Enchanted Books instead of the Item to split up its Enchantments."]
-	quest.47043AF7D1FABC43.title: "&l&bDis-Enchanting Table"
-	quest.47045A0E8E3457C2.quest_subtitle: "Tier: &63"
+	quest.46FEF3DB6A5B52A0.title: "Kampfwürfel"
+	quest.47043AF7D1FABC43.quest_desc: ["Der &bEntzauberungstisch&r ist wahrscheinlich der hilfreichste Tipp hier. \\n\\nLege einfach einen verzauberten Gegenstand in den linken Slot und ein Buch in den mittleren Slot. Dann werden die Verzauberungen im rechten Slot in Buchform erscheinen! \\n\\nDu kannst auch verzauberte Bücher anstelle des Gegenstands verwenden, um deren Verzauberungen aufzuteilen."]
+	quest.47043AF7D1FABC43.title: "&l&bEntzauberungstisch"
+	quest.47045A0E8E3457C2.quest_subtitle: "Stufe: &63"
 	quest.4707FB01F15F6E1F.quest_desc: [
-		"The &b&lClibano&r is a new Multiblock which acts sort of like a Jumbo Furnace! To make it follow these steps!"
+		"Der &b&lClibano&r ist ein neuer Multiblock, der wie eine Art Jumbo-Ofen funktioniert! Um ihn herzustellen, folge diesen Schritten!"
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano1.png width:100 height:100 align:center}"
-		"First layer is a 3x3 Area, with the corners made of &9Polished Darkstone&r and the rest filled with &9Polished Darkstone Bricks&r."
+		"Die erste Schicht ist ein 3x3-Bereich, mit den Ecken aus &9Poliertem Dunkelstein&r und dem Rest gefüllt mit &9Polierten Dunkelstein-Ziegeln&r."
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano2.png width:100 height:100 align:center}"
-		"The second layer uses only &9Polished Darkstone Bricks&r and the &bClibano Core&r. Remember to keep the middle Block empty!"
+		"Die zweite Schicht verwendet nur &9Polierte Dunkelstein-Ziegel&r und den &bClibano-Kern&r. Denke daran, den mittleren Block leer zu lassen!"
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano3.png width:100 height:100 align:center}"
-		"The final layer is just like the first... just above the other two layers!"
+		"Die letzte Schicht ist genau wie die erste... nur über den anderen beiden Schichten!"
 		"{image:atm:textures/questpics/forbidden/forbidden_clibano4.png width:100 height:100 align:center}"
-		"Finally Right Click the Multiblock with &cMundabitur Dust&r to finish it!"
+		"Zum Schluss klicke mit der rechten Maustaste auf den Multiblock mit &cMundabitur-Staub&r, um ihn fertigzustellen!"
 	]
 	quest.4707FB01F15F6E1F.title: "&b&lClibano"
-	quest.4718C2728C0CA40F.quest_desc: ["When in your Offhand you will learn so much knowledge! \\n\\nThe bottom left will tell you the structure you're in, if you are in one. \\n\\nAll entities will also be highlighted when it's in use. That includes block entities like Chests or Armor Stands. \\n\\nAfter all of its uses it'll have a 15 Minute cooldown. It has a lot of uses though so you'll be fine!"]
-	quest.4718C2728C0CA40F.title: "&5Essence of Knowledge"
+	quest.4718C2728C0CA40F.quest_desc: ["Wenn in deiner Nebenhand wirst du so viel Wissen erlangen! \\n\\nUnten links wird dir die Struktur angezeigt, in der du dich befindest, falls du in einer bist. \\n\\nAlle Entitäten werden ebenfalls hervorgehoben, wenn es in Gebrauch ist. Das schließt Block-Entitäten wie Truhen oder Rüstungsständer ein. \\n\\nNach all seinen Verwendungen hat es eine Abklingzeit von 15 Minuten. Es hat jedoch viele Verwendungen, also wirst du zurechtkommen!"]
+	quest.4718C2728C0CA40F.title: "&5Essenz des Wissens"
 	quest.4720F9EDF894330C.quest_desc: [
-		"I honestly don't know what the E, G, or S letters mean... but this is still High Speed Steel!"
+		"Ich weiß ehrlich gesagt nicht, was die Buchstaben E, G oder S bedeuten... aber das ist immer noch Hochgeschwindigkeitsstahl!"
 		""
-		"You'll have to smelt this and then turn it into &bRings&r for the &dAdvanced SMD Inductor&r"
+		"Du musst dies schmelzen und dann in &bRinge&r für den &dFortgeschrittenen SMD-Induktor&r umwandeln"
 	]
-	quest.47317516A98016C0.quest_desc: ["The better the Gem, the better the stats! Flawless is second best while Perfect is the best."]
-	quest.47317516A98016C0.title: "Flawless Gems"
+	quest.47317516A98016C0.quest_desc: ["Je besser der Edelstein, desto besser die Werte! Makellos ist das zweitbeste, während Perfekt das beste ist."]
+	quest.47317516A98016C0.title: "Makellose Edelsteine"
 	quest.47358ADC1470C82A.quest_desc: [
-		"&cDemon's Dream Fruit&r is perfectly healthy for you. There might be some side effects you should know about."
+		"&cDämonische Traumfrucht&r ist perfekt gesund für dich. Es könnte einige Nebenwirkungen geben, die du kennen solltest."
 		""
-		"When you consume one, you have a chance to get the effect of the &3Third Eye&r, allowing you to see into the &9The Otherworld&r. Certain items in the world might not be what they seem, and you'll need this \"vision\" to find certain items for progression."
+		"Wenn du eine konsumierst, hast du die Chance, den Effekt des &3Dritten Auges&r zu bekommen, der dir erlaubt, in die &9Anderswelt&r zu sehen. Bestimmte Gegenstände in der Welt könnten nicht das sein, was sie zu sein scheinen, und du wirst diese \"Vision\" brauchen, um bestimmte Gegenstände für die Progression zu finden."
 		""
-		"Or you can set it on fire and skip finding most of them. That's up to you."
+		"Oder du kannst sie in Brand setzen und das Finden der meisten überspringen. Das liegt bei dir."
 	]
-	quest.47358ADC1470C82A.quest_subtitle: "Get Ready for a Trip"
-	quest.47358ADC1470C82A.title: "&cDemon Fruit"
-	quest.4745152F6FF242B3.quest_desc: ["When the reactor burns up fuel, it creates &9waste&r or a &dReactant&r that you'll also want to extract. That is what the other Solid Access Port is for! Make sure to set it to output, then pipe it into some type of storage."]
-	quest.4745152F6FF242B3.quest_subtitle: "Waste Not Want Not or something...."
-	quest.4745152F6FF242B3.title: "Dealing with Waste"
-	quest.4745488579AAF603.quest_subtitle: "&f5.8 &cAttack Damage"
-	quest.47592C1D5CD8E8B5.quest_desc: ["Using this mixer will allow you to save the dust that would normall fall on the floor, giving better returns for mixing dusts into alloys. This can also be used to turn certain blocks into other blocks, such as sand into clay! Useful when you start to need a lot of clay for blast furnaces..."]
-	quest.475B63AF0E87E318.title: "&4Supremium Watering Can&r"
-	quest.475E1B94A61B9EB0.quest_desc: ["Like the MK1 this pulls! Just not only from adjacent Inventories, but any Inventory nearby!"]
+	quest.47358ADC1470C82A.quest_subtitle: "Mach dich bereit für einen Trip"
+	quest.47358ADC1470C82A.title: "&cDämonenfrucht"
+	quest.4745152F6FF242B3.quest_desc: ["Wenn der Reaktor Brennstoff verbrennt, erzeugt er &9Abfall&r oder ein &dReaktant&r, das du auch extrahieren möchtest. Dafür ist der andere Feststoff-Zugangsport da! Stelle sicher, dass du ihn auf Ausgabe einstellst und dann in eine Art Speicher leitest."]
+	quest.4745152F6FF242B3.quest_subtitle: "Abfall nicht, will nicht oder so..."
+	quest.4745152F6FF242B3.title: "Umgang mit Abfall"
+	quest.4745488579AAF603.quest_subtitle: "&f5,8 &cAngriffsschaden"
+	quest.47592C1D5CD8E8B5.quest_desc: ["Mit diesem Mixer kannst du den Staub sparen, der normalerweise auf den Boden fallen würde, was bessere Ergebnisse beim Mischen von Stäuben zu Legierungen gibt. Dies kann auch verwendet werden, um bestimmte Blöcke in andere Blöcke umzuwandeln, wie Sand zu Lehm! Nützlich, wenn du anfängst, viel Lehm für Hochöfen zu benötigen..."]
+	quest.475B63AF0E87E318.title: "&4Supremium-Gießkanne&r"
+	quest.475E1B94A61B9EB0.quest_desc: ["Wie das MK1 zieht dies! Nur nicht nur aus angrenzenden Inventaren, sondern aus jedem Inventar in der Nähe!"]
 	quest.475E307844E3AF7F.quest_desc: [
-		"The Water Boilers are some of the most helpful machines from &l&7RailCraft&r. They need a Fuel Firebox and some sort of boiler on top. The Fueled Firebox can be 1x1 2x2 or 3x3. The size of the Firebox changes how big the Boiler on top can be. For 1x1 Firebox it can only have 1x1 Boiler. For 2x2 Firebox it can be a 2x2x3 Boiler. For 3x3 Firebox it can be 3x3x4. The Liquid Fuel will take Creosote to heat up. For Solid Firebox it'll use anything a furnace can use."
+		"Die Wasserkocher sind einige der hilfreichsten Maschinen von &l&7RailCraft&r. Sie benötigen eine Brennstoff-Feuerbüchse und eine Art Kocher darüber. Die befeuerte Feuerbüchse kann 1x1, 2x2 oder 3x3 sein. Die Größe der Feuerbüchse bestimmt, wie groß der Kocher darüber sein kann. Für eine 1x1 Feuerbüchse kann es nur einen 1x1 Kocher haben. Für eine 2x2 Feuerbüchse kann es ein 2x2x3 Kocher sein. Für eine 3x3 Feuerbüchse kann es ein 3x3x4 sein. Der Flüssigbrennstoff wird Kreosotöl verwenden, um aufzuheizen. Für die Feststoff-Feuerbüchse kann alles verwendet werden, was ein Ofen verwenden kann."
 		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
 	]
-	quest.475E307844E3AF7F.title: "Boilers"
-	quest.47656073894224AF.quest_desc: ["Yes, it is just like the ones on giant Battleships! \\n\\nThe &5&lRailgun&r is a special Gun. For 1. it uses special Ammo, not Cartridges like the Revolver uses 2. it uses &cEnergy&r and needs to charge before shooting. \\n\\nThe Ammo it uses is &eItems&r from your Inventory: &7Aluminum&r, &7Iron&r, and &8Steel Rods&r, &0Graphite Electrodes&r, Sawblades, Enderpearls, Tridents, Blaze Rods, and End Rods. \\n\\nIt'll take whatever is in your Inventory, to change what it Shoots, Hold Shift and Scroll. \\n\\nNext, it needs &cEnergy&r within it to Shoot, to charge it we can use any &cItem Charger&r, including the one added by &8&lImmersive Engineering&r! \\n\\nOnce we have all this, Hold Right Click until the Railgun gets to Level 99, then release! \\n\\nThe &5&lRailgun's&r Upgrades are: Precision Scope and Heatsinks. \\n\\nIt can hold 2 Upgrades, well that makes sense it can't use anymore than that!"]
+	quest.475E307844E3AF7F.title: "Kocher"
+	quest.47656073894224AF.quest_desc: ["Ja, es ist genau wie die auf riesigen Schlachtschiffen! \\n\\nDie &5&lRailgun&r ist eine spezielle Waffe. Erstens verwendet sie spezielle Munition, keine Patronen wie der Revolver, und zweitens verwendet sie &cEnergie&r und muss vor dem Schießen aufgeladen werden. \\n\\nDie Munition, die sie verwendet, sind &eGegenstände&r aus deinem Inventar: &7Aluminium&r, &7Eisen&r und &8Stahlstangen&r, &0Graphitelektroden&r, Sägeblätter, Enderperlen, Dreizacke, Lohenruten und End-Ruten. \\n\\nSie nimmt, was auch immer in deinem Inventar ist. Um zu ändern, was sie schießt, halte Umschalt gedrückt und scrolle. \\n\\nAußerdem benötigt sie &cEnergie&r, um zu schießen. Um sie aufzuladen, können wir jeden &cGegenstandsauflader&r verwenden, einschließlich dem von &8&lImmersive Engineering&r! \\n\\nWenn wir all das haben, halte die rechte Maustaste gedrückt, bis die Railgun Level 99 erreicht, und lasse dann los! \\n\\nDie Upgrades der &5&lRailgun&r sind: Präzisionsvisier und Kühlkörper. \\n\\nSie kann 2 Upgrades aufnehmen, was Sinn macht, da sie nicht mehr als das verwenden kann!"]
 	quest.47656073894224AF.title: "&5&lRailgun"
-	quest.476755275B948A5F.quest_desc: ["Reactors can also be used to heat up &bcoolants&r like water to create &bvapor&r, like &bSteam&r.\\n\\nTo do this, you'll need to build a reinforced reactor. This is built in the same way that you built your 3x3x3 reactor, but all of the parts will need to be &aReinforced Reactor Parts&r instead. I'd also suggest on it being bigger than a 3x3x3.\\n\\nTo input a coolant, you'll need a &9Forge Fluid Port&r. This will port in any fluids like Water into the reactor. This will also be used to export the vapor created in the reactor.\\n\\nIf you want, you can create a &aMekanism Fluid Port&r to convert the fluid Steam into the Mekanism gas Steam instead."]
-	quest.476755275B948A5F.quest_subtitle: "To Make Steam!!"
-	quest.476755275B948A5F.title: "Building An Actively Cooled Reactor"
+	quest.476755275B948A5F.quest_desc: ["Reaktoren können auch verwendet werden, um &bKühlmittel&r wie Wasser aufzuheizen, um &bDampf&r zu erzeugen, wie &bSteam&r.\\n\\nUm dies zu tun, musst du einen verstärkten Reaktor bauen. Dieser wird auf die gleiche Weise gebaut wie dein 3x3x3-Reaktor, aber alle Teile müssen &aVerstärkte Reaktorteile&r sein. Ich würde auch empfehlen, dass er größer als 3x3x3 ist.\\n\\nUm ein Kühlmittel einzuführen, benötigst du einen &9Forge-Flüssigkeitsport&r. Dieser wird alle Flüssigkeiten wie Wasser in den Reaktor leiten. Dies wird auch verwendet, um den im Reaktor erzeugten Dampf zu exportieren.\\n\\nWenn du möchtest, kannst du einen &aMekanism-Flüssigkeitsport&r erstellen, um die Flüssigkeit Dampf stattdessen in das Mekanism-Gas Dampf umzuwandeln."]
+	quest.476755275B948A5F.quest_subtitle: "Um Dampf zu erzeugen!!"
+	quest.476755275B948A5F.title: "Einen aktiv gekühlten Reaktor bauen"
 	quest.476B99789CA7BD96.quest_desc: [
-		"These are complex components to make. Making 1 of them is quite the task, involving many materials and many process lines. "
+		"Dies sind komplexe Komponenten herzustellen. Einen davon herzustellen ist schon eine Aufgabe, die viele Materialien und viele Prozesslinien umfasst. "
 		""
-		"Now we need 16 of them to proceed. But I'm sure you are up to the task."
+		"Jetzt brauchen wir 16 davon, um fortzufahren. Aber ich bin sicher, dass du der Aufgabe gewachsen bist."
 	]
-	quest.476B99789CA7BD96.quest_subtitle: "Not A Small Order"
-	quest.476C7317510198D9.quest_desc: ["Okay this ones fun! You like throwing &eItems&r? Like, I mean to really throw them! \\n\\nThen, the &eWeighted Ejector&r is for you! \\n\\nFirst, you need to Shift Right Click a Block with the &eWeighted Ejector&r to set it as the target. The target has to be in line with where the &eEjector&r is aimed in order to hit it. \\n\\nOnce it has a target and is placed down, it can be fed &dRotational Power&r to charge it! Then, when an &eItem&r is placed on the &eWeighted Ejector&r, it will throw it! \\nYou can hold on some of the Sides to change the Stack Size needed to throw &eItems&r."]
-	quest.476C7317510198D9.title: "&eWeighted Ejector"
+	quest.476B99789CA7BD96.quest_subtitle: "Kein kleiner Auftrag"
+	quest.476C7317510198D9.quest_desc: ["Okay, dieser ist lustig! Magst du es, &eGegenstände&r zu werfen? Ich meine, sie wirklich zu werfen! \\n\\nDann ist der &eGewichtete Auswerfer&r genau das Richtige für dich! \\n\\nZuerst musst du mit Umschalt-Rechtsklick einen Block mit dem &eAuswerfer&r auswählen, um ihn als Ziel festzulegen. Das Ziel muss in einer Linie mit der Richtung sein, in die der &eAuswerfer&r zielt, um es zu treffen. \\n\\nSobald er ein Ziel hat und platziert ist, kann er mit &dRotationsenergie&r aufgeladen werden! Wenn dann ein &eGegenstand&r auf den &eGewichteten Auswerfer&r gelegt wird, wird er geworfen! \\nDu kannst an einigen der Seiten festhalten, um die Stapelgröße zu ändern, die benötigt wird, um &eGegenstände&r zu werfen."]
+	quest.476C7317510198D9.title: "&eGewichteter Auswerfer"
 	quest.4773421DC70009AB.quest_desc: [
-		"Intrinsic Ability:"
-		"- No Trampling"
-		"- Accelerated Crop Growth I"
+		"Intrinsische Fähigkeit:"
+		"- Kein Zertrampeln"
+		"- Beschleunigtes Pflanzenwachstum I"
 	]
-	quest.47750F3CB020104C.quest_desc: ["&lGenerator's Galore&r and &lIron Furnaces&r are two different but also similar mods. Both start with the legendary Furnace!"]
-	quest.47750F3CB020104C.quest_subtitle: "It all starts here"
-	quest.47750F3CB020104C.title: "The Furnace"
-	quest.4775F7326720251E.title: "&6Master of The Elements&r"
-	quest.47764EFC822E462A.quest_desc: ["This block produces milk over time, and enables milk recipes for the kitchen multi-block.\\n\\nTo get a cow in the jar, place the jar in a hole. Lure the cow to fall in said hole above the jar, then drop an anvil on it.\\n\\nI have no clue what this glass is made of, but it's stronger than my relationship with Chicken."]
-	quest.47764EFC822E462A.quest_subtitle: "Phenomenal Milking Powers....Itty bitty living space"
-	quest.47764EFC822E462A.title: "A Cow in a Jar"
-	quest.47768B1FFD57D56E.quest_desc: ["Don't you just hate &4Redstone&r having to be wired to everywhere? If we can have Wireless FE why not Wireless &4Redstone&r? Finally we can thanks to &c&lLaserIO&r. You can Input a &4Redstone Signal&r with the &4Card&r then use an &4Output Card&r to Output the &4Signal&r somewhere else!"]
-	quest.47768B1FFD57D56E.title: "&4Redstone Card"
-	quest.477B411F84342EEA.quest_desc: ["Mekanism is one of the best mods for energy storage, especially in the early game.\\n\\nThe Basic Energy Cube is easy to configure, easy to craft, and stores a lot of power. It can also be upgraded, and can charge items inside of the interface!\\n\\nTo learn more about upgrading the Energy Cube as well as the mod, head over to the &aMekanism&r quest chapter!"]
-	quest.477B411F84342EEA.title: "&9Mekanism: &aEnergy Cubes"
-	quest.478352E24CE1F45F.quest_desc: ["Allows the Mana Bursts to launch festive fireworks when they hit a block."]
+	quest.47750F3CB020104C.quest_desc: ["&lGenerator's Galore&r und &lIron Furnaces&r sind zwei verschiedene, aber auch ähnliche Mods. Beide beginnen mit dem legendären Ofen!"]
+	quest.47750F3CB020104C.quest_subtitle: "Alles beginnt hier"
+	quest.47750F3CB020104C.title: "Der Ofen"
+	quest.4775F7326720251E.title: "&6Meister der Elemente&r"
+	quest.47764EFC822E462A.quest_desc: ["Dieser Block produziert mit der Zeit Milch und ermöglicht Milchrezepte für den Küchen-Multiblock.\\n\\nUm eine Kuh in das Glas zu bekommen, platziere das Glas in einem Loch. Locke die Kuh dazu, in das Loch über dem Glas zu fallen, und lasse dann einen Amboss darauf fallen.\\n\\nIch habe keine Ahnung, woraus dieses Glas besteht, aber es ist stärker als meine Beziehung zu Hühnchen."]
+	quest.47764EFC822E462A.quest_subtitle: "Phänomenale Melkkräfte.... Winziger Lebensraum"
+	quest.47764EFC822E462A.title: "Eine Kuh im Glas"
+	quest.47768B1FFD57D56E.quest_desc: ["Hasst du es nicht auch, dass &4Redstone&r überall verkabelt werden muss? Wenn wir drahtloses FE haben können, warum nicht auch drahtloses &4Redstone&r? Endlich können wir das dank &c&lLaserIO&r. Du kannst ein &4Redstone-Signal&r mit der &4Karte&r einleiten und dann eine &4Ausgabe-Karte&r verwenden, um das &4Signal&r woanders auszugeben!"]
+	quest.47768B1FFD57D56E.title: "&4Redstone-Karte"
+	quest.477B411F84342EEA.quest_desc: ["Mekanism ist einer der besten Mods für Energiespeicherung, besonders im frühen Spiel.\\n\\nDer Basic Energy Cube ist einfach zu konfigurieren, leicht herzustellen und speichert viel Energie. Er kann auch aufgerüstet werden und kann Gegenstände im Interface aufladen!\\n\\nUm mehr über das Aufrüsten des Energy Cube sowie den Mod zu erfahren, gehe zum &aMekanism&r-Questkapitel!"]
+	quest.477B411F84342EEA.title: "&9Mekanism: &aEnergiewürfel"
+	quest.478352E24CE1F45F.quest_desc: ["Ermöglicht den Mana-Schüben, festliche Feuerwerke zu starten, wenn sie auf einen Block treffen."]
 	quest.4785659E5022FEE7.quest_desc: [
-		"Just like a car, you can't fuel a Rocket off of hopes and dreams. But how do we get fuel?"
+		"Genau wie ein Auto kannst du eine Rakete nicht mit Hoffnungen und Träumen betanken. Aber wie bekommen wir Treibstoff?"
 		""
-		"The first step is to find &3Oil&r in the Overworld. You can find some spouting out in the ocean, and you'll need to collect a good bit so we can refine it!"
+		"Der erste Schritt besteht darin, &3Öl&r in der Oberwelt zu finden. Du kannst es in Fontänen im Ozean finden, und du musst eine gute Menge sammeln, damit wir es raffinieren können!"
 		""
-		"That's where the &aFuel Refinery&r comes in. It will accept any \"Crude\" Oil and convert it into fuel for the Rockets."
+		"Hier kommt die &aTreibstoff-Raffinerie&r ins Spiel. Sie nimmt jedes \"Rohöl\" an und wandelt es in Treibstoff für die Raketen um."
 		""
-		"I'd suggest on stocking up, as each will cost &e3 Buckets of Fuel&r, meaning 6 for a round trip!"
+		"Ich würde empfehlen, einen Vorrat anzulegen, da jede &e3 Eimer Treibstoff&r kostet, also 6 für einen Hin- und Rückflug!"
 	]
-	quest.4785659E5022FEE7.title: "&aFueling Up&r"
+	quest.4785659E5022FEE7.title: "&aAuftanken&r"
 	quest.47871110028991D3.quest_desc: [
-		"As you make this, keep in mind that Chemical Reactor recipes can be generalized to &d3 Input Hatches&r, &53 Output Hatches&r, &e1 Input Bus&r, and &61 Output Bus&r"
+		"Während du dies herstellst, bedenke, dass Chemische-Reaktor-Rezepte auf &d3 Eingabeluken&r, &53 Ausgabeluken&r, &e1 Eingabebus&r und &61 Ausgabebus&r verallgemeinert werden können"
 		""
-		"After making a lot of PTFE, finally, the &aLarge Chemical Reactor&r is ready to rumble!"
+		"Nachdem du eine Menge PTFE hergestellt hast, ist der &aGroße Chemische Reaktor&r endlich bereit!"
 		""
-		"You'll find that some chemical reactions can only be done in an &aLCR&r, specifically the chemicals needed in making &3Polybenzimidazole&r (PBI for short)"
+		"Du wirst feststellen, dass einige chemische Reaktionen nur in einem &aLCR&r durchgeführt werden können, insbesondere die Chemikalien, die zur Herstellung von &3Polybenzimidazol&r (kurz PBI) benötigt werden"
 	]
-	quest.47897D827C50629D.quest_desc: ["&aPiston Extension Poles&r are how we can make and expand &aMechanical Pistons&r. \\n\\nNot normal Pistons, sorry!"]
-	quest.47897D827C50629D.quest_subtitle: "Why only move so far?"
-	quest.47897D827C50629D.title: "&aPiston Extension"
-	quest.47932104E994DBE9.quest_desc: ["The plates for the Hulls get trickier every tier. But its a necessary process. Try and get this process passive so you can fill out your factory with UV machines!"]
-	quest.47932104E994DBE9.quest_subtitle: "This Darmstadtium is too big!"
-	quest.47A2BEFB11F4D581.quest_desc: ["The Basic Filter is pretty... easy to use! Simply put Items into it and they are now filtered. \\n\\nYou can change it so it either Whitelists/allows only those Items or that is Blacklists/denies only those Items. \\n\\nYou can also have it so it either matches NBT data or not. Matching NBT Data would mean having same Enchantments, Durabilitiy, or even Mobs inside of whatever Item. If selected to not match it will do any of that Item regardless of NBT."]
-	quest.47A6769B6BF1A46D.quest_desc: ["&eFunnels&r are like if a Hopper and Dispenser had a baby. \\n\\nWhen placed onto a Block with an Inventory, like Chests, it will automatically take &eItems&r out 1 at a time. \\nIf you Shift Right Click it will automatically take &eItems&r into the Inventory. \\n\\nBoth can be turned off with a &4Redstone Signal&r!"]
-	quest.47A6769B6BF1A46D.title: "&eAndesite Funnel"
-	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cAttack Damage"
-	quest.47B985B56C582D6A.quest_desc: ["Increases the flow rate of LP in and out of the Altar when pumping to and from an external tank by 20% per rune."]
-	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines are found hanging from Torreya Trees. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
-	quest.47CEFA06392C4211.quest_desc: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
-	quest.47CEFA06392C4211.quest_subtitle: "Increasing our bee storage"
-	quest.47CEFA06392C4211.title: "Expansion Box"
-	quest.47D201ED115F6D6D.quest_desc: ["16x Enriched Naquadah Trinium Europium Duranide wire - Qty 8"]
-	quest.47D201ED115F6D6D.quest_subtitle: "UV Superconductor"
-	quest.47E32A084CAA1512.quest_desc: ["Can be Traded with a Gunsmith or Crafted. \\n\\nGuns aren't much fun without Bullets, so let's Craft some! In order to Craft them though we'll need this &9Blueprint&r."]
-	quest.47E32A084CAA1512.title: "&9Common Projectiles Blueprint"
-	quest.47E79DFD123BF617.quest_desc: ["The &eScube Set&r is both a Helmet and Chestplate that will give you &9Water Breathing&r when worn! \\n\\nIn order to get &9Breathing&r though, we'll need to give our &eScube Tank&r some &bOxygen&r. Just place it within a &5Machine&r that has some, like an &9&lElectrolytic Separator&r and it will slowly fill up! \\n\\nThen, put on both the &eScube Mask &fand &eScube Tank&r and press (G) to turn it on. Once the &eScube Gear&r is on, it will use up the &bOxygen&r allowing you to &9Breath Underwater&r!"]
-	quest.47E79DFD123BF617.title: "&eScuba Set"
-	quest.47EFF4429010E26C.title: "Ventium Tools"
-	quest.47F38E606AD3FF53.quest_desc: ["Some Recipes will require &7Ore Dusts&r! \\n\\nThanks to &6&lAllTheOres&r, we can make &7Ore Dusts&r in a million different ways! \\n\\nThe &5&lMekanism&r ways are with the &4&lCrusher&r and &d&lEnrichment Chamber&r. \\n\\nWe can &4Crush&r &7Ingots&f into &7Dust&r. Or &dEnrich&r &7Ore Blocks&r to get 2 &7Dusts&r."]
-	quest.47F38E606AD3FF53.title: "&4Crushed &fto Dust!"
-	quest.47F734CDD5793F26.title: "&5Unobtainium Crossbow"
-	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cAttack Damage"
-	quest.481205F0C9B08200.quest_subtitle: "Teak + Clove"
-	quest.481735FE3164C8D5.quest_desc: ["&bBlue Ice&r- 200 K \\n&bPacked Ice&r- 240 K \\n&bIce&r- 260 K \\nSnow- 273 K \\n&9Water&r- 300"]
-	quest.481735FE3164C8D5.title: "&bCold Items"
+	quest.47897D827C50629D.quest_desc: ["&aKolben-Verlängerungsstangen&r sind die Art und Weise, wie wir &aMechanische Kolben&r herstellen und erweitern können. \\n\\nNicht normale Kolben, tut mir leid!"]
+	quest.47897D827C50629D.quest_subtitle: "Warum nur so weit bewegen?"
+	quest.47897D827C50629D.title: "&aKolben-Verlängerung"
+	quest.47932104E994DBE9.quest_desc: ["Die Platten für die Gehäuse werden mit jeder Stufe schwieriger. Aber es ist ein notwendiger Prozess. Versuche, diesen Prozess passiv zu gestalten, damit du deine Fabrik mit UV-Maschinen füllen kannst!"]
+	quest.47932104E994DBE9.quest_subtitle: "Dieses Darmstadtium ist zu groß!"
+	quest.47A2BEFB11F4D581.quest_desc: ["Der einfache Filter ist ziemlich... leicht zu benutzen! Lege einfach Gegenstände hinein und sie werden gefiltert. \\n\\nDu kannst ändern, ob er nur diese Gegenstände zulässt (Whitelist) oder nur diese Gegenstände verweigert (Blacklist). \\n\\nDu kannst auch einstellen, ob er NBT-Daten abgleicht oder nicht. Das Abgleichen von NBT-Daten würde bedeuten, dass die gleichen Verzauberungen, Haltbarkeit oder sogar Mobs in dem jeweiligen Gegenstand vorhanden sein müssen. Wenn ausgewählt wird, nicht abzugleichen, wird er jeden dieser Gegenstände unabhängig von NBT akzeptieren."]
+	quest.47A6769B6BF1A46D.quest_desc: ["&eTrichter&r sind wie wenn ein Hopper und ein Werfer ein Baby bekommen hätten. \\n\\nWenn sie auf einem Block mit einem Inventar platziert werden, wie Truhen, nehmen sie automatisch &eGegenstände&r einzeln heraus. \\nWenn du Umschalt-Rechtsklick machst, werden automatisch &eGegenstände&r in das Inventar aufgenommen. \\n\\nBeide können mit einem &4Redstone-Signal&r ausgeschaltet werden!"]
+	quest.47A6769B6BF1A46D.title: "&eAndesit-Trichter"
+	quest.47AED7219704EB3E.quest_subtitle: "&f18 &cAngriffsschaden"
+	quest.47B985B56C582D6A.quest_desc: ["Erhöht die Fließgeschwindigkeit von LP in und aus dem Altar beim Pumpen zu und von einem externen Tank um 20% pro Rune."]
+	quest.47CB136D7764B86D.quest_desc: ["Torreya-Ranken finden sich hängend an Torreya-Bäumen. \\n\\nSie hängen, weil sie nicht anders platziert werden können... \\n\\nDie Knolle am unteren Ende von ihnen wird Licht ausstrahlen!"]
+	quest.47CEFA06392C4211.quest_desc: ["Erweiterungsboxen werden auf deine Advanced Beehives gesetzt, um die Anzahl der Bienen im Bienenstock auf insgesamt 5 Plätze zu erhöhen."]
+	quest.47CEFA06392C4211.quest_subtitle: "Erhöhen unserer Bienenlagerung"
+	quest.47CEFA06392C4211.title: "Erweiterungsbox"
+	quest.47D201ED115F6D6D.quest_desc: ["16x Angereicherter Naquadah-Trinium-Europium-Duranid-Draht - Menge 8"]
+	quest.47D201ED115F6D6D.quest_subtitle: "UV-Supraleiter"
+	quest.47E32A084CAA1512.quest_desc: ["Kann mit einem Waffenschmied gehandelt oder hergestellt werden. \\n\\nWaffen machen nicht viel Spaß ohne Kugeln, also lasst uns einige herstellen! Um sie herzustellen, benötigen wir jedoch diese &9Blaupause&r."]
+	quest.47E32A084CAA1512.title: "&9Blaupause für gewöhnliche Projektile"
+	quest.47E79DFD123BF617.quest_desc: ["Das &eTaucherset&r ist sowohl ein Helm als auch ein Brustpanzer, der dir &9Unterwasseratmung&r gibt, wenn du ihn trägst! \\n\\nUm &9Atmung&r zu erhalten, müssen wir unserem &eTauchertank&r etwas &bSauerstoff&r geben. Platziere ihn einfach in einer &5Maschine&r, die welchen hat, wie einem &9&lElektrolytischen Separator&r, und er wird sich langsam füllen! \\n\\nDann setze sowohl die &eTauchermaske &fals auch den &eTauchertank&r auf und drücke (G), um ihn einzuschalten. Sobald die &eTaucherausrüstung&r an ist, wird sie den &bSauerstoff&r verbrauchen und dir erlauben, &9unter Wasser zu atmen&r!"]
+	quest.47E79DFD123BF617.title: "&eTaucherset"
+	quest.47EFF4429010E26C.title: "Ventium-Werkzeuge"
+	quest.47F38E606AD3FF53.quest_desc: ["Einige Rezepte erfordern &7Erzstaub&r! \\n\\nDank &6&lAllTheOres&r können wir &7Erzstaub&r auf eine Million verschiedene Arten herstellen! \\n\\nDie Methoden von &5&lMekanism&r sind mit dem &4&lZerkleinerer&r und der &d&lAnreicherungskammer&r. \\n\\nWir können &7Barren&f zu &7Staub&r &4zerkleinern&r. Oder wir können &7Erzblöcke&r &danreichern&r, um 2 &7Stäube&r zu erhalten."]
+	quest.47F38E606AD3FF53.title: "&4Zerkleinert &fzu Staub!"
+	quest.47F734CDD5793F26.title: "&5Unobtainium-Armbrust"
+	quest.480FA9FE57743B66.quest_subtitle: "&f5 &cAngriffsschaden"
+	quest.481205F0C9B08200.quest_subtitle: "Teakholz + Nelke"
+	quest.481735FE3164C8D5.quest_desc: ["&bBlaues Eis&r- 200 K \\n&bPackeis&r- 240 K \\n&bEis&r- 260 K \\nSchnee- 273 K \\n&9Wasser&r- 300"]
+	quest.481735FE3164C8D5.title: "&bKalte Gegenstände"
 	quest.4821419D44F8083F.quest_desc: [
-		"&9Growth Accelerators&r very slightly increase the growth speed of a seed when placed directly underneath the farmland. Each tier has a range of how many blocks 'up' it can accelerate, with Inferium being the lowest at 12. "
+		"&9Wachstumsbeschleuniger&r erhöhen geringfügig die Wachstumsgeschwindigkeit eines Samens, wenn sie direkt unter dem Ackerland platziert werden. Jede Stufe hat eine Reichweite, wie viele Blöcke 'nach oben' sie beschleunigen kann, wobei Inferium mit 12 die niedrigste ist. "
 		""
-		"Note: Growth Accelerators of all tiers provide the same rate of growth ticks. Higher tiers however have a larger range, so you can stack more of them below a single plant. It doesn't matter which tier you use as long as the Growth Accelerator is placed within its max range."
+		"Hinweis: Wachstumsbeschleuniger aller Stufen bieten die gleiche Rate an Wachstumsticks. Höhere Stufen haben jedoch eine größere Reichweite, sodass du mehr von ihnen unter einer einzelnen Pflanze stapeln kannst. Es spielt keine Rolle, welche Stufe du verwendest, solange der Wachstumsbeschleuniger innerhalb seiner maximalen Reichweite platziert ist."
 	]
-	quest.4821419D44F8083F.quest_subtitle: "Range: &e9&r Blocks"
-	quest.4821419D44F8083F.title: "&aInferium Growth Accelerator"
-	quest.482190A9DBE834BE.quest_desc: ["To those new to Apotheosis sockets are confusing and irritating. Your weapons and armor need sockets to use Gems with it. But what if it doesn't have a socket? Then you'll need a Sigil of Socketing! Combine your item and Sigil in a Smithing Table and boom you can get up to 3 sockets."]
-	quest.482190A9DBE834BE.title: "&5Sigil of Socketing&r"
-	quest.482E558BCFEE6B7E.quest_desc: ["&3Construction Bricks&r are cool building blocks, be careful they hurt. Craft them again to make them smooth."]
-	quest.482E558BCFEE6B7E.quest_subtitle: "There's no pain worse than stepping on these"
-	quest.4835BE1596B65206.quest_desc: ["Salt and Sulfuric Acid on Program 1 will make Sodium Bisulfate"]
-	quest.483892F0A0F75B97.quest_desc: ["&bFluid Pipes&r are what we'll use to actually move &bFluids&r automatically from one Inventory to another! \\n\\nYou can place them down and they will automatically connect to Inventories and other &bPipes&r. \\n\\nWith a Wrench you can add Windows to a &bPipe&r. These won't connect to parallel &bPipes&r without Windows. \\n\\nThe &bPipes&r themselves won't move &bFluids&r though, we'll need a &bMechanical Pump&r for that! \\n\\nWhen we do get &bPipes&r to start flowing though, we can use them to take &bFluids&r out from a Source Block or the opposite with placing down Source Blocks. \\n\\nThe &bPipe&r will need to have an Open End to do so though, so there can't be Blocks in the way."]
-	quest.483892F0A0F75B97.title: "&bFluid Pipe"
-	quest.4838AD09C9590D2F.quest_desc: ["This wafer serves as the basis for all higher tier PIC wafers, you'll make very many of these in due time"]
-	quest.483C1F4D099369A2.quest_subtitle: "Allows Storage of XP"
-	quest.4844DEF57A2287B4.quest_desc: ["Allows you to take items and fluids from one disk into another grid's disks."]
-	quest.4844DEF57A2287B4.title: "Disk Manipulator"
-	quest.484ABFF266C8791E.quest_desc: ["Orbflora are plants that grow from the Sea floor. \\n\\nThey can be harvested anytime but if you want the Orbflora Lights you'll need to wait! \\n\\nWhen they grow to the Sea Level they will flower. After flowering they will grow the Light!"]
-	quest.485117517649336C.quest_desc: ["The Large Solidifying Array is a direct replacement for the smaller single block Fluid Solidifiers you have become familiar with."]
-	quest.485117517649336C.quest_subtitle: "Sometimes you just gotta solidify it. LSA"
-	quest.48576E17428906E7.quest_desc: ["Making Antimatter is always a challenge. Process lines, the time to process, and the power. This will check off one of those items that will no longer be a concern."]
-	quest.48576E17428906E7.quest_subtitle: "Creative Chemicals"
-	quest.485AFAE5BBEF2FC7.title: "Animals"
-	quest.485D5664A17E16DF.quest_subtitle: "x8 Storage Upgrade"
-	quest.485D5664A17E16DF.title: "&6Copper Upgrade"
+	quest.4821419D44F8083F.quest_subtitle: "Reichweite: &e9&r Blöcke"
+	quest.4821419D44F8083F.title: "&aInferium-Wachstumsbeschleuniger"
+	quest.482190A9DBE834BE.quest_desc: ["Für Neulinge in Apotheosis sind Sockeln verwirrend und ärgerlich. Deine Waffen und Rüstungen benötigen Sockeln, um Edelsteine damit zu verwenden. Aber was, wenn sie keinen Sockel haben? Dann benötigst du ein Siegel der Sockelung! Kombiniere deinen Gegenstand und das Siegel in einem Schmiedetisch und schon kannst du bis zu 3 Sockeln bekommen."]
+	quest.482190A9DBE834BE.title: "&5Siegel der Sockelung&r"
+	quest.482E558BCFEE6B7E.quest_desc: ["&3Konstruktionsziegel&r sind coole Bauklötze, sei vorsichtig, sie tun weh. Crafte sie erneut, um sie glatt zu machen."]
+	quest.482E558BCFEE6B7E.quest_subtitle: "Es gibt keinen größeren Schmerz, als auf diese zu treten"
+	quest.4835BE1596B65206.quest_desc: ["Salz und Schwefelsäure auf Programm 1 werden Natriumbisulfat herstellen"]
+	quest.483892F0A0F75B97.quest_desc: ["&bFlüssigkeitsrohre&r sind das, was wir verwenden werden, um &bFlüssigkeiten&r automatisch von einem Inventar zum anderen zu bewegen! \\n\\nDu kannst sie platzieren und sie werden sich automatisch mit Inventaren und anderen &bRohren&r verbinden. \\n\\nMit einem Schraubenschlüssel kannst du Fenster zu einem &bRohr&r hinzufügen. Diese verbinden sich nicht mit parallelen &bRohren&r ohne Fenster. \\n\\nDie &bRohre&r selbst werden jedoch keine &bFlüssigkeiten&r bewegen, dafür benötigen wir eine &bMechanische Pumpe&r! \\n\\nWenn wir die &bRohre&r jedoch zum Fließen bringen, können wir sie verwenden, um &bFlüssigkeiten&r aus einem Quellblock zu entnehmen oder umgekehrt, um Quellblöcke zu platzieren. \\n\\nDas &bRohr&r muss dafür jedoch ein offenes Ende haben, es dürfen also keine Blöcke im Weg sein."]
+	quest.483892F0A0F75B97.title: "&bFlüssigkeitsrohr"
+	quest.4838AD09C9590D2F.quest_desc: ["Dieser Wafer dient als Grundlage für alle höherwertigen PIC-Wafer, du wirst mit der Zeit sehr viele davon herstellen"]
+	quest.483C1F4D099369A2.quest_subtitle: "Ermöglicht die Speicherung von XP"
+	quest.4844DEF57A2287B4.quest_desc: ["Ermöglicht es dir, Gegenstände und Flüssigkeiten von einer Disk in die Disks eines anderen Gitters zu übertragen."]
+	quest.4844DEF57A2287B4.title: "Disk-Manipulator"
+	quest.484ABFF266C8791E.quest_desc: ["Orbflora sind Pflanzen, die vom Meeresboden wachsen. \\n\\nSie können jederzeit geerntet werden, aber wenn du die Orbflora-Lichter haben möchtest, musst du warten! \\n\\nWenn sie bis zum Meeresspiegel gewachsen sind, werden sie blühen. Nach der Blüte werden sie das Licht wachsen lassen!"]
+	quest.485117517649336C.quest_desc: ["Das große Verfestigungsarray ist ein direkter Ersatz für die kleineren Einblock-Flüssigkeitsverfestiger, mit denen du vertraut geworden bist."]
+	quest.485117517649336C.quest_subtitle: "Manchmal muss man es einfach verfestigen. LSA"
+	quest.48576E17428906E7.quest_desc: ["Die Herstellung von Antimaterie ist immer eine Herausforderung. Prozesslinien, die Verarbeitungszeit und die Energie. Dies wird eines dieser Elemente abhaken, die keine Sorge mehr bereiten werden."]
+	quest.48576E17428906E7.quest_subtitle: "Kreative Chemikalien"
+	quest.485AFAE5BBEF2FC7.title: "Tiere"
+	quest.485D5664A17E16DF.quest_subtitle: "x8 Speicher-Upgrade"
+	quest.485D5664A17E16DF.title: "&6Kupfer-Upgrade"
 	quest.48600733998CA349.quest_desc: [
-		"This machine will turn ingots into their fluid form"
+		"Diese Maschine verwandelt Barren in ihre flüssige Form"
 		""
-		"It can also process some items into pulp, like sticky resin into raw rubber pulp"
+		"Sie kann auch einige Gegenstände zu Brei verarbeiten, wie klebrigen Harz zu Rohgummi-Brei"
 	]
-	quest.48600733998CA349.quest_subtitle: "Fluids and more"
-	quest.486060882E507CF1.quest_subtitle: "Spawns from a Dirt Nest"
+	quest.48600733998CA349.quest_subtitle: "Flüssigkeiten und mehr"
+	quest.486060882E507CF1.quest_subtitle: "Erscheint aus einem Erd-Nest"
 	quest.4869C413646CC4CC.quest_desc: [
-		"Transferring power out of your generators is probably a good idea, but how can you do it? "
+		"Energie aus deinen Generatoren zu übertragen ist wahrscheinlich eine gute Idee, aber wie kannst du das tun? "
 		""
-		"To start, you can use &cEnergy Pipes&r from the &aPipez&r mod, or you can use the &9Powah&r &cEnergy Cables&r if you have already started using that mod. "
+		"Zunächst kannst du &cEnergie-Rohre&r aus dem &aPipez&r-Mod verwenden, oder du kannst die &9Powah&r &cEnergiekabel&r verwenden, wenn du diesen Mod bereits benutzt. "
 		""
-		"Or if you want a throwback, this pack has &6EnderIO&r and you can use the &6Energy Conduits&r from it."
+		"Oder wenn du einen Rückblick willst, dieses Paket hat &6EnderIO&r und du kannst die &6Energieleitungen&r daraus verwenden."
 	]
-	quest.4869D9DBDD1A15CD.quest_desc: ["The &cC&6o&el&ao&br &cM&6o&ed&au&bl&ca&6t&ei&ao&bn &7Unit&r will allow you to change the &cC&6o&el&ao&br&r of the &a&lMekaSuit Part&r it is in. \\n\\nJust hold the &eItem&r and press (\\\\) in order to access its Configs. \\n\\nHow many &cC&6o&el&ao&br&ds&r do we have available? I don't know, how many &cC&6o&el&ao&br&ds&r do we have with the Hex Codes! \\n\\nThis will only effect that &a&lMekaSuit Part&r though, each &a&lMekaSuit Part&r will need their own &7Units&r."]
-	quest.4869D9DBDD1A15CD.quest_subtitle: "All Armor"
+	quest.4869D9DBDD1A15CD.quest_desc: ["Die &cF&6a&er&ab&be&cn&6e&ei&an&bh&ce&6i&et&a &7Einheit&r ermöglicht es dir, die &cF&6a&er&ab&be&r des &a&lMekaSuit-Teils&r zu ändern, in dem sie sich befindet. \\n\\nHalte einfach den &eGegenstand&r und drücke (\\\\), um auf seine Konfigurationen zuzugreifen. \\n\\nWie viele &cF&6a&er&ab&be&cn&r haben wir zur Verfügung? Ich weiß es nicht, wie viele &cF&6a&er&ab&be&cn&r haben wir mit den Hex-Codes! \\n\\nDies wird jedoch nur dieses &a&lMekaSuit-Teil&r beeinflussen, jedes &a&lMekaSuit-Teil&r wird seine eigenen &7Einheiten&r benötigen."]
+	quest.4869D9DBDD1A15CD.quest_subtitle: "Alle Rüstungen"
 	quest.4869D9DBDD1A15CD.title: "&cC&6o&el&ao&br &cM&6o&ed&au&bl&ca&6t&ei&ao&bn &7Unit"
 	quest.486B5A605D79EA10.quest_desc: ["These we can actually farm for! Milk that &cPyromancer&r!"]
 	quest.486B5A605D79EA10.title: "&cFire&r Upgrade Orb"
