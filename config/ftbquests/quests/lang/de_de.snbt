@@ -8498,256 +8498,256 @@
 		"{image:atm:textures/questpics/cataclysm/cataclysm_arena.png width:200 height:100 align:center}"
 	]
 	quest.50C9CB8FB16E453D.title: "&bBrennende Arena&r: Heimat von &b&lIgnis&r"
-	quest.50DBB87E53017E60.quest_desc: ["&bFluid Valves&r can be used to stop &bPipes&r from moving &bFluid&r. \\n\\nGive them a Rotation, most likely from a &cValve Handle&r, to stop moving &bFluids&r. \\n\\nJust Rotate it again to get the &bFluids&r back!"]
-	quest.50DBB87E53017E60.title: "&bFluid Valve"
+	quest.50DBB87E53017E60.quest_desc: ["&bFluidventile&r können verwendet werden, um &bRohre&r daran zu hindern, &bFlüssigkeiten&r zu bewegen. \n\nGib ihnen eine Drehung, meistens von einem &cVentilhebel&r, um das Bewegen von &bFlüssigkeiten&r zu stoppen. \n\nDrehe es einfach erneut, um die &bFlüssigkeiten&r wieder fließen zu lassen!"]
+	quest.50DBB87E53017E60.title: "&bFluidventil"
 	quest.50EEDDDE129D2742.quest_desc: ["{atm9.quest.enchant.desc.hellshelf}"]
 	quest.50EEDDDE129D2742.title: "{atm9.quest.enchant.hellshelf}"
-	quest.50F1C4521D282C60.quest_desc: ["The Bulwark are the heavy units of these militants. \\n\\nThey have 12 Hearts with 18 Armor Points! \\n\\nTheir weapon is the &b&lChemthrower&r with a &8&lHeavy Plated Shield&r in the Offhand. \\n\\nIf you somehow kill one you will get &aEmeralds&r and Masterwork Shader Bags!"]
-	quest.50F1C4521D282C60.title: "Bulwark"
-	quest.50F23B2688D7E699.quest_desc: ["With 1,000mB of &dAntimatter&r processed through a &5&lChemical Crystallizer&r we can make 1 &dAntimatter Pellet&r. \\n\\nThat means it takes 1,000,000mB &aPolonium&r or 1MmB &aPolonium&r. \\n\\nFor all that &aPolonium&r you'll need 5,000,000mB &8Nuclear Waste&r and &2Fissile Fuel&r to make the &8Nuclear Waste&r. Only 5MmB &2Fissile Fuel&r... only! \\n\\nBut finally, we have it! The most valued &eItem&r in all of &5&lMekanism&r! The &dAntimatter Pellet&r. \\n\\nWe can now make our MekaSuit, more storage for the &e&lQIO&r, and even the &6&lATM Star&r!"]
-	quest.5103C817381181DE.quest_desc: ["Allows you to use an Elytra while still having your Pneumatic Chestplate on."]
+	quest.50F1C4521D282C60.quest_desc: ["Die Bollwerke sind die schweren Einheiten dieser Militanten. \n\nSie haben 12 Herzen mit 18 Rüstungspunkten! \n\nIhre Waffe ist der &b&lChemiewerfer&r mit einem &8&lSchwer gepanzerten Schild&r in der Nebenhand. \n\nWenn du irgendwie einen tötest, erhältst du &aSmaragde&r und Meisterwerk-Shader-Taschen!"]
+	quest.50F1C4521D282C60.title: "Bollwerk"
+	quest.50F23B2688D7E699.quest_desc: ["Mit 1.000mB &dAntimaterie&r, die durch einen &5&lChemischen Kristallisierer&r verarbeitet werden, können wir 1 &dAntimaterie-Pellet&r herstellen. \n\nDas bedeutet, es benötigt 1.000.000mB &aPolonium&r oder 1MmB &aPolonium&r. \n\nFür all dieses &aPolonium&r benötigst du 5.000.000mB &8Atommüll&r und &2Spaltbaren Brennstoff&r, um den &8Atommüll&r herzustellen. Nur 5MmB &2Spaltbarer Brennstoff&r... nur! \n\nAber endlich haben wir es! Den wertvollsten &eGegenstand&r in ganz &5&lMekanism&r! Das &dAntimaterie-Pellet&r. \n\nWir können jetzt unseren MekaSuit herstellen, mehr Speicher für das &e&lQIO&r und sogar den &6&lATM-Stern&r!"]
+	quest.5103C817381181DE.quest_desc: ["Ermöglicht es dir, eine Elytra zu benutzen, während du noch deinen pneumatischen Brustpanzer trägst."]
 	quest.5103C817381181DE.quest_subtitle: "Max: 1"
 	quest.511144EF336BFAF5.quest_desc: [
-		"The Smog Spires are... yep you guessed it! Where all the Smog comes from! Well not all, we can't discredit the &2Mogs&r and &3S'mogs&r. \\n\\nHere you will find Blisterberries, Coarse Deepsoil, and Smog Vents. I wouldn't recommend going near them though..."
+		"Die Smog-Türme sind... ja, du hast es erraten! Woher der ganze Smog kommt! Nun, nicht alles, wir können die &2Mogs&r und &3S'mogs&r nicht übersehen. \n\nHier findest du Blisterbeeren, groben Tiefenboden und Smog-Entlüftungen. Ich würde jedoch nicht empfehlen, in deren Nähe zu gehen..."
 		"{image:atm:textures/questpics/undergarden/undergarden_smogspires.png width:200 height:100 align:center}"
 	]
-	quest.511144EF336BFAF5.title: "Smog Spires"
-	quest.511562EA5811306B.title: "Diamond Fishing Rod"
-	quest.51162B9185A45BB1.quest_desc: ["This bow can be inscribed with a spell using a Scribe's Table. \\n\\nAt the cost of mana, arrows will become Spell Arrows and will apply the spell on their target. \\n\\nIf you have no arrows, a spell arrow that deals 0 damage will be cast. If there is not enough mana, regular arrows will be fired instead. \\n\\nThe &9Enchanter's Bow&r can also use special Augment Arrows that empower the inscribed spell."]
+	quest.511144EF336BFAF5.title: "Smog-Türme"
+	quest.511562EA5811306B.title: "Diamant-Angelrute"
+	quest.51162B9185A45BB1.quest_desc: ["Dieser Bogen kann mit einem Zauber an einem Schreibtisch des Schreibers versehen werden. \n\nAuf Kosten von Mana werden Pfeile zu Zauberpfeilen und wenden den Zauber auf ihr Ziel an. \n\nWenn du keine Pfeile hast, wird ein Zauberpfeil abgefeuert, der keinen Schaden verursacht. Wenn nicht genug Mana vorhanden ist, werden stattdessen reguläre Pfeile abgefeuert. \n\nDer &9Verzaubererbogen&r kann auch spezielle Verstärkungspfeile verwenden, die den eingravierten Zauber verstärken."]
 	quest.511FB322F176D88C.quest_desc: [
-		"Finally, the highest tier of rubber, &dStyrene Butadiene Rubber&r"
+		"Endlich, die höchste Stufe von Gummi, &dStyrol-Butadien-Kautschuk&r"
 		""
-		"You can coat wires using very little of this, and it will come in handy later on when making higher tier conveyor modules"
+		"Du kannst Drähte mit sehr wenig davon ummantelieren, und es wird später beim Herstellen höherer Fördermodule nützlich sein"
 	]
-	quest.51236544BFEF487B.quest_desc: ["It is time to find &eMeteorites&f that contain &bSky Stone&f. These can be either on the surface or underground, and contain a &bMysterious Cube&f in its center.\\n\\nThis cube contains all of the different &ePresses&f used in the Inscriber to make AE2's special crafting components.\\n\\nThe easiest way to locate a meteorite is by crafting a &eMeteorite Compass&r by placing a compass inside of a Charger."]
-	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: shearching 4 bobby [Fischer]'"
-	quest.51236544BFEF487B.title: "Meteorite hunting"
-	quest.512396B331108BAF.quest_subtitle: "Tier: &e5"
+	quest.51236544BFEF487B.quest_desc: ["Es ist Zeit, &eMeteoriten&f zu finden, die &bHimmelssteine&f enthalten. Diese können entweder an der Oberfläche oder unterirdisch sein und enthalten einen &bGeheimnisvollen Würfel&f in ihrem Zentrum.\n\nDieser Würfel enthält alle verschiedenen &ePressen&f, die im Inschreiber verwendet werden, um die speziellen Herstellungskomponenten von AE2 herzustellen.\n\nDer einfachste Weg, einen Meteoriten zu finden, ist die Herstellung eines &eMeteoriten-Kompasses&r, indem man einen Kompass in ein Ladegerät legt."]
+	quest.51236544BFEF487B.quest_subtitle: "'COMIC #42: auf der Suche nach Bobby [Fischer]'"
+	quest.51236544BFEF487B.title: "Meteoritenjagd"
+	quest.512396B331108BAF.quest_subtitle: "Stufe: &e5"
 	quest.5128B119DFFF0C4C.quest_desc: [
-		"The &3Steam Locomotive&r is the most basic &5Locomotive&r. It can be powered by giving it water, furnance fuel, and waiting. It'll need constant water to keep working. \\n\\nDon't worry that just means the smoke coming out of the top of it is Water Vapor, which is safe for the Environment. Well the Coal part isn't the best for the Environment... eh its &2Minecraft&r what do we care!"
+		"Die &3Dampflokomotive&r ist die grundlegendste &5Lokomotive&r. Sie kann angetrieben werden, indem man ihr Wasser und Ofenbrennstoff gibt und wartet. Sie benötigt ständig Wasser, um zu funktionieren. \n\nKeine Sorge, das bedeutet nur, dass der Rauch, der aus der Spitze kommt, Wasserdampf ist, was umweltfreundlich ist. Nun, der Kohleteil ist nicht das Beste für die Umwelt... naja, es ist &2Minecraft&r, was kümmert es uns!"
 		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
 	]
-	quest.5128B119DFFF0C4C.title: "&3Steam Locomotive"
+	quest.5128B119DFFF0C4C.title: "&3Dampflokomotive"
 	quest.512BD9BCA43AEE83.quest_desc: [
-		"The electrolyzer will separate compounds into constituent compounds based on their electric charge"
+		"Der Elektrolyseur trennt Verbindungen basierend auf ihrer elektrischen Ladung in Bestandteile"
 		""
-		"In our case, it will separate the &dArsenic Trioxide&r into &eArsenic&r and &bOxygen&r"
+		"In unserem Fall wird er &dArsentrisulfid&r in &eArsen&r und &bSauerstoff&r trennen"
 	]
-	quest.512BD9BCA43AEE83.quest_subtitle: "Shock me like an electric eel"
+	quest.512BD9BCA43AEE83.quest_subtitle: "Schock mich wie ein elektrischer Aal"
 	quest.513060836057E5B7.quest_desc: [
-		"&e&lPollinated Fields&r are... ACHEW... like the Plains Biome but full of &ePollen&r! ACHEW... &ePollen&r places like layered Snow, it... ACHEW... stacks on top of other &ePollen&r and falls with Gravity... ACHEW. It will slow you down when walking through it, similar to... ACHEW... Powdered Snow.\\n"
+		"&e&lBestäubte Felder&r sind... HATSCHIE... wie das Ebenen-Biom, aber voll mit &ePollen&r! HATSCHIE... &ePollen&r liegt wie Schneeschichten, es... HATSCHIE... stapelt sich auf anderen &ePollen&r und fällt mit der Schwerkraft... HATSCHIE. Es verlangsamt dich beim Durchlaufen, ähnlich wie Pulverschnee.\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_pollenfields.png width:200 height:100 align:center}"
 	]
-	quest.513060836057E5B7.title: "&e&lPollinated Fields"
-	quest.5134C81D96C55375.quest_desc: ["&5Train Observers&r work like a fancy Detection Rail. \\n\\nWhen a &5Train&r rolls over it the &7Track&r it is set to (which is chosen like the &5Train Station&r) it will give a &4Redstone Signal&r. \\n\\nYou can also place Filters into the &5Observer&r to only get &4Redstone Signals&r when the &5Train&r has that &eItem &for &bFluid&r within."]
-	quest.5134C81D96C55375.title: "&5Train Observer"
+	quest.513060836057E5B7.title: "&e&lBestäubte Felder"
+	quest.5134C81D96C55375.quest_desc: ["&5Zugbeobachter&r funktionieren wie eine ausgeklügelte Detektionsschiene. \n\nWenn ein &5Zug&r darüber fährt, wird die &7Schiene&r, auf die er eingestellt ist (die wie die &5Zugstation&r ausgewählt wird), ein &4Redstone-Signal&r geben. \n\nDu kannst auch Filter in den &5Beobachter&r legen, um nur &4Redstone-Signale&r zu erhalten, wenn der &5Zug&r diesen &eGegenstand &foder diese &bFlüssigkeit&r enthält."]
+	quest.5134C81D96C55375.title: "&5Zugbeobachter"
 	quest.5143E0F48520D41B.quest_desc: [
-		"Chemical react sulfur dioxide with more oxygen to make sulfur trioxide"
+		"Chemisch reagiere Schwefeldioxid mit mehr Sauerstoff, um Schwefeltrioxid herzustellen"
 		""
-		"Oxygen is very important, you may want to go back and dedicate an entire setup to passively produce it if you haven't already"
+		"Sauerstoff ist sehr wichtig, vielleicht möchtest du zurückgehen und ein ganzes Setup widmen, um ihn passiv zu produzieren, falls du das noch nicht getan hast"
 	]
-	quest.51494B3023705E54.title: "Garnet Vein"
-	quest.5149BDF6BC4B3857.quest_desc: ["Or, make a Durability Exchange and toss strong (but not too strong) Items into it. \\n\\nI recommend Items like &5Netherite Shovels&r!"]
-	quest.5149BDF6BC4B3857.title: "Durability Exchange"
-	quest.5151CDD8FCDE7A07.quest_desc: ["Welcome to Basic Tools!\\n\\nEver get a tool you've never seen or heard of and wanted to know where it lies among other tools? Then these quests are perfect for you!\\n\\n(The swords are sorted by base damage, swords that can be upgraded or used to get more damage are not included).\\n\\nThe quests for all the pickaxes and swords are OPTIONAL!"]
-	quest.5151CDD8FCDE7A07.quest_subtitle: "All The Tools"
-	quest.5151CDD8FCDE7A07.title: "Basic Tools!"
-	quest.51538F4DCE24E3E7.quest_desc: ["The &5Multi&f-&2Piston&r is a confusing but helpful little Machine made for moving Blocks! \\n\\nRight Click the &2Piston&r to open its GUI, there we can set the Sides, Spacing, and Speed. \\n\\nThe Sides are the Colors of the Piston: &eYellow&r is &eUp&r, &6Orange&r is &6Down&r, &9Blue&r is &9North&r, &2Green&r is &2East&r, &4Red&r is &4South&r, and &5Purple&r is &5West&r. \\n\\nYou'll need to set the Colors of the Input and Output, which sides you want the Blocks to move from and to! \\n\\nSpacing is how many Blocks you want moved from that side, if you make it 3, it'll move 3 Blocks from one side to the other. If you set it to 30, 30 Blocks will be moved. \\n\\nSpeed is just how quickly it moves them. \\n\\nIt will need a &cRedstone Signal&r to actually work, and some Blocks like Chests, it can't move."]
-	quest.51538F4DCE24E3E7.title: "&l&5Multi&f-&2Piston"
-	quest.51592B271E56C6B2.quest_subtitle: "Tier: &a2"
-	quest.515A60B89ED5440D.quest_desc: ["&7Stone Generator&r is only for the &7&lDigital Miner&r. \\n\\nWhen used in it, they will automatically make &7Stone&r, instead of needing handouts. \\n\\nIt will use these &7Stones&r to replace the Ores it picks up!"]
-	quest.515A60B89ED5440D.title: "&7Stone Generator &8Upgrade"
+	quest.51494B3023705E54.title: "Granat-Ader"
+	quest.5149BDF6BC4B3857.quest_desc: ["Oder stelle einen Haltbarkeitsaustausch her und wirf starke (aber nicht zu starke) Gegenstände hinein. \n\nIch empfehle Gegenstände wie &5Netherit-Schaufeln&r!"]
+	quest.5149BDF6BC4B3857.title: "Haltbarkeitsaustausch"
+	quest.5151CDD8FCDE7A07.quest_desc: ["Willkommen bei den grundlegenden Werkzeugen!\n\nHast du jemals ein Werkzeug bekommen, das du noch nie gesehen oder von dem du noch nie gehört hast, und wolltest wissen, wo es unter anderen Werkzeugen steht? Dann sind diese Quests perfekt für dich!\n\n(Die Schwerter sind nach Basisschaden sortiert, Schwerter, die aufgewertet werden können oder verwendet werden können, um mehr Schaden zu verursachen, sind nicht enthalten).\n\nDie Quests für alle Spitzhacken und Schwerter sind OPTIONAL!"]
+	quest.5151CDD8FCDE7A07.quest_subtitle: "Alle Werkzeuge"
+	quest.5151CDD8FCDE7A07.title: "Grundlegende Werkzeuge!"
+	quest.51538F4DCE24E3E7.quest_desc: ["Der &5Multi&f-&2Kolben&r ist eine verwirrende, aber nützliche kleine Maschine zum Bewegen von Blöcken! \n\nKlicke mit der rechten Maustaste auf den &2Kolben&r, um seine Benutzeroberfläche zu öffnen. Dort können wir die Seiten, den Abstand und die Geschwindigkeit einstellen. \n\nDie Seiten sind die Farben des Kolbens: &eGelb&r ist &eOben&r, &6Orange&r ist &6Unten&r, &9Blau&r ist &9Norden&r, &2Grün&r ist &2Osten&r, &4Rot&r ist &4Süden&r und &5Lila&r ist &5Westen&r. \n\nDu musst die Farben des Ein- und Ausgangs festlegen, also von welchen Seiten zu welchen Seiten die Blöcke bewegt werden sollen! \n\nAbstand ist, wie viele Blöcke du von dieser Seite bewegen möchtest. Wenn du 3 einstellst, werden 3 Blöcke von einer Seite zur anderen bewegt. Wenn du 30 einstellst, werden 30 Blöcke bewegt. \n\nGeschwindigkeit ist einfach, wie schnell er sie bewegt. \n\nEr benötigt ein &cRedstone-Signal&r, um tatsächlich zu funktionieren, und einige Blöcke wie Truhen kann er nicht bewegen."]
+	quest.51538F4DCE24E3E7.title: "&l&5Multi&f-&2Kolben"
+	quest.51592B271E56C6B2.quest_subtitle: "Stufe: &a2"
+	quest.515A60B89ED5440D.quest_desc: ["&7Steingenerator&r ist nur für den &7&lDigitalen Bergbauer&r. \n\nWenn er darin verwendet wird, wird automatisch &7Stein&r erzeugt, anstatt Hilfe von außen zu benötigen. \n\nEr wird diese &7Steine&r verwenden, um die Erze zu ersetzen, die er abbaut!"]
+	quest.515A60B89ED5440D.title: "&7Steingenerator &8Upgrade"
 	quest.515C0527226BA50C.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFunktion der Fähigkeit:&r"
 		""
-		"Grants the player creative flight."
+		"Gewährt dem Spieler kreativen Flug."
 	]
 	quest.515D958C0F436BE8.quest_desc: [
-		"This will be the last Coil we will have to craft for our Energy Hatches!"
+		"Dies wird die letzte Spule sein, die wir für unsere Energieschächte herstellen müssen!"
 		""
-		"There is still 1 more tier after this, but in terms of the Coils used for Energy Hatches, this is the last tier that requires one as a crafting component!"
+		"Es gibt noch 1 weitere Stufe danach, aber in Bezug auf die Spulen, die für Energieschächte verwendet werden, ist dies die letzte Stufe, die eine als Herstellungskomponente benötigt!"
 	]
-	quest.515D958C0F436BE8.quest_subtitle: "Ultimate Voltage"
-	quest.515E7703BA1F55FB.quest_desc: ["The &dOther&r is home to several dungeons filled to the brim with loot and spawners. You can also find the boss of the ATM packs, the &5Piglich&r. Good luck killing this guy!"]
-	quest.515E7703BA1F55FB.title: "&aThe&r &dOther&r &aDimension&r"
-	quest.5160D62F07A642A7.quest_subtitle: "Rowan + Beech"
-	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes are dropped from Freezes in the Golem Forge. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
-	quest.516E66BE01EE5B31.quest_desc: ["&8Tomes of Weaponry&r will give &5Enchantments&r for Swords and Axes. \\n\\nMostly the ones that help with Killing things! Like &5Sharpness &fand &5Fire Aspect&r. \\n&8Tomes of Archery&r will give &5Enchantments&r for ranged Weapons, the Bow and Crossbow. \\n\\n&5Piercing&f, &5Power&f, and &5Knockback&r!"]
-	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
+	quest.515D958C0F436BE8.quest_subtitle: "Ultimative Spannung"
+	quest.515E7703BA1F55FB.quest_desc: ["Der &dOther&r beherbergt mehrere Dungeons, die randvoll mit Beute und Spawnern gefüllt sind. Du kannst auch den Boss der ATM-Packs finden, den &5Piglich&r. Viel Glück, diesen Kerl zu töten!"]
+	quest.515E7703BA1F55FB.title: "&aDie&r &dAndere&r &aDimension&r"
+	quest.5160D62F07A642A7.quest_subtitle: "Rowan + Buche"
+	quest.516AC1F0E0BCAE55.quest_desc: ["Gefrorene Röhren werden von Einfrierungen in der Golam-Schmiede fallen gelassen. \n\nSie können wie Tränke geworfen werden, um denjenigen zu verletzen, der getroffen wird."]
+	quest.516E66BE01EE5B31.quest_desc: ["&8Waffenbücher&r geben &5Verzauberungen&r für Schwerter und Äxte. \n\nHauptsächlich solche, die beim Töten helfen! Wie &5Schärfe &fund &5Feueraspekt&r. \n&8Bogen-Bücher&r geben &5Verzauberungen&r für Fernkampfwaffen, den Bogen und die Armbrust. \n\n&5Durchbohrung&f, &5Stärke&f und &5Rückstoß&r!"]
+	quest.516E66BE01EE5B31.title: "&8Waffen-Bücher"
 	quest.516ECA0396621C32.quest_desc: [
-		"How do we know its &aGreen&r? The Grass is &aGreen&r but it's also in every other Sanctum. The &aAzaela Bushes&r and &aGreen Luminescent Ancient Wax&r show it's the &aGreen one&r. \\n\\nFollow the Windy Air and wet sewers into the main room to find &aGreen Essence&r. \\n\\nGo into it and a Boss fight between a Rootmin will start. Get on the other platform and hit the Dirt Pellets back at him to lower his Boss Bar at the top."
+		"Woher wissen wir, dass es &aGrün&r ist? Das Gras ist &aGrün&r, aber es ist auch in jedem anderen Heiligtum. Die &aAzalea-Büsche&r und das &aGrüne leuchtende antike Wachs&r zeigen, dass es das &aGrüne&r ist. \n\nFolge der windigen Luft und den nassen Abwasserkanälen in den Hauptraum, um &aGrüne Essenz&r zu finden. \n\nGehe hinein und ein Bosskampf mit einem Rootmin beginnt. Gehe auf die andere Plattform und schlage die Erdpellets zu ihm zurück, um seine Bossleiste oben zu senken."
 		"{image:atm:textures/questpics/bumblezone/bumble_green1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_green2.png width:200 height:100 align:center}"
 	]
-	quest.516ECA0396621C32.title: "&aGreen Sempiternal Sanctum"
-	quest.517F0135926B15EE.quest_desc: ["All simple machines come with redstone controll, and some come with filtering."]
+	quest.516ECA0396621C32.title: "&aGrünes Ewiges Heiligtum"
+	quest.517F0135926B15EE.quest_desc: ["Alle einfachen Maschinen verfügen über Redstone-Steuerung, und einige verfügen über Filterung."]
 	quest.5180CDD196518F64.quest_desc: [
-		"The &6Strap Iron Tracks&r, like the &6Abandoned Tracks&r, are perfect for the cheapskates. They go much slower than the other &6tracks&r but no risk of derailment!"
+		"Die &6Bügeleisenschienen&r sind, wie die &6Verlassenen Schienen&r, perfekt für Sparfüchse. Sie sind viel langsamer als die anderen &6Schienen&r, aber ohne Risiko einer Entgleisung!"
 		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
 	]
-	quest.5180CDD196518F64.title: "&6Strap Iron Tracks"
-	quest.518105318E1C38B2.quest_subtitle: "&9Tier 1&r"
-	quest.5194A067BEA98E79.quest_desc: ["Hey, I remember you! \\n\\nTurns out, the &5&lIsotopic Centrifuge&r is used for 2 Recipes. &2Fissile Fuel&r and &3Plutonium&r! \\n\\nFor each 5mB of &8Nuclear Waste&r we can create 1mB of &3Plutonium&r. \\n\\nIf each &3Plutonium Pellets&r are 1,000mB worth of &3Plutonium&r, then we'll need 5,000mB of &8Nuclear Waste&r and the same for &2Fissile Fuel&r."]
-	quest.5194A067BEA98E79.title: "Spinning for &3Plutonium"
-	quest.519604E883E6B620.quest_desc: ["You'll need this to hold a &dWither&r in place so you can extract &bEther Gas&r from it!"]
-	quest.519604E883E6B620.title: "Statis Chamber"
-	quest.51A567FB870F026E.title: "Steam Age"
-	quest.51A57E142C686C8F.quest_desc: ["The fifth and final MEGA tier of storage component, providing &e268435456&f (262144k) bytes of storage."]
+	quest.5180CDD196518F64.title: "&6Bügeleisenschienen"
+	quest.518105318E1C38B2.quest_subtitle: "&9Stufe 1&r"
+	quest.5194A067BEA98E79.quest_desc: ["Hey, ich erinnere mich an dich! \n\nStellt sich heraus, dass die &5&lIsotopenzentrifuge&r für 2 Rezepte verwendet wird. &2Spaltbarer Brennstoff&r und &3Plutonium&r! \n\nFür jeweils 5mB &8Atommüll&r können wir 1mB &3Plutonium&r erzeugen. \n\nWenn jedes &3Plutonium-Pellet&r 1.000mB &3Plutonium&r wert ist, dann benötigen wir 5.000mB &8Atommüll&r und dasselbe für &2Spaltbaren Brennstoff&r."]
+	quest.5194A067BEA98E79.title: "Drehen für &3Plutonium"
+	quest.519604E883E6B620.quest_desc: ["Du wirst dies benötigen, um einen &dWither&r an Ort und Stelle zu halten, damit du &bÄthergas&r daraus extrahieren kannst!"]
+	quest.519604E883E6B620.title: "Stasis-Kammer"
+	quest.51A567FB870F026E.title: "Dampfzeitalter"
+	quest.51A57E142C686C8F.quest_desc: ["Die fünfte und letzte MEGA-Stufe der Speicherkomponente, die &e268435456&f (262144k) Byte Speicher bietet."]
 	quest.51A57E142C686C8F.quest_subtitle: "x4^4"
-	quest.51A57E142C686C8F.title: "256M Storage Component"
-	quest.51B24CC5E9332C1E.quest_desc: ["Sometimes when you kill a mob, a &dVengeance Spirit&r will spawn.\\n\\nTheir &dEssence&r seems to be useful in crafting more advanced items within EvilCraft.\\n\\nNot finding many Spirits? Make a &9Vengeance Ring&r and toggle it on to attract more Spirits during your battles."]
-	quest.51B24CC5E9332C1E.title: "Revenge of the &dSpirits"
-	quest.51BC981AB4CFAD95.quest_desc: ["The Mazebreaker is a special pickaxe that is rarely found in Labyrinths.\\n\\nThis pickaxe will take 1 damage when breaking Maze Walls, instead of the 16 damage for all other pickaxes!"]
-	quest.51BC981AB4CFAD95.quest_subtitle: "Trapped Chamber, do not enter?"
-	quest.51C59FDF0BD11FDF.quest_desc: ["I'm pretty sure the only definition of what a Wigglewood Tree is that it has Wigglewood Logs and Leaves. They seem to grow in any direction, size, and shape. \\n\\nYou can find them in Wigglewood Forests and Dense Forests. \\n\\nThey have pretty pink Leaves and brown Logs similar to Spruce!"]
+	quest.51A57E142C686C8F.title: "256M Speicherkomponente"
+	quest.51B24CC5E9332C1E.quest_desc: ["Manchmal, wenn du einen Mob tötest, erscheint ein &dRachegeist&r.\n\nIhre &dEssenz&r scheint für die Herstellung fortschrittlicherer Gegenstände in EvilCraft nützlich zu sein.\n\nFindest du nicht viele Geister? Stelle einen &9Rache-Ring&r her und schalte ihn ein, um während deiner Kämpfe mehr Geister anzuziehen."]
+	quest.51B24CC5E9332C1E.title: "Rache der &dGeister"
+	quest.51BC981AB4CFAD95.quest_desc: ["Der Labyrinthbrecher ist eine spezielle Spitzhacke, die selten in Labyrinthen gefunden wird.\n\nDiese Spitzhacke nimmt beim Zerstören von Labyrinthwänden nur 1 Schaden, anstatt 16 Schaden für alle anderen Spitzhacken!"]
+	quest.51BC981AB4CFAD95.quest_subtitle: "Gefangene Kammer, nicht betreten?"
+	quest.51C59FDF0BD11FDF.quest_desc: ["Ich bin ziemlich sicher, dass die einzige Definition eines Wigglewood-Baums ist, dass er Wigglewood-Stämme und -Blätter hat. Sie scheinen in jede Richtung, Größe und Form zu wachsen. \n\nDu kannst sie in Wigglewood-Wäldern und dichten Wäldern finden. \n\nSie haben hübsche rosa Blätter und braune Stämme ähnlich wie Fichte!"]
 	quest.51CEE80605BFF40C.quest_desc: [
-		"&4Increasing Innate Cap requires throwing Ender Upgrade Orbs (26 max) in Mahou lake along with Caliburn&r "
-		"&5Converting Caliburn to Morgan requires killing Warden with Caliburn&r"
+		"&4Das Erhöhen der angeborenen Grenze erfordert das Werfen von Ender-Verbesserungskugeln (maximal 26) in den Mahou-See zusammen mit Caliburn&r "
+		"&5Das Umwandeln von Caliburn in Morgan erfordert das Töten eines Wächters mit Caliburn&r"
 	]
-	quest.51CEE80605BFF40C.quest_subtitle: "ATM10 Mahou Changes"
+	quest.51CEE80605BFF40C.quest_subtitle: "ATM10 Mahou-Änderungen"
 	quest.51CEE80605BFF40C.title: "Mahou Tsukai"
 	quest.51DB667E991E51F0.quest_desc: [
-		"A new setup for ore processing! "
+		"Ein neues Setup für die Erz-Verarbeitung! "
 		""
-		"[ \"\", { \"text\": \"The \" }, { \"text\": \"Sifter \", \"color\":\"yellow\" }, { \"text\": \"replaces the Thermal Centrifuge and 2nd Macerator in the \" }, { \"text\":\"Ore Processing Setup\", \"color\":\"gold\", \"clickEvent\": { \"action\":\"change_page\", \"value\":\"25DBFE887B041E94\" }, \"underlined\":\"true\", \"hoverEvent\": { \"action\":\"show_text\", \"contents\": { \"text\":\"Click here for a reminder\" } } } ]"
+		"[ \"\", { \"text\": \"Der \" }, { \"text\": \"Sieber \", \"color\":\"yellow\" }, { \"text\": \"ersetzt die Thermische Zentrifuge und den 2. Zerkleinerer im \" }, { \"text\":\"Erz-Verarbeitungs-Setup\", \"color\":\"gold\", \"clickEvent\": { \"action\":\"change_page\", \"value\":\"25DBFE887B041E94\" }, \"underlined\":\"true\", \"hoverEvent\": { \"action\":\"show_text\", \"contents\": { \"text\":\"Klicke hier für eine Erinnerung\" } } } ]"
 		""
-		"You don't have to build a new setup just for this if you are clever with filters and your item flow, but a new setup is probably less work"
+		"Du musst kein neues Setup nur dafür bauen, wenn du geschickt mit Filtern und deinem Gegenstandsfluss umgehst, aber ein neues Setup ist wahrscheinlich weniger Arbeit"
 	]
-	quest.51DBD03FB5F3E26F.quest_desc: ["Now these are some high tier plates! But its reasonable for the Highest tier Machine Hull to require the highest tier plates."]
-	quest.51DBD03FB5F3E26F.quest_subtitle: "High Quality Plates"
-	quest.51DBE688ED630DB1.quest_subtitle: "Tier: &54"
+	quest.51DBD03FB5F3E26F.quest_desc: ["Dies sind einige hochwertige Platten! Aber es ist angemessen, dass das Maschinengehäuse der höchsten Stufe die Platten der höchsten Stufe benötigt."]
+	quest.51DBD03FB5F3E26F.quest_subtitle: "Hochwertige Platten"
+	quest.51DBE688ED630DB1.quest_subtitle: "Stufe: &54"
 	quest.51DE3157DE3E57B8.quest_desc: [
-		"Storage is nice and all that, but what good is a storage system if it's clogged up with raw materials needing to be crafted and processed into something and you're still stuck with having to do so manually? "
+		"Speicherung ist schön und gut, aber was nützt ein Speichersystem, wenn es mit Rohmaterialien verstopft ist, die zu etwas verarbeitet werden müssen, und du immer noch manuell arbeiten musst? "
 		""
-		"AE2's &eauto-crafting&f system begins with the &bME Pattern Provider&f. The Pattern Provider holds certain items called &bPatterns&f (covered in the next quest) which are programmed to hold some recipe that turns input items into a certain output. Up to 9 patterns can fit in one provider. "
+		"Das Auto-Crafting-System von AE2 beginnt mit dem &bME Muster-Provider&f. Der Muster-Provider enthält bestimmte Gegenstände, sogenannte &bMuster&f (in der nächsten Quest behandelt), die so programmiert sind, dass sie ein Rezept enthalten, das Eingangsgegenstände in eine bestimmte Ausgabe umwandelt. Bis zu 9 Muster passen in einen Provider. "
 		""
-		"You'll often be making use of multiple pattern providers scattered all throughout your base, which is why it's useful to have a &bPattern Access Terminal&f to remotely access the contents of any and all providers on your wider ME network."
+		"Du wirst oft mehrere Muster-Provider verwenden, die in deiner Basis verstreut sind, weshalb es nützlich ist, ein &bMusterzugriffsterminal&f zu haben, um aus der Ferne auf den Inhalt aller Provider in deinem größeren ME-Netzwerk zuzugreifen."
 	]
-	quest.51DE3157DE3E57B8.quest_subtitle: "Order up"
+	quest.51DE3157DE3E57B8.quest_subtitle: "Bestellung aufgegeben"
 	quest.51DE3157DE3E57B8.title: "Auto-Crafting"
-	quest.51E2728C5E35A152.quest_desc: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icey Seas. \\n\\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \\n\\nYou might also find some Nuggets in Munchers bellies!"]
-	quest.51E2728C5E35A152.title: "&bFroststeel&r"
-	quest.51E554305FFEBA1D.quest_desc: ["&4Blazing Hellshelves&r give a bit of &cQuanta&r and &aEterna&r but they aren't the cheap option we are looking for, for our &d&lInfusions&r!"]
-	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
-	quest.51E77B9CD3FB6DEA.quest_desc: ["This isn't necessary but I find it very helpful. \\n\\nThe Digging Claws increases your Pickaxe Tier, for your Hands. So you can Mine up to Iron Ore with just your Fists! \\n\\nThat also includes mining things like Stone, Terracotta, and Concrete. And you can even mine those with the Blocks in your Hands. \\n\\nHonestly it basically is needed."]
+	quest.51E2728C5E35A152.quest_desc: ["Froststahl spawnt in den gefrorenen Biomen: Frostfelder, Frostige Rauchstamm-Wälder und wahrscheinlich Eisige Meere. \n\nEs spawnt in Zitterstein, der Tiefgestein in diesen Biomen ersetzt. Der Zitterstein verhält sich ähnlich wie Eis, da er rutschig ist und dich ein wenig verlangsamt. \n\nDu findest vielleicht auch einige Nuggets in den Bäuchen der Muncher!"]
+	quest.51E2728C5E35A152.title: "&bFroststahl&r"
+	quest.51E554305FFEBA1D.quest_desc: ["&4Flammende Höllenregale&r geben ein bisschen &cQuanta&r und &aEterna&r, aber sie sind nicht die günstige Option, die wir für unsere &d&lInfusionen&r suchen!"]
+	quest.51E554305FFEBA1D.title: "&4Flammendes Höllenregal"
+	quest.51E77B9CD3FB6DEA.quest_desc: ["Dies ist nicht notwendig, aber ich finde es sehr hilfreich. \n\nDie Grabklauen erhöhen deine Spitzhackenstufe für deine Hände. So kannst du bis zu Eisenerz mit bloßen Fäusten abbauen! \n\nDazu gehört auch das Abbauen von Dingen wie Stein, Terrakotta und Beton. Und du kannst diese sogar mit den Blöcken in deinen Händen abbauen. \n\nEhrlich gesagt ist es im Grunde notwendig."]
 	quest.51E9D03CD755A607.quest_desc: [
-		"Plan on storing Liquids? You'll need a &9Fluid Grid&r to be able to see what fluids you have in your Fluid Disks.  "
+		"Planst du, Flüssigkeiten zu speichern? Du wirst ein &9Flüssigkeits-Grid&r benötigen, um sehen zu können, welche Flüssigkeiten du in deinen Flüssigkeits-Disks hast.  "
 		""
-		"Pro Tip: If you want to store gases from Mekanism, see if you can turn it into a liquid first using a Rotary Condensentrator."
+		"Profi-Tipp: Wenn du Gase von Mekanism speichern willst, schau, ob du sie zuerst mit einem Rotary Condensentrator in eine Flüssigkeit umwandeln kannst."
 	]
-	quest.51E9D03CD755A607.title: "Fluid Grid"
-	quest.51EA6B1452883AB2.quest_desc: ["Linear Chasis work like Puddy in real life, only connecting to each other. \\n\\nLinear Chasis, which are facing the same way, will automatically connect as if they were Glued. Other Linear Chasis or ones facing different ways, will not stick together. \\n\\nYou can then use Glue on the Top and Bottom of the Linear Chasis to connect a line of Blocks from it. So all Blocks on top of those will be Glued to the Linear Chasis. Very helpful for saving Glue! \\n\\nWith the Wrench you can set how many Blocks get Glued on the Top or Bottom of the Linear Chasis."]
-	quest.51EA6B1452883AB2.title: "&aLinear Chasis"
+	quest.51E9D03CD755A607.title: "Flüssigkeits-Grid"
+	quest.51EA6B1452883AB2.quest_desc: ["Lineares Chassis funktioniert wie Kitt im echten Leben, es verbindet sich nur miteinander. \n\nLineares Chassis, das in die gleiche Richtung zeigt, verbindet sich automatisch, als wäre es verklebt. Anderes lineares Chassis oder solches, das in verschiedene Richtungen zeigt, wird nicht zusammenkleben. \n\nDu kannst dann Kleber an der Ober- und Unterseite des linearen Chassis verwenden, um eine Reihe von Blöcken damit zu verbinden. So werden alle Blöcke oben darauf mit dem linearen Chassis verklebt. Sehr hilfreich, um Kleber zu sparen! \n\nMit dem Schraubenschlüssel kannst du einstellen, wie viele Blöcke oben oder unten am linearen Chassis verklebt werden."]
+	quest.51EA6B1452883AB2.title: "&aLineares Chassis"
 	quest.51F3EF57656EC09F.quest_desc: [
-		"Around this time you could think about upgrading your bronze machines to steel."
+		"Um diese Zeit könntest du darüber nachdenken, deine Bronzemaschinen auf Stahl aufzurüsten."
 		""
-		"Do so by crafting a steel upgrade and then right clicking the bronze machine with the upgrade in your hand!"
+		"Tu dies, indem du ein Stahl-Upgrade herstellst und dann mit der rechten Maustaste auf die Bronzemaschine klickst, während du das Upgrade in der Hand hältst!"
 	]
-	quest.520904C106D7D93D.quest_desc: ["These make the &6&lSkyhook&r act similar to a Mace, you'll do extra Damage hurting Mobs if you are falling while you hit them. \\n\\nIn Bioshock Infinite it's called a Skystrike!"]
-	quest.520904C106D7D93D.quest_subtitle: "Press LMB to Skystrike"
-	quest.520EFA7F446AFBF2.quest_desc: ["&3Lubricant&r can be used to make Drill Bits."]
-	quest.520EFA7F446AFBF2.quest_subtitle: "Producing Lube!"
-	quest.520EFA7F446AFBF2.title: "Lubricant"
-	quest.5210DC0095996B62.quest_subtitle: "Tier: &b4"
-	quest.5212A4D67B1851EF.quest_desc: ["These fun little &7&lKeys&r, act similar to Wolverine Claws, which they look very similar to! \\n\\nWhen holding them a Circle will appear around a Target, use Left Click to TP onto the Target and Hit them! \\n\\nThis can be used for a huge distance! (Over a hundred Blocks is what I found). \\n\\nIt does around same Damage as an Iron Sword."]
-	quest.5212A4D67B1851EF.title: "&7&lKeys of Proximity Projection"
-	quest.521656D425E2FDBA.quest_desc: ["Goes even faster than Tier II."]
+	quest.520904C106D7D93D.quest_desc: ["Diese lassen den &6&lSkyhook&r ähnlich wie eine Keule wirken, du machst zusätzlichen Schaden und verletzt Mobs, wenn du fällst, während du sie triffst. \n\nIn Bioshock Infinite wird es Skystrike genannt!"]
+	quest.520904C106D7D93D.quest_subtitle: "Drücke LMB für Skystrike"
+	quest.520EFA7F446AFBF2.quest_desc: ["&3Schmiermittel&r kann verwendet werden, um Bohreinsätze herzustellen."]
+	quest.520EFA7F446AFBF2.quest_subtitle: "Produktion von Schmiermittel!"
+	quest.520EFA7F446AFBF2.title: "Schmiermittel"
+	quest.5210DC0095996B62.quest_subtitle: "Stufe: &b4"
+	quest.5212A4D67B1851EF.quest_desc: ["Diese lustigen kleinen &7&lSchlüssel&r funktionieren ähnlich wie Wolverine-Klauen, denen sie sehr ähnlich sehen! \n\nWenn du sie hältst, erscheint ein Kreis um ein Ziel, benutze die linke Maustaste, um dich zum Ziel zu teleportieren und es zu treffen! \n\nDies kann über eine große Entfernung verwendet werden! (Über hundert Blöcke ist das, was ich herausgefunden habe). \n\nEs verursacht ungefähr den gleichen Schaden wie ein Eisenschwert."]
+	quest.5212A4D67B1851EF.title: "&7&lSchlüssel der Näheprojektion"
+	quest.521656D425E2FDBA.quest_desc: ["Geht noch schneller als Stufe II."]
 	quest.521656D425E2FDBA.quest_subtitle: "Max: 1"
-	quest.5218DAE147AC9F44.quest_desc: ["The Blade Quiver allows you to hold more &8Blades&r or &8Blade like Items&r on the &2&lBuzzsaw&r. \\n\\nTo switch between the &8Blades&r (or &8Blade like Items&r) Hold Shift and Scroll. \\n\\nThis is useful for replacing broken &8Blades&r or even switching to &8Grinding Disks&r!"]
+	quest.5218DAE147AC9F44.quest_desc: ["Der Klingenköcher ermöglicht es dir, mehr &8Klingen&r oder &8klingenartige Gegenstände&r auf der &2&lKettensäge&r zu halten. \n\nUm zwischen den &8Klingen&r (oder &8klingenartigen Gegenständen&r) zu wechseln, halte Shift und scrolle. \n\nDies ist nützlich, um gebrochene &8Klingen&r zu ersetzen oder sogar zu &8Schleifscheiben&r zu wechseln!"]
 	quest.5219D2F2B13F57F3.quest_desc: [
-		"One, if not the, most important Item in &6&lBumblezone&r! The Buzzing Briefcase is the perfect Item for &6B&8e&6e&r Caretaking. \\n\\nYou can Right Click a &6B&8e&6e&r with the Briefcase to capture them in it. Then, you can Shift Right Click with the Briefcase to view the &6B&8e&6e&8s&r inside. \\n\\nIt can hold 14 &6B&8e&6e&8s&r, and any &6B&8e&6e&8s&r including &lProductive Bees&r. \\n\\nHere you can view their Health, Name, type of &6B&8e&6e&r, if it has a Stinger, if it has &ePollen&r, and more! \\n\\nYou can also use it to release the &6B&8e&6e&8s&r from it."
+		"Eine, wenn nicht die wichtigste, Gegenstand in &6&lBumblezone&r! Der summende Aktenkoffer ist der perfekte Gegenstand für die &6B&8i&6e&8nen&r-Pflege. \n\nDu kannst mit der rechten Maustaste eine &6B&8i&6e&8ne&r mit dem Aktenkoffer anklicken, um sie darin zu fangen. Dann kannst du mit Umschalt-Rechtsklick auf den Aktenkoffer klicken, um die &6B&8i&6e&8nen&r im Inneren anzusehen. \n\nEr kann 14 &6B&8i&6e&8nen&r halten, und alle Arten von &6B&8i&6e&8nen&r einschließlich &lProductive Bees&r. \n\nHier kannst du ihre Gesundheit, ihren Namen, die Art der &6B&8i&6e&8ne&r, ob sie einen Stachel hat, ob sie &ePollen&r hat und mehr sehen! \n\nDu kannst ihn auch verwenden, um die &6B&8i&6e&8nen&r daraus freizulassen."
 		"{image:atm:textures/questpics/bumblezone/bumble_briefcase.png width:200 height:150 align:center}"
 	]
-	quest.521C9B00B1D87DEB.quest_subtitle: "Tier: &b4"
-	quest.5233A447BAA4593C.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
+	quest.521C9B00B1D87DEB.quest_subtitle: "Stufe: &b4"
+	quest.5233A447BAA4593C.quest_desc: ["Die &bME Smart-Kabel&f und &bDense Smart-Kabel&f funktionieren bei der Kanalverteilung identisch wie die abgedeckten Kabel, zeigen aber auch die Anzahl der verwendeten Kanäle als farbige Linien an sich selbst sichtbar an."]
 	quest.5233A447BAA4593C.quest_subtitle: "'S.M.R.T.'"
-	quest.5233A447BAA4593C.title: "Advanced Cabling"
-	quest.523853C1C4E688BA.quest_desc: ["The fourth tier of storage component, providing &e65536&f bytes of storage."]
+	quest.5233A447BAA4593C.title: "Fortgeschrittene Verkabelung"
+	quest.523853C1C4E688BA.quest_desc: ["Die vierte Stufe der Speicherkomponente bietet &e65536&f Byte Speicher."]
 	quest.523853C1C4E688BA.quest_subtitle: "x4^3"
-	quest.523853C1C4E688BA.title: "64k Storage Component"
+	quest.523853C1C4E688BA.title: "64k Speicherkomponente"
 	quest.523DC411241B470A.quest_desc: [
-		"All &5Enchantments&r from the &5Enchantment Table&r is determined by the Levels of &aEterna&r, &cQuanta&r, and &5Arcana&r. \\n\\nWe can see the Pool of &5Enchantments&r available by clicking the ? in the Top Right of the &5Enchantment Table's&r GUI when an Item is being &5Enchanted&r. \\n\\nThe higher the &cQuanta&r is, the better chance we get a worse &5Enchantment&r gets. Ones like &5Curses of Vanishing &for &5Binding&r! \\n\\nWith the &6Geode-Encased Bookshelf of Stability&r it will get rid of the increased chances of worse &5Enchantments&r. \\n\\nYou will still be able to get &cCurses&r with it, just at a much lower rate!"
+		"Alle &5Verzauberungen&r vom &5Verzauberungstisch&r werden durch die Stufen von &aEterna&r, &cQuanta&r und &5Arcana&r bestimmt. \n\nWir können die verfügbaren &5Verzauberungen&r sehen, indem wir auf das ? in der oberen rechten Ecke der GUI des &5Verzauberungstisches&r klicken, wenn ein Gegenstand &5verzaubert&r wird. \n\nJe höher das &cQuanta&r ist, desto höher ist die Chance, eine schlechtere &5Verzauberung&r zu bekommen. Welche wie &5Fluch des Verschwindens &foder &5Bindung&r! \n\nMit dem &6Geoden-eingefassten Bücherregal der Stabilität&r werden die erhöhten Chancen für schlechtere &5Verzauberungen&r beseitigt. \n\nDu wirst damit immer noch &cFlüche&r bekommen können, nur mit einer viel geringeren Rate!"
 		"{@pagebreak}"
-		"To Craft it we'll need a &7Bookshelf&r, 7 Calcite, and 1 &5Budding Amethyst&r. \\n\\n&5Budding Amethyst&r can not be collected from Mining, even with &5Silk Touch&r. You'll need either a Ritual or Infusion to get one then!"
+		"Um es herzustellen, benötigen wir ein &7Bücherregal&r, 7 Kalzit und 1 &5Knospenden Amethyst&r. \n\n&5Knospender Amethyst&r kann nicht durch Bergbau gesammelt werden, auch nicht mit &5Behutsamkeit&r. Du wirst entweder ein Ritual oder eine Infusion benötigen, um einen zu bekommen!"
 	]
-	quest.523DC411241B470A.title: "&6Negative Enchantments Removal"
+	quest.523DC411241B470A.title: "&6Entfernung negativer Verzauberungen"
 	quest.5241693278027FFD.quest_desc: [
-		"We'll pretend that it's fine"
+		"Wir werden so tun, als wäre es in Ordnung"
 		""
-		"At &5EV&r we're dealing with more than 1000 Volts! We're practically electrical linemen, just please don't try this at home"
+		"Bei &5EV&r haben wir es mit mehr als 1000 Volt zu tun! Wir sind praktisch Stromlinienarbeiter, bitte versucht das nicht zu Hause"
 	]
-	quest.5241693278027FFD.quest_subtitle: "This is fine, &5EV&rerything is fine"
+	quest.5241693278027FFD.quest_subtitle: "Das ist in Ordnung, &5EV&rerything ist in Ordnung"
 	quest.5244B2D6B5FA0487.quest_desc: [
-		"Crystallized Desert looks like a normal Desert but shaded Purple. \\n\\nAlso with added giant crystals, I don't think normal Deserts have that..."
+		"Kristallisierte Wüste sieht aus wie eine normale Wüste, aber lila schattiert. \n\nAuch mit hinzugefügten riesigen Kristallen, ich glaube nicht, dass normale Wüsten das haben..."
 		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
 	]
-	quest.5244B2D6B5FA0487.title: "Crystallized Desert"
-	quest.52472667678E10D1.quest_desc: ["&2Stellarite&r spawns between Y Level 42 and -44. \\n\\nYou'd think, with having such a huge radius it'll be easy to find! It isn't, it is very rare! \\n\\nBe careful when Mining it though, when broken it will EXPLODE!"]
-	quest.52472667678E10D1.title: "&2Stellarite Pieces"
-	quest.525517F1625A9BCB.quest_desc: ["Did a mob hit the floor too hard and get its &cBlood&r everywhere? Oh no!\\n\\nYou can use a &cSanguinary Pedestal&r to absorb that precious &cBlood&r for later use!\\n\\nWant to automate collecting blood? Place a &9Spiked Plate&r on top of the Pedestal, then have a mob stand on it."]
-	quest.525517F1625A9BCB.title: "&aCollecting &cBlood Stains"
-	quest.5257468DC6C11851.quest_desc: ["It's more like a pickaxe that uses RF/FE."]
-	quest.5257468DC6C11851.quest_subtitle: "An Early-Game Mining Gadget"
+	quest.5244B2D6B5FA0487.title: "Kristallisierte Wüste"
+	quest.52472667678E10D1.quest_desc: ["&2Stellarit&r spawnt zwischen Y-Level 42 und -44. \n\nMan sollte meinen, mit einem so großen Radius wäre es leicht zu finden! Ist es nicht, es ist sehr selten! \n\nSei vorsichtig beim Abbauen, denn wenn es zerstört wird, wird es EXPLODIEREN!"]
+	quest.52472667678E10D1.title: "&2Stellarit-Stücke"
+	quest.525517F1625A9BCB.quest_desc: ["Hat ein Mob den Boden zu hart getroffen und sein &cBlut&r überall verteilt? Oh nein!\n\nDu kannst ein &cSanguinarisches Podest&r verwenden, um dieses wertvolle &cBlut&r für späteren Gebrauch aufzusaugen!\n\nWillst du das Sammeln von Blut automatisieren? Platziere eine &9Stachelplatte&r auf dem Podest und lass dann einen Mob darauf stehen."]
+	quest.525517F1625A9BCB.title: "&aSammeln von &cBlutflecken"
+	quest.5257468DC6C11851.quest_desc: ["Es ist mehr wie eine Spitzhacke, die RF/FE verwendet."]
+	quest.5257468DC6C11851.quest_subtitle: "Ein Bergbaugerät für den Spielanfang"
 	quest.525F25F4ADE45B50.quest_desc: [
-		"The &bME Formation Plane&f acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself. "
+		"Die &bME Formation Plane&f funktioniert ähnlich wie der Storage Bus, behandelt aber die Welt selbst als Speichermedium. Mit anderen Worten, sie platziert jeden Block in ihrem Filter direkt vor sich. "
 		""
-		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
+		"Dies kann für Situationen nützlich sein, in denen ein Block einfach durch Platzieren und Brechen mit einem bestimmten Werkzeug verarbeitet werden kann."
 	]
-	quest.525F25F4ADE45B50.quest_subtitle: "GET OUT"
+	quest.525F25F4ADE45B50.quest_subtitle: "RAUS HIER"
 	quest.526559F94031FE43.quest_desc: [
-		"The &6Eternal Stella&r has 3 charges, and when right-clicked, can fully repair all of your items in your inventory."
+		"Die &6Eternal Stella&r hat 3 Ladungen und kann bei Rechtsklick alle deine Gegenstände in deinem Inventar vollständig reparieren."
 		""
-		"The main purpose of it is to give the enchant &9Unbreakable&r to an item, which is done by combining it with a tool and an &dApply Item Modifier Smithing Template&r in a Smithing Table."
+		"Der Hauptzweck ist es, die Verzauberung &9Unzerbrechlich&r auf einen Gegenstand zu geben, was durch Kombinieren mit einem Werkzeug und einer &dGegenstandsmodifikator-Schmiedevorlage&r an einem Schmiedetisch erfolgt."
 	]
 	quest.526559F94031FE43.title: "&dEternal Stella"
-	quest.52672B7FFFD51D16.quest_desc: ["Adds a Stonecutter GUI to the Backpack."]
-	quest.526A9655A62C93F4.quest_subtitle: "European Larch + Bull Pine"
-	quest.526CED9509FAA79B.quest_subtitle: "Blue Yonder + Firecracker"
-	quest.527453CD5A20AE38.title: "&6Master of Dragons&r"
-	quest.52A29269A23F85B3.quest_desc: ["The &9Yeti Outfit&r needs Alpha Yeti Fur, which you guessed it! Only drops from Alpha Yetis. \\n\\nAtleast the Outfit will slow down your Enemies by chilling them!"]
+	quest.52672B7FFFD51D16.quest_desc: ["Fügt dem Rucksack eine Steinsäge-Benutzeroberfläche hinzu."]
+	quest.526A9655A62C93F4.quest_subtitle: "Europäische Lärche + Stierkiefer"
+	quest.526CED9509FAA79B.quest_subtitle: "Blaue Ferne + Knallkörper"
+	quest.527453CD5A20AE38.title: "&6Meister der Drachen&r"
+	quest.52A29269A23F85B3.quest_desc: ["Das &9Yeti-Outfit&r benötigt Alpha-Yeti-Fell, das, wie du erraten hast, nur von Alpha-Yetis fallen gelassen wird. \n\nZumindest wird das Outfit deine Feinde verlangsamen, indem es sie abkühlt!"]
 	quest.52A29269A23F85B3.quest_subtitle: "20"
-	quest.52A29269A23F85B3.title: "&9Yeti Outfit"
-	quest.52ACADDFCB0E22AB.quest_desc: ["The 4096k Storage Disk can store 4096000 items."]
-	quest.52ACADDFCB0E22AB.title: "&a4096k Storage Part&r"
-	quest.52AFABA08674B6A8.quest_desc: ["&3Vibranium Armor&r but with buffs to &d&lArs Nouveau&r Spells!"]
+	quest.52A29269A23F85B3.title: "&9Yeti-Outfit"
+	quest.52ACADDFCB0E22AB.quest_desc: ["Die 4096k-Speicherdisk kann 4096000 Gegenstände speichern."]
+	quest.52ACADDFCB0E22AB.title: "&a4096k-Speicherteil&r"
+	quest.52AFABA08674B6A8.quest_desc: ["&3Vibranium-Rüstung&r, aber mit Verbesserungen für &d&lArs Nouveau&r-Zauber!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
-	quest.52AFABA08674B6A8.title: "&3Vibranium Arcanist Gear"
-	quest.52B22C07818981D0.quest_subtitle: "Copper + Nickel"
-	quest.52B22C07818981D0.title: "Constantan Bee"
-	quest.52B2ADE472707372.quest_subtitle: "Golden Declious Apple + Granny Smith Apple"
-	quest.52B3955A80DB0B4A.quest_desc: ["&6Blasting&r isn't close to &2&lVanilla&r Enchantments, but closer to Modded! \\n\\nOnce Installed, we can mess with its Configs to change how big of a square of Blocks we can Mine. \\n\\nDefault is 1x1 aka 1 Block. We can change it to 3x3, 5x5, 7x7, and 9x9. \\n\\nYes, Mining a 9x9 square will take more &aEnergy&r than Mining a single Block."]
-	quest.52B3955A80DB0B4A.quest_subtitle: "Meka-Tool"
-	quest.52B3955A80DB0B4A.title: "&6Blasting &7Unit"
-	quest.52B61FB01D7C12A4.quest_desc: ["Upgraded version of &aInferium&r."]
+	quest.52AFABA08674B6A8.title: "&3Vibranium-Arkanisten-Ausrüstung"
+	quest.52B22C07818981D0.quest_subtitle: "Kupfer + Nickel"
+	quest.52B22C07818981D0.title: "Konstantan-Biene"
+	quest.52B2ADE472707372.quest_subtitle: "Goldener Köstlicher Apfel + Granny Smith Apfel"
+	quest.52B3955A80DB0B4A.quest_desc: ["&6Sprengen&r ist nicht wie &2&lVanilla&r-Verzauberungen, sondern eher wie modifizierte! \n\nSobald installiert, können wir mit seinen Konfigurationen herumspielen, um zu ändern, wie groß ein Quadrat von Blöcken wir abbauen können. \n\nStandard ist 1x1, also 1 Block. Wir können es auf 3x3, 5x5, 7x7 und 9x9 ändern. \n\nJa, das Abbauen eines 9x9 Quadrats wird mehr &aEnergie&r verbrauchen als das Abbauen eines einzelnen Blocks."]
+	quest.52B3955A80DB0B4A.quest_subtitle: "Meka-Werkzeug"
+	quest.52B3955A80DB0B4A.title: "&6Spreng&7-Einheit"
+	quest.52B61FB01D7C12A4.quest_desc: ["Verbesserte Version von &aInferium&r."]
 	quest.52B61FB01D7C12A4.quest_subtitle: "23"
-	quest.52B61FB01D7C12A4.title: "&2Prudentium Armor"
-	quest.52BB58D470560219.quest_subtitle: "Range: &c54&r Blocks"
-	quest.52BB58D470560219.title: "&6Awakened Supremium Growth Accelerator"
-	quest.52C7FAA044E07628.quest_desc: ["Think of the Totem of Undying, now think of how it can be super over powered. That's the &fEssence of Continuity&r. \\n\\nWhen you're about to take a fatal hit you will be teleported to your Respawn Point with full Health, Hunger, and bad Effects taken away. Saving your life obviously. \\n\\nIt will also give you a journal describing how and where you would have died. \\n\\nAfter it saved your life it will get a 40 Minute cooldown and will give cooldowns to every other Essence you might have. "]
-	quest.52C7FAA044E07628.title: "&fEssence of Continuity"
-	quest.52CDB46F6CBF007B.quest_subtitle: "Are you digging this?"
-	quest.52D3697F1F5625C7.quest_desc: ["&3Etching Acid&r is made in the Pressure Chamber with Molten Plastic...and some other stuff. Used in the Etching Tank."]
-	quest.52D3697F1F5625C7.quest_subtitle: "Don't Ask..."
-	quest.52D4FCE72B15BC46.quest_desc: ["Ever want a \"better Bucket\"? Well you can with the Edelwood Bucket! \\n\\nFor just a few Edelwood Planks you can get a better Bucket, which can hold 4 Buckets of Water or Milk. \\n\\nYou can also hold 3 Buckets of Lava! It weighs more so you can only hold 3 instead of 4."]
-	quest.52E59FCB39D66BCF.quest_desc: ["One of the best options for \"Passive Power\", the &9Thermal Generator&r will produce FE when placed over a &cHeat Source&r and given a steady supply of water.\\n\\nThere are currently 3 blocks you can place this over: a Magma block which produces the lowest, a lava source block which is a little better, or a &cBlock of Blazing Crystal&r, which provides the most heat. "]
-	quest.52EB902E76829EBB.quest_desc: ["Silent Gear is a gear mod that makes crafting gear easy.\\n\\nEach piece of gear is customizable, allowing you to upgrade it with special traits or repair it on the go!\\n\\nYou can also convert vanilla tools like an Iron Pickaxe to a Silent Gear Iron Pickaxe by putting it in a crafting grid!"]
-	quest.52EB902E76829EBB.quest_subtitle: "Weapons, Tools and Armor"
+	quest.52B61FB01D7C12A4.title: "&2Prudentium-Rüstung"
+	quest.52BB58D470560219.quest_subtitle: "Reichweite: &c54&r Blöcke"
+	quest.52BB58D470560219.title: "&6Erweckter Supremium-Wachstumsbeschleuniger"
+	quest.52C7FAA044E07628.quest_desc: ["Denk an den Totem der Unsterblichkeit, jetzt denk daran, wie es super übermächtig sein kann. Das ist die &fEssenz der Kontinuität&r. \n\nWenn du kurz davor stehst, einen tödlichen Treffer zu erleiden, wirst du zu deinem Wiedereinstiegspunkt teleportiert, mit voller Gesundheit, Hunger und ohne schlechte Effekte. Offensichtlich rettet es dein Leben. \n\nEs gibt dir auch ein Tagebuch, das beschreibt, wie und wo du gestorben wärst. \n\nNachdem es dein Leben gerettet hat, erhält es eine 40-minütige Abklingzeit und gibt allen anderen Essenzen, die du haben könntest, Abklingzeiten."]
+	quest.52C7FAA044E07628.title: "&fEssenz der Kontinuität"
+	quest.52CDB46F6CBF007B.quest_subtitle: "Gefällt dir das Graben?"
+	quest.52D3697F1F5625C7.quest_desc: ["&3Ätzsäure&r wird in der Druckkammer mit geschmolzenem Kunststoff... und einigen anderen Dingen hergestellt. Wird im Ätztank verwendet."]
+	quest.52D3697F1F5625C7.quest_subtitle: "Nicht fragen..."
+	quest.52D4FCE72B15BC46.quest_desc: ["Willst du jemals einen \"besseren Eimer\"? Das kannst du mit dem Edelwood-Eimer! \n\nFür nur ein paar Edelwood-Bretter bekommst du einen besseren Eimer, der 4 Eimer Wasser oder Milch halten kann. \n\nDu kannst auch 3 Eimer Lava halten! Es wiegt mehr, also kannst du nur 3 statt 4 halten."]
+	quest.52E59FCB39D66BCF.quest_desc: ["Eine der besten Optionen für \"Passive Energie\" ist der &9Thermische Generator&r, der FE erzeugt, wenn er über einer &cWärmequelle&r platziert und mit einer stetigen Wasserzufuhr versorgt wird.\n\nEs gibt derzeit 3 Blöcke, über die du ihn platzieren kannst: ein Magmablock, der die niedrigste Erzeugung hat, ein Lavaquellblock, der etwas besser ist, oder ein &cBlock aus Leuchtendem Kristall&r, der die meiste Wärme liefert."]
+	quest.52EB902E76829EBB.quest_desc: ["Silent Gear ist ein Ausrüstungsmod, der das Herstellen von Ausrüstung einfach macht.\n\nJedes Ausrüstungsteil ist anpassbar, sodass du es mit speziellen Eigenschaften verbessern oder unterwegs reparieren kannst!\n\nDu kannst auch Vanilla-Werkzeuge wie eine Eisenspitzhacke in eine Silent Gear Eisenspitzhacke umwandeln, indem du sie in ein Crafting-Raster legst!"]
+	quest.52EB902E76829EBB.quest_subtitle: "Waffen, Werkzeuge und Rüstungen"
 	quest.52EB902E76829EBB.title: "Silent Gear"
 	quest.52EC86E03EB50525.quest_desc: [
-		"Intrinsic Ability:"
-		"- Lava Repair"
-		"- No Trampling"
-		"- Auto Harvesting"
-		"- Accelerated Crop Growth II"
+		"Intrinsische Fähigkeit:"
+		"- Lava-Reparatur"
+		"- Kein Zertrampeln"
+		"- Automatisches Ernten"
+		"- Beschleunigtes Pflanzenwachstum II"
 	]
-	quest.52F81AFDE2DC39EF.quest_desc: ["16x Indium Tin Barium Titanium Cuprate Wire - Qty 8"]
-	quest.52F81AFDE2DC39EF.quest_subtitle: "LuV Superconductor"
-	quest.52F85CED20C8B1E9.quest_desc: ["&eEnergy&r has to get around somehow, preferably where we want it to go. Move it around just the same as with &2Items&r, &9Fluids&r, and &5Chemicals&r!"]
-	quest.52F85CED20C8B1E9.title: "&eEnergy Card"
-	quest.5303509A1C2B1CCD.quest_desc: ["The &3Pneumatic Jackhammer&r uses pressure to mine, it can be upgraded to be amazing!"]
-	quest.5303509A1C2B1CCD.quest_subtitle: "Sorry Jack!"
+	quest.52F81AFDE2DC39EF.quest_desc: ["16x Indium-Zinn-Barium-Titan-Kuprat-Draht - Menge 8"]
+	quest.52F81AFDE2DC39EF.quest_subtitle: "LuV-Supraleiter"
+	quest.52F85CED20C8B1E9.quest_desc: ["&eEnergie&r muss irgendwie herumkommen, vorzugsweise dorthin, wo wir sie haben wollen. Bewege sie genauso wie bei &2Gegenständen&r, &9Flüssigkeiten&r und &5Chemikalien&r!"]
+	quest.52F85CED20C8B1E9.title: "&eEnergiekarte"
+	quest.5303509A1C2B1CCD.quest_desc: ["Der &3Pneumatische Presslufthammer&r nutzt Druck zum Abbauen und kann verbessert werden, um erstaunlich zu sein!"]
+	quest.5303509A1C2B1CCD.quest_subtitle: "Tut mir leid, Jack!"
 	quest.5311404799117060.quest_subtitle: "Tier: &b4"
 	quest.53154550397E9704.quest_desc: [
 		"The &c&lNetherite Monstrosity&r lives up to his name, he's a beast of &cNetherite &fand &cLava&r. \\n\\nHe can have up to 48,000 &4Hearts&r but when I first met him he was only at around 9,500 &4Hearts&r. He will regenerate &4Hearts&r when no Player is nearby.\\n\\nHe has a few Melee attacks like smacking you with his massive arms and ground pounding on you. He can also throw blocks in the Air causing a Shockwave. \\n\\nIf you get farther from him he might charge at you or leap at you. Honestly he looks like he weighs 100 Tons, I wouldn't want him doing either to me! \\n\\nThe worst of his attacks are definitely the Ranged ones though... he can shoot &cMagma Balls&r at you and where they drop, &cLava&r will spawn. He can also shoot &cFireballs&r from his hands, these will cause &cFire Spouts&r to come out of the ground."
