@@ -10749,254 +10749,254 @@
 	quest.65E2AF881709C896.quest_subtitle: "Du wirst davon viel brauchen"
 	quest.65E2AF881709C896.title: "Verstärkter Stein"
 	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
-	quest.65E733AACBE62EDB.quest_subtitle: "Ancient Cities"
-	quest.65E733AACBE62EDB.title: "Ward Armor Trim"
-	quest.65FA86357BC60573.quest_desc: ["It's time to move stuff from one place to another. Here are the steps:\\n\\n&l1.&r Place an interface on an inventory (like a Chest or a Tank)\\n\\n&l2.&r Place an Importer or an Exporter on another inventory, depending on whether you want to pull or send stuff to it.\\n\\n&l3.&r Hook the both up with Cables, place a Variable Card into the Importer or Exporter, and there you go!"]
-	quest.65FA86357BC60573.quest_subtitle: "Moving Stuff!"
-	quest.6601450C63FEEE61.quest_desc: ["&bTier 3&r is Iron Pickaxe level, it mines most ores like Diamond, Emerald, and Gold."]
-	quest.6601450C63FEEE61.title: "&bHarvest Tier 3"
-	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combined with &6Allthemodium&r!"]
-	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Alloy Ingot"
-	quest.6607E5CDB3D17D67.quest_desc: ["Don't worry, these won't set on fire!"]
-	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wool"
+	quest.65E733AACBE62EDB.quest_subtitle: "Antike Städte"
+	quest.65E733AACBE62EDB.title: "Ward-Rüstungsverzierung"
+	quest.65FA86357BC60573.quest_desc: ["Es ist Zeit, Dinge von einem Ort zum anderen zu bewegen. Hier sind die Schritte:\n\n&l1.&r Platziere eine Schnittstelle an einem Inventar (wie einer Truhe oder einem Tank)\n\n&l2.&r Platziere einen Importeur oder einen Exporteur an einem anderen Inventar, je nachdem, ob du Dinge daraus entnehmen oder dorthin senden möchtest.\n\n&l3.&r Verbinde beide mit Kabeln, lege eine Variablenkarte in den Importeur oder Exporteur, und fertig!"]
+	quest.65FA86357BC60573.quest_subtitle: "Dinge bewegen!"
+	quest.6601450C63FEEE61.quest_desc: ["&bStufe 3&r entspricht der Eisenspitzhacke, sie baut die meisten Erze wie Diamant, Smaragd und Gold ab."]
+	quest.6601450C63FEEE61.title: "&bAbbau-Stufe 3"
+	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r kombiniert mit &6Allthemodium&r!"]
+	quest.66039B738CF0718A.title: "&3Vibranium&r - &6Allthemodium&r Legierungsbarren"
+	quest.6607E5CDB3D17D67.quest_desc: ["Keine Sorge, diese werden nicht Feuer fangen!"]
+	quest.6607E5CDB3D17D67.title: "&l&bChipped&r Wolle"
 	quest.661C072E48F8D41F.quest_desc: [
-		"&6Copper&r is one if not the most common Ore you can find, so why not use a bunch of spare &6Copper&r to upgrade your furnace!"
+		"&6Kupfer&r ist eines, wenn nicht das häufigste Erz, das du finden kannst. Warum also nicht einen Haufen überschüssiges &6Kupfer&r verwenden, um deinen Ofen aufzurüsten!"
 		""
-		"Normal Furnaces take 200 Ticks to smelt 1 Item, (20 Ticks = 1 Second) while &6Copper Furnaces&r take 180 Ticks."
+		"Normale Öfen benötigen 200 Ticks, um 1 Gegenstand zu schmelzen (20 Ticks = 1 Sekunde), während &6Kupferöfen&r 180 Ticks benötigen."
 		""
-		"They can be crafted into either &7Silver&r or &fIron Furnaces&r."
+		"Sie können entweder zu &7Silber&r- oder &fEisenöfen&r weiterverarbeitet werden."
 	]
-	quest.661C072E48F8D41F.title: "&6Copper Furnace"
-	quest.662DD269B027B6C8.quest_desc: ["You can't wirelessly charge your &c&lAccumulator Backpack&r... but you can charge it &cwired&r! \\n\\nSimply attach your Charging Antenna to your &c&lAccumulator Backpack&r and walk up to any &cWires&r transporting &cEnergy&r and some of it will come to your &c&lBackpack&r."]
-	quest.662E0A84D755064F.quest_desc: ["Once cooled we can begin to shape the ingot into more useful materials"]
-	quest.6631947900DB54E9.quest_desc: ["The Vial of (Searing) Explusion can be used in a Smithing Table to take a Gem out of the Socket of an item. Warning this will break the Gem and just open a Socket."]
-	quest.6631947900DB54E9.title: "Vial of Searing Expulsion"
-	quest.66324D7D0C51AEAC.quest_desc: ["The Upgrade Base is used to craft the various Upgrades in Productive Bees."]
+	quest.661C072E48F8D41F.title: "&6Kupferofen"
+	quest.662DD269B027B6C8.quest_desc: ["Du kannst deinen &c&lAkkumulator-Rucksack&r nicht drahtlos aufladen... aber du kannst ihn &cverdrahtet&r aufladen! \n\nBefestige einfach deine Ladeantenne an deinem &c&lAkkumulator-Rucksack&r und gehe zu beliebigen &cDrähten&r, die &cEnergie&r transportieren, und ein Teil davon wird in deinen &c&lRucksack&r fließen."]
+	quest.662E0A84D755064F.quest_desc: ["Sobald es abgekühlt ist, können wir beginnen, den Barren zu nützlicheren Materialien zu formen"]
+	quest.6631947900DB54E9.quest_desc: ["Die Phiole der (sengenden) Verdrängung kann in einem Schmiedetisch verwendet werden, um einen Edelstein aus dem Sockel eines Gegenstands zu entfernen. Warnung: Dies wird den Edelstein zerbrechen und nur einen Sockel öffnen."]
+	quest.6631947900DB54E9.title: "Phiole der sengenden Verdrängung"
+	quest.66324D7D0C51AEAC.quest_desc: ["Die Upgrade-Basis wird verwendet, um die verschiedenen Upgrades in Productive Bees herzustellen."]
 	quest.6635E4C76260C4CB.quest_desc: [
-		"Amps are like packets of power (EU/t) and can come in different voltage tiers (LV, MV, HV, etc)"
+		"Ampere sind wie Energiepakete (EU/t) und können in verschiedenen Spannungsstufen vorliegen (LV, MV, HV usw.)"
 		""
-		"Machines which receive extra amps will not explode"
+		"Maschinen, die zusätzliche Ampere erhalten, werden nicht explodieren"
 		""
-		"Cables and wires will burn if given more amps than they are rated for"
+		"Kabel und Drähte brennen durch, wenn sie mehr Ampere bekommen, als sie vertragen können"
 	]
-	quest.6648BC7D14233006.quest_desc: ["Augments are similar to Upgrades but for the individual Modules!"]
-	quest.6648BC7D14233006.title: "&lAugments"
-	quest.665B4A8FF5277316.quest_desc: ["Makes gravity affect a Mana Burst, making it move in an arc. It also slightly increases the time before it starts to lose mana."]
-	quest.665C3A14C987E9C6.quest_subtitle: "&f5.5&r &4Damage&r"
-	quest.666EA8B8F13EB292.quest_desc: ["This item is used to capture mobs for transport or storage. It's also needed for the &6ATM Star&r."]
-	quest.666EA8B8F13EB292.title: "&dEmpty Soul Gem"
-	quest.6674270897997BF7.quest_desc: ["Allows you to jump higher than usual and makes you springy, making for faster travel.\\n\\nYou can only have one level of these Upgrades in the Leggings at a time."]
+	quest.6648BC7D14233006.quest_desc: ["Erweiterungen sind ähnlich wie Upgrades, aber für einzelne Module!"]
+	quest.6648BC7D14233006.title: "&lErweiterungen"
+	quest.665B4A8FF5277316.quest_desc: ["Lässt die Schwerkraft einen Mana-Schub beeinflussen, wodurch er sich in einem Bogen bewegt. Es erhöht auch leicht die Zeit, bevor er beginnt, Mana zu verlieren."]
+	quest.665C3A14C987E9C6.quest_subtitle: "&f5,5&r &4Schaden&r"
+	quest.666EA8B8F13EB292.quest_desc: ["Dieser Gegenstand wird verwendet, um Mobs zum Transport oder zur Aufbewahrung einzufangen. Er wird auch für den &6ATM-Stern&r benötigt."]
+	quest.666EA8B8F13EB292.title: "&dLeerer Seelenstein"
+	quest.6674270897997BF7.quest_desc: ["Ermöglicht dir, höher zu springen als gewöhnlich und macht dich federnd, was für schnelleres Reisen sorgt.\n\nDu kannst nur eine Stufe dieser Upgrades gleichzeitig in der Hose haben."]
 	quest.6674270897997BF7.quest_subtitle: "Max: 1"
-	quest.66762A4743104157.quest_desc: ["Another craftable &eSpellbook&r, this one's a little more expensive! It'll need Hogskin which is a drop from Hoglins. \\n\\nThis one can hold 8 &3Spells&r which is technically still on the low side but it's better!"]
-	quest.66762A4743104157.title: "Apprentice's Spell Book"
-	quest.6678AB58930F4B91.quest_subtitle: "White Willow + Aspen"
-	quest.667B95A687703D6D.quest_desc: ["You ever wish to shoot Diamond Swords from a Bow? Or Netherite Hoes? Or basically any \"Weapon\"? \\n\\nThen, the &b&lBow of Weapon Projectiles&r is your man! \\n\\nIt has two Modes which can be changed via Shift Right Click: Normal and Projection. The only thing that changes is whether it takes any Weapon from your Inventory (Normal) or just from your Offhand (Projection). \\n\\nThe Weapons shot from the &b&lBow&r will act like a thrown Trident, being able to be retrieved like one as well. \\n\\nThe Weapons will do the same damage as a normal Swing!"]
-	quest.667B95A687703D6D.title: "&b&lBow of Weapon Projectiles"
-	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r of course with being all around Colors, the Lights are also based on Color. \\n\\nThe RGB Lights will be whatever Dye they are made with. \\n\\nThe Dye specifically not the Gem."]
-	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lights"
+	quest.66762A4743104157.quest_desc: ["Ein weiteres herstellbares &eZauberbuch&r, dieses ist etwas teurer! Du benötigst Schweinhaut, die von Hoglins fallen gelassen wird. \n\nDieses kann 8 &3Zauber&r aufnehmen, was technisch gesehen immer noch wenig ist, aber es ist besser!"]
+	quest.66762A4743104157.title: "Zauberbuch des Lehrlings"
+	quest.6678AB58930F4B91.quest_subtitle: "Weiße Weide + Espe"
+	quest.667B95A687703D6D.quest_desc: ["Hast du dir jemals gewünscht, Diamantschwerter von einem Bogen zu schießen? Oder Netherit-Hacken? Oder im Grunde jede \"Waffe\"? \n\nDann ist der &b&lBogen der Waffenprojektile&r dein Mann! \n\nEr hat zwei Modi, die durch Umschalt-Rechtsklick geändert werden können: Normal und Projektion. Das Einzige, was sich ändert, ist, ob er jede Waffe aus deinem Inventar (Normal) oder nur aus deiner Nebenhand (Projektion) nimmt. \n\nDie vom &b&lBogen&r abgeschossenen Waffen verhalten sich wie ein geworfener Dreizack und können auch wie einer wieder aufgesammelt werden. \n\nDie Waffen verursachen den gleichen Schaden wie ein normaler Schlag!"]
+	quest.667B95A687703D6D.title: "&b&lBogen der Waffenprojektile"
+	quest.667CD7C6E87A05F4.quest_desc: ["&l&9X&cy&aC&8r&aa&cf&9t&r dreht sich natürlich bei allen Farben auch um die Lichter, die ebenfalls auf Farben basieren. \n\nDie RGB-Lichter werden die Farbe haben, aus der sie hergestellt wurden. \n\nDer Farbstoff speziell, nicht der Edelstein."]
+	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r Lichter"
 	quest.66815AB6FDACCAB7.quest_desc: [
-		"Stores items in the multi-block kitchen. Stack them on top of each other! "
+		"Speichert Gegenstände in der Multiblock-Küche. Stapel sie übereinander! "
 		""
-		"You can also shift-right click on it to open then door, and you can just right click items right in."
+		"Du kannst auch Umschalt-Rechtsklick darauf machen, um die Tür zu öffnen, und du kannst einfach Gegenstände direkt hineinlegen."
 	]
-	quest.66815AB6FDACCAB7.title: "The Fridge"
-	quest.66858700C3DDCB9E.quest_desc: ["Spreads Potion Effects to an area."]
-	quest.668C313FF46B6005.quest_desc: ["Adds a Furnace GUI to the Backpack."]
+	quest.66815AB6FDACCAB7.title: "Der Kühlschrank"
+	quest.66858700C3DDCB9E.quest_desc: ["Verbreitet Trank-Effekte in einem Bereich."]
+	quest.668C313FF46B6005.quest_desc: ["Fügt eine Ofen-GUI zum Rucksack hinzu."]
 	quest.6690AEE064DC2A7C.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:"
+		"&lFähigkeitsfunktion:"
 		""
-		"Increases area mined at once. When installed on higher tier tools the maximum area mined is increase. Mined area can be configured in the menu."
+		"Vergrößert den auf einmal abgebauten Bereich. Bei Installation auf Werkzeugen höherer Stufe wird der maximale Abbaubereich vergrößert. Der Abbaubereich kann im Menü konfiguriert werden."
 	]
-	quest.66A450CAC07232E1.quest_desc: ["&6Thermodynamic Conductors&r will move &6Heat&r. Yeah, some &5&lMekanism&r &5Machines&r use &6Heat&r! Like the &6&lThermal Evaporation Machine&r. \\n\\nMost of the &6Heaters&r will have set Sides for Outputting &6Heat&r! \\n\\nI'm not sure what these numbers mean but following the pattern: more expensive, more good!"]
-	quest.66A450CAC07232E1.quest_subtitle: "Heat"
-	quest.66A450CAC07232E1.title: "&6Thermodynamic Conductors"
-	quest.66AADD32A528A56D.quest_subtitle: "Tier: &63"
-	quest.66B503EB65475B98.quest_subtitle: "Tier: &63"
-	quest.66B5A8D259E12BF5.quest_desc: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? And doesn't need Smithing Templates to craft? \\n\\nWhy would anyone want regular &cNetherite&r!"]
+	quest.66A450CAC07232E1.quest_desc: ["&6Thermodynamische Leiter&r bewegen &6Wärme&r. Ja, einige &5&lMekanism&r &5Maschinen&r verwenden &6Wärme&r! Wie die &6&lThermische Verdampfungsanlage&r. \n\nDie meisten &6Heizgeräte&r haben festgelegte Seiten für die Ausgabe von &6Wärme&r! \n\nIch bin mir nicht sicher, was diese Zahlen bedeuten, aber nach dem Muster: teurer, besser!"]
+	quest.66A450CAC07232E1.quest_subtitle: "Wärme"
+	quest.66A450CAC07232E1.title: "&6Thermodynamische Leiter"
+	quest.66AADD32A528A56D.quest_subtitle: "Stufe: &63"
+	quest.66B503EB65475B98.quest_subtitle: "Stufe: &63"
+	quest.66B5A8D259E12BF5.quest_desc: ["Moment, du sagst mir also, dass es die gleichen Werte wie &cNetherit&r hat? Plus Zauber-Boosts? Und keine Schmiedevorlagen zum Herstellen benötigt? \n\nWarum sollte jemand normales &cNetherit&r wollen!"]
 	quest.66B5A8D259E12BF5.quest_subtitle: "20"
-	quest.66B5A8D259E12BF5.title: "&4Netherite Battlemage Outfit"
+	quest.66B5A8D259E12BF5.title: "&4Netherit-Kampfmagier-Outfit"
 	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
-	quest.66BAC2B478F9B119.title: "Top &6&lATM Star&r part"
+	quest.66BAC2B478F9B119.title: "Oberer &6&lATM-Stern&r Teil"
 	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
-	quest.66C21934DAFFAC7F.quest_subtitle: "Dropped from Elder Guardians"
-	quest.66C21934DAFFAC7F.title: "Tide Armor Trim"
-	quest.66C52B137A4FF869.quest_desc: ["This is the Tier 4 Essence, made by combining 4 Tertium together with an Infusion Crystal."]
-	quest.66C52B137A4FF869.quest_subtitle: "Tier: &b4"
+	quest.66C21934DAFFAC7F.quest_subtitle: "Fallen gelassen von Alten Wächtern"
+	quest.66C21934DAFFAC7F.title: "Gezeiten-Rüstungsverzierung"
+	quest.66C52B137A4FF869.quest_desc: ["Dies ist die Essenz der Stufe 4, hergestellt durch Kombination von 4 Tertium mit einem Infusionskristall."]
+	quest.66C52B137A4FF869.quest_subtitle: "Stufe: &b4"
 	quest.66C52B137A4FF869.title: "&9Imperium"
-	quest.66D85424EC74EDCC.quest_desc: ["The Portable Grid is a portable storage that isn’t connected to a network. It allows you to interact with a Storage Disk while not being connected to a network."]
-	quest.66D85424EC74EDCC.quest_subtitle: "On-The-Go Grid"
-	quest.66D85424EC74EDCC.title: "Portable Grid"
-	quest.66E88F916B638B3B.quest_desc: ["This one might be a bit confusing, there is quite a few &5Creative &eSpellbooks&r! But the one we want is from &d&lAllTheArcanist Gear&r. \\n\\nTo make this one we need to craft the one from &l&dArs Nouveau&r. That &eSpellbook&r needs an &eArchmage Spellbook&r, &6&lATM Star&r, and a few extra Items. \\n\\nIt has the same configs as an &eUnobtainium Spellbook&r but has infinite Mana and all Glyphs unlocked! \\n\\nAll the Spell Power BWAHAHAHAHA!"]
-	quest.66E88F916B638B3B.title: "&5&lCreative &eSpellbook"
-	quest.66ECC26BC81D0093.title: "Tier: &bBasic"
+	quest.66D85424EC74EDCC.quest_desc: ["Das Tragbare Gitter ist ein tragbarer Speicher, der nicht mit einem Netzwerk verbunden ist. Es ermöglicht dir, mit einer Speicherdiskette zu interagieren, ohne mit einem Netzwerk verbunden zu sein."]
+	quest.66D85424EC74EDCC.quest_subtitle: "Gitter für unterwegs"
+	quest.66D85424EC74EDCC.title: "Tragbares Gitter"
+	quest.66E88F916B638B3B.quest_desc: ["Das könnte etwas verwirrend sein, es gibt so viele &5kreative &eZauberbücher&r! Aber das, was wir wollen, ist von &d&lAllTheArcanist Gear&r. \n\nUm dieses herzustellen, müssen wir das von &l&dArs Nouveau&r herstellen. Dieses &eZauberbuch&r benötigt ein &eErzmagier-Zauberbuch&r, &6&lATM-Stern&r und ein paar zusätzliche Gegenstände. \n\nEs hat die gleichen Konfigurationen wie ein &eUnobtainium-Zauberbuch&r, aber hat unendliches Mana und alle Glyphen freigeschaltet! \n\nAll die Zauberkraft BWAHAHAHAHA!"]
+	quest.66E88F916B638B3B.title: "&5&lKreatives &eZauberbuch"
+	quest.66ECC26BC81D0093.title: "Stufe: &bBasic"
 	quest.66F1609053B5407C.quest_desc: [
-		"There are many trinkets that harness the power of &6Gaia Spirits&r. Make sure to check them out!"
+		"Es gibt viele Schmuckstücke, die die Macht der &6Gaia-Geister&r nutzen. Schau sie dir unbedingt an!"
 		""
-		"You can find all of the descriptions within the &aLexica Botania&r."
+		"Du findest alle Beschreibungen im &aLexica Botania&r."
 	]
-	quest.66F1609053B5407C.title: "&aGaia Gear and Trinkets&r"
-	quest.66FE4552E09B5EFF.quest_desc: ["Prisms are important for many of &6&lForbidden \\& Arcanus&r recipes and other Mods later! \\n\\nIn order to craft them we'll need &3Elementarium&r, which is found in Jungle Temples, Desert Pyramids, and Underwater Ruins. \\n\\nI think it would be easier to tell us where you can't find it!"]
+	quest.66F1609053B5407C.title: "&aGaia-Ausrüstung und Schmuckstücke&r"
+	quest.66FE4552E09B5EFF.quest_desc: ["Prismen sind wichtig für viele &6&lForbidden \\& Arcanus&r Rezepte und andere Mods später! \n\nUm sie herzustellen, benötigen wir &3Elementarium&r, das in Dschungeltempeln, Wüstenpyramiden und Unterwasserruinen gefunden wird. \n\nIch denke, es wäre einfacher zu sagen, wo du es nicht finden kannst!"]
 	quest.66FE4552E09B5EFF.title: "&3Elementarium"
-	quest.6718043D0F2D1830.quest_desc: ["DireWolf was asked to make an addition of his Cards to work with &5&lMekanism&r and its... other states of matter. Everything Pressurized Tubes can move, these cards can. Gas, Infuse Types, and Pigments."]
-	quest.6718043D0F2D1830.title: "&5Chemical Card"
+	quest.6718043D0F2D1830.quest_desc: ["DireWolf wurde gebeten, eine Ergänzung seiner Karten zu erstellen, die mit &5&lMekanism&r und seinen... anderen Aggregatzuständen funktioniert. Alles, was Druckrohre bewegen können, können diese Karten bewegen. Gas, Infusionstypen und Pigmente."]
+	quest.6718043D0F2D1830.title: "&5Chemische Karte"
 	quest.672134A1A620EEAB.quest_desc: [
-		"There are many ways to store power! "
+		"Es gibt viele Möglichkeiten, Energie zu speichern! "
 		""
-		"&9Powah&r offers great storage using &aEnergy Cells&r that can be upgraded, or you can always go with the multiblock style of &aRFTools&r using &aPowercells&r! The choice is yours. "
+		"&9Powah&r bietet großartige Speicherung mit &aEnergiezellen&r, die aufgerüstet werden können, oder du kannst immer den Multiblock-Stil von &aRFTools&r mit &aEnergiezellen&r verwenden! Die Wahl liegt bei dir. "
 		""
-		"Note: You only have to make one of the items to complete the quest."
+		"Hinweis: Du musst nur einen der Gegenstände herstellen, um die Quest abzuschließen."
 	]
-	quest.67216EC5274F08B9.quest_subtitle: "Used by Shear-perds"
-	quest.67258590FA14BE44.quest_desc: ["For 250mB of &9Water&r and 2 &bArcane Crystal Dust&r, in the &b&lRunic Crucible&r, we can get 250mB of &bLiquid Aureal&r! \\n\\nYou will need 1000 &dSource&r to get it started though..."]
-	quest.67258590FA14BE44.title: "&bLiquid Aureal"
+	quest.67216EC5274F08B9.quest_subtitle: "Wird von Scher-Hirten verwendet"
+	quest.67258590FA14BE44.quest_desc: ["Für 250mB &9Wasser&r und 2 &bArkaner Kristallstaub&r im &b&lRunischen Schmelztiegel&r bekommen wir 250mB &bFlüssiges Aureal&r! \n\nDu benötigst jedoch 1000 &dSource&r, um es zu starten..."]
+	quest.67258590FA14BE44.title: "&bFlüssiges Aureal"
 	quest.672AC964851832EB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_swamp.png width:100 height:150 align:center}"]
-	quest.672AC964851832EB.title: "&7Swamp Silver&r"
+	quest.672AC964851832EB.title: "&7Sumpfsilber&r"
 	quest.672B308FD1DC0F45.quest_desc: [
-		"Give the &eBoiler&r some &bwater&r, input a &6fuel source&r, watch it heat up, and it will start creating &7steam&r!"
+		"Gib dem &eBoiler&r etwas &bWasser&r, führe eine &6Brennstoffquelle&r zu, beobachte, wie er sich aufheizt, und er wird anfangen, &7Dampf&r zu erzeugen!"
 		""
-		"You could use any kind of water source, like a &dSink&r connected with a &aFluid Pipe&r from Pipez!"
+		"Du könntest jede Art von Wasserquelle verwenden, wie ein &dWaschbecken&r, das mit einer &aFlüssigkeitsleitung&r von Pipez verbunden ist!"
 		""
-		"It is very important you put the water in first, as water piped into an already hot boiler will make the boiler &c&lexplode&r&r"
+		"Es ist sehr wichtig, dass du zuerst das Wasser einfüllst, da Wasser, das in einen bereits heißen Boiler gepumpt wird, dazu führen wird, dass der Boiler &c&lexplosiert&r&r."
 		""
-		"A solid boiler uses solid fuels like coal, whereas the liquid boiler uses liquid fuels like lava."
+		"Ein fester Boiler verwendet feste Brennstoffe wie Kohle, während der Flüssigkeitsboiler flüssige Brennstoffe wie Lava verwendet."
 	]
-	quest.672B308FD1DC0F45.quest_subtitle: "Gettin' steamy"
-	quest.672B308FD1DC0F45.title: "Steam Boiler"
-	quest.672F9CF5B0E626F1.quest_desc: ["&ePackagers&r are the new and very important &6Machine&r for &6&lCreate&r. In order to use pretty much everything from the Update we'll need a &ePackager&r. \\nCombine some of our new-found &eCardboard&r to make a Block of Cardboard. No, these aren't &eBoxes&r yet and they certainly don't do anything. \\n\\nWell besides Crafting our &ePackager&r! The &ePackager&r will then be placed onto a Block with an Inventory, like Chest or Barrel. You'll know it is connected when one of the sides changes to appear like a wall. \\n\\nThen, when given a &4Redstone Signal&r it will pull all &eItems&r within the Inventory into a &ePackage&r! More on that later! \\n\\nThe &ePackages&r can then be pulled out by Hand or &eBelt&r. You can also send &ePackages&r back into the &ePackager&r to put the &eItems&r back into an Inventory. \\n\\nIf you place and name a Sign on the &ePackager&r it will give all &ePackages&r that it makes an Address."]
-	quest.672F9CF5B0E626F1.title: "&ePackagers"
-	quest.6737CB17D562B134.quest_desc: ["Just a simple clicker that clicks with the item it is given."]
-	quest.67422A235EBAD4CF.quest_desc: ["Affixed Weapons can be found plenty of ways but how do I know what's Affixed? Affixed Weapons will always have super long names usually with the type of weapon and name of who may have previously owned it. It will also be colored the Rarity it is, green for uncommon blue for rare and so on. It will also have bonus stats or atleast Enchantability increase."]
-	quest.67422A235EBAD4CF.title: "Affixed Items"
-	quest.67482ED4B18F828D.quest_subtitle: "Iron + Neon Cuckoo"
-	quest.67482ED4B18F828D.title: "Osmium Bee"
+	quest.672B308FD1DC0F45.quest_subtitle: "Es wird dampfig"
+	quest.672B308FD1DC0F45.title: "Dampfkessel"
+	quest.672F9CF5B0E626F1.quest_desc: ["&eVerpacker&r sind die neuen und sehr wichtigen &6Maschinen&r für &6&lCreate&r. Um praktisch alles aus dem Update zu nutzen, benötigen wir einen &eVerpacker&r. \nKombiniere etwas von unserem neu entdeckten &eKarton&r, um einen Kartonblock zu erstellen. Nein, das sind noch keine &eBoxen&r und sie tun sicherlich nichts. \n\nNun, außer unseren &eVerpacker&r zu basteln! Der &eVerpacker&r wird dann auf einem Block mit einem Inventar platziert, wie einer Truhe oder einem Fass. Du weißt, dass er verbunden ist, wenn sich eine der Seiten ändert und wie eine Wand aussieht. \n\nWenn er dann ein &4Redstone-Signal&r erhält, zieht er alle &eGegenstände&r aus dem Inventar in ein &ePaket&r! Mehr dazu später! \n\nDie &ePakete&r können dann von Hand oder mit einem &eGürtel&r herausgenommen werden. Du kannst auch &ePakete&r zurück in den &eVerpacker&r schicken, um die &eGegenstände&r wieder in ein Inventar zu legen. \n\nWenn du ein Schild auf dem &eVerpacker&r platzierst und benennst, wird allen &ePaketen&r, die er erstellt, eine Adresse gegeben."]
+	quest.672F9CF5B0E626F1.title: "&eVerpacker"
+	quest.6737CB17D562B134.quest_desc: ["Ein einfacher Klicker, der mit dem gegebenen Gegenstand klickt."]
+	quest.67422A235EBAD4CF.quest_desc: ["Affixierte Waffen können auf viele Arten gefunden werden, aber woher weiß ich, was affixiert ist? Affixierte Waffen haben immer sehr lange Namen, normalerweise mit dem Typ der Waffe und dem Namen dessen, der sie zuvor besessen haben könnte. Sie werden auch in der Farbe ihrer Seltenheit eingefärbt, grün für ungewöhnlich, blau für selten und so weiter. Sie haben auch Bonus-Stats oder zumindest eine erhöhte Verzauberbarkeit."]
+	quest.67422A235EBAD4CF.title: "Affixierte Gegenstände"
+	quest.67482ED4B18F828D.quest_subtitle: "Eisen + Neon-Kuckuck"
+	quest.67482ED4B18F828D.title: "Osmium-Biene"
 	quest.674A6B0EDA0D348B.quest_subtitle: "Teak + Mangrove"
-	quest.674E2690D66ECD6E.quest_desc: ["When it's a thunderstorm, throwing in a &aWeather Container&r into the &aEnvironmental Accumulator&r will harness the power of the storm.\\n\\nUsing this, we can create items that allow us to control Lightning at will.\\n\\nYou will need a Lightning Bomb to craft the &6ATM Star&r."]
-	quest.674E2690D66ECD6E.title: "&aYou've Been &9Thunderstruck"
-	quest.674F28BCA2E4A3C8.quest_desc: ["When moving items Routers can get pretty greedy, taking every single item they can get their grubby antennas on! \\n\\nWith Regulator Augment you can limit how much is moved."]
-	quest.6751F2651063B3A5.quest_desc: ["Blood Mushrooms can be found within their Bogs. \\n\\nThey are shaped like Dark Oak Trees and are mostly White with only some blocks having Blood spots on them!"]
-	quest.6754612E9AD4B9C0.title: "Reactor (Blazing)"
+	quest.674E2690D66ECD6E.quest_desc: ["Wenn ein Gewitter aufzieht, kannst du einen &aWetterbehälter&r in den &aUmwelt-Akkumulator&r werfen, um die Kraft des Sturms zu nutzen.\n\nDamit können wir Gegenstände herstellen, die es uns ermöglichen, Blitze nach Belieben zu kontrollieren.\n\nDu benötigst eine Blitzbombe, um den &6ATM-Stern&r herzustellen."]
+	quest.674E2690D66ECD6E.title: "&aVom &9Blitz&r getroffen"
+	quest.674F28BCA2E4A3C8.quest_desc: ["Beim Bewegen von Gegenständen können Router ziemlich gierig werden und jeden einzelnen Gegenstand nehmen, auf den sie ihre klebrigen Antennen legen können! \n\nMit der Regulator-Erweiterung kannst du begrenzen, wie viel bewegt wird."]
+	quest.6751F2651063B3A5.quest_desc: ["Blutpilze können in ihren Sümpfen gefunden werden. \n\nSie sind wie Dunkeleichenbäume geformt und sind größtenteils weiß, nur einige Blöcke haben Blutflecken!"]
+	quest.6754612E9AD4B9C0.title: "Reaktor (Lodernd)"
 	quest.676BC41C19BEF1FC.quest_desc: [
-		"That first Foliot Demon was cool, but what if I told you that you could summon a demon that gives you 6 dusts per raw ore it crushes?"
+		"Dieser erste Foliot-Dämon war cool, aber was wäre, wenn ich dir sagen würde, dass du einen Dämon beschwören könntest, der dir 6 Stäube pro Roherz gibt, das er zerbricht?"
 		""
-		"The &5Marid Crusher&r does exactly that. To summon them, you'll need to use the &cFatma's Incentivized Attraction&r pentacle. This is an advanced ritual, requiring Red, White, and Gold Chalk as well as a lot of space."
+		"Der &5Marid-Zermalmer&r macht genau das. Um sie zu beschwören, musst du das &cFatmas angereizte Anziehung&r-Pentagramm verwenden. Dies ist ein fortgeschrittenes Ritual, das rote, weiße und goldene Kreide sowie viel Platz benötigt."
 	]
-	quest.676BC41C19BEF1FC.quest_subtitle: "The Fastest Crushing On This Side of the Mississippi"
-	quest.676BC41C19BEF1FC.title: "The &5Marid Crusher"
-	quest.67704F7341EDCC49.title: "&bDiamond Backpack"
+	quest.676BC41C19BEF1FC.quest_subtitle: "Das schnellste Zermalmen auf dieser Seite des Mississippi"
+	quest.676BC41C19BEF1FC.title: "Der &5Marid-Zermalmer"
+	quest.67704F7341EDCC49.title: "&bDiamant-Rucksack"
 	quest.677365A816994C8B.quest_desc: [
-		"The &9Player Transmitter&r will charge a player's items wirelessly. You must first bind this to a player using a &9Binding Card&r. This is the basic card which allows the transmitter to only work in the same dimension. You can upgrade this by using a &dBinding Card (Dimensional)&r instead. "
+		"Der &9Spielersender&r lädt die Gegenstände eines Spielers drahtlos auf. Du musst ihn zuerst mit einer &9Bindungskarte&r an einen Spieler binden. Dies ist die Basiskarte, die es dem Sender ermöglicht, nur in derselben Dimension zu funktionieren. Du kannst dies durch die Verwendung einer &dBindungskarte (Dimensional)&r verbessern. "
 		""
-		"Note: To get a Player Aerial Pearl, use an Aerial Pearl on a Zombie or Husk."
+		"Hinweis: Um eine Spieler-Luftperle zu erhalten, verwende eine Luftperle an einem Zombie oder Husk."
 	]
-	quest.677A701E06422CF3.quest_desc: ["Allows you to move much faster on all blocks by letting you accelerate while running on them! Warning much more slippery! Upgrade them to go even faster."]
-	quest.677A701E06422CF3.quest_subtitle: "Found in Mineshafts or Strongholds"
-	quest.677A701E06422CF3.title: "&cRoller Skates"
+	quest.677A701E06422CF3.quest_desc: ["Ermöglicht dir, dich viel schneller auf allen Blöcken zu bewegen, indem du beim Laufen darauf beschleunigen kannst! Warnung, viel rutschiger! Verbessere sie, um noch schneller zu werden."]
+	quest.677A701E06422CF3.quest_subtitle: "Gefunden in Minenschächten oder Festungen"
+	quest.677A701E06422CF3.title: "&cRollschuhe"
 	quest.677B8753B7904E95.quest_desc: [
-		"&bPurified Sphalerite&r and &5Purified Galena&r &eMixed&r with &6Sulfuric Acid&r will get you the start of one of the most coveted resources, &dIndium Concentrate&r"
+		"&bGereinigtes Sphalerit&r und &5Gereinigtes Bleiglanz&r &egemischt&r mit &6Schwefelsäure&r bringt dir den Anfang einer der begehrtesten Ressourcen, &dIndium-Konzentrat&r"
 		""
-		"This stuff is important enough to warrant a separate &aOre Processing&r setup"
+		"Dieses Zeug ist wichtig genug, um eine separate &aErzverarbeitung&r zu rechtfertigen"
 	]
-	quest.677C5D35DADA4A42.quest_desc: ["&cThe Coupler&r is for connecting or disconnecting &7Carts&r. Coupling is the phrase for connecting &7Carts&r. \\n\\nIt can be configured with a &4Crowbar&r to couple, decouple, or auto couple. Needs Redstone to work."]
-	quest.677C5D35DADA4A42.title: "&cTrack Kit&r Coupler"
-	quest.6780984A7CE63392.quest_subtitle: "Can Infect Villagers and Horses"
+	quest.677C5D35DADA4A42.quest_desc: ["&cDer Koppler&r dient zum Verbinden oder Trennen von &7Wagen&r. Koppeln ist der Begriff für das Verbinden von &7Wagen&r. \n\nEr kann mit einer &4Brechstange&r konfiguriert werden, um zu koppeln, zu entkoppeln oder automatisch zu koppeln. Benötigt Redstone, um zu funktionieren."]
+	quest.677C5D35DADA4A42.title: "&cSchienenausrüstung&r Koppler"
+	quest.6780984A7CE63392.quest_subtitle: "Kann Dorfbewohner und Pferde infizieren"
 	quest.6783F21811D0F149.quest_desc: [
-		"Ever wanted a forge that just smelts things without fuel?"
+		"Hast du jemals eine Schmiede gewollt, die Dinge ohne Brennstoff schmilzt?"
 		""
-		"Me too. Technically, this does need a \"fuel\" per se. It has a charge, and can be recharged using Sunstone or anything made from Horizonite."
+		"Ich auch. Technisch gesehen benötigt diese sozusagen einen \"Brennstoff\". Sie hat eine Ladung und kann mit Sonnenstein oder allem, was aus Horizonit hergestellt ist, aufgeladen werden."
 		""
-		"The forge must be empty to recharge."
+		"Die Schmiede muss zum Aufladen leer sein."
 	]
 	quest.6786B08C30D26037.quest_desc: [
-		"If you want one of these, you'll need an Ashy Mining Bee first."
+		"Wenn du eine davon möchtest, brauchst du zuerst eine Aschig Bergbau-Biene."
 		""
-		"Once the Ashy Mining Bee is cozy in its nest, there is a chance for a Nomad Bee to take it over."
+		"Sobald die Aschig Bergbau-Biene gemütlich in ihrem Nest ist, besteht die Chance, dass eine Nomaden-Biene es übernimmt."
 	]
-	quest.6786B08C30D26037.quest_subtitle: "Spawns in a nest that has an Ashy Mining Bee"
-	quest.6786C701B7C4980B.quest_desc: ["The Gravistar is another very important component for our high tier machines were going to be making."]
-	quest.6786C701B7C4980B.quest_subtitle: "Stars have Lots of Gravity"
+	quest.6786B08C30D26037.quest_subtitle: "Erscheint in einem Nest mit einer Aschig Bergbau-Biene"
+	quest.6786C701B7C4980B.quest_desc: ["Der Gravistar ist eine weitere sehr wichtige Komponente für unsere Maschinen der höchsten Stufe, die wir herstellen werden."]
+	quest.6786C701B7C4980B.quest_subtitle: "Sterne haben viel Schwerkraft"
 	quest.67884BFA27870CCE.quest_desc: [
-		"&dOsorin's Unbound Calling&r is the second tier of &dDemon-less rituals&r. The first tier isn't useful for progression at all, it's only used for reviving Familiars and turning Vexes into Allays. "
+		"&dOsorins ungebundene Anrufung&r ist die zweite Stufe von &ddämonenlosen Ritualen&r. Die erste Stufe ist für den Fortschritt überhaupt nicht nützlich, sie wird nur zum Wiederbeleben von Vertrauten und zum Verwandeln von Quälgeistern in Allay verwendet. "
 		""
-		"This ritual is used to create a ton of rare-ish blocks, items, and materials that you might not be able to (or it's hard to) get otherwise."
+		"Dieses Ritual wird verwendet, um eine Menge seltener Blöcke, Gegenstände und Materialien zu erschaffen, die du möglicherweise nicht (oder nur schwer) auf andere Weise bekommen kannst."
 	]
-	quest.67884BFA27870CCE.quest_subtitle: "For the less trial-chamber-inclined of us"
-	quest.67884BFA27870CCE.title: "&dOsorin's Unbound Calling"
-	quest.678BA300CED48E5E.quest_desc: ["Lets make a bunch of these Yttrium Barium Cuprate Bolts, as we can utilize them to significantly reduce the cost of our IV Processors!"]
-	quest.678BA300CED48E5E.quest_subtitle: "Cost Reduction "
-	quest.67940C0774E73217.quest_desc: ["&eItem Router&r will &9Input &eItems&r and &6Output&r them to certain locations based on the Filtering set in its UI! \\n\\nThese can be set to &eBelts&r, Crates, or other Inventories."]
-	quest.67940C0774E73217.title: "&eItem Router"
-	quest.679E80EBB9A2AE7E.quest_desc: ["&bFluid Routers&r sort and filter &bFluids&r passing through. \\n\\nYou'll need to set configs within its UI to set the Filters and which Side. Once you do that, it will take all &bFluids&r coming in and send them to where they are set to go!"]
-	quest.679E80EBB9A2AE7E.title: "&bFluid Router"
-	quest.67A0F6661D658A52.quest_desc: ["This can be found in any of the 3 previous Quests but will always spawn in the Cell Maze. \\n\\nIt will point you to the closest &5Throne Pillar&r. Follow that &5compass&r!"]
+	quest.67884BFA27870CCE.quest_subtitle: "Für die weniger prüfkammer-geneigten unter uns"
+	quest.67884BFA27870CCE.title: "&dOsorins ungebundene Anrufung"
+	quest.678BA300CED48E5E.quest_desc: ["Lasst uns eine Menge dieser Yttrium-Barium-Kuprat-Bolzen herstellen, da wir sie nutzen können, um die Kosten unserer IV-Prozessoren erheblich zu reduzieren!"]
+	quest.678BA300CED48E5E.quest_subtitle: "Kostenreduzierung "
+	quest.67940C0774E73217.quest_desc: ["&eGegenstand-Router&r werden &eGegenstände&r &9einlesen&r und sie basierend auf den in ihrer Benutzeroberfläche festgelegten Filtern an bestimmte Orte &6ausgeben&r! \n\nDiese können auf &eGürtel&r, Kisten oder andere Inventare eingestellt werden."]
+	quest.67940C0774E73217.title: "&eGegenstand-Router"
+	quest.679E80EBB9A2AE7E.quest_desc: ["&bFlüssigkeits-Router&r sortieren und filtern &bFlüssigkeiten&r, die hindurchfließen. \n\nDu musst Konfigurationen in der Benutzeroberfläche festlegen, um die Filter und welche Seite einzustellen. Sobald du das getan hast, wird er alle eingehenden &bFlüssigkeiten&r nehmen und sie dorthin senden, wo sie hingehören!"]
+	quest.679E80EBB9A2AE7E.title: "&bFlüssigkeits-Router"
+	quest.67A0F6661D658A52.quest_desc: ["Dies kann in einer der 3 vorherigen Quests gefunden werden, erscheint aber immer im Zelllabyrinth. \n\nEs wird dich zur nächsten &5Thronsäule&r führen. Folge diesem &5Kompass&r!"]
 	quest.67A2347534269528.quest_desc: [
-		"&9Sploogies&r can rarely spawn but when they do they are destined to annoy you. \\n\\nThey will shoot spit at you (and make disgusting sucking noises) but if you hit them they will run away; similar to a baby Piglin. \\n\\nThey only drop Depthrock Pebbles on death."
+		"&9Sploogies&r können selten spawnen, aber wenn sie es tun, sind sie dazu bestimmt, dich zu nerven. \n\nSie werden Spucke auf dich schießen (und eklige Sauggeräusche machen), aber wenn du sie triffst, werden sie wegrennen; ähnlich wie ein Baby-Piglin. \n\nSie lassen bei ihrem Tod nur Tiefensteinkiesel fallen."
 		"{image:atm:textures/questpics/undergarden/undergarden_sploogie.png width:125 height:100 align:center}"
 	]
 	quest.67A2347534269528.title: "&9Sploogie&r"
-	quest.67A46ED73E488CEE.quest_desc: ["&dGearshifts&r work similar to a &dClutch&r by connecting to our Systems and being powered by &4Redstone&r. \\n\\nInstead of stopping &dRotational Power&r though, the &dGearshift&r will change its Direction! \\n\\nIf it is going &e&oClockwise&r into the powered &dGearshift&r, it will come out &9&oCounter-Clockwise&r, and vice versa."]
-	quest.67A46ED73E488CEE.title: "&dGearshift"
-	quest.67A587F4BAD76C70.quest_desc: ["The most basic &eSpellbook&r, which also makes it the cheapest! \\n\\nIt can only hold a total of 5 &3Spells&r."]
-	quest.67A587F4BAD76C70.title: "Flimsy Journal"
-	quest.67A9329C05F98633.quest_desc: ["Honestly, if you don't need more &aEnergy&r and would rather be as safe as you can with your &2&lReactor&r then just delete it! \\n\\nOh yeah, you heard me! Just delete the Steam! \\n\\nI know lots of things are important in &2&lMinecraft&r and it is usually greater to hold onto these, instead of tossing them... \\n\\nBut Steam is pretty much only for Turbines to make &aEnergy&r. \\n\\nDon't need it? Then, Tube it into an Ultimate Trash Can!"]
-	quest.67A9329C05F98633.title: "Toss it!"
+	quest.67A46ED73E488CEE.quest_desc: ["&dGangschaltungen&r funktionieren ähnlich wie eine &dKupplung&r, indem sie sich mit unseren Systemen verbinden und von &4Redstone&r angetrieben werden. \n\nAnstatt jedoch die &dRotationsenergie&r zu stoppen, ändert die &dGangschaltung&r ihre Richtung! \n\nWenn sie &e&oim Uhrzeigersinn&r in die angetriebene &dGangschaltung&r geht, kommt sie &9&ogegen den Uhrzeigersinn&r heraus und umgekehrt."]
+	quest.67A46ED73E488CEE.title: "&dGangschaltung"
+	quest.67A587F4BAD76C70.quest_desc: ["Das grundlegendste &eZauberbuch&r, was es auch zum günstigsten macht! \n\nEs kann nur insgesamt 5 &3Zauber&r aufnehmen."]
+	quest.67A587F4BAD76C70.title: "Dünnes Journal"
+	quest.67A9329C05F98633.quest_desc: ["Ehrlich gesagt, wenn du nicht mehr &aEnergie&r benötigst und lieber so sicher wie möglich mit deinem &2&lReaktor&r sein möchtest, lösch ihn einfach! \n\nJa, du hast richtig gehört! Lösch einfach den Dampf! \n\nIch weiß, viele Dinge sind in &2&lMinecraft&r wichtig, und es ist normalerweise besser, sie aufzubewahren, anstatt sie wegzuwerfen... \n\nAber Dampf ist eigentlich nur für Turbinen, um &aEnergie&r zu erzeugen. \n\nBrauchst du ihn nicht? Dann leite ihn in eine ultimative Mülltonne!"]
+	quest.67A9329C05F98633.title: "Wirf es weg!"
 	quest.67AA17BCDE37DFAB.quest_desc: [
-		"Now, with all those processing tasks being done by your new Rotary Hearth Furnace, you are going to need a multiblock that can keep up in cooling down your ingots."
+		"Da all diese Verarbeitungsaufgaben jetzt von deinem neuen Drehrohrofen erledigt werden, brauchst du einen Multiblock, der mit dem Abkühlen deiner Barren Schritt halten kann."
 		""
-		"Thats where the Bulk Blast Chiller comes into play!"
+		"Hier kommt der Massen-Durchlaufkühler ins Spiel!"
 	]
-	quest.67AA17BCDE37DFAB.quest_subtitle: "Pairs well with the RHF"
-	quest.67AA59BD340FEC62.quest_subtitle: "Tier: &63"
+	quest.67AA17BCDE37DFAB.quest_subtitle: "Passt gut zum RHF"
+	quest.67AA59BD340FEC62.quest_subtitle: "Stufe: &63"
 	quest.67AFCBCE7AAC3089.quest_desc: [
-		"To get a Turbine spinning, we'll need these &crequired&r components:\\n\\n- &9Rotor Bearings&r are placed at one end of the shaft of the turbine. This can be on any face, but dictates where the shaft extrude from. This is typically placed in the center of the bottom face.\\n\\n- &eRotor Shafts&r extend from one Rotor Bearing to the opposite side of the turbine, all the way to a single Turbine Housing block, creating the shaft for the Turbine.\\n\\n- &9Rotor Blades&r make the rotor spin. These are placed onto the Rotor Shafts and can be multiple blocks in length. Each Blade can handle a certain amount of vapor, and determines how many are needed based on your reactor's production rates.\\n\\nHere is an example of a Vertical Shaft setup for a Turbine, with the Turbine Coil of Lead on the top.\\n"
+		"Um eine Turbine zum Drehen zu bringen, benötigen wir diese &cerforderlichen&r Komponenten:\n\n- &9Rotorlager&r werden an einem Ende der Turbinenwelle platziert. Dies kann auf jeder Seite sein, bestimmt aber, wo die Welle herausragt. Diese werden typischerweise in der Mitte der unteren Seite platziert.\n\n- &eRotorwellen&r erstrecken sich von einem Rotorlager zur gegenüberliegenden Seite der Turbine, bis hin zu einem einzelnen Turbinengehäuseblock, und bilden so die Welle für die Turbine.\n\n- &9Rotorblätter&r bringen den Rotor zum Drehen. Diese werden auf die Rotorwellen gesetzt und können mehrere Blöcke lang sein. Jedes Blatt kann eine bestimmte Menge an Dampf bewältigen und bestimmt, wie viele basierend auf den Produktionsraten deines Reaktors benötigt werden.\n\nHier ist ein Beispiel für eine vertikale Welleneinrichtung für eine Turbine, mit der Turbinenspule aus Blei an der Spitze.\n"
 		"{image:atm:textures/questpics/extremereactors/maxbasicturbine.png width:100 height:150 align:1}"
 	]
-	quest.67AFCBCE7AAC3089.title: "Creating The Turbine Shaft"
-	quest.67B73449A59467C5.quest_desc: ["Once you've got at least two hundred mahou you might want to make a boundary of drain life. For every mob that dies in that boundary, you get 10 mahou back, but this is a SLOW process."]
-	quest.67B73449A59467C5.title: "Boundary of Life Drain"
-	quest.67B87570C340C243.title: "Armor Upgrades"
-	quest.67C4A4D6DD93DB0E.quest_desc: ["Place this under the soil to allow magical seeds to grow"]
-	quest.67C4A4D6DD93DB0E.title: "&bMagical Soil&r"
-	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
-	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
-	quest.67C9D2712EA1F637.title: "ULV Tier"
-	quest.67CCEFEBA4D79429.quest_desc: ["&eDivine Pact&r is the most difficult to obtain, you'll need to search Piglin Villages and Ancient Pyramids in &b&lThe Other&r to find them! \\n\\nIt's used to craft the Soul Binding Crystal and the End Game Multiblocks!"]
-	quest.67CCEFEBA4D79429.title: "&eDivine Pact"
-	quest.67D40A1A9332C03D.title: "&6Legendary&r Ink"
-	quest.67D6C82D8AAE1C3B.quest_desc: ["If you've seen what the unpacker can do, wait until you see the packer... It's limited in it's abilities, though!"]
-	quest.67DBE6C59C0D9D1B.quest_desc: ["This is the Tier 4 Essence, made by combining 4 Imperium together with an Infusion Crystal."]
-	quest.67DBE6C59C0D9D1B.quest_subtitle: "Tier: &c5"
+	quest.67AFCBCE7AAC3089.title: "Erstellen der Turbinenwelle"
+	quest.67B73449A59467C5.quest_desc: ["Sobald du mindestens zweihundert Mahou hast, möchtest du vielleicht eine Grenze des Lebensraubes erstellen. Für jeden Mob, der in dieser Grenze stirbt, bekommst du 10 Mahou zurück, aber dies ist ein LANGSAMER Prozess."]
+	quest.67B73449A59467C5.title: "Grenze des Lebensraubes"
+	quest.67B87570C340C243.title: "Rüstungs-Upgrades"
+	quest.67C4A4D6DD93DB0E.quest_desc: ["Platziere dies unter der Erde, damit magische Samen wachsen können"]
+	quest.67C4A4D6DD93DB0E.title: "&bMagischer Boden&r"
+	quest.67C76EDD4BCCFF3F.quest_desc: ["Durch &bStrigeors höhere Bindung&r können wir einen &bleeren Seelenstein&r herstellen. \n\nDiese können verwendet werden, um Mobs sicher zu transportieren oder die &d&lDrachenseele&r herzustellen. \n\nPersönlich denke ich, wir sollten beides tun!"]
+	quest.67C76EDD4BCCFF3F.title: "&bLeerer Seelenstein"
+	quest.67C9D2712EA1F637.title: "ULV-Stufe"
+	quest.67CCEFEBA4D79429.quest_desc: ["&eGöttlicher Pakt&r ist am schwierigsten zu erhalten, du musst in &b&lDem Anderen&r nach Piglin-Dörfern und antiken Pyramiden suchen, um sie zu finden! \n\nSie wird verwendet, um den Seelenbindungskristall und die Endgame-Multiblöcke herzustellen!"]
+	quest.67CCEFEBA4D79429.title: "&eGöttlicher Pakt"
+	quest.67D40A1A9332C03D.title: "&6Legendäre&r Tinte"
+	quest.67D6C82D8AAE1C3B.quest_desc: ["Wenn du gesehen hast, was der Entpacker kann, warte, bis du den Verpacker siehst... Er ist jedoch in seinen Fähigkeiten begrenzt!"]
+	quest.67DBE6C59C0D9D1B.quest_desc: ["Dies ist die Essenz der Stufe 4, hergestellt durch Kombination von 4 Imperium mit einem Infusionskristall."]
+	quest.67DBE6C59C0D9D1B.quest_subtitle: "Stufe: &c5"
 	quest.67DBE6C59C0D9D1B.title: "&4Supremium"
-	quest.67DDFA6FB1F9EECA.title: "&9Imperium Tools"
-	quest.67E154DC24F54854.title: "&6Master of Oblivion&r"
+	quest.67DDFA6FB1F9EECA.title: "&9Imperium-Werkzeuge"
+	quest.67E154DC24F54854.title: "&6Meister der Vergessenheit&r"
 	quest.67E7A9A65B14C933.quest_desc: [
-		"We got &7Ore Clumps&r? What do we do with a &7Clump&r, we wanted &7Ingots&r! \\n\\nTo start, &4Crush &feach &7Clump&f to get 2 &7Dirty Ore Dust&r. \\n\\nWe can't &6Smelt &7Dirty Dust&r, it'll ruin the Furnace! So we'll need to &dEnrich&r them to get our regular &7Dust&r. \\n\\nAnd like usual, &6Smelt &fthe &7Dust &fto get &7Ingots&r."
+		"Wir haben &7Erzklumpen&r? Was machen wir mit einem &7Klumpen&r, wir wollten &7Barren&r! \n\nZunächst &4zermalme&r jeden &7Klumpen&f, um 2 &7dreckigen Erzstaub&r zu erhalten. \n\nWir können &7dreckigen Staub&r nicht &6schmelzen&r, er würde den Ofen ruinieren! Also müssen wir sie &danreichern&r, um unseren regulären &7Staub&r zu bekommen. \n\nUnd wie üblich, &6schmelze&f den &7Staub&f, um &7Barren&r zu bekommen."
 		"{image:atm:textures/questpics/mek/mek_tier2_2.png width:250 height:50 align:center}"
 	]
-	quest.67E7A9A65B14C933.quest_subtitle: "Tier 2 Ore Processing"
-	quest.67E7A9A65B14C933.title: "&4Crush &fand &dEnrich &four &7Clumps"
-	quest.67F992E5672671CD.quest_subtitle: "&eTier 5&r"
-	quest.67FB03BE6685AFE1.quest_desc: ["To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, shoot a Pillager with a &d&lRevolver&r. \\n\\nThis will start the spawning of new and harder Pillagers!"]
-	quest.67FB03BE6685AFE1.title: "Offense and Defense"
+	quest.67E7A9A65B14C933.quest_subtitle: "Stufe 2 Erzverarbeitung"
+	quest.67E7A9A65B14C933.title: "&4Zermalme&f und &dreichere&f unsere &7Klumpen&f an"
+	quest.67F992E5672671CD.quest_subtitle: "&eStufe 5&r"
+	quest.67FB03BE6685AFE1.quest_desc: ["Um einen Krieg zu beginnen, müssen wir ihn zuerst erklären! \n\nNur ein Scherz, wir gehen direkt zum Schießen über! Keine diplomatischen Spielereien hier! \n\nZum Start schieße auf einen Plünderer mit einem &d&lRevolver&r. \n\nDies wird das Spawnen neuer und härterer Plünderer beginnen!"]
+	quest.67FB03BE6685AFE1.title: "Angriff und Verteidigung"
 	quest.6805CC8AD6010F33.quest_desc: [
-		"This unlocks a single recipe for us, the &1IV&r Circuit!"
+		"Dies schaltet ein einzelnes Rezept für uns frei, den &1IV&r-Schaltkreis!"
 		""
-		"Don't rush ahead and just craft this and the circuit thinking that you can skip this age though"
+		"Eile nicht voraus und fertige nur dies und den Schaltkreis an, in der Meinung, dass du dieses Zeitalter überspringen kannst"
 	]
-	quest.6805E4C7F6FBAC77.quest_desc: ["Distilling &bRaw Oil&r results in the most &eSulfuric Naphtha&r, but you can get it from the other oil types too"]
+	quest.6805E4C7F6FBAC77.quest_desc: ["Das Destillieren von &bRohöl&r ergibt das meiste &eSchweflige Naphtha&r, aber du kannst es auch aus den anderen Öltypen bekommen"]
 	quest.680E960554CEE76B.quest_desc: [
-		"These beautiful &5&lCanyons&r surrounded by &6&lHive Walls&r are full of... you guessed it! &5Crystals&r! \\n\\nThe floor is made of &eCarvable Wax&r while the rest is full of small &5Honey Crystals&r and massive &5Glistering Honey Crystals&r."
+		"Diese wunderschönen &5&lCanyons&r, umgeben von &6&lWabenwänden&r, sind voll von... du hast es erraten! &5Kristallen&r! \n\nDer Boden besteht aus &eschnitzfähigem Wachs&r, während der Rest voller kleiner &5Honigkristalle&r und massiver &5Glitzernder Honigkristalle&r ist."
 		"{image:atm:textures/questpics/bumblezone/bumble_canyon.png width:200 height:100 align:center}"
 	]
-	quest.680E960554CEE76B.title: "&5&lCrystal Canyons"
-	quest.680ECE3D8DCDC515.quest_subtitle: "&f13 &cAttack Damage"
+	quest.680E960554CEE76B.title: "&5&lKristall-Canyons"
+	quest.680ECE3D8DCDC515.quest_subtitle: "&f13 &cAngriffsschaden"
 	quest.680F2CB6905F08AD.quest_desc: [
-		"If you didn't know this, you can put a Vanilla tool back into your crafting table to create a &aSilent Gear Tool&r. "
+		"Falls du es nicht wusstest, kannst du ein Vanilla-Werkzeug zurück in deinen Basteltisch legen, um ein &aSilent Gear-Werkzeug&r zu erstellen. "
 		""
-		"These tools can be upgraded AND won't break when the durability hits 0. Instead, you can repair the tool using &2Repair Kits&r! "
+		"Diese Werkzeuge können aufgewertet werden UND werden nicht zerbrechen, wenn die Haltbarkeit auf 0 sinkt. Stattdessen kannst du das Werkzeug mit &2Reparatur-Kits&r reparieren! "
 		""
-		"To learn more about the mod, check out the &9Silent Gear&r questline!"
+		"Um mehr über die Mod zu erfahren, schau dir die &9Silent Gear&r-Questreihe an!"
 	]
 	quest.680F2CB6905F08AD.title: "&aSilent Gear Tools"
 	quest.681110DE6B4E6ED8.quest_desc: [
