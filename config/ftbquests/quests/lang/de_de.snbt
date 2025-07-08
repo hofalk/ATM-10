@@ -1248,255 +1248,256 @@
 	quest.0BCCDE24D378F260.quest_subtitle: "Stufe: &d3"
 	quest.0BCCDE24D378F260.title: "&dFortgeschrittener Maschinenrahmen"
 	quest.0BD6365534BF04D5.quest_desc: [
-		"With Lime Chalk, it's time to delve into &5Possesion Rituals&r. These rituals are slightly different from the others because they all require a live sacrifice, usually small mobs such as Chickens, Bees, Bats, etc. However, as rituals get more complicated, they will require larger and larger sacrifices. "
+		"Mit Kalkkreide ist es Zeit, in &5Besitzergreifungsrituale&r einzutauchen. Diese Rituale unterscheiden sich leicht von den anderen, da sie alle ein lebendes Opfer erfordern, normalerweise kleine Kreaturen wie Hühner, Bienen, Fledermäuse usw. Allerdings werden mit zunehmender Komplexität der Rituale größere und größere Opfer benötigt."
 		""
-		"Even if you've placed all of the items needed and the Book of Binding into the Golden Sacrificial Bowl, the Ritual will not begin until you kill the sacrifice on top of the runes."
+		"Selbst wenn du alle benötigten Gegenstände und das Buch der Bindung in die Goldene Opferschale gelegt hast, wird das Ritual nicht beginnen, bis du das Opfer auf den Runen tötest."
 		""
-		"It is recommended that you make some sort of mob capture item such as an Empty Soul Gem, Jar, Mob Imprisonment Tool, or Quantum Catcher!"
+		"Es wird empfohlen, dass du eine Art von Mob-Fanggegenstand wie einen Leeren Seelenstein, ein Glas, ein Mob-Gefängniswerkzeug oder einen Quantenfänger herstellst!"
 		""
-		"The first tier of &5Possession rituals&r is &eHeidryn's Lure&r, which is only used to get mundane items like Skeleton Skulls and End Stone. Because of this, you can skip straight to the second tier of ritual, &aIhagan's Enthrallment&r. "
+		"Die erste Stufe der &5Besitzergreifungsrituale&r ist &eHeidryns Köder&r, der nur verwendet wird, um alltägliche Gegenstände wie Skelettschädel und Endstein zu bekommen. Deshalb kannst du direkt zur zweiten Stufe des Rituals, &aIhagans Verzauberung&r, übergehen."
 	]
-	quest.0BD6365534BF04D5.quest_subtitle: "Who you gonna call?"
-	quest.0BD6365534BF04D5.title: "&aIhagan's Enthrallment"
-	quest.0BD908937BC6E97B.quest_subtitle: "Kapok + Rosewood"
+	quest.0BD6365534BF04D5.quest_subtitle: "Wen rufst du an?"
+	quest.0BD6365534BF04D5.title: "&aIhagans Verzauberung"
+	quest.0BD908937BC6E97B.quest_subtitle: "Kapok + Rosenholz"
 	quest.0BE2E7C9454058C3.quest_desc: [
-		"Part of the beautiful &d&lFloral Meadow&r is a &dCherry Tree&r much older and bigger than the rest. \\n\\nThe &6B&8e&6e&8s&r have seemed to take a liking to these &dTrees&r and have set up mini &eHives&r next to them full of their young!"
+		"Teil der wunderschönen &d&lBlumenwiese&r ist ein &dKirschbaum&r, viel älter und größer als der Rest. \\n\\nDie &6B&8i&6e&8nen&r scheinen diese &dBäume&r zu mögen und haben kleine &eBienenstöcke&r neben ihnen aufgebaut, voll mit ihrem Nachwuchs!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cherry.png width:200 height:100 align:center}"
 	]
-	quest.0BE2E7C9454058C3.title: "&dCherry Veteran Tree"
-	quest.0BE6CE2C264140AD.quest_subtitle: "Tier: &a2"
-	quest.0BFAF1499415DD68.quest_subtitle: "Silver Lime + Cherry"
-	quest.0C096EE635645E43.quest_desc: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
+	quest.0BE2E7C9454058C3.title: "&dVeteran-Kirschbaum"
+	quest.0BE6CE2C264140AD.quest_subtitle: "Stufe: &a2"
+	quest.0BFAF1499415DD68.quest_subtitle: "Silber-Linde + Kirsche"
+	quest.0C096EE635645E43.quest_desc: ["Die Kristallarmbrust wird wie eine Mechanische Armbrust hergestellt, nur mit Kristallen anstelle von Stöcken. \\n\\nSie schießt Pfeile und verursacht den gleichen Schaden wie eine normale Armbrust, aber diese gibt Kristallinfektion. Kristallinfektion verursacht jeden Sekunde 1 Schaden durch die Kristalle, die auf ihnen erscheinen! Und ja, es wird sie töten."]
 	quest.0C1D55AA9CC902BD.quest_desc: [
-		"Valid Upgrades:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
+		"Gültige Verbesserungen:"
+		"- Rasenmäher"
+		"- Himmelsfeger"
+		"- Automatischer Schmelzer"
 		"- Hammer"
-		"- Drops Teleporter"
+		"- Drops-Teleporter"
 	]
-	quest.0C1EC499EB16C604.quest_desc: ["This can be found by &2brushing&r &aSuspicious Soul Sand&r in &dBastions&r within the &cNether&r."]
-	quest.0C1EC499EB16C604.title: "&bVibranium Upgrades&r"
-	quest.0C25F73C0E0FB22A.quest_desc: ["Another Essence needed for our &c&lAutomatic Forge&r is &aExperience&r! Well it's &aFluid XP&r from &3&lJust Dire Things&r. \\n\\nTo get &aXP Fluid&r we'll need an &aExperience Holder&r, these can be set to collect &aXP&r in a set area with the Collect XP option. \\n\\nDon't worry, Mobs killed by &7Spiked Plates&r will still drop &aXP&r, so put these next to your Farms! \\n\\nYou can also deposit other forms of &aFluid XP&r into it or even your own &aXP&r levels!"]
-	quest.0C25F73C0E0FB22A.title: "Auto &aExperience"
+	quest.0C1EC499EB16C604.quest_desc: ["Dies kann durch &2Bürsten&r von &aVerdächtigem Seelensand&r in &dBastionen&r im &cNether&r gefunden werden."]
+	quest.0C1EC499EB16C604.title: "&bVibranium-Verbesserungen&r"
+	quest.0C25F73C0E0FB22A.quest_desc: ["Eine weitere Essenz, die für unsere &c&lAutomatische Schmiede&r benötigt wird, ist &aErfahrung&r! Nun, es ist &aFlüssige XP&r von &3&lJust Dire Things&r. \\n\\nUm &aXP-Flüssigkeit&r zu erhalten, brauchen wir einen &aErfahrungshalter&r, dieser kann so eingestellt werden, dass er &aXP&r in einem festgelegten Bereich mit der Option XP sammeln sammelt. \\n\\nKeine Sorge, von &7Stachelplatten&r getötete Mobs werden immer noch &aXP&r fallen lassen, also platziere diese neben deinen Farmen! \\n\\nDu kannst auch andere Formen von &aFlüssiger XP&r oder sogar deine eigenen &aXP&r-Level hineinlegen!"]
+	quest.0C25F73C0E0FB22A.title: "Auto &aErfahrung"
 	quest.0C2EC56133D3CC6C.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lFähigkeitstyp:&r Aktiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Temporarily makes the player immune to damage when activated, has a cooldown."
+		"Macht den Spieler bei Aktivierung vorübergehend immun gegen Schaden, hat eine Abklingzeit."
 	]
-	quest.0C38F40FD6AA01E6.quest_desc: ["Caliburn will start off not much better than a Diamond Sword but once upgraded the Diamond Sword looks more like a normal stick. Both Morgan and Caliburn have their actual damage and their innate cap. Innate Cap is max damage it can be increased to. To increase the Innate Cap of Caliburn, enchant it with Smite then toss it in the lake with Ender Upgrades. To get the Max Cap you need 26 Ender Upgrades. Once upgraded it can't be upgraded anymore so make sure you toss in all 26 at once. To increase the normal damage you'll need to enchant it with Smite then back in the Lake it goes! You'll need more damage in order to..."]
-	quest.0C38F40FD6AA01E6.title: "Upgrading Caliburn to upgrade Morgan"
+	quest.0C38F40FD6AA01E6.quest_desc: ["Caliburn beginnt nicht viel besser als ein Diamantschwert, aber nach der Aufwertung sieht das Diamantschwert eher wie ein normaler Stock aus. Sowohl Morgan als auch Caliburn haben ihren tatsächlichen Schaden und ihre natürliche Obergrenze. Die natürliche Obergrenze ist der maximale Schaden, auf den es erhöht werden kann. Um die natürliche Obergrenze von Caliburn zu erhöhen, verzaubere es mit Bann und wirf es dann mit Ender-Upgrades in den See. Um die maximale Obergrenze zu erreichen, benötigst du 26 Ender-Upgrades. Sobald es aufgewertet wurde, kann es nicht mehr weiter aufgewertet werden, also stelle sicher, dass du alle 26 auf einmal hineinwirfst. Um den normalen Schaden zu erhöhen, musst du es mit Bann verzaubern und dann geht es zurück in den See! Du brauchst mehr Schaden, um..."]
+	quest.0C38F40FD6AA01E6.title: "Caliburn verbessern, um Morgan zu verbessern"
 	quest.0C3B3D7F82A6DB3D.quest_desc: [
-		"Weve used so much of the Fusion Reactor! "
+		"Wir haben den Fusionsreaktor so viel genutzt! "
 		""
-		"But I told you it was an important structure. If you havnt already, stacking rings of Fusion Reactors will help immensely."
+		"Aber ich habe dir gesagt, dass es eine wichtige Struktur ist. Wenn du es noch nicht getan hast, wird das Stapeln von Fusionsreaktorringen enorm helfen."
 	]
-	quest.0C3B3D7F82A6DB3D.quest_subtitle: "Making use of the Fusion Reactor"
-	quest.0C557A9494F58400.quest_desc: ["Causes the Mana Burst to create flame on the block it hits. This flame provides light and is purely decorative. It can be put out by using another Mana Burst on it."]
+	quest.0C3B3D7F82A6DB3D.quest_subtitle: "Nutzung des Fusionsreaktors"
+	quest.0C557A9494F58400.quest_desc: ["Bewirkt, dass der Mana-Ausbruch Flammen auf dem Block erzeugt, den er trifft. Diese Flamme bietet Licht und ist rein dekorativ. Sie kann durch einen weiteren Mana-Ausbruch gelöscht werden."]
 	quest.0C596CB7C7C24615.quest_desc: ["{atm9.quest.enchant.desc.Soul_deep}"]
 	quest.0C596CB7C7C24615.title: "{atm9.quest.enchant.Soul_deep}"
 	quest.0C6719D81DE5A614.quest_desc: [
 		""
-		"The Forge requires 4 different items to be powered: Aureal, Souls, Blood, and Experience."
+		"Die Schmiede benötigt 4 verschiedene Gegenstände, um betrieben zu werden: Aureal, Seelen, Blut und Erfahrung."
 		""
-		"To learn more about each, follow the corner quests!"
+		"Um mehr über jeden zu erfahren, folge den Ecken-Quests!"
 	]
-	quest.0C7491BA5857AA00.quest_subtitle: "Teak + Jungle"
-	quest.0C78FB6EB275960B.title: "Sheldonite Vein"
+	quest.0C7491BA5857AA00.quest_subtitle: "Teakholz + Dschungel"
+	quest.0C78FB6EB275960B.title: "Sheldonit-Ader"
 	quest.0C7D96DB3573EF9C.quest_desc: [""]
-	quest.0C7D96DB3573EF9C.quest_subtitle: "&oAbility to create life."
-	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
+	quest.0C7D96DB3573EF9C.quest_subtitle: "&oFähigkeit, Leben zu erschaffen."
+	quest.0C7D96DB3573EF9C.title: "&5&lKreative Essenz"
 	quest.0C8180524757B238.quest_desc: [
-		"&7Floaters&r aren't technically structures in Minecraft files wise but still are in layman terms. \\n\\nThey can appear in any Biome but always and abundtly in &7&lHowling Constructs&r! \\n\\nThey are floating disc shaped structures made of Ancient Wax. If you haven't used the Essense of Bees yet you will get Weakness, Slowness, and Mining Fatigue when touching Ancient Wax. There's also &6Honey Cocoons&r or &5Crystals&r on them!"
+		"&7Schweber&r sind technisch gesehen keine Strukturen in den Minecraft-Dateien, aber trotzdem im allgemeinen Sinne. \\n\\nSie können in jedem Biom erscheinen, aber immer und reichlich in &7&lHeulenden Konstrukten&r! \\n\\nEs sind schwebende scheibenförmige Strukturen aus Altem Wachs. Wenn du die Essenz der Bienen noch nicht benutzt hast, erhältst du Schwäche, Langsamkeit und Abbaumüdigkeit, wenn du Altes Wachs berührst. Es gibt auch &6Honigkokons&r oder &5Kristalle&r auf ihnen!"
 		"{image:atm:textures/questpics/bumblezone/bumble_floaters.png width:200 height:100 align:center}"
 	]
-	quest.0C8180524757B238.title: "&7Floaters"
-	quest.0C82CE3AFBD48C1E.quest_desc: ["&l&aSushi Go Crafting&r doesn't add many Blocks but the ones it does I highly recommend using in your Kitchen! \\n\\nEspecially the Rice Cooker; no more using the Microwave for Rice anymore."]
+	quest.0C8180524757B238.title: "&7Schweber"
+	quest.0C82CE3AFBD48C1E.quest_desc: ["&l&aSushi Go Crafting&r fügt nicht viele Blöcke hinzu, aber die vorhandenen empfehle ich sehr für deine Küche! \\n\\nBesonders den Reiskocher; keine Mikrowelle mehr für Reis."
+	]
 	quest.0C82CE3AFBD48C1E.title: "&l&aSushi Go Crafting&r"
-	quest.0C856BBB1679A7DD.quest_desc: ["On this page, you'll find some useful items and info to help you on your journey!"]
-	quest.0C856BBB1679A7DD.quest_subtitle: "And Other Useful Items!"
-	quest.0C93D7A607AB8B83.quest_desc: ["To claim chunks, open up your map using &6M&r, then click the &aClaimed Chunks&r icon in the top left.\\n\\nTo claim a chunk, left click and drag to claim.\\n\\nTo force load a chunk, shift-left click the chunk. If done properly, you'll see lines across the chunk."]
+	quest.0C856BBB1679A7DD.quest_desc: ["Auf dieser Seite findest du einige nützliche Gegenstände und Informationen, die dir auf deiner Reise helfen!"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "Und andere nützliche Gegenstände!"
+	quest.0C93D7A607AB8B83.quest_desc: ["Um Chunks zu beanspruchen, öffne deine Karte mit &6M&r und klicke dann auf das Symbol &aBeanspruchte Chunks&r in der oberen linken Ecke.\\n\\nUm einen Chunk zu beanspruchen, klicke mit der linken Maustaste und ziehe, um zu beanspruchen.\\n\\nUm einen Chunk dauerhaft zu laden, halte die Umschalttaste gedrückt und klicke mit der linken Maustaste auf den Chunk. Wenn es richtig gemacht wurde, siehst du Linien über dem Chunk."]
 	quest.0C98503A2F20484D.quest_desc: [
-		"Near Frostfields you may find Frosty Smogstem Forests. \\n\\nThese are just like Frostfields just with Smogstem Trees!"
+		"In der Nähe von Frostfeldern findest du möglicherweise Frostige Rauchstamm-Wälder. \\n\\nDiese sind genau wie Frostfelder, nur mit Rauchstamm-Bäumen!"
 		"{image:atm:textures/questpics/undergarden/undergarden_frostytrees.png width:200 height:100 align:center}"
 	]
-	quest.0C98503A2F20484D.title: "Frosty Smogstem Forest"
-	quest.0C9C5639D76FDF65.quest_desc: ["Save 12 &6B&8e&6e&8s&r by reattaching their Stinger. \\n\\nWhen a &6B&8e&6e&8s&r hits a Mob or even you they will lose their Stinger which will give them a Fatal Poison. \\n\\nIf you Right Click them with a Stinger you can reattach it and save them!"]
+	quest.0C98503A2F20484D.title: "Frostiger Rauchstamm-Wald"
+	quest.0C9C5639D76FDF65.quest_desc: ["Rette 12 &6B&8i&6e&8nen&r, indem du ihren Stachel wieder anbringst. \\n\\nWenn eine &6B&8i&6e&8ne&r einen Mob oder sogar dich trifft, verlieren sie ihren Stachel, was ihnen ein tödliches Gift gibt. \\n\\nWenn du mit einem Stachel mit der rechten Maustaste auf sie klickst, kannst du ihn wieder anbringen und sie retten!"]
 	quest.0C9DD8E53A1B92C0.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Auto Smelter"
+		"Gültige Verbesserungen:"
+		"- Erzgräber"
+		"- Automatischer Schmelzer"
 		"- Hammer"
-		"- Drops Teleporter"
-		"- X-Ray"
-		"- Instant Break"
+		"- Drops-Teleporter"
+		"- Röntgenblick"
+		"- Sofortiger Abbau"
 	]
 	quest.0CBF5A49066468DD.quest_desc: [
-		"Yes, it may seem odd to Craft the UV tier Circuit Assembler, since the Mainframe used the Assembly Line, but this will be incredibly beneficial."
+		"Ja, es mag seltsam erscheinen, den UV-Stufen-Schaltkreismontierer zu bauen, da der Mainframe die Montagelinie verwendet, aber dies wird unglaublich vorteilhaft sein."
 		""
-		"The UV Circuit Assembler will allow you to craft 4x LuV Wetware Processors in 1 craft! Thats a huge savings and double the return!"
+		"Der UV-Schaltkreismontierer ermöglicht es dir, 4x LuV Wetware-Prozessoren in einer Herstellung zu fertigen! Das ist eine enorme Einsparung und verdoppelt den Ertrag!"
 	]
-	quest.0CBF5A49066468DD.quest_subtitle: "Do we Need this?"
+	quest.0CBF5A49066468DD.quest_subtitle: "Brauchen wir das?"
 	quest.0CBFE2CE53DCACD5.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Increases the jump height of the player."
+		"Erhöht die Sprunghöhe des Spielers."
 	]
-	quest.0CC0632E8276C787.quest_desc: ["Place the Teleport Pad in &l&cThe Nether&r to go to &b&lThe Other&r."]
-	quest.0CC0632E8276C787.title: "&c&lThe Nether"
-	quest.0CC48C2AA553A314.quest_desc: ["&3Drill Bits&r can be used in a Pneumatic Jackhammer."]
-	quest.0CD04A00529FE1C9.quest_desc: ["The Copper Chest can be made but is not needed to make an Iron Chest, it can be used if you want to save some Iron though."]
-	quest.0CD04A00529FE1C9.title: "&6Copper Chest"
-	quest.0CE1F6DE5FD6A6D9.title: "&aEvocation&r Upgrade Orb"
-	quest.0CE236731DF15DFF.quest_desc: ["Why wait? Usually items dropped in Minecraft have a second they need to hit the ground to be picked up again. \\n\\nBut why wait?\\n\\nThis upgrade lets the Vacuum Module not wait and immediately pick up the items. \\n\\nVery good for less lag!"]
+	quest.0CC0632E8276C787.quest_desc: ["Platziere das Teleport-Pad in &l&cDem Nether&r, um zu &b&lDem Anderen&r zu gelangen."]
+	quest.0CC0632E8276C787.title: "&c&lDer Nether"
+	quest.0CC48C2AA553A314.quest_desc: ["&3Bohrerspitzen&r können in einem Pneumatischen Presslufthammer verwendet werden."]
+	quest.0CD04A00529FE1C9.quest_desc: ["Die Kupfertruhe kann hergestellt werden, ist aber nicht erforderlich, um eine Eisentruhe herzustellen. Sie kann verwendet werden, wenn du etwas Eisen sparen möchtest."]
+	quest.0CD04A00529FE1C9.title: "&6Kupfertruhe"
+	quest.0CE1F6DE5FD6A6D9.title: "&aEvokations&r-Verbesserungskugel"
+	quest.0CE236731DF15DFF.quest_desc: ["Warum warten? Normalerweise benötigen in Minecraft fallen gelassene Gegenstände eine Sekunde, um den Boden zu berühren, bevor sie wieder aufgehoben werden können. \\n\\nAber warum warten?\\n\\nDieses Upgrade lässt das Vakuummodul nicht warten und nimmt die Gegenstände sofort auf. \\n\\nSehr gut für weniger Lag!"]
 	quest.0CF69DBA9573A7B3.quest_desc: [
-		"The Schematic Table will read and write structures to/from your schematics."
+		"Der Schematisch-Tisch wird Strukturen aus deinen Schematiken lesen und schreiben."
 		""
-		"You can use it to copy buildings or to share them with others!"
+		"Du kannst ihn verwenden, um Gebäude zu kopieren oder sie mit anderen zu teilen!"
 	]
-	quest.0CF6D11016BAF3D0.quest_desc: ["Now we are producing some complex Naquadah. Just like all the other complex resources we are working on, this one provides a significant benefit to the factor."]
-	quest.0CF6D11016BAF3D0.quest_subtitle: "Complex Naquadah"
-	quest.0D01524F249E25D7.quest_subtitle: "Who turned off the lights?"
-	quest.0D01524F249E25D7.title: "&8Dark Xychorium Gems"
-	quest.0D18BBB04693885A.quest_desc: ["Strigeor's Higher Binding is the second tier of &6Infusion Rituals&r. It's used for many different things, but the main things we'll need are the Infused Pickaxe and Gray Paste."]
-	quest.0D18BBB04693885A.quest_subtitle: "The \"Everything\" Ritual"
-	quest.0D18BBB04693885A.title: "&aStrigeor's Higher Binding"
-	quest.0D19FB62C2C1D9F7.quest_desc: ["Once you've got at least 200 &4Mahou&r you might want to make a Boundary of Life Drain. \\n\\nFor every Mob that dies in that boundary, you get 10 &4Mahou&r back, but this is a SLOW process."]
-	quest.0D19FB62C2C1D9F7.title: "Boundary of Life Drain"
+	quest.0CF6D11016BAF3D0.quest_desc: ["Jetzt stellen wir komplexes Naquadah her. Wie alle anderen komplexen Ressourcen, an denen wir arbeiten, bietet diese einen signifikanten Vorteil für den Faktor."]
+	quest.0CF6D11016BAF3D0.quest_subtitle: "Komplexes Naquadah"
+	quest.0D01524F249E25D7.quest_subtitle: "Wer hat das Licht ausgeschaltet?"
+	quest.0D01524F249E25D7.title: "&8Dunkle Xychorium-Edelsteine"
+	quest.0D18BBB04693885A.quest_desc: ["Strigeors Höhere Bindung ist die zweite Stufe der &6Infusionsrituale&r. Es wird für viele verschiedene Dinge verwendet, aber die Hauptdinge, die wir brauchen werden, sind die Infundierte Spitzhacke und die Graue Paste."]
+	quest.0D18BBB04693885A.quest_subtitle: "Das \"Alles\"-Ritual"
+	quest.0D18BBB04693885A.title: "&aStrigeors Höhere Bindung"
+	quest.0D19FB62C2C1D9F7.quest_desc: ["Sobald du mindestens 200 &4Mahou&r hast, möchtest du vielleicht eine Grenze der Lebensentzug erstellen. \\n\\nFür jeden Mob, der in dieser Grenze stirbt, erhältst du 10 &4Mahou&r zurück, aber dieser Prozess ist LANGSAM."]
+	quest.0D19FB62C2C1D9F7.title: "Grenze des Lebensentzugs"
 	quest.0D1A6B32FEB51FAD.quest_desc: [
-		"Turn blocks into plates with this one trick!"
+		"Verwandle Blöcke mit diesem Trick in Platten!"
 		""
-		"Also very useful for making silicon wafers and wafer chips, which we'll get into shortly"
+		"Auch sehr nützlich für die Herstellung von Siliziumwafern und Wafer-Chips, auf die wir bald eingehen werden"
 	]
-	quest.0D1A6B32FEB51FAD.quest_subtitle: "The cutting edge"
-	quest.0D20644407244A60.quest_desc: ["Every 3 chunks you'll find another ore vein!"]
-	quest.0D20644407244A60.title: "Nether Layer Ores"
-	quest.0D212038C0A45E0B.quest_desc: ["Casull Cartridges are the default Bullets. They deal 5 Hearts of Damage, and that's it! \\n\\nArmor Piercing Cartridges will have a higher chance of ignoring Armor Points. This is perfect against Mobs like the Bulwark. \\n\\nBuckshot Shells will instead of shooting 1 Projectile, it will shoot multiple Projectiles. Use in close range for best effects! \\n\\nSilver Cartridges will act like Casull Cartridges but with higher Damage to the Undead Mobs: Zombies and Skeletons!"]
-	quest.0D212038C0A45E0B.title: "Common Projectiles"
-	quest.0D259B9B93B39FAE.quest_desc: ["This is an expensive component to build out. But you will be needing a few of these as we continue to progress. There are a few different multiblocks that rely on the ZPM Field Generator."]
-	quest.0D259B9B93B39FAE.quest_subtitle: "Espensive, but worth it"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["Higher Durability than a Dagger, but lower damage and speed."]
-	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Stabby"
+	quest.0D1A6B32FEB51FAD.quest_subtitle: "Die Schneidekante"
+	quest.0D20644407244A60.quest_desc: ["Alle 3 Chunks findest du eine weitere Erzader!"]
+	quest.0D20644407244A60.title: "Nether-Schicht-Erze"
+	quest.0D212038C0A45E0B.quest_desc: ["Casull-Patronen sind die Standard-Kugeln. Sie verursachen 5 Herzen Schaden, und das war's! \\n\\nRüstungsdurchschlagende Patronen haben eine höhere Chance, Rüstungspunkte zu ignorieren. Dies ist perfekt gegen Mobs wie den Bollwerk. \\n\\nSchrotpatronen werden anstelle eines Projektils mehrere Projektile abfeuern. Verwende sie auf kurze Distanz für die besten Effekte! \\n\\nSilberpatronen wirken wie Casull-Patronen, aber mit höherem Schaden für Untote Mobs: Zombies und Skelette!"]
+	quest.0D212038C0A45E0B.title: "Gängige Projektile"
+	quest.0D259B9B93B39FAE.quest_desc: ["Dies ist eine teure Komponente, die aufgebaut werden muss. Aber du wirst einige davon benötigen, während wir fortschreiten. Es gibt einige verschiedene Multiblöcke, die auf dem ZPM-Feldgenerator basieren."]
+	quest.0D259B9B93B39FAE.quest_subtitle: "Teuer, aber lohnenswert"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Höhere Haltbarkeit als ein Dolch, aber geringerer Schaden und Geschwindigkeit."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Stechend"
 	quest.0D2C935F99D1A1FE.quest_desc: [
-		"Navigating through our &aEngineer's Manual&r, you can find the &aSqueezer&r in the &eHeavy Machinery&r category. "
+		"Wenn wir durch unser &aIngenieurhandbuch&r navigieren, findest du den &aQuetscher&r in der Kategorie &eSchwere Maschinen&r. "
 		""
-		"This is a multiblock structure that we'll use to squeeze out the &3Coke Dust&r into &3HOP Graphite Dust&r. Smelt this down to create the ingot!"
+		"Dies ist eine Multiblock-Struktur, die wir verwenden werden, um den &3Koksstaub&r in &3HOP-Graphitstaub&r zu quetschen. Schmelze diesen, um den Barren herzustellen!"
 	]
-	quest.0D2C935F99D1A1FE.title: "Squeezer"
-	quest.0D2D1F99945BA209.quest_desc: ["It is supposed to Equip your &8&lHeavy Plated Shield&r when you Double Tap S... emphasis on supposed to. \\n\\nReminder that &8&lIE&r is in Beta still! Mod Development takes a lot of time and effort, be respectful of such!"]
-	quest.0D2F5CC96269F9E3.quest_desc: ["The next step of making PCBs involves using the &3Etching Tank&r with Etching Acid. Requires heat to run."]
-	quest.0D2F5CC96269F9E3.quest_subtitle: "It's Etching Time!"
-	quest.0D31CD79BE6CC8D2.quest_desc: ["Why doesn't regular Bread need Yeast?"]
-	quest.0D31CD79BE6CC8D2.quest_subtitle: "The Yeast of your Problems"
-	quest.0D31CD79BE6CC8D2.title: "Yeast"
-	quest.0D330FAD6C993DBC.quest_desc: ["This is the next upgrade to your Spellbook! \\n\\nThis will increase your overall mana and mana regen, as well as allowing you to create and use Tier 2 Glyphs."]
+	quest.0D2C935F99D1A1FE.title: "Quetscher"
+	quest.0D2D1F99945BA209.quest_desc: ["Es soll deinen &8&lSchwer Gepanzerten Schild&r ausrüsten, wenn du zweimal schnell S drückst... Betonung auf soll. \\n\\nErinnerung, dass &8&lIE&r noch in Beta ist! Die Mod-Entwicklung nimmt viel Zeit und Mühe in Anspruch, sei respektvoll!"]
+	quest.0D2F5CC96269F9E3.quest_desc: ["Der nächste Schritt bei der Herstellung von Leiterplatten beinhaltet die Verwendung des &3Ätzungstanks&r mit Ätzsäure. Benötigt Wärme zum Betrieb."]
+	quest.0D2F5CC96269F9E3.quest_subtitle: "Es ist Ätzzeit!"
+	quest.0D31CD79BE6CC8D2.quest_desc: ["Warum braucht normales Brot keine Hefe?"]
+	quest.0D31CD79BE6CC8D2.quest_subtitle: "Das Kleinste deiner Probleme"
+	quest.0D31CD79BE6CC8D2.title: "Hefe"
+	quest.0D330FAD6C993DBC.quest_desc: ["Dies ist das nächste Upgrade für dein Zauberbuch! \\n\\nDies erhöht dein Gesamtmana und die Mana-Regeneration sowie ermöglicht es dir, Glyphen der Stufe 2 zu erstellen und zu verwenden."]
 	quest.0D3DF9C8F742AE0D.quest_desc: [
-		"All parts of the rubber tree can be extracted into raw rubber pulp"
+		"Alle Teile des Gummibaums können zu Rohgummipulpe extrahiert werden"
 		""
-		"As well as slime balls!"
+		"Sowie Schleimbälle!"
 	]
-	quest.0D47F491C27BBD5E.title: "Mineral Sand Vein"
+	quest.0D47F491C27BBD5E.title: "Mineralsand-Ader"
 	quest.0D4A85FBCE0015E1.quest_desc: [
-		"This &aHammer&r is used to make &aPlates&r from ingots! While it's great to use at the start, you'll eventually want to make a &aCompressor&r to do this work for you. This will need power!"
+		"Dieser &aHammer&r wird verwendet, um &aPlatten&r aus Barren herzustellen! Während er am Anfang großartig zu verwenden ist, wirst du schließlich einen &aKompressor&r herstellen wollen, um diese Arbeit für dich zu erledigen. Dieser wird Energie benötigen!"
 		""
-		"You'll need plenty of &aIron&r and &aSteel Plates&r to craft a lot of the items to get to space, so make sure to get it automated!"
+		"Du wirst viele &aEisen&r- und &aStahlplatten&r benötigen, um viele der Gegenstände herzustellen, um in den Weltraum zu gelangen, also stelle sicher, dass du es automatisierst!"
 	]
-	quest.0D4A85FBCE0015E1.title: "Making &aPlates&r"
-	quest.0D4C64DD58567758.quest_desc: ["Adds a tank to the Backpack."]
-	quest.0D4FE97640F2CA60.quest_desc: ["Has 36 filter slots and works 6x faster."]
-	quest.0D4FE97640F2CA60.title: "Ultra Destructor"
+	quest.0D4A85FBCE0015E1.title: "Herstellung von &aPlatten&r"
+	quest.0D4C64DD58567758.quest_desc: ["Fügt dem Rucksack einen Tank hinzu."]
+	quest.0D4FE97640F2CA60.quest_desc: ["Hat 36 Filterplätze und arbeitet 6x schneller."]
+	quest.0D4FE97640F2CA60.title: "Ultra-Zerstörer"
 	quest.0D5015B8FF482D0A.quest_desc: [
-		"We will need to order some stuff off of &3Amadron&r using the &3Amadron Tablet&r in order to continue progression. To use it, shift-right click a Chest and a Fluid tank, put your currency in a linked container (Emeralds, etc) and order something. You'll see an Amadrone come down to take your money and another Amadrone come to drop off what you ordered."
+		"Wir müssen einige Dinge über &3Amadron&r mit dem &3Amadron-Tablet&r bestellen, um den Fortschritt fortzusetzen. Um es zu verwenden, halte Shift gedrückt und klicke mit der rechten Maustaste auf eine Truhe und einen Flüssigkeitstank, lege deine Währung in einen verbundenen Behälter (Smaragde usw.) und bestelle etwas. Du wirst sehen, wie eine Amadrone herunterkommt, um dein Geld zu nehmen, und eine andere Amadrone kommt, um abzuliefern, was du bestellt hast."
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/amadron_drone.png width:300 height:150 align:center}"
 	]
-	quest.0D5015B8FF482D0A.quest_subtitle: "I wonder if they have 1 day delivery?"
+	quest.0D5015B8FF482D0A.quest_subtitle: "Ich frage mich, ob sie Lieferung am nächsten Tag anbieten?"
 	quest.0D5015B8FF482D0A.title: "Amadron"
-	quest.0D50BDEFA0319EA1.quest_desc: ["This will drop the finished product into your output chest."]
-	quest.0D50BDEFA0319EA1.quest_subtitle: "Always Required"
+	quest.0D50BDEFA0319EA1.quest_desc: ["Dies lässt das fertige Produkt in deine Ausgabetruhe fallen."]
+	quest.0D50BDEFA0319EA1.quest_subtitle: "Immer erforderlich"
 	quest.0D5691403AEC25A8.quest_desc: [
-		"Routers can also be used for Farming!\\n\\nFirst start off with a simple Farm. Then you'll need an Activator Module and direct it toward the Crops. After that, put a Vacuum Module in your Router to collect the Crops. Finally put it all in the Router, Power it with Redstone, and let it farm!"
+		"Router können auch zum Farmen verwendet werden!\\n\\nBeginn zunächst mit einer einfachen Farm. Dann benötigst du ein Aktivierungsmodul und richte es auf die Pflanzen. Danach platziere ein Vakuummodul in deinem Router, um die Pflanzen zu sammeln. Schließlich lege alles in den Router, versorge ihn mit Redstone-Energie und lass ihn farmen!"
 		"{image:atm:textures/questpics/router/router_farm.png width:60 height:150 align:center}"
 	]
-	quest.0D5691403AEC25A8.title: "Routers for Farming"
+	quest.0D5691403AEC25A8.title: "Router für das Farmen"
 	quest.0D573979B25FAC48.quest_desc: [
-		"Keep in mind, each Energy Hatch can accept 2 Amps of power"
+		"Denke daran, jede Energieöffnung kann 2 Ampere Strom akzeptieren"
 		""
-		"Many machines accept two (or more) Energy Hatches, which means you can feed 4 Amps in and unlock processing at a higher voltage tier!"
+		"Viele Maschinen akzeptieren zwei (oder mehr) Energieöffnungen, was bedeutet, dass du 4 Ampere einführen und die Verarbeitung auf einer höheren Spannungsstufe freischalten kannst!"
 	]
 	quest.0D59094D0C23C44F.quest_desc: [
-		"Well if 64 Parallel processes werent enough, how about 256? Because thats exactly what this block does. It allows you to run 256 Parallel tasks!"
+		"Nun, wenn 64 parallele Prozesse nicht genug waren, wie wäre es mit 256? Denn genau das tut dieser Block. Er ermöglicht dir, 256 parallele Aufgaben auszuführen!"
 		""
-		"This is the highest tier Parallel Control Hatch there is!"
+		"Dies ist die höchste Stufe der Parallelen Kontrollöffnung, die es gibt!"
 	]
-	quest.0D59094D0C23C44F.quest_subtitle: "64 Wasnt enough?"
-	quest.0D5D76B3551CD5A7.quest_desc: ["Yes, it's called an Aluminium Bee."]
-	quest.0D5D76B3551CD5A7.quest_subtitle: "Crystalline + Ashy Mining"
-	quest.0D5D76B3551CD5A7.title: "Aluminium Bee"
+	quest.0D59094D0C23C44F.quest_subtitle: "64 waren nicht genug?"
+	quest.0D5D76B3551CD5A7.quest_desc: ["Ja, es wird Aluminiumbiene genannt."]
+	quest.0D5D76B3551CD5A7.quest_subtitle: "Kristallin + Aschiger Bergbau"
+	quest.0D5D76B3551CD5A7.title: "Aluminiumbiene"
 	quest.0D68FA968FD2BEF4.quest_desc: [
-		"If you've already made the &aLarge Chemical Reactor&r you can make this stuff in bulk!"
+		"Wenn du bereits den &aGroßen Chemischen Reaktor&r hergestellt hast, kannst du dieses Zeug in großen Mengen herstellen!"
 		""
-		"Otherwise, you're stuck using the &eChemical Reactor&r with a &6Tiny Pile of Copper Dust&r, &9Hydrogen&r, and &2Nitrochlorobenzene&r"
+		"Andernfalls bist du darauf angewiesen, den &eChemischen Reaktor&r mit einem &6Kleinen Haufen Kupferstaub&r, &9Wasserstoff&r und &2Nitrochlorbenzen&r zu verwenden"
 	]
-	quest.0D6D45DBA64E612D.quest_desc: ["The Maximum Spawn Delay is how long it could take to spawn mobs. Just like the Minimum it can be as low as 20 to as high as 32,767. Each Clock modifies the speed of the spawner by 10. The speed is expressed in ticks where 20 ticks equals 1 second. So quickest spawn delay would be 1 second between each."]
-	quest.0D6D45DBA64E612D.title: "Maximum Spawn Delay"
-	quest.0D888A4C5EF0073E.quest_subtitle: "Mahogany + Kapok"
-	quest.0D8AC4FB1F61B07A.title: "&dTo The Stars!&r"
-	quest.0D91A6B36BD2F526.quest_desc: ["Upgrade your &7Cloggrum Battleaxe&r to make the greatest weapon &2&lUndergarden&r can give!"]
-	quest.0D91A6B36BD2F526.title: "Ultimate Weapon!"
-	quest.0D9354ABA2AE2A11.quest_desc: ["&2Incense Sticks&r can be infused with Brews in a Botanical Brewery. These can be lit using flint and steel on an &9Incense Plate&r to provide the brew effect for sixty times longer than its liquid counterpart, in a 30-block radius around the plate."]
-	quest.0D9560C8E247F9E7.quest_desc: ["Right-click somewhere and you will be able to pathfind your way back. If you're close enough and have a direct route, a path will appear."]
+	quest.0D6D45DBA64E612D.quest_desc: ["Die maximale Spawn-Verzögerung ist die Zeit, die es dauern könnte, bis Mobs spawnen. Genau wie das Minimum kann es so niedrig wie 20 oder so hoch wie 32.767 sein. Jede Uhr ändert die Geschwindigkeit des Spawners um 10. Die Geschwindigkeit wird in Ticks ausgedrückt, wobei 20 Ticks einer Sekunde entsprechen. Die schnellste Spawn-Verzögerung wäre also 1 Sekunde zwischen jedem Spawn."]
+	quest.0D6D45DBA64E612D.title: "Maximale Spawn-Verzögerung"
+	quest.0D888A4C5EF0073E.quest_subtitle: "Mahagoni + Kapok"
+	quest.0D8AC4FB1F61B07A.title: "&dZu den Sternen!&r"
+	quest.0D91A6B36BD2F526.quest_desc: ["Rüste deine &7Cloggrum-Streitaxt&r auf, um die großartigste Waffe zu erschaffen, die &2&lUndergarden&r bieten kann!"]
+	quest.0D91A6B36BD2F526.title: "Ultimative Waffe!"
+	quest.0D9354ABA2AE2A11.quest_desc: ["&2Räucherstäbchen&r können in einer Botanischen Brauerei mit Gebräuen infundiert werden. Diese können mit Feuerzeug und Stahl auf einem &9Räucherteller&r angezündet werden, um die Gebräueffekte für die sechzigfache Zeit ihrer flüssigen Entsprechung in einem Umkreis von 30 Blöcken um den Teller zu bieten."]
+	quest.0D9560C8E247F9E7.quest_desc: ["Klicke irgendwo mit der rechten Maustaste und du wirst in der Lage sein, deinen Weg zurückzufinden. Wenn du nahe genug bist und einen direkten Weg hast, wird ein Pfad erscheinen."]
 	quest.0D9560C8E247F9E7.quest_subtitle: "Max: 1"
-	quest.0D97CDE92F3B1A83.quest_subtitle: "Lead + Diamond/Platinum"
-	quest.0D97CDE92F3B1A83.title: "Enderium Bee"
-	quest.0D99638C96AB2EEA.quest_subtitle: "You'll need it"
-	quest.0D99638C96AB2EEA.title: "Passive Oxygen Line"
-	quest.0D9D1462C676C050.quest_subtitle: "Time"
+	quest.0D97CDE92F3B1A83.quest_subtitle: "Blei + Diamant/Platin"
+	quest.0D97CDE92F3B1A83.title: "Enderium-Biene"
+	quest.0D99638C96AB2EEA.quest_subtitle: "Du wirst es brauchen"
+	quest.0D99638C96AB2EEA.title: "Passive Sauerstoffleitung"
+	quest.0D9D1462C676C050.quest_subtitle: "Zeit"
 	quest.0DA5BC8BA056B975.quest_desc: [
-		"The macerator is the first step in ore processing, but we'll come back to that later"
+		"Der Zermahler ist der erste Schritt in der Erzverarbeitung, aber darauf kommen wir später zurück"
 		""
-		"For now, we need wood dust, so throw some wood in here and grind them up"
+		"Für jetzt brauchen wir Holzstaub, also wirf etwas Holz hier hinein und zerkleinere es"
 	]
-	quest.0DA5BC8BA056B975.quest_subtitle: "Crushing and grinding"
-	quest.0DB1A5763EDD6A7F.quest_subtitle: "The Boss of the Poison Dungeon"
-	quest.0DB4226BA23A5C09.quest_desc: ["Move that &bAdvanced Circuit Assembler&r into your &eCleanroom&r and welcome yourself to the &5EV&r Age!"]
-	quest.0DB4226BA23A5C09.quest_subtitle: "Can this supercomputer win at chess?"
-	quest.0DB92C70D04725BE.quest_subtitle: "Duracell Eat your heart out"
-	quest.0DC0E236C8213050.quest_desc: ["By combining 500mB of Unrefined Liquid Souls with a singular Soul, we can create 500mB of Liquid Souls! \\n\\nThis will need twice the amount of &dSource&r that the &bLiquid Aureal&r needs, at 2000 &dSource&r."]
-	quest.0DC0E236C8213050.title: "Liquid Souls"
-	quest.0DC8B68CDF945348.quest_desc: ["The Router giveth and the Router taketh. \\n\\nThis Module is helpful for Builders or even Miners! It can be set to send items from its Buffer to your Inventory or take items from your Inventory into its Buffer. \\n\\nPerfect for Strip-Mining, have it take all the Cobble and Deepslate from your Inventory and put it in a Trash Can."]
-	quest.0DD389A24F5F8CDD.quest_desc: ["&l&6Aqua Regia&r&r is a mixture of Concentrated Nitric Acid and Hydrochloric Acid, usually one part to three parts, respectively. The Mixture was given its name (literally \"Royal Water\") by alchemists because of its ability to dissovle &l&eGold&r&r."]
-	quest.0DD389A24F5F8CDD.quest_subtitle: "Im a Barbie Girl, In a Barbie world... If you know, you know."
-	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Cast, you can make the basic sword! Reliable damage and reliable speed."]
-	quest.0DF4B01CC5B49E4E.quest_subtitle: "Good ol' Reliable"
+	quest.0DA5BC8BA056B975.quest_subtitle: "Zerquetschen und Mahlen"
+	quest.0DB1A5763EDD6A7F.quest_subtitle: "Der Boss des Gift-Verlieses"
+	quest.0DB4226BA23A5C09.quest_desc: ["Bewege diesen &bFortgeschrittenen Schaltkreismontierer&r in deinen &eReinraum&r und heiße dich im &5EV&r-Zeitalter willkommen!"]
+	quest.0DB4226BA23A5C09.quest_subtitle: "Kann dieser Supercomputer im Schach gewinnen?"
+	quest.0DB92C70D04725BE.quest_subtitle: "Duracell, friss dein Herz"
+	quest.0DC0E236C8213050.quest_desc: ["Durch die Kombination von 500mB unrefinierter Flüssiger Seelen mit einer einzelnen Seele können wir 500mB Flüssige Seelen herstellen! \\n\\nDies wird die doppelte Menge an &dQuelle&r benötigen, die das &bFlüssige Aureal&r benötigt, nämlich 2000 &dQuelle&r."]
+	quest.0DC0E236C8213050.title: "Flüssige Seelen"
+	quest.0DC8B68CDF945348.quest_desc: ["Der Router gibt und der Router nimmt. \\n\\nDieses Modul ist hilfreich für Baumeister oder sogar Bergleute! Es kann so eingestellt werden, dass es Gegenstände aus seinem Puffer in dein Inventar sendet oder Gegenstände aus deinem Inventar in seinen Puffer nimmt. \\n\\nPerfekt für den Tagebau, lass es all den Bruchstein und Tiefenschiefer aus deinem Inventar nehmen und in einen Mülleimer legen."]
+	quest.0DD389A24F5F8CDD.quest_desc: ["&l&6Königswasser&r&r ist eine Mischung aus konzentrierter Salpetersäure und Salzsäure, normalerweise im Verhältnis eins zu drei. Die Mischung erhielt ihren Namen (wörtlich \"königliches Wasser\") von den Alchemisten wegen ihrer Fähigkeit, &l&eGold&r&r aufzulösen."]
+	quest.0DD389A24F5F8CDD.quest_subtitle: "I'm a Barbie Girl, In a Barbie world... Wenn du es weißt, weißt du es."
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Mit dieser Form kannst du das grundlegende Schwert herstellen! Zuverlässiger Schaden und zuverlässige Geschwindigkeit."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Der gute alte Zuverlässige"
 	quest.0DF9014435C8F4D2.quest_desc: [
-		"You might be wondering why I forced Nickel Zinc Ferrite ingots on you, and this recipe is exactly why! "
+		"Du fragst dich vielleicht, warum ich dich zu Nickel-Zink-Ferrit-Barren gezwungen habe, und dieses Rezept ist genau der Grund! "
 		""
-		"You get the most bang for your buck when using Nickel Zinc Ferrite and Annealed Copper, both of which you can make!"
+		"Du bekommst das meiste für dein Geld, wenn du Nickel-Zink-Ferrit und angelassenes Kupfer verwendest, beides kannst du herstellen!"
 		""
-		"You've got some options when it comes to making the NZF rings and the fine wire, an &eExtruder&r will get you the most rings for one ingot and a &eWiremill&r will turn ingots into wire and wire into fine wire"
+		"Du hast einige Optionen, wenn es um die Herstellung der NZF-Ringe und des feinen Drahts geht, ein &eExtruder&r wird dir die meisten Ringe für einen Barren geben und ein &eDrahtwerk&r wird Barren in Draht und Draht in feinen Draht verwandeln"
 	]
-	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone Activation gives your spawner an on/off switch. Without Redstone Power it will not spawn."]
-	quest.0E02CE4469FCA4C9.title: "Redstone Active"
-	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Dry Green Blocks"
-	quest.0E057B7F76401421.quest_subtitle: "The First Upgrade"
-	quest.0E057B7F76401421.title: "&6Copper Backpack"
-	quest.0E0CAA31480EC0A1.quest_desc: ["Allows the Backpack to pick up items."]
-	quest.0E0CAA31480EC0A1.quest_subtitle: "Allows the backpack to pick up items."
+	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone-Aktivierung gibt deinem Spawner einen Ein/Aus-Schalter. Ohne Redstone-Energie wird er nicht spawnen."]
+	quest.0E02CE4469FCA4C9.title: "Redstone-Aktiv"
+	quest.0E03F5EAE4963ECB.quest_subtitle: "8 trockene grüne Blöcke"
+	quest.0E057B7F76401421.quest_subtitle: "Das erste Upgrade"
+	quest.0E057B7F76401421.title: "&6Kupfer-Rucksack"
+	quest.0E0CAA31480EC0A1.quest_desc: ["Ermöglicht dem Rucksack, Gegenstände aufzuheben."]
+	quest.0E0CAA31480EC0A1.quest_subtitle: "Ermöglicht dem Rucksack, Gegenstände aufzuheben."
 	quest.0E175356D43E6A10.quest_desc: [
-		"Good good, now we got &eChlorine&r. What else do we need for &3Hydrogen Chloride&r? Oh yeah, Hydrogen! \\n\\nFeed some &9Water&r to an &9&lElectrolytic Separator&r, like in Tier 1, to get Hydrogen and &bOxygen&r. Just this time we need to keep the Hydrogen. \\n\\nWith our &a&lChemical Infuser&r we can combine Hydrogen and &eChlorine&r to make &3Hydrogen Chloride&r. \\n\\nPipe that &3Hydrogen Chloride&r into a &c&lChemical Injection Chamber&r to &cInject &7Ores&r to get &7Shards&r. \\n\\n&7Ore Blocks&r will get 4 &7Ore Shards&r while 3 &7Raw Ores&f will get 8 &7Ore Shards&r."
+		"Gut, jetzt haben wir &eChlorin&r. Was brauchen wir noch für &3Chlorwasserstoff&r? Ach ja, Wasserstoff! \\n\\nFüttere etwas &9Wasser&r in einen &9&lElektrolytischen Separator&r, wie in Stufe 1, um Wasserstoff und &bSauerstoff&r zu erhalten. Nur diesmal müssen wir den Wasserstoff behalten. \\n\\nMit unserem &a&lChemischen Infusor&r können wir Wasserstoff und &eChlorin&r kombinieren, um &3Chlorwasserstoff&r herzustellen. \\n\\nLeite diesen &3Chlorwasserstoff&r in eine &c&lChemische Injektionskammer&r, um &7Erze&r zu &cinjizieren&r und &7Splitter&r zu erhalten. \\n\\n&7Erzblöcke&r werden 4 &7Erzsplitter&r ergeben, während 3 &7Roherze&f 8 &7Erzsplitter&r ergeben werden."
 		"{image:atm:textures/questpics/mek/mek_tier3_2.png width:150 height:100 align:center}"
 	]
-	quest.0E175356D43E6A10.quest_subtitle: "Tier 3 Ore Processing"
-	quest.0E175356D43E6A10.title: "&cInjecting &3Hydrogen Chloride"
-	quest.0E1ABCAA87120367.quest_subtitle: "Tier: &c5"
-	quest.0E20A9B79D1C6637.quest_desc: ["The Warden is a boss added in 1.20. \\n\\nHe spawns by having 3 naturally spawning Sculk Shriekers going off in a row, or any Shriekers going off after a first Warden has spawned. \\n\\nHe is the most powerful Mob added by Minecraft, with 500 Hearts and over 20 Hearts damage with his attacks. \\n\\nHis attacks include hitting you and Sonar Blasts for those farther. \\n\\nHis only weakness is being blind, but like daredevil it just made his other senses much stronger! If you are close he can smell you and careful with making noise! \\n\\nIf you somehow kill him he will drop: Sculk Catalysts, Warden Carapace, and Heart of the Deep."]
-	quest.0E20A9B79D1C6637.title: "Kill The Warden"
-	quest.0E2515424291BB59.quest_desc: ["&bDiamond&r version of &d&lArs&r Armors!"]
+	quest.0E175356D43E6A10.quest_subtitle: "Stufe 3 Erzverarbeitung"
+	quest.0E175356D43E6A10.title: "&cInjektion von &3Chlorwasserstoff"
+	quest.0E1ABCAA87120367.quest_subtitle: "Stufe: &c5"
+	quest.0E20A9B79D1C6637.quest_desc: ["Der Wächter ist ein Boss, der in 1.20 hinzugefügt wurde. \\n\\nEr erscheint, wenn 3 natürlich gespawnte Skulk-Schreier nacheinander ausgelöst werden, oder wenn irgendwelche Schreier nach dem Spawn eines ersten Wächters ausgelöst werden. \\n\\nEr ist der mächtigste von Minecraft hinzugefügte Mob, mit 500 Herzen und über 20 Herzen Schaden mit seinen Angriffen. \\n\\nSeine Angriffe umfassen dich zu treffen und Sonar-Explosionen für weiter entfernte. \\n\\nSeine einzige Schwäche ist, dass er blind ist, aber wie bei Daredevil hat es seine anderen Sinne viel stärker gemacht! Wenn du in der Nähe bist, kann er dich riechen, und sei vorsichtig beim Geräusche machen! \\n\\nWenn du es irgendwie schaffst, ihn zu töten, lässt er fallen: Skulk-Katalysatoren, Wächter-Panzer und Herz der Tiefe."]
+	quest.0E20A9B79D1C6637.title: "Töte den Wächter"
+	quest.0E2515424291BB59.quest_desc: ["&bDiamant&r-Version der &d&lArs&r-Rüstungen!"]
 	quest.0E2515424291BB59.quest_subtitle: "20"
 	quest.0E2515424291BB59.title: "&5Battlemages Outfit"
 	quest.0E25CDB09FE88A63.title: "Saltpeter Seeds"
