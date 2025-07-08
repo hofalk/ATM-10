@@ -4060,194 +4060,194 @@
 	quest.27512B0434531195.quest_desc: ["Die &c&lChemische Injektionskammer&r ist eine weitere &5Maschine&r, die mit der Kombination von &eGegenständen &fund &cChemikalien&r arbeitet, aber diesmal ist es nur 1 &eGegenstand&r plus 1 &cChemikalie&r, um 1 neuen &eGegenstand&r herzustellen! \\n\\nDu kannst &bWasserdampf&r bekommen, indem du &9Wasser&r in einen &c&lRoativen &bKondensator&r gibst, dann injiziere diesen &bWasserdampf&r in tote Koralle, um sie wiederzubeleben. \\n\\nDu kannst &bSauerstoff&r aus einem &9&lElektrolytischen Separator&r bekommen und diesen &bSauerstoff&f in &6Kupfer&r injizieren, um es zu oxidieren. \\n\\nUnd am wichtigsten ist die Verwendung von &3Chlorwasserstoff&r in Erzblöcke, um Erzsplitter zur Verarbeitung zu bekommen!"]
 	quest.27512B0434531195.title: "&c&lChemische Injektionskammer"
 	quest.275D97BF0CE9DCD4.quest_subtitle: "Stufe: &b3"
-	quest.276863E70FBE7139.quest_desc: ["Congratulations, you've manage to go further than most people with Modern Industrialization. But this is only the beginning of your journy. Prepare to embrace the age of early Electricity."]
+	quest.276863E70FBE7139.quest_desc: ["Herzlichen Glückwunsch, du hast es geschafft, weiter zu kommen als die meisten Leute mit Modern Industrialization. Aber dies ist nur der Anfang deiner Reise. Bereite dich darauf vor, das Zeitalter der frühen Elektrizität zu erleben."]
 	quest.277464BE6F96C082.quest_desc: [
-		"Parallelizing Hatches are going to be incredibly Important, especially moving forward with Large multiblock Structures!"
+		"Parallelisierende Luken werden unglaublich wichtig sein, besonders wenn es um große Multiblock-Strukturen geht!"
 		""
-		"The First tier of this hatch will allow 4 processes to run at the same time. But as we move up through the tiers, you can eventually run 256 processes at the same time!!"
+		"Die erste Stufe dieser Luke ermöglicht es, 4 Prozesse gleichzeitig laufen zu lassen. Aber wenn wir durch die Stufen aufsteigen, kannst du schließlich 256 Prozesse gleichzeitig ausführen!!"
 		""
-		"This is far more than the Processing Array, and as such, gives more value to these multiblocks over single blocks machines!"
+		"Das ist weit mehr als das Processing Array und gibt diesen Multiblöcken einen höheren Wert gegenüber Einzelblockmaschinen!"
 		""
-		"&l&eNote:&r&r This hatch is not actually required to build any of those multiblock machines"
+		"&l&eHinweis:&r&r Diese Luke ist nicht wirklich erforderlich, um eine dieser Multiblock-Maschinen zu bauen"
 	]
-	quest.277464BE6F96C082.quest_subtitle: "Parallel Processes FTW"
-	quest.2777FEB022346947.quest_subtitle: "Tier: &a2"
-	quest.278252472B5B94D4.quest_subtitle: "Fricken Lasers"
-	quest.2786D5AC19163524.quest_desc: ["This block enables smelting recipes in your kitchen multi-block!"]
-	quest.2786D5AC19163524.quest_subtitle: "No Timer Needed"
-	quest.2786D5AC19163524.title: "Honey, there's a Furnace in the Kitchen"
+	quest.277464BE6F96C082.quest_subtitle: "Parallele Prozesse zum Sieg"
+	quest.2777FEB022346947.quest_subtitle: "Stufe: &a2"
+	quest.278252472B5B94D4.quest_subtitle: "Verdammte Laser"
+	quest.2786D5AC19163524.quest_desc: ["Dieser Block ermöglicht Schmelzrezepte in deinem Küchen-Multiblock!"]
+	quest.2786D5AC19163524.quest_subtitle: "Kein Timer nötig"
+	quest.2786D5AC19163524.title: "Schatz, da ist ein Ofen in der Küche"
 	quest.278D34BBC13356DF.quest_desc: [
-		"A purple Bog! \\n\\nThese have Ink Mushrooms and Virulent Mix all over!"
+		"Ein lila Sumpf! \\n\\nDiese haben Tintenpilze und Virulente Mischung überall!"
 		"{image:atm:textures/questpics/undergarden/undergarden_ink.png width:200 height:100 align:center}"
 	]
-	quest.278D34BBC13356DF.title: "Ink Mushroom Bog"
-	quest.279BC6FAF7827738.quest_desc: ["For now we get 2 of these, but with a few advancements in the next tier up, we can get 4 IV Processors per set of crafting items! Worth!"]
+	quest.278D34BBC13356DF.title: "Tintenpilz-Sumpf"
+	quest.279BC6FAF7827738.quest_desc: ["Vorerst bekommen wir 2 davon, aber mit ein paar Fortschritten in der nächsten Stufe können wir 4 IV-Prozessoren pro Satz Handwerksmaterialien bekommen! Lohnt sich!"]
 	quest.279BC6FAF7827738.quest_subtitle: "IV"
-	quest.27A0BCE75F198A82.quest_subtitle: "Tier: &e1"
+	quest.27A0BCE75F198A82.quest_subtitle: "Stufe: &e1"
 	quest.27A4FA38992448A0.quest_desc: [
-		"Flux Networks also provides a way to charge your items wirelessly, even across dimensions!\\n\\nOnce you have a Plug attached to your power system, you'll want to make the &9Flux Controller&r and place it down.\\n\\nRight-click on it to bring up the interface, and go to the \"Wireless Charging\" tab. From there, you can select each section of your inventory you'd like to keep charged. To activate, make sure to hit the toggle button at the bottom to enable Wireless Charging, then click apply!\\n"
+		"Flux Networks bietet auch eine Möglichkeit, deine Gegenstände drahtlos aufzuladen, sogar über Dimensionen hinweg!\\n\\nSobald du einen Stecker an dein Energiesystem angeschlossen hast, solltest du den &9Flux-Controller&r herstellen und platzieren.\\n\\nRechtsklicke darauf, um die Oberfläche zu öffnen, und gehe zum Tab \"Wireless Charging\". Von dort aus kannst du jeden Bereich deines Inventars auswählen, den du aufgeladen halten möchtest. Um es zu aktivieren, stelle sicher, dass du den Umschaltknopf unten drückst, um Wireless Charging zu aktivieren, und klicke dann auf Übernehmen!"
 		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
 	]
-	quest.27A4FA38992448A0.title: "Wireless Charging"
-	quest.27B5D0329DD92126.quest_desc: ["Soup... made from Bees? Seems kinda inhumane... \\n\\nEating/Drinking this will give you Beenergized Effect for awhile and gives a chance at giving Luck! \\n\\nAlso a chance at Levitation, Slow Falling, Poison, and Paralized. \\n\\nAlso while talking about Paralized you can make Paralizing Potions using the Soup."]
-	quest.27CF1A2587321A2C.quest_desc: ["The best &eSpell Book&r you can imagine! 15 &3Spell&r Slots! Are there even 15 &3Spells&r?!?! Oh wait yeah there is 15 isn't that much... \\n\\nDo the same as before: previous Book, Ingot, and Template."]
-	quest.27CF1A2587321A2C.title: "&5Unobtainium&r Spell Book"
-	quest.27E34DCC9C94F4FF.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.27A4FA38992448A0.title: "Kabelloses Aufladen"
+	quest.27B5D0329DD92126.quest_desc: ["Suppe... aus Bienen gemacht? Scheint irgendwie unmenschlich... \\n\\nDas Essen/Trinken wird dir eine Weile den Beenergized-Effekt geben und bietet eine Chance auf Glück! \\n\\nAußerdem eine Chance auf Levitation, Langsamer Fall, Vergiftung und Lähmung. \\n\\nApropos Lähmung: Du kannst lähmende Tränke mit der Suppe herstellen."]
+	quest.27CF1A2587321A2C.quest_desc: ["Das beste &eZauberbuch&r, das du dir vorstellen kannst! 15 &3Zauber&r-Slots! Gibt es überhaupt 15 &3Zauber&r?!?! Oh warte, ja, 15 ist nicht so viel... \\n\\nMache das Gleiche wie zuvor: vorheriges Buch, Barren und Vorlage."]
+	quest.27CF1A2587321A2C.title: "&5Unobtainium&r-Zauberbuch"
+	quest.27E34DCC9C94F4FF.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDiese Quest ist absichtlich versteckt, wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
 	quest.27E52482C789280F.quest_desc: [
-		"In this mod, you'll build custom multiblock machines to create the resources you need. To learn how to build them, check out the &aHeavy Machinery&r section of the &aEngineer's Manual&r "
+		"In diesem Mod baust du benutzerdefinierte Multiblock-Maschinen, um die benötigten Ressourcen zu erstellen. Um zu erfahren, wie man sie baut, schau dir den Abschnitt &aSchwere Maschinen&r im &aIngenieurhandbuch&r an"
 		""
-		"These multiblocks are made up of several core blocks, such as the &eLight Engineering Block&r or the &cRedstone Engineering Block&r. Each 'heavy machine' will require a different amount of building blocks, so get used to crafting a lot of them! "
+		"Diese Multiblöcke bestehen aus mehreren Kernblöcken, wie dem &eLeichten Maschinenbaublock&r oder dem &cRedstone-Maschinenbaublock&r. Jede 'schwere Maschine' benötigt eine unterschiedliche Anzahl an Bausteinen, also gewöhne dich daran, viele davon herzustellen!"
 		""
-		"Each multiblock machine will have a place for you to &aright click&r with the Engineer's Hammer to convert the multiblock into the machine! They'll also need power."
+		"Jede Multiblock-Maschine hat einen Platz, an dem du mit dem Ingenieurshammer &arechtsklicken&r kannst, um den Multiblock in die Maschine umzuwandeln! Sie benötigen auch Energie."
 	]
-	quest.27E52482C789280F.title: "Building Multiblocks"
-	quest.27E8ED4B5F8127F9.quest_subtitle: "Tier: &b4"
-	quest.27E951F4F4F6F847.quest_desc: ["Similar to &aThorn Pendant&r, just a little hotter. No wait way hotter! \\n\\nThe &cFlame Pendant&r has a chance to light your attackers on Fire! When they are lit on fire the &cPendant&r will also give you Fire Resistance."]
-	quest.27E951F4F4F6F847.quest_subtitle: "Necklace"
-	quest.27E951F4F4F6F847.title: "&cFlame Pendant&r"
-	quest.27FA2DB7839172BB.quest_desc: ["The &c&lBackpack&r by default will only charge &eItems&r in your Hand and Armor you are wearing. But what if we wanted to charge more than that! \\n\\nThen we'll need the Induction Charger! With this attached, every &eItem&r in your Inventory that can take charge, will charge."]
-	quest.27FD46A8C958D259.quest_desc: ["Totem of Death Recall is a one time use time that allows a player to teleport back to thier location of death."]
+	quest.27E52482C789280F.title: "Multiblöcke bauen"
+	quest.27E8ED4B5F8127F9.quest_subtitle: "Stufe: &b4"
+	quest.27E951F4F4F6F847.quest_desc: ["Ähnlich dem &aDornen-Anhänger&r, nur ein bisschen heißer. Nein, warte, viel heißer! \\n\\nDer &cFlammen-Anhänger&r hat eine Chance, deine Angreifer in Brand zu setzen! Wenn sie in Brand gesetzt werden, gibt dir der &cAnhänger&r auch Feuerresistenz."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Halskette"
+	quest.27E951F4F4F6F847.title: "&cFlammen-Anhänger&r"
+	quest.27FA2DB7839172BB.quest_desc: ["Der &c&lRucksack&r lädt standardmäßig nur &eGegenstände&r in deiner Hand und Rüstung, die du trägst, auf. Aber was, wenn wir mehr als das aufladen wollen! \\n\\nDann brauchen wir das Induktionsladegerät! Mit diesem angebracht wird jeder &eGegenstand&r in deinem Inventar, der aufgeladen werden kann, aufgeladen."]
+	quest.27FD46A8C958D259.quest_desc: ["Das Totem der Todesrückkehr ist ein Einweggegenstand, der es einem Spieler ermöglicht, zum Ort seines Todes zu teleportieren."]
 	quest.27FEF80A08AF43C2.quest_desc: [
-		"The &6B&8e&6e&r colored Sanctum! \\n\\nGo through the structure, I recommened not touching anything Lever, Button, Tripwire, or Pressure Plate wise or it might be deadly! \\n\\nOnce you get to the &eYellow Essence&r get ready for some running! \\n\\nYou'll need to run and jump through &eElectric Rings&r. Once you do it, more will spawn! Just keep doing it for a long time and hopefully someday you'll finish it."
+		"Das &6B&8i&6e&8n&6e&8n&r farbige Sanktum! \\n\\nGeh durch die Struktur, ich empfehle, nichts mit Hebeln, Knöpfen, Stolperdrähten oder Druckplatten zu berühren, sonst könnte es tödlich sein! \\n\\nSobald du zur &eGelben Essenz&r kommst, bereite dich aufs Rennen vor! \\n\\nDu musst durch &eelektrische Ringe&r rennen und springen. Sobald du das tust, werden weitere erscheinen! Mach das für eine lange Zeit weiter und hoffentlich wirst du es eines Tages beenden."
 		"{image:atm:textures/questpics/bumblezone/bumble_yellow1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_yellow2.png width:200 height:100 align:center}"
 	]
-	quest.27FEF80A08AF43C2.title: "&eYellow Sempiternal Sanctum&r"
-	quest.2801B7B6BF61E978.quest_desc: ["&3Kerosene&r can be used to make Gasoline or it can be used as fuel in a Kerosene Lamp."]
-	quest.2801B7B6BF61E978.quest_subtitle: "Have you Kero-seen this?"
-	quest.2801B7B6BF61E978.title: "Kerosene"
+	quest.27FEF80A08AF43C2.title: "&eGelbes Sempiternes Sanktum&r"
+	quest.2801B7B6BF61E978.quest_desc: ["&3Kerosin&r kann zur Herstellung von Benzin verwendet werden oder es kann als Brennstoff in einer Kerosinlampe verwendet werden."]
+	quest.2801B7B6BF61E978.quest_subtitle: "Hast du Kero-gesehen?"
+	quest.2801B7B6BF61E978.title: "Kerosin"
 	quest.281AAC27DEBEE84D.quest_desc: [
-		"The &9Divination Sigil&r is the first Sigil we'll be making."
+		"Das &9Wahrsage-Siegel&r ist das erste Siegel, das wir herstellen werden."
 		""
-		"This Sigil has two primary uses:"
+		"Dieses Siegel hat zwei Hauptverwendungen:"
 		""
-		"1) When you right-click with the Sigil in your hand, it will display the amount of LP you have in your Soul Network."
+		"1) Wenn du mit dem Siegel in der Hand rechtsklickst, wird angezeigt, wie viel LP du in deinem Seelennetzwerk hast."
 		""
-		"2) If you right-click a Blood Altar with it, you'll see how much LP is stored, the max it can store, and what tier the altar is."
+		"2) Wenn du mit Rechtsklick auf einen Blutaltar klickst, siehst du, wie viel LP gespeichert ist, wie viel maximal gespeichert werden kann und welche Stufe der Altar hat."
 	]
-	quest.28260B53A3F9E57D.title: "&bVibranium Armor&r"
-	quest.282CE3A088AE5CFB.quest_desc: ["I'm going to assume you've been crafting, right? It is MineCRAFT after all.\\n\\nSure, you could craft in your inventory using the 2x2 crafting grid, but that won't get you far. We need to upgrade by making a Crafting Table!"]
-	quest.282CE3A088AE5CFB.title: "Putting the Craft in Minecraft"
-	quest.283AB56F81EF03A5.quest_desc: ["In order to power your &6Electric Rails&r and your &eElectric Locomotive&r you'll need &eFrames. Frames&r need to be powered and will move power to each connected to &eFrame&r."]
-	quest.283AB56F81EF03A5.title: "&eFrames"
+	quest.28260B53A3F9E57D.title: "&bVibranium-Rüstung&r"
+	quest.282CE3A088AE5CFB.quest_desc: ["Ich nehme an, du hast gebastelt, richtig? Es ist schließlich MineCRAFT.\\n\\nKlar, du könntest in deinem Inventar mit dem 2x2-Fertigungsraster basteln, aber das bringt dich nicht weit. Wir müssen aufrüsten, indem wir einen Werkbank herstellen!"]
+	quest.282CE3A088AE5CFB.title: "Das Craft in Minecraft"
+	quest.283AB56F81EF03A5.quest_desc: ["Um deine &6Elektroschienen&r und deine &eElektrische Lokomotive&r mit Strom zu versorgen, brauchst du &eRahmen. Rahmen&r müssen mit Strom versorgt werden und leiten die Energie an jeden angeschlossenen &eRahmen&r weiter."]
+	quest.283AB56F81EF03A5.title: "&eRahmen"
 	quest.283D7E65F2AD45F2.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lFähigkeitstyp:&r Aktiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"An upgraded version of Mob Scanner that applied Glowing to nearby mobs when activated."
+		"Eine verbesserte Version des Mob-Scanners, der bei Aktivierung Leuchten auf nahegelegene Mobs anwendet."
 	]
-	quest.28408BFAA54E4FC6.quest_desc: ["&7Leather Armor&r is the worst Armor set you can get. \\n\\nThat is mostly because &c&lMojang&r expected you to get it before any other. \\n\\nI almost never get it though because I struggle to find that many &8C&fo&8w&fs&r, sorry &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["&7Lederrüstung&r ist das schlechteste Rüstungsset, das du bekommen kannst. \\n\\nDas liegt hauptsächlich daran, dass &c&lMojang&r erwartet hat, dass du es vor allen anderen bekommst. \\n\\nIch bekomme es fast nie, weil ich Schwierigkeiten habe, so viele &8K&fü&8h&fe&r zu finden, tut mir leid &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
-	quest.28408BFAA54E4FC6.title: "&7Leather Armor"
+	quest.28408BFAA54E4FC6.title: "&7Lederrüstung"
 	quest.285B3FB38B12F8CA.quest_desc: [
-		"We'll need these two Blocks to make &dSal Ammoniac&r (felt like calling it a Multi-block but I don't consider 2 Blocks a Multi-Block). A &dSal Ammoniac&r Tank on the bottom with a &dSal Ammoniac Accumulator&r on top of it. \\n\\nThe &dSal Ammoniac Accumulator&r is where &9Water&r and &dCrystals&r will go; it can hold 10,000mb of &9Water&r or 10 Buckets, and a stack of &dSal Ammoniac Crystals&r. The Tank will hold the created &dSal Ammoniac&r and can hold 2,000mb or 2 Buckets."
+		"Wir werden diese zwei Blöcke benötigen, um &dSalmiakgeist&r herzustellen (ich wollte es einen Multiblock nennen, aber ich betrachte 2 Blöcke nicht als Multiblock). Ein &dSalmiakgeist&r-Tank unten mit einem &dSalmiakgeist-Akkumulator&r darüber. \\n\\nDer &dSalmiakgeist-Akkumulator&r ist, wo &9Wasser&r und &dKristalle&r hineinkommen; er kann 10.000mb &9Wasser&r oder 10 Eimer halten und einen Stapel &dSalmiakgeist-Kristalle&r. Der Tank wird den erzeugten &dSalmiakgeist&r halten und kann 2.000mb oder 2 Eimer fassen."
 		"{image:atm:textures/questpics/theurgy/theurgy_sal_front.png width:100 height:200 align:center}"
 	]
-	quest.285B3FB38B12F8CA.title: "Making &dSal Ammoniac"
-	quest.2869AB982799CF0C.quest_desc: ["The &cOne Way Track Kit&r is quite simple. &7Carts&r can only go where the arrow is facing."]
-	quest.2869AB982799CF0C.title: "&cTrack Kit&r One Way"
+	quest.285B3FB38B12F8CA.title: "Herstellung von &dSalmiakgeist"
+	quest.2869AB982799CF0C.quest_desc: ["Das &cEinwegschienen-Set&r ist ziemlich einfach. &7Loren&r können nur in die Richtung fahren, in die der Pfeil zeigt."]
+	quest.2869AB982799CF0C.title: "&cSchienen-Set&r Einbahnstraße"
 	quest.2875FACD3BFB0A8E.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lFähigkeitstyp:&r Aktiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Provides minor healing when activated, but can only be actived if the player has recently taken damage or is taking damage."
+		"Bietet bei Aktivierung geringe Heilung, kann aber nur aktiviert werden, wenn der Spieler kürzlich Schaden erlitten hat oder Schaden erleidet."
 	]
-	quest.288406DE6DA31BA6.quest_desc: ["Lots of things need &cEnergy&r, especially in &8&lIE&r. To get started we'll need some &6Engineer's Wire Cutters&r! \\n\\nYou can use those to snip some Plates into &cWires&r which can then be put into &cCoils&r, ready for use. \\n\\nThey are also used for taking &cWires&r off &cConnectors&r."]
-	quest.288406DE6DA31BA6.title: "&8&lImmersive Engineering&r Power!"
-	quest.28847A536C38EEA0.quest_desc: ["&cTransformers&r are how we go from &6LV&r Connections to &eMV&r Connections. The little &cConnector&r is &6LV&r and bigger one is &eMV&r! \\n\\nIf you want to go from &eMV&r to &5HV&r we'll need an &5HV Transformer&r. These work the same as the other &cTransformer&r, just the smaller &cConnector&r is &eMV&r and bigger one is &5HV&r! \\n\\nNo, you can't go from &6LV&r to &5HV&r without &eMV&r!"]
-	quest.28847A536C38EEA0.quest_subtitle: "Directed by Michael Bay"
-	quest.28847A536C38EEA0.title: "&cTransformers"
+	quest.288406DE6DA31BA6.quest_desc: ["Viele Dinge benötigen &cEnergie&r, besonders in &8&lIE&r. Um zu beginnen, brauchen wir &6Drahtschneider des Ingenieurs&r! \\n\\nDu kannst sie verwenden, um einige Platten zu &cDrähten&r zu schneiden, die dann in &cSpulen&r gesteckt werden können, bereit für den Gebrauch. \\n\\nSie werden auch verwendet, um &cDrähte&r von &cVerbindern&r zu entfernen."]
+	quest.288406DE6DA31BA6.title: "&8&lImmersive Engineering&r Energie!"
+	quest.28847A536C38EEA0.quest_desc: ["&cTransformatoren&r sind, wie wir von &6LV&r-Verbindungen zu &eMV&r-Verbindungen übergehen. Der kleine &cVerbinder&r ist &6LV&r und der größere ist &eMV&r! \\n\\nWenn du von &eMV&r zu &5HV&r gehen willst, brauchen wir einen &5HV-Transformator&r. Diese funktionieren genauso wie der andere &cTransformator&r, nur ist der kleinere &cVerbinder&r &eMV&r und der größere &5HV&r! \\n\\nNein, du kannst nicht von &6LV&r zu &5HV&r gehen ohne &eMV&r!"]
+	quest.28847A536C38EEA0.quest_subtitle: "Regie: Michael Bay"
+	quest.28847A536C38EEA0.title: "&cTransformatoren"
 	quest.288A4A32CDBB14D5.quest_desc: [
-		"Another structure made mostly of Ancient Wax. \\n\\nThis one looks almost like a satellite dish! Full of &ePollen&r so careful those with allergies. \\n\\nIn the middle you can find a block of Emerald and plenty of Amethyst."
+		"Eine weitere Struktur, die hauptsächlich aus Antiken Wachs besteht. \\n\\nDiese sieht fast wie eine Satellitenschüssel aus! Voll mit &ePollen&r, also vorsichtig für diejenigen mit Allergien. \\n\\nIn der Mitte findest du einen Block Smaragd und jede Menge Amethyst."
 		"{image:atm:textures/questpics/bumblezone/bumble_dish.png width:200 height:100 align:center}"
 	]
-	quest.288A4A32CDBB14D5.title: "Ancient Shrine"
-	quest.288DFEBCEFC6EEC6.title: "HV Tier"
+	quest.288A4A32CDBB14D5.title: "Antiker Schrein"
+	quest.288DFEBCEFC6EEC6.title: "HV-Stufe"
 	quest.2893F483C10293E6.quest_desc: [
-		"&lWelcome to &bApplied Energistics 2&f!\\n\\nApplied Energistics 2 (or &oAE2&r for short) is an incredibly versatile &bdigital storage&f mod, allowing for extremely efficient storage and all sorts of automation capabilities to greatly augment your modded Minecraft experience from as early as you want to the very endgame.\\n\\nFor more information on AE2 beyond this chapter, consult the wiki over at"
+		"&lWillkommen bei &bApplied Energistics 2&f!\\n\\nApplied Energistics 2 (oder kurz &oAE2&r) ist ein unglaublich vielseitiger Mod für &bdigitale Speicherung&f, der eine äußerst effiziente Speicherung und alle möglichen Automatisierungsfunktionen ermöglicht, um deine Minecraft-Erfahrung von Anfang bis zum absoluten Endgame erheblich zu verbessern.\\n\\nFür weitere Informationen zu AE2 über dieses Kapitel hinaus, konsultiere das Wiki unter"
 		"&o&bappliedenergistics.github.io&f&r."
 	]
-	quest.2893F483C10293E6.quest_subtitle: "Virtual Storage System"
+	quest.2893F483C10293E6.quest_subtitle: "Virtuelles Speichersystem"
 	quest.2893F483C10293E6.title: "Applied Energistics 2"
 	quest.2894F11A73335179.quest_desc: [
-		"Smelting down Arcane Crystals will give you Arcane Crystal Dust."
+		"Das Schmelzen von Arkanen Kristallen gibt dir Arkanen Kristallstaub."
 		""
-		"This is used for most of the items in the mod."
+		"Dies wird für die meisten Gegenstände im Mod verwendet."
 	]
-	quest.2897FA291E5A38D8.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
-	quest.289B30DAC960BFF2.quest_desc: ["These can be found in chests inside End Cities."]
-	quest.289B30DAC960BFF2.quest_subtitle: "End City Chests"
-	quest.28B1787B61BB214B.quest_desc: ["Lets take the Epoxy from the IV tier and make some reinforcements for our next tier Processors!"]
-	quest.28B1787B61BB214B.quest_subtitle: "So many uses for Epoxy!"
-	quest.28BF66D1B8CD4D44.quest_desc: ["&dBrooms&r can be made using Broom Parts. Every Broom is made up of 3 parts: a Rod, a Cap, and a Brush.\\n\\nEach part can be crafted by combing the bare part with certain items to give them specific modifiers. As there are too many modifiers to type out, make sure to check the guide book for more info!\\n\\nTo craft your Broom, simply place each part into the crafting table. The Broom will require Blood to function properly."]
+	quest.2897FA291E5A38D8.quest_desc: ["Der &bSpatialanker&f ist ein Begleitgerät aus der Spatial-IO-Linie, das einfach als Chunklader fungiert. Wenn er mit einem ME-Netzwerk verbunden ist, wird der Anker alle Chunks, die vom ME-Netzwerk über alle Kabel und Geräte belegt werden, zwangsweise laden, ausgenommen Subnetzwerke, solange das Netzwerk mit Strom versorgt bleibt."]
+	quest.289B30DAC960BFF2.quest_desc: ["Diese können in Truhen innerhalb von End-Städten gefunden werden."]
+	quest.289B30DAC960BFF2.quest_subtitle: "End-Stadt-Truhen"
+	quest.28B1787B61BB214B.quest_desc: ["Nehmen wir das Epoxid aus der IV-Stufe und stellen einige Verstärkungen für unsere Prozessoren der nächsten Stufe her!"]
+	quest.28B1787B61BB214B.quest_subtitle: "So viele Verwendungen für Epoxid!"
+	quest.28BF66D1B8CD4D44.quest_desc: ["&dBesen&r können aus Besenteilen hergestellt werden. Jeder Besen besteht aus 3 Teilen: einem Stab, einer Kappe und einer Bürste.\\n\\nJedes Teil kann durch die Kombination des bloßen Teils mit bestimmten Gegenständen hergestellt werden, um ihnen bestimmte Modifikatoren zu geben. Da es zu viele Modifikatoren gibt, um sie aufzulisten, schaue unbedingt im Handbuch nach weiteren Informationen!\\n\\nUm deinen Besen herzustellen, lege einfach jeden Teil in den Werktisch. Der Besen benötigt Blut, um richtig zu funktionieren."]
 	quest.28BF66D1B8CD4D44.quest_subtitle: "Broom Broom"
-	quest.28BF66D1B8CD4D44.title: "&cBlood &dBrooms"
-	quest.28C9EDBF6607E180.quest_desc: ["This block is part of a multi-block kitchen.\\n\\nThis will show you every recipe that is available to you with the food you have in your inventory, or stored in the kitchen multi-block.\\n\\nYou can finally create a nice kitchen in Minecraft."]
-	quest.28C9EDBF6607E180.quest_subtitle: "Betty White was born before Sliced Bread"
-	quest.28C9EDBF6607E180.title: "THE BEST THING SINCE SLICED BREAD"
-	quest.28E60192912BEBAD.quest_desc: ["In &l&2Vanilla&r, Villagers can be really frustrating to deal with. Cycling trades is not easy at all, and professions can sometimes be tough to deal with.\\n\\n&l&2Easy Villagers&r is a mod to make all of it much easier to deal with! For starters, you can pick up a villager by sneak-right clicking them. They can then be easily placed in the world, or in specific blocks from the &l&2Easy Villager&r mod!\\n\\nYou can search &d@EasyVillagers&r in JEI to see blocks the mod offers!"]
-	quest.28E60192912BEBAD.quest_subtitle: "Villagers, made easy"
+	quest.28BF66D1B8CD4D44.title: "&cBlut-&dBesen"
+	quest.28C9EDBF6607E180.quest_desc: ["Dieser Block ist Teil einer Multiblock-Küche.\\n\\nEr zeigt dir jedes Rezept, das mit dem Essen, das du in deinem Inventar hast, oder in der Küchen-Multiblock gespeichert ist, verfügbar ist.\\n\\nDu kannst endlich eine schöne Küche in Minecraft bauen."]
+	quest.28C9EDBF6607E180.quest_subtitle: "Betty White wurde vor Toastbrot geboren"
+	quest.28C9EDBF6607E180.title: "DAS BESTE SEIT GESCHNITTENEM BROT"
+	quest.28E60192912BEBAD.quest_desc: ["In &l&2Vanilla&r können Dorfbewohner wirklich frustrierend sein. Das Durchschalten der Handel ist überhaupt nicht einfach, und Berufe können manchmal schwer zu handhaben sein.\\n\\n&l&2Easy Villagers&r ist ein Mod, der all das viel einfacher macht! Zunächst kannst du einen Dorfbewohner aufheben, indem du mit gedrückter Schleichtaste auf ihn rechtsklickst. Sie können dann einfach in der Welt platziert oder in spezifische Blöcke vom &l&2Easy Villager&r-Mod gesetzt werden!\\n\\nDu kannst &d@EasyVillagers&r in JEI suchen, um die Blöcke zu sehen, die der Mod anbietet!"]
+	quest.28E60192912BEBAD.quest_subtitle: "Dorfbewohner, leicht gemacht"
 	quest.28E60192912BEBAD.title: "&l&2Easy Villagers"
-	quest.28E99A6E17E86709.quest_desc: ["Moving &bFluids&r is an essential part of &8&lIE&r, just think of the Creosote Oil and Plant Oil! \\n\\n&bFluid Pipes&r are our basic ways of moving &bFluids&r, if you want them faster check out &bFluid Pumps&r. \\n\\n&bFluid Pipes&r, like Energy Connectors, are determined where to &9Input&r and &6Output&r from what they are connected to. Some Machines need &4Redstone Signals&r to &6Output&r to &bFluid Pipes&r, like the &b&lTank&r! \\n\\nWe can use an &6Engineer's Hammer&r to change what the &bPipes&r connect to, plus we can use &8Steel Scaffolding&r on them to cover them, or Dye to dye them!"]
-	quest.28E99A6E17E86709.title: "Moving &bFluids"
-	quest.28EB26056EF18C5F.quest_subtitle: "Durable?"
-	quest.28F49121DEB0000A.quest_desc: ["This is an odd element. It is extremely resistant to corrosion in dry climates, but it's not resistant in moist climates. "]
-	quest.28F49121DEB0000A.quest_subtitle: "Liquid Lutetium"
-	quest.28FB4B9DCC268404.quest_subtitle: "Plum + Cherry"
-	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r is similar to Chisels Mods as it changes the designs of Blocks, but &b&lChipped&r has their own way of doing so! \\n\\n&b&lChipped&r instead uses Stations you'll need to go to, to change Blocks. \\n\\nThere's 7 different Stations each change different Blocks: Carpenters Table changes Wood, Glassblower changes Glass. \\n\\nAnd 6 of those Stations can be changed into a handheld Item for easier access. \\n\\nThere's even Backpack Upgrades for them!"]
+	quest.28E99A6E17E86709.quest_desc: ["&bFlüssigkeiten&r zu bewegen ist ein wesentlicher Teil von &8&lIE&r, denk nur an das Kreosotöl und Pflanzenöl! \\n\\n&bFlüssigkeitsrohre&r sind unsere grundlegenden Methoden, um &bFlüssigkeiten&r zu bewegen. Wenn du sie schneller haben willst, schau dir &bFlüssigkeitspumpen&r an. \\n\\n&bFlüssigkeitsrohre&r, wie Energieverbinder, werden bestimmt, wo sie &9Eingang&r und &6Ausgang&r haben, abhängig von dem, womit sie verbunden sind. Einige Maschinen benötigen &4Redstone-Signale&r, um &bFlüssigkeiten&r an &bRohre&r &6auszugeben&r, wie der &b&lTank&r! \\n\\nWir können einen &6Ingenieurshammer&r verwenden, um zu ändern, womit sich die &bRohre&r verbinden, außerdem können wir &8Stahlgerüste&r auf ihnen verwenden, um sie zu verdecken, oder Farbstoff, um sie zu färben!"]
+	quest.28E99A6E17E86709.title: "&bFlüssigkeiten&r bewegen"
+	quest.28EB26056EF18C5F.quest_subtitle: "Langlebig?"
+	quest.28F49121DEB0000A.quest_desc: ["Dies ist ein seltsames Element. Es ist in trockenen Klimazonen extrem korrosionsbeständig, aber nicht in feuchten Klimazonen."]
+	quest.28F49121DEB0000A.quest_subtitle: "Flüssiges Lutetium"
+	quest.28FB4B9DCC268404.quest_subtitle: "Pflaume + Kirsche"
+	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r ist ähnlich wie Chisel-Mods, da es die Designs von Blöcken verändert, aber &b&lChipped&r hat seine eigene Art, dies zu tun! \\n\\n&b&lChipped&r verwendet stattdessen Stationen, zu denen du gehen musst, um Blöcke zu verändern. \\n\\nEs gibt 7 verschiedene Stationen, die jeweils unterschiedliche Blöcke verändern: Der Tischlertisch verändert Holz, der Glasbläser verändert Glas. \\n\\nUnd 6 dieser Stationen können in einen tragbaren Gegenstand verwandelt werden für einfacheren Zugang. \\n\\nEs gibt sogar Rucksack-Upgrades für sie!"]
 	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r"
-	quest.28FEB4C11AD1AE7C.quest_desc: ["&bDiamonds&r are usually expensive... for Vanilla, but this is modded you'll have enough for atleast 1 &bDiamond Generator&r. Still uses normal Furnace Fuel."]
-	quest.28FEB4C11AD1AE7C.title: "&bDiamond Generator"
-	quest.290FAB3DE8FD04E7.quest_desc: ["Holding right click will charge up the Mace to do an AoE attack using &cBlood&r. Sneak-right clicking will change the power level.\\n\\nThe higher the power level, the more damage it will do at a higher cost of Blood.\\n\\nYou will need a fully charged one to craft the &6ATM Star&r."]
-	quest.29131C3532610ADF.quest_desc: ["This is a Tier 2 Pillar Cap for the Starlight Charger."]
-	quest.29131C3532610ADF.title: "Tier 2 Starlight Charger Pillar Cap"
-	quest.29164630E1BD76B5.quest_desc: ["This is the main resource in the mod. Go out and mine some!"]
-	quest.29164630E1BD76B5.title: "Arcane Crystals"
-	quest.291C76140DE97E3C.quest_desc: ["&bIgnitium&r is like Netherite but it takes actual skill to get. \\n\\nThe &b&lIgnis&r will only drop 1 so get good use of it! \\n\\nYou can use it to upgrade your Netherite Armor or use it to make the Weapons."]
-	quest.291C76140DE97E3C.quest_subtitle: "Better than Netherite?"
+	quest.28FEB4C11AD1AE7C.quest_desc: ["&bDiamanten&r sind normalerweise teuer... für Vanilla, aber das hier ist modifiziert, du wirst genug für mindestens 1 &bDiamantgenerator&r haben. Verwendet immer noch normalen Ofenbrennstoff."]
+	quest.28FEB4C11AD1AE7C.title: "&bDiamantgenerator"
+	quest.290FAB3DE8FD04E7.quest_desc: ["Das Halten der rechten Maustaste lädt den Streitkolben auf, um einen Flächenangriff mit &cBlut&r auszuführen. Shift-Rechtsklick ändert die Energiestufe.\\n\\nJe höher die Energiestufe, desto mehr Schaden richtet er an, aber zu höheren Blutkosten.\\n\\nDu benötigst einen vollständig aufgeladenen, um den &6ATM-Stern&r herzustellen."]
+	quest.29131C3532610ADF.quest_desc: ["Dies ist eine Stufe-2-Säulenkappe für den Sternenlicht-Auflader."]
+	quest.29131C3532610ADF.title: "Stufe-2-Sternenlicht-Auflader-Säulenkappe"
+	quest.29164630E1BD76B5.quest_desc: ["Dies ist die Hauptressource im Mod. Geh nach draußen und baue etwas ab!"]
+	quest.29164630E1BD76B5.title: "Arkane Kristalle"
+	quest.291C76140DE97E3C.quest_desc: ["&bIgnitium&r ist wie Netherit, aber es erfordert tatsächliche Fähigkeiten, um es zu bekommen. \\n\\nDer &b&lIgnis&r wird nur 1 fallen lassen, also nutze es gut! \\n\\nDu kannst es verwenden, um deine Netherit-Rüstung aufzuwerten oder um Waffen herzustellen."]
+	quest.291C76140DE97E3C.quest_subtitle: "Besser als Netherit?"
 	quest.291C76140DE97E3C.title: "&bIgnitium"
-	quest.291EE514A1602C46.quest_subtitle: "Balsa + Flowering Azalea"
-	quest.29283BF1B6ED3634.quest_desc: ["The Mechanical Crossbow is made like a normal Crossbow just with Golem Steel. \\n\\nIt works like a normal Crossbow just much stronger! And can be enchanted to do even more!"]
-	quest.29417616D8F673D5.quest_desc: ["Moving forward a lot of mixed metals and alloys will need to be made in the ABS. As Fluids they are then pushed through a Vacuum Freezer with an Ingot Mold to make the ingots. The Multiblock Structures referenced in the following quests all have support blocks which utilize metals which need the ABS to be made. Making at least 1 Alloy Blast Smelter now will be beneficial."]
-	quest.29417616D8F673D5.quest_subtitle: "Anti-Lock Braking System is a Go!"
-	quest.29434DB0CC2E30E6.quest_desc: ["Combining &cMundabitur Dust&r, &bArcane Crystal Dust&r, &8Charcoal&r, and a &eGold Ingot&r we'll get our first Alloy! The &6Deorum Ingot&r! \\n\\nThis is the foundational Ingot of &6&lForbidden \\& Arcanus&r, you will need dozens of it! \\n\\nIt is especially used for Building Blocks for our Multiblock Machines."]
+	quest.291EE514A1602C46.quest_subtitle: "Balsaholz + Blühende Azalee"
+	quest.29283BF1B6ED3634.quest_desc: ["Die Mechanische Armbrust wird wie eine normale Armbrust hergestellt, nur mit Golem-Stahl. \\n\\nSie funktioniert wie eine normale Armbrust, nur viel stärker! Und kann verzaubert werden, um noch mehr zu bewirken!"]
+	quest.29417616D8F673D5.quest_desc: ["In Zukunft müssen viele Mischmetalle und Legierungen im ABS hergestellt werden. Als Flüssigkeiten werden sie dann durch einen Vakuumgefrierer mit einer Barrenform gepresst, um die Barren herzustellen. Die Multiblock-Strukturen, auf die in den folgenden Quests verwiesen wird, haben alle Stützblöcke, die Metalle verwenden, die im ABS hergestellt werden müssen. Es ist vorteilhaft, jetzt mindestens 1 Legierungsschmelzofen herzustellen."]
+	quest.29417616D8F673D5.quest_subtitle: "Antiblockiersystem ist bereit!"
+	quest.29434DB0CC2E30E6.quest_desc: ["Durch die Kombination von &cMundabitur-Staub&r, &bArkanem Kristallstaub&r, &8Holzkohle&r und einem &eGoldbarren&r erhalten wir unsere erste Legierung! Der &6Deorum-Barren&r! \\n\\nDies ist der grundlegende Barren für &6&lForbidden \\& Arcanus&r, du wirst Dutzende davon brauchen! \\n\\nEs wird besonders für Bauklötze für unsere Multiblock-Maschinen verwendet."]
 	quest.29434DB0CC2E30E6.title: "&6Deorum"
-	quest.2943989C642F93AE.quest_desc: ["Finally! We now have a crafting recipe that gives us 2 LuV processors for 1 Craft! Lets Gooo!"]
-	quest.29448D08C8777425.quest_desc: ["By tonight he'll be sleeping with the Fishes. \\n\\nThe &cAngler Hat&r helps you Lure Fish in and makes your chances at getting a Rare Drop higher!"]
-	quest.29448D08C8777425.quest_subtitle: "Head"
-	quest.29448D08C8777425.title: "&cAngler's Hat"
-	quest.2951B1D7080C5EF9.quest_desc: ["Using the &6Lamp of Cinders&r, you are able to break the Thorns in the Thornland Biome.\\n\\nGather some &cThorn Roses&r to continue on to the &2Final Plateau&r."]
-	quest.2951B1D7080C5EF9.title: "Every Thorn has its Rose"
-	quest.295C77EEC89000FC.quest_subtitle: "Generates Source from Mob Deaths and Animal Breeding"
+	quest.2943989C642F93AE.quest_desc: ["Endlich! Wir haben jetzt ein Handwerksrezept, das uns 2 LuV-Prozessoren für 1 Handwerksvorgang gibt! Los geht's!"]
+	quest.29448D08C8777425.quest_desc: ["Heute Abend wird er mit den Fischen schlafen. \\n\\nDer &cAngelhut&r hilft dir, Fische anzulocken und erhöht deine Chancen, einen seltenen Drop zu bekommen!"]
+	quest.29448D08C8777425.quest_subtitle: "Kopf"
+	quest.29448D08C8777425.title: "&cAngelhut"
+	quest.2951B1D7080C5EF9.quest_desc: ["Mit der &6Aschenfackel&r kannst du die Dornen im Dornenland-Biom brechen.\\n\\nSammle einige &cDornenrosen&r, um zum &2Finalen Plateau&r weiterzugehen."]
+	quest.2951B1D7080C5EF9.title: "Jeder Dorn hat seine Rose"
+	quest.295C77EEC89000FC.quest_subtitle: "Erzeugt Quelle aus Mob-Toden und Tierzucht"
 	quest.2960FFE0C53DFEB1.quest_desc: [
-		"&cSevira's Permanent Confinement&r is the third tier of &6Infusion Rituals&r. It's mainly used to create the next level of foundation Chalk, Black Chalk."
+		"&cSeviras permanente Einsperrung&r ist die dritte Stufe der &6Infusionsrituale&r. Sie wird hauptsächlich verwendet, um die nächste Stufe der Grundkreide, Schwarze Kreide, herzustellen."
 		""
-		"It's also used to create a couple of items that can speed up ritual making and performing by a significant amount."
+		"Sie wird auch verwendet, um ein paar Gegenstände herzustellen, die die Erstellung und Durchführung von Ritualen erheblich beschleunigen können."
 	]
-	quest.2960FFE0C53DFEB1.quest_subtitle: "The \"Even More Everything\" Ritual"
-	quest.2960FFE0C53DFEB1.title: "&cSevira's Permanent Confinement"
-	quest.29706E3681616E41.quest_subtitle: "That's a Lot of Different Dusts!"
-	quest.2982D38BD5EE6349.quest_subtitle: "Feed a Shroombee Warped Fungus"
-	quest.2982D38BD5EE6349.title: "Warped Shroombee"
-	quest.298437197EA5680D.quest_subtitle: "Black Cherry + Cacao"
-	quest.298963543B99734E.quest_desc: ["The Starlit Seas spawn their own versions of Coral! \\n\\nJust don't be like me and forget Silk Touch to pick them up..."]
-	quest.298A7BED5C2C7582.quest_desc: ["&aInduction Cells&r are placed within the &a&lEnergized Induction Matrix&r and will increase the amount of storage it has. \\n\\nAnd yes, their totals will stack on each other! \\n\\n&aBasic Induction Cell&r: will hold 3.2GFE each. \\n\\n&cAdvanced Induction Cells&r: will hold 25.6GFE each. \\n\\n&bElite Induction Cell&r: will hold 204.8GFE each. \\n\\n&5Ultimate Induction Cell&r: will hold 1.6TFE each."]
-	quest.298A7BED5C2C7582.quest_subtitle: "Storage"
-	quest.298A7BED5C2C7582.title: "&aInduction Cells"
-	quest.29917E6196649F5D.quest_desc: ["Speed is distance over time, AKA how long it takes to get from point A to point B... well... we are working with &dRevolutions&r, it is more how long it takes to get from point A to point A in this big of a Circle. \\n\\nAnyways it is how quick our &6Machines&r move, including &dCogs&r and &8Shafts&r! \\n\\nThis is important because Speed will effect how other &6Machines&r work. Some will need a certain Speed and others will work more efficiently at higher Speeds. \\n\\nWe can place a Speedometer (yes, like in a car) into our Kinetic System to see how fast everything is moving."]
-	quest.29917E6196649F5D.title: "Speed"
-	quest.2993EAB4850B7172.quest_subtitle: "White Willow + Cherry"
-	quest.299F56B753286D0C.quest_subtitle: "Tier: &e5"
-	quest.29A05589E96C0569.quest_subtitle: "Tier: &54"
+	quest.2960FFE0C53DFEB1.quest_subtitle: "Das \"Noch Mehr Alles\"-Ritual"
+	quest.2960FFE0C53DFEB1.title: "&cSeviras permanente Einsperrung"
+	quest.29706E3681616E41.quest_subtitle: "Das sind eine Menge verschiedener Stäube!"
+	quest.2982D38BD5EE6349.quest_subtitle: "Füttere eine Pilzbiene mit Wirrschwamm"
+	quest.2982D38BD5EE6349.title: "Wirrpilzbiene"
+	quest.298437197EA5680D.quest_subtitle: "Schwarzkirsche + Kakao"
+	quest.298963543B99734E.quest_desc: ["Die Sternenlicht-Meere spawnen ihre eigenen Versionen von Korallen! \\n\\nSei nur nicht wie ich und vergiss Seidenberührung, um sie abzubauen..."]
+	quest.298A7BED5C2C7582.quest_desc: ["&aInduktionszellen&r werden innerhalb der &a&lEnergisierten Induktionsmatrix&r platziert und erhöhen die Menge an Speicherplatz, die sie hat. \\n\\nUnd ja, ihre Gesamtwerte stapeln sich aufeinander! \\n\\n&aEinfache Induktionszelle&r: speichert jeweils 3.2GFE. \\n\\n&cFortgeschrittene Induktionszellen&r: speichern jeweils 25.6GFE. \\n\\n&bElite-Induktionszelle&r: speichert jeweils 204.8GFE. \\n\\n&5Ultimate-Induktionszelle&r: speichert jeweils 1.6TFE."]
+	quest.298A7BED5C2C7582.quest_subtitle: "Speicher"
+	quest.298A7BED5C2C7582.title: "&aInduktionszellen"
+	quest.29917E6196649F5D.quest_desc: ["Geschwindigkeit ist Strecke durch Zeit, auch bekannt als wie lange es dauert, von Punkt A zu Punkt B zu kommen... nun... wir arbeiten mit &dUmdrehungen&r, es ist eher wie lange es dauert, von Punkt A zu Punkt A in diesem großen Kreis zu kommen. \\n\\nAnyway, es ist, wie schnell sich unsere &6Maschinen&r bewegen, einschließlich &dZahnräder&r und &8Wellen&r! \\n\\nDies ist wichtig, weil die Geschwindigkeit beeinflusst, wie andere &6Maschinen&r arbeiten. Einige benötigen eine bestimmte Geschwindigkeit und andere arbeiten effizienter bei höheren Geschwindigkeiten. \\n\\nWir können einen Geschwindigkeitsmesser (ja, wie in einem Auto) in unser kinetisches System einbauen, um zu sehen, wie schnell sich alles bewegt."]
+	quest.29917E6196649F5D.title: "Geschwindigkeit"
+	quest.2993EAB4850B7172.quest_subtitle: "Weiße Weide + Kirsche"
+	quest.299F56B753286D0C.quest_subtitle: "Stufe: &e5"
+	quest.29A05589E96C0569.quest_subtitle: "Stufe: &54"
 	quest.29A1E1FF02BD9219.quest_desc: [
-		"A Forest as blue as the Ocean. \\n\\nThe Starlight Forest is by far the most common biome in the Starlight. \\n\\nIt has dozens of Lunar Trees covering it entirely with plenty of Mobs, passive and hostile, below it."
+		"Ein Wald so blau wie der Ozean. \\n\\nDer Sternenlicht-Wald ist bei weitem das häufigste Biom im Sternenlicht. \\n\\nEs hat Dutzende von Mondbäumen, die es vollständig bedecken, mit vielen Mobs, friedlich und feindlich, darunter."
 		"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
 	]
-	quest.29A1E1FF02BD9219.title: "Starlight Forest"
-	quest.29AE69722AB4C75C.quest_subtitle: "Tier: &a2"
-	quest.29BDF6CA8FAAC390.quest_desc: ["Oh come on, you saw that coming. Of course Im going to add a blurb saying \"You spin me Right Round...\" for the centrifuge! Who wouldnt?!?!"]
+	quest.29A1E1FF02BD9219.title: "Sternenlicht-Wald"
+	quest.29AE69722AB4C75C.quest_subtitle: "Stufe: &a2"
+	quest.29BDF6CA8FAAC390.quest_desc: ["Oh komm schon, du hast das kommen sehen. Natürlich werde ich eine Bemerkung hinzufügen, die \"You spin me Right Round...\" für die Zentrifuge sagt! Wer würde das nicht tun?!?!"]
 	quest.29BDF6CA8FAAC390.quest_subtitle: "You Spin me Right Round Baby...."
 	quest.29C78845B488EDF8.quest_desc: [
 		"The many many &5Purple Flowers&r and &5Purple Luminescent Ancient Wax&r show us this is the &5Purple structure&r. \\n\\nGo through the &5purple Wind Tunnels&r, sink past the &5purple sewers&r, walk through the &5purple rooms&r full of &5purple flowers&r, amethyst, and string curtains, to get to the &5Purple Essence&r. \\nOnce in you'll have to survive through the time limit to win. Purple Spikes will come out of the ground to kill you, avoid them!|"
