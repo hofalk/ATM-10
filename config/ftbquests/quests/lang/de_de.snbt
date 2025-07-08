@@ -7105,149 +7105,149 @@
 	quest.450EDE68EC992A5A.quest_desc: ["Schnittstellen &clesen&r, was auch immer sie ansehen. Du kannst dir das wie einen &bAE2&r-Speicherbus vorstellen.\n\nDu weißt nicht, was das ist? Nun, hier ist ein Beispiel: Eine Truhe mit 100 Bruchstein hat eine Schnittstelle darauf, das bedeutet, dass dein ID-Netzwerk 100 Bruchstein in seinem System hat, ziemlich einfach, oder?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Schnittstellen haben GUIs!"
 	quest.4510FD92BACF00FF.quest_subtitle: "Pflaume + Esskastanie"
-	quest.45161821C221EF0B.quest_desc: ["Once we get those 15 &4Hellshelves&r around our &5Enchantment Table&r, we'll have &a45 Eterna&r and &c30% Quanta&r in our &5Table&r. \\n\\nThis is the perfect amount to &d&lInfuse&r our &4Hellshelves&r! \\n\\n&4Infused Hellshelves&r give &a5 Eterna&r with a max of &a60 Eterna&r, along with &c5% Quanta&r. \\n\\nThese can be Crafted with other Items to make different &7Bookshelves&r, for the ones we want we'll need 12 &4Infused Hellshelves&r! \\n\\nOf course, with me being soooo generous, you'll only need to collect 8!"]
-	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
-	quest.451D03BE892CDE74.quest_subtitle: "&dTier 6&r"
-	quest.451D03BE892CDE74.title: "Exploration Mod Max Pickaxes"
-	quest.45268A619787288F.title: "&eGold Backpack"
-	quest.4526E151BAE88310.quest_subtitle: "Tier: &e1"
-	quest.452B3207B6C3A5D7.quest_desc: ["Liquid Uranium 235. Lets use this liquid to bind together the other components and craft the Absolute Reaction Plate"]
+	quest.45161821C221EF0B.quest_desc: ["Sobald wir diese 15 &4Höllenregale&r um unseren &5Verzauberungstisch&r platziert haben, werden wir &a45 Eterna&r und &c30% Quanta&r in unserem &5Tisch&r haben. \\n\\nDies ist die perfekte Menge, um unsere &4Höllenregale&r zu &d&linfundieren&r! \\n\\n&4Infundierte Höllenregale&r geben &a5 Eterna&r mit einem Maximum von &a60 Eterna&r, zusammen mit &c5% Quanta&r. \\n\\nDiese können mit anderen Gegenständen gecraftet werden, um verschiedene &7Bücherregale&r herzustellen. Für diejenigen, die wir wollen, benötigen wir 12 &4Infundierte Höllenregale&r! \\n\\nNatürlich, da ich sooooo großzügig bin, musst du nur 8 sammeln!"]
+	quest.45161821C221EF0B.title: "&4Infundierte Höllenregale"
+	quest.451D03BE892CDE74.quest_subtitle: "&dStufe 6&r"
+	quest.451D03BE892CDE74.title: "Erkundungsmod Max-Spitzhacken"
+	quest.45268A619787288F.title: "&eGold-Rucksack"
+	quest.4526E151BAE88310.quest_subtitle: "Stufe: &e1"
+	quest.452B3207B6C3A5D7.quest_desc: ["Flüssiges Uran 235. Lass uns diese Flüssigkeit verwenden, um die anderen Komponenten zu verbinden und die Absolute Reaktionsplatte herzustellen"]
 	quest.452B3207B6C3A5D7.quest_subtitle: "U235"
 	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
 	quest.452DC5EB02D592B8.title: "&5Amethyst&r"
-	quest.452EF09F6CB4AD99.quest_desc: ["&cRelays&r don't connect &cWires&r to Machines, rather they connect &cWires&r to more &cWires&r! \\n\\n&cRelays&r work by combining a bunch of &cWires&r into one spot, so it will take all the &9Input &cEnergy&r and send them to &cConnectors&r to all the &6Outputs&r connected. \\n\\nThis is helpful for when you have either one Power Generator that you want to charge multiple Machines!"]
-	quest.452EF09F6CB4AD99.title: "&cRelays"
+	quest.452EF09F6CB4AD99.quest_desc: ["&cRelais&r verbinden keine &cKabel&r mit Maschinen, sondern verbinden &cKabel&r mit mehr &cKabeln&r! \\n\\n&cRelais&r funktionieren, indem sie eine Menge &cKabel&r an einem Punkt zusammenführen, sodass sie alle &9eingehende &cEnergie&r nehmen und sie an &cVerbindungsstücke&r zu allen angeschlossenen &6Ausgängen&r senden. \\n\\nDies ist hilfreich, wenn du einen Stromgenerator hast, mit dem du mehrere Maschinen aufladen möchtest!"]
+	quest.452EF09F6CB4AD99.title: "&cRelais"
 	quest.452F51995AD0461C.quest_desc: [
-		"The Induction Furnace combines materials into new alloys."
+		"Der Induktionsofen kombiniert Materialien zu neuen Legierungen."
 		""
-		"This is also useful when smelting Ancient Debris into Netherite Scraps."
+		"Dies ist auch nützlich beim Schmelzen von Antiken Trümmern zu Netheritschrott."
 	]
-	quest.452F51995AD0461C.quest_subtitle: "The Alloy Maker"
-	quest.4530C14828C3D153.quest_subtitle: "Tier: &b4"
+	quest.452F51995AD0461C.quest_subtitle: "Der Legierungshersteller"
+	quest.4530C14828C3D153.quest_subtitle: "Stufe: &b4"
 	quest.454662617304E299.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Allows the player to walk though block. There is a block tag to blacklist blocks from being able to be phased through."
+		"Ermöglicht dem Spieler, durch Blöcke zu gehen. Es gibt ein Block-Tag, um Blöcke von der Phasendurchdringung auszuschließen."
 	]
 	quest.454AC491FDFC3FDB.quest_desc: [
-		"Unlike most cubic Mobs the &6Honey Slimes&r are friendly! \\n\\nThey can bred with Sugar and they can be... milked? With bottles for &6Honey Bottles&r. They will aggro if you milk them though, unless you have the Essence of Bees on. \\n\\nOn death they will drop Sugar. \\n\\nYou can find them in some structures, &bSugar Lakes&r, or sometimes from growing &6B&8e&6e&8s&r in Brood Blocks."
+		"Im Gegensatz zu den meisten kubischen Mobs sind die &6Honigschleime&r freundlich! \\n\\nSie können mit Zucker gezüchtet werden und können... gemolken werden? Mit Flaschen für &6Honigflaschen&r. Sie werden jedoch aggressiv, wenn du sie melkst, es sei denn, du hast die Essenz der Bienen an. \\n\\nBeim Tod lassen sie Zucker fallen. \\n\\nDu kannst sie in einigen Strukturen, &bZuckerseen&r oder manchmal beim Züchten von &6B&8i&6e&8nen&r in Brutblöcken finden."
 		"{image:atm:textures/questpics/bumblezone/bumble_slime.png width:100 height:100 align:center}"
 	]
-	quest.454AC491FDFC3FDB.quest_subtitle: "No Royal Jelly Slimes?"
-	quest.454AC491FDFC3FDB.title: "&6Honey Slimes"
+	quest.454AC491FDFC3FDB.quest_subtitle: "Keine Königliche Gelee-Schleime?"
+	quest.454AC491FDFC3FDB.title: "&6Honigschleime"
 	quest.454CA1F8CC198D9D.quest_desc: [
-		"Valid Upgrades:"
-		"- Step Assist"
-		"- Jump Boost"
+		"Gültige Upgrades:"
+		"- Schritt-Unterstützung"
+		"- Sprungverstärkung"
 	]
 	quest.454F2BF7F2E25D83.quest_desc: [
-		"While this may be one of the more complex crafts, having a crafting life spanning numerous Tiers, it is a required item."
+		"Obwohl dies eines der komplexeren Herstellungsrezepte ist, das sich über mehrere Stufen erstreckt, ist es ein notwendiger Gegenstand."
 		""
-		"Yes, Theres a lot that goes into making 1 of these, but try optimizing the Crafting path. Trust, youll give thanks afterwards."
+		"Ja, es steckt viel Arbeit in der Herstellung von einem dieser Gegenstände, aber versuche, den Herstellungsprozess zu optimieren. Glaub mir, du wirst später dankbar dafür sein."
 	]
-	quest.454F2BF7F2E25D83.quest_subtitle: "Compex Energy"
-	quest.45549E52B3CE2D23.quest_desc: ["Scythes are tools that can farm large areas of crops all at once. They can also be used as a fairly good weapon."]
-	quest.4564B577CB4EC046.quest_desc: ["When slaughtering hundreds of Cows you might come across a Rare Beef. Not one with Mad Cow Disease, I mean the &cEverlasting Beef&r!\\n\\n&cEverlasting Beef&r can be eaten like a normal Raw Beef, but it won't be deleted when consumed! Instead it will have a cooldown before you can eat it again.\\n\\n(Also works with autofeeding backpacks!)"]
-	quest.4564B577CB4EC046.quest_subtitle: "Unique"
-	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
-	quest.4568C2F465EDB960.quest_desc: ["Droopfruit can spawn pretty much in any Biome just look up! \\n\\nThey spawn on the roof of most Biomes and will grow similar to Glowberries."]
-	quest.456B9DD108CF340F.quest_desc: ["Makes things faster."]
-	quest.456B9DD108CF340F.quest_subtitle: "Speedy!"
-	quest.4576043B8297BDB4.quest_desc: ["This has the powerflow your Substations were looking for! Now you can give it All the Amps!"]
-	quest.4576043B8297BDB4.quest_subtitle: "1.21 Gigawatts!"
+	quest.454F2BF7F2E25D83.quest_subtitle: "Komplexe Energie"
+	quest.45549E52B3CE2D23.quest_desc: ["Sensen sind Werkzeuge, mit denen große Bereiche von Feldfrüchten auf einmal geerntet werden können. Sie können auch als ziemlich gute Waffe verwendet werden."]
+	quest.4564B577CB4EC046.quest_desc: ["Wenn du Hunderte von Kühen schlachtest, könntest du auf ein Seltenes Rindfleisch stoßen. Nicht eines mit Rinderwahnsinn, ich meine das &cEwige Rindfleisch&r!\\n\\n&cEwiges Rindfleisch&r kann wie normales rohes Rindfleisch gegessen werden, aber es wird beim Verzehr nicht gelöscht! Stattdessen hat es eine Abklingzeit, bevor du es erneut essen kannst.\\n\\n(Funktioniert auch mit automatischen Fütterungsrucksäcken!)"]
+	quest.4564B577CB4EC046.quest_subtitle: "Einzigartig"
+	quest.4564B577CB4EC046.title: "&cEwiges Rindfleisch&r"
+	quest.4568C2F465EDB960.quest_desc: ["Hängefrucht kann in praktisch jedem Biom spawnen, schau einfach nach oben! \\n\\nSie spawnen an der Decke der meisten Biome und wachsen ähnlich wie Leuchtbeeren."]
+	quest.456B9DD108CF340F.quest_desc: ["Macht Dinge schneller."]
+	quest.456B9DD108CF340F.quest_subtitle: "Schnell!"
+	quest.4576043B8297BDB4.quest_desc: ["Dies hat den Energiefluss, nach dem deine Unterstationen gesucht haben! Jetzt kannst du alle Ampere geben!"]
+	quest.4576043B8297BDB4.quest_subtitle: "1,21 Gigawatt!"
 	quest.4578C0EE82F66BD9.quest_desc: [
-		"With our Tier 3 Altar, we can start performing Rituals."
+		"Mit unserem Altar der Stufe 3 können wir anfangen, Rituale durchzuführen."
 		""
-		"Rituals require a Master Ritual Stone and enough regular Ritual Stones to create."
+		"Rituale erfordern einen Meister-Ritualstein und genügend normale Ritualsteine, um sie zu erstellen."
 		""
-		"Start by crafting a bunch of Ritual Stones as well as a Master Ritual Stone. These are the basic blocks we'll need to start doing rituals."
+		"Beginne mit der Herstellung einer Menge Ritualsteine sowie eines Meister-Ritualsteins. Dies sind die grundlegenden Blöcke, die wir benötigen, um mit Ritualen zu beginnen."
 	]
-	quest.4578C0EE82F66BD9.title: "Tier I Rituals"
-	quest.457CAE66B0FA4CCF.quest_desc: ["All &2Vanilla&r Ores can be found with the Diamond Divination Rod. Being able to find all plus Netherite!"]
-	quest.457DE8C154641437.quest_desc: ["The &9Ritual Brazier&r is used to cast rituals. It can also be used for decoration. If you want to light the Brazier, use a Light spell on it. \\n\\nTo perform rituals, you'll need Arcane Pedestals as well. As there are so many rituals to cast, make sure to check out each of them using the &6Worn Notebook&r! \\n\\nThis can be done by holding Ctrl on the Ritual Table while the book is in your inventory."]
-	quest.458265FCD6B3068E.quest_desc: ["Everybody loved the Crafting Stations from &lTinker's Construct&r and apparently so did the &8&lIE&r Devs! \\n\\nThe &6Engineer's Crafting Table&r will act like a normal Crafting Table, with an added 18 Slots of Storage in it, plus it keeps your &eItems&r in the Grid when you stop viewing it! \\n\\nWhat more could you want!"]
-	quest.458265FCD6B3068E.title: "&6Engineer's Crafting Table"
-	quest.4586338386F85112.quest_desc: ["You've learned how to make machines do your bidding with steam and you're finally ready to begin adventuring into the world of electronics. Build the Wiremill and brace yourself."]
-	quest.45899579D9B92D91.quest_desc: ["The &aController&r is the heart of the &c&lFoundry&r. \\n\\nEach &c&lFoundry&r will need atleast 1, to be made. \\n\\nWe can use the &c&lFoundry&r to view the GUI of the &c&lFoundry&r. Here we can see the amounts of Liquids within the &c&lFoundry&r. \\n\\nWe can also use it to put and take Items in and out of the &c&lFoundry&r."]
-	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
+	quest.4578C0EE82F66BD9.title: "Stufe I Rituale"
+	quest.457CAE66B0FA4CCF.quest_desc: ["Alle &2Vanilla&r-Erze können mit der Diamant-Wünschelrute gefunden werden. Du kannst alle finden, plus Netherit!"]
+	quest.457DE8C154641437.quest_desc: ["Das &9Ritual-Kohlenbecken&r wird verwendet, um Rituale zu wirken. Es kann auch zur Dekoration verwendet werden. Wenn du das Kohlenbecken anzünden möchtest, verwende einen Licht-Zauber darauf. \\n\\nUm Rituale durchzuführen, benötigst du auch Arkane Podeste. Da es so viele Rituale gibt, solltest du unbedingt jedes einzelne mit dem &6Abgenutzten Notizbuch&r überprüfen! \\n\\nDies kann getan werden, indem du Strg auf dem Ritualtisch gedrückt hältst, während das Buch in deinem Inventar ist."]
+	quest.458265FCD6B3068E.quest_desc: ["Jeder liebte die Handwerksstationen von &lTinker's Construct&r und anscheinend auch die &8&lIE&r-Entwickler! \\n\\nDer &6Ingenieur-Handwerkstisch&r funktioniert wie ein normaler Handwerkstisch, mit zusätzlichen 18 Speicherplätzen darin, und er behält deine &eGegenstände&r im Raster, wenn du aufhörst, ihn anzusehen! \\n\\nWas könnte man mehr wollen!"]
+	quest.458265FCD6B3068E.title: "&6Ingenieur-Handwerkstisch"
+	quest.4586338386F85112.quest_desc: ["Du hast gelernt, wie man Maschinen mit Dampf nach deinem Willen arbeiten lässt, und bist endlich bereit, in die Welt der Elektronik einzutauchen. Baue die Drahtziehmühle und mach dich bereit."]
+	quest.45899579D9B92D91.quest_desc: ["Der &aController&r ist das Herz der &c&lGießerei&r. \\n\\nJede &c&lGießerei&r benötigt mindestens 1, um gebaut zu werden. \\n\\nWir können die &c&lGießerei&r verwenden, um die GUI der &c&lGießerei&r anzuzeigen. Hier können wir die Mengen an Flüssigkeiten in der &c&lGießerei&r sehen. \\n\\nWir können sie auch verwenden, um Gegenstände in die &c&lGießerei&r hinein- und herauszubringen."]
+	quest.45899579D9B92D91.title: "&c&lGießerei&r &aController"
 	quest.459787E9F1029CC6.quest_desc: [
-		"Wires and cables are imperfect and lose some of the energy they transport in the form of heat"
+		"Drähte und Kabel sind nicht perfekt und verlieren einen Teil der Energie, die sie transportieren, in Form von Wärme"
 		""
-		"You can mitigate some of this loss by covering your wires in rubber to make cables"
+		"Du kannst einen Teil dieses Verlusts mindern, indem du deine Drähte mit Gummi ummantelst, um Kabel herzustellen"
 		""
-		"The exception here are superconductors! They have no energy loss"
+		"Die Ausnahme sind Supraleiter! Sie haben keinen Energieverlust"
 	]
-	quest.459787E9F1029CC6.quest_subtitle: "A meter = one block"
-	quest.4597D3B3BDC2BED5.quest_desc: ["The &bMolecular Assembler&f is AE2's equivalent of an automatic crafting table, required to fulfil any and all &ecrafting&f pattern jobs.\\n\\nMolecular Assemblers are capable of transferring power and channels to other ME devices connected to it, but will not themselves take up a channel. Up to 6 MAs can be connected to a single Pattern Provider (if employed) to allow for more crafts to be done in parallel.\\n\\nMAs also each have their own dedicated slot for a single crafting pattern, allowing them to function standalone when powered. When operated in this way, any matching items inserted into the MA will be automatically crafted into the result of the pattern."]
-	quest.45996B848792379E.quest_desc: ["You can Mine &dSal Ammoniac Crystals&r in the &2Overworld&r but it isn't that easy. We'll still need &9Water&r and the Machines to make &dSal Ammoniac&r to make &eAlchemical Sulfur&r. \\n\\nThe &dCrystals&r are optional but help a ton; with just Water 1000mb will be turned into 100mb of &dSal Ammoniac&r. With 1000mb of &9Water&r and a &dSal Ammoniac Crystal&r we'll instead get 1000mb of &dSal Ammoniac&r. \\n\\n10 times the production with only a single Item more!"]
-	quest.45996B848792379E.quest_subtitle: "Why do we need Machines if we can just Mine it?"
-	quest.45996B848792379E.title: "Why Machines?"
-	quest.459AEC4C2A611824.quest_desc: ["To all Players who don't cheat by using &aNight Vision&r Resource Packs, this might be helpful! \\n\\nThis &7Module Unit&r will give you some &aNight Vision&r when you wear the &a&lMekaSuit Helmet&r. \\n\\nWhile yes, lots of &eItems&r make this useless, I'm still going to tell you about it!"]
-	quest.459AEC4C2A611824.quest_subtitle: "Helmet"
-	quest.459AEC4C2A611824.title: "&aVision Enhancement &7Unit"
-	quest.459BA85E48B343AE.quest_desc: ["&aRadial Chasis&r work similar to &aLinear Chasis&r in connecting to other &aRadial Chasis&r but everything else changes. \\n\\nYou can connect other &aRadial Chasis&r on the top or bottom of other ones and they will automatically connect. \\n\\nThen, &aGlue&r the sides of the &aRadial Chasis&r to &aGlue&r every Block within a set Radius of the &aChasis&r. BTW Radius means circle! \\n\\nYou can change how far the circle goes with a &6Wrench&r to the &aRadial Chasis&r."]
-	quest.459BA85E48B343AE.title: "&aRadial Chasis"
-	quest.459BB5B4CDB21773.quest_desc: ["&9Swamp Silver&r is found within the muddy swamps of &5&lEternal Starlight&r."]
+	quest.459787E9F1029CC6.quest_subtitle: "Ein Meter = ein Block"
+	quest.4597D3B3BDC2BED5.quest_desc: ["Der &bMolekulare Assembler&f ist das Äquivalent von AE2 zu einem automatischen Werkbank, der erforderlich ist, um alle &eHandwerks&f-Musteraufgaben zu erfüllen.\\n\\nMolekulare Assembler können Energie und Kanäle an andere angeschlossene ME-Geräte übertragen, nehmen selbst aber keinen Kanal ein. Bis zu 6 MAs können an einen einzelnen Musteranbieter angeschlossen werden (falls eingesetzt), um mehr parallele Herstellungsprozesse zu ermöglichen.\\n\\nMAs haben auch jeweils einen eigenen dedizierten Steckplatz für ein einzelnes Herstellungsmuster, sodass sie eigenständig funktionieren können, wenn sie mit Strom versorgt werden. Wenn sie auf diese Weise betrieben werden, werden alle passenden Gegenstände, die in den MA eingesetzt werden, automatisch zum Ergebnis des Musters verarbeitet."]
+	quest.45996B848792379E.quest_desc: ["Du kannst &dSalmiak-Kristalle&r in der &2Oberwelt&r abbauen, aber es ist nicht so einfach. Wir benötigen immer noch &9Wasser&r und die Maschinen, um &dSalmiak&r zu machen, um &ealchemistischen Schwefel&r herzustellen. \\n\\nDie &dKristalle&r sind optional, helfen aber enorm; nur mit Wasser werden 1000mb in 100mb &dSalmiak&r umgewandelt. Mit 1000mb &9Wasser&r und einem &dSalmiak-Kristall&r erhalten wir stattdessen 1000mb &dSalmiak&r. \\n\\n10-mal die Produktion mit nur einem einzigen Gegenstand mehr!"]
+	quest.45996B848792379E.quest_subtitle: "Warum brauchen wir Maschinen, wenn wir es einfach abbauen können?"
+	quest.45996B848792379E.title: "Warum Maschinen?"
+	quest.459AEC4C2A611824.quest_desc: ["Für alle Spieler, die nicht durch die Verwendung von &aNachtsicht&r-Ressourcenpaketen schummeln, könnte dies hilfreich sein! \\n\\nDieses &7Modul&r gibt dir etwas &aNachtsicht&r, wenn du den &a&lMekaSuit-Helm&r trägst. \\n\\nObwohl ja, viele &eGegenstände&r machen dies nutzlos, werde ich dir trotzdem davon erzählen!"]
+	quest.459AEC4C2A611824.quest_subtitle: "Helm"
+	quest.459AEC4C2A611824.title: "&aSichtverstärkungs&7-Einheit"
+	quest.459BA85E48B343AE.quest_desc: ["&aRadiale Chassis&r funktionieren ähnlich wie &aLineare Chassis&r beim Verbinden mit anderen &aRadialen Chassis&r, aber alles andere ändert sich. \\n\\nDu kannst andere &aRadiale Chassis&r oben oder unten an anderen anbringen, und sie werden automatisch verbunden. \\n\\nDann &aleime&r die Seiten des &aRadialen Chassis&r, um jeden Block innerhalb eines festgelegten Radius des &aChassis&r zu &aleimen&r. Übrigens bedeutet Radius Kreis! \\n\\nDu kannst mit einem &6Schraubenschlüssel&r am &aRadialen Chassis&r ändern, wie weit der Kreis reicht."]
+	quest.459BA85E48B343AE.title: "&aRadiales Chassis"
+	quest.459BB5B4CDB21773.quest_desc: ["&9Sumpfsilber&r wird in den schlammigen Sümpfen von &5&lEternal Starlight&r gefunden."]
 	quest.459BB5B4CDB21773.quest_subtitle: "15"
-	quest.459BB5B4CDB21773.title: "&9Swamp Silver Armor"
-	quest.45A25221F54A1DEC.quest_desc: ["The Ferricore Wrench allows the player to rotate machines, but it is also used to link swappers together."]
-	quest.45D10F53CA18B8EE.quest_desc: ["Unfortunately you can't get &5Lightning&r Runes from a Mob drop, instead we'll need to craft them with &5Bottle O' Lightning&r. \\n\\nWe get &5Bottle O' Lightning&r from using an Empty Bottle on a Charged Creeper. \\n\\nDangerous I know..."]
-	quest.45D10F53CA18B8EE.title: "&5Lightning&r Upgrade Orb"
-	quest.45D1FFB263CD722D.quest_subtitle: "Teak + Clove"
+	quest.459BB5B4CDB21773.title: "&9Sumpfsilber-Rüstung"
+	quest.45A25221F54A1DEC.quest_desc: ["Der Ferricore-Schraubenschlüssel ermöglicht es dem Spieler, Maschinen zu drehen, wird aber auch verwendet, um Tauscher miteinander zu verbinden."]
+	quest.45D10F53CA18B8EE.quest_desc: ["Leider kannst du keine &5Blitz&r-Runen aus einem Mob-Drop bekommen, stattdessen müssen wir sie mit &5Flasche mit Blitz&r herstellen. \\n\\nWir bekommen &5Flasche mit Blitz&r, indem wir eine leere Flasche an einem aufgeladenen Creeper verwenden. \\n\\nGefährlich, ich weiß..."]
+	quest.45D10F53CA18B8EE.title: "&5Blitz&r-Upgrade-Kugel"
+	quest.45D1FFB263CD722D.quest_subtitle: "Teak + Nelke"
 	quest.45D683D7F1A32B04.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Allows the tool to instantly mine blocks."
+		"Ermöglicht dem Werkzeug, Blöcke sofort abzubauen."
 	]
 	quest.45D9E32D75F5ACAE.quest_desc: [
-		"Is it really time for an upgrade already? Well, yes it turns out"
+		"Ist es wirklich schon Zeit für ein Upgrade? Nun, ja, das stellt sich heraus"
 		""
-		"We need the &eAssembler&r at &1IV&r to make any of the &dAdvanced Surface Mount Devices&r (SMDs)"
+		"Wir benötigen den &eAssembler&r auf &1IV&r, um &dAdvanced Surface Mount Devices&r (SMDs) herzustellen"
 	]
-	quest.45EC31812FB9934D.quest_desc: ["&aMechanical Pistons&r act like normal Pistons with Moving Blocks, but after that the similarities end! \\n\\nThey don't work off &4Redstone&r, instead they use &dRotational Power&r. The &dRotational Power&r will determine how fast and the direction the Piston moves. \\n\\nThey also can have &aSlime Balls&r added to &aStick&r to Blocks. And those Blocks can be &aGlued&r to have everything moving with the Piston. \\n\\nBest part is that we can add &aPiston Extension Poles&r to the back of the &aPiston&r to change how far the &aPiston&r can move! \\n\\nEach new &aPole&r adds a new Block of distance. I'm not sure of the max you can add, maybe that is something you can find out yourself!"]
-	quest.45EC31812FB9934D.title: "&aMechanical Pistons"
-	quest.45F83C2750F70F9B.quest_desc: ["Go ahead, put a Book in a Furnace and smelt it."]
-	quest.45F83C2750F70F9B.quest_subtitle: "Totally won't catch on fire..."
-	quest.45F83C2750F70F9B.title: "Making a Kitchen, with a Book"
-	quest.45FBEABEBA7CC09E.quest_desc: ["Who knows what happened to bring this &5City&r under the &9Water&r, but clearly it is! You'll easily notice it by the Stone Bricks sticking out of the &9Water&r. \\n\\nThe first and biggest room is the City Center, the giant dome! This is where the &5Altar of the Abyss&r is. \\n\\nOff of the rooms you'll find hallways which lead to other buildings in the &5City&r. Prisons holding &5Coralussus&r and even Treasure Rooms holding tons of precious Loot! \\n\\nAll around the &5City&r you will find its inhabitants, the &5Deeplings&r. "]
-	quest.45FBEABEBA7CC09E.title: "&5Sunken City&r: Home of &5&lThe Leviathan&r"
-	quest.45FF08E4DB6F7F0E.quest_desc: ["An upgraded crafter that holds more patterns and has an increased crafting speed."]
-	quest.45FF08E4DB6F7F0E.title: "Iron Crafter"
-	quest.460A8F17F3ED6CAF.quest_desc: ["There comes a point in any playthrough of a large modpack where even the highest standard tier of storage cell doesn't cut it for the amount of items and resources that you may be accumulating.\\n\\nThis is where the &dMEGA Cells&f add-on comes in, extending the available tiers of storage into the megabyte territory. The first of these new tiers is given by the &b1M MEGA Storage Component&f, providing 1024 &okilo&rbytes, or &e1048576&f bytes, of storage."]
-	quest.460A8F17F3ED6CAF.quest_subtitle: "The first MEGAbyte."
-	quest.460A8F17F3ED6CAF.title: "1M Storage Component"
+	quest.45EC31812FB9934D.quest_desc: ["&aMechanische Kolben&r funktionieren wie normale Kolben mit beweglichen Blöcken, aber danach enden die Ähnlichkeiten! \\n\\nSie funktionieren nicht mit &4Redstone&r, sondern mit &dRotationsenergie&r. Die &dRotationsenergie&r bestimmt, wie schnell und in welche Richtung sich der Kolben bewegt. \\n\\nSie können auch &aSchleimbälle&r hinzugefügt bekommen, um an Blöcken zu &akleben&r. Und diese Blöcke können &ageleimt&r werden, damit sich alles mit dem Kolben bewegt. \\n\\nDas Beste ist, dass wir &aKolbenverlängerungsstangen&r an der Rückseite des &aKolbens&r anbringen können, um zu ändern, wie weit sich der &aKolben&r bewegen kann! \\n\\nJede neue &aStange&r fügt einen neuen Block Entfernung hinzu. Ich bin mir nicht sicher, wie viele man maximal hinzufügen kann, vielleicht ist das etwas, was du selbst herausfinden kannst!"]
+	quest.45EC31812FB9934D.title: "&aMechanische Kolben"
+	quest.45F83C2750F70F9B.quest_desc: ["Nur zu, lege ein Buch in einen Ofen und schmelze es."]
+	quest.45F83C2750F70F9B.quest_subtitle: "Wird definitiv nicht Feuer fangen..."
+	quest.45F83C2750F70F9B.title: "Eine Küche machen, mit einem Buch"
+	quest.45FBEABEBA7CC09E.quest_desc: ["Wer weiß, was passiert ist, um diese &5Stadt&r unter &9Wasser&r zu bringen, aber sie ist es eindeutig! Du wirst sie leicht an den Steinziegeln erkennen, die aus dem &9Wasser&r herausragen. \\n\\nDer erste und größte Raum ist das Stadtzentrum, die riesige Kuppel! Hier befindet sich der &5Altar des Abgrunds&r. \\n\\nVon den Räumen aus findest du Flure, die zu anderen Gebäuden in der &5Stadt&r führen. Gefängnisse mit &5Coralussus&r und sogar Schatzkammern mit tonnenweise kostbarer Beute! \\n\\nÜberall in der &5Stadt&r wirst du ihre Bewohner finden, die &5Deeplings&r."]
+	quest.45FBEABEBA7CC09E.title: "&5Versunkene Stadt&r: Heimat von &5&lDem Leviathan&r"
+	quest.45FF08E4DB6F7F0E.quest_desc: ["Ein verbesserter Crafter, der mehr Muster enthält und eine erhöhte Herstellungsgeschwindigkeit hat."]
+	quest.45FF08E4DB6F7F0E.title: "Eisen-Crafter"
+	quest.460A8F17F3ED6CAF.quest_desc: ["Es kommt ein Punkt in jedem Durchlauf eines großen Modpacks, an dem selbst die höchste Standardstufe einer Speicherzelle nicht ausreicht für die Menge an Gegenständen und Ressourcen, die du möglicherweise ansammelst.\\n\\nHier kommt die &dMEGA-Zellen&f-Erweiterung ins Spiel, die die verfügbaren Speicherstufen in den Megabyte-Bereich erweitert. Die erste dieser neuen Stufen wird durch die &b1M MEGA-Speicherkomponente&f bereitgestellt, die 1024 &oKilo&rbytes oder &e1048576&f Bytes Speicher bietet."]
+	quest.460A8F17F3ED6CAF.quest_subtitle: "Das erste MEGAbyte."
+	quest.460A8F17F3ED6CAF.title: "1M-Speicherkomponente"
 	quest.461C8F1E88AA58D9.quest_desc: [
-		"These can be used in recipes using the bucketed version of PneumaticCraft liquids.\\n\\nWhen a &3Fluid Tank&r is put on top of another &3Fluid Tank&r and wrenched together they become one big tank.\\n"
+		"Diese können in Rezepten verwendet werden, die die Eimer-Version von PneumaticCraft-Flüssigkeiten verwenden.\\n\\nWenn ein &3Flüssigkeitstank&r auf einen anderen &3Flüssigkeitstank&r gesetzt und zusammen geschraubt wird, werden sie zu einem großen Tank.\\n"
 		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
 	]
-	quest.461C8F1E88AA58D9.quest_subtitle: "32,000mb"
-	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
-	quest.462D173D576A8D91.quest_desc: ["&eAncient Metal&r is a Drop from pretty much everything within the &eCursed Pyramid&r! \\n\\nLike other Ingots it can be Crafted from Nuggets or Blocks and vice versa. \\n\\nYou can use it to make &eBone Reptile Armor&r or the &eAncient Spear&r."]
-	quest.462D173D576A8D91.title: "&eAncient Metal"
-	quest.4632DA3CE9D95064.quest_desc: ["Platinum Group Sludge will process down into a bunch of great resources that will help you moving forward."]
-	quest.4632DA3CE9D95064.quest_subtitle: "Money! *Mister Krabs*"
+	quest.461C8F1E88AA58D9.quest_subtitle: "32.000mb"
+	quest.462C1F75A2FB9F02.quest_subtitle: "Wo ist Willy?"
+	quest.462D173D576A8D91.quest_desc: ["&eAntikes Metall&r ist ein Drop von so ziemlich allem innerhalb der &eVerfluchten Pyramide&r! \\n\\nWie andere Barren kann es aus Nuggets oder Blöcken hergestellt werden und umgekehrt. \\n\\nDu kannst es verwenden, um &eKnochen-Reptilien-Rüstung&r oder den &eAntiken Speer&r herzustellen."]
+	quest.462D173D576A8D91.title: "&eAntikes Metall"
+	quest.4632DA3CE9D95064.quest_desc: ["Platingruppen-Schlamm wird zu einer Menge großartiger Ressourcen verarbeitet, die dir beim Weiterkommen helfen werden."]
+	quest.4632DA3CE9D95064.quest_subtitle: "Geld! *Mister Krabs*"
 	quest.464110726B823072.quest_desc: [
-		"Tired of hunting around for ores and hoping you'll strike it rich? Are you looking for the oil that lies beneath? You need the &6HV&r &bProspector&r! "
+		"Müde davon, nach Erzen zu suchen und zu hoffen, dass du reich wirst? Suchst du nach dem Öl, das darunter liegt? Du brauchst den &6HV&r &bProspekteur&r!"
 		""
-		"This tool will scan the area around you in a 4 chunk radius and tell you where to find the ore you are looking for"
+		"Dieses Werkzeug scannt die Umgebung in einem Radius von 4 Chunks und zeigt dir, wo du das gesuchte Erz findest"
 		""
-		"Additionally, you can sneak + right-click to change to Fluid Detection mode and find oil pools that lie beneath bedrock, all you'll need is a &eFluid Drilling Rig&r to access all that oil!"
+		"Zusätzlich kannst du schleichen + Rechtsklick machen, um in den Flüssigkeitserkennungsmodus zu wechseln und Ölvorkommen zu finden, die unter dem Grundgestein liegen. Alles, was du brauchst, ist eine &eFlüssigkeitsbohranlage&r, um an all dieses Öl zu kommen!"
 	]
-	quest.4646DCF463FD913F.quest_desc: ["Kill the Wither with the Stinger Spear. \\n\\nTry using the End Exit Portal to help cheese this."]
+	quest.4646DCF463FD913F.quest_desc: ["Töte den Wither mit dem Stachel-Speer. \\n\\nVersuche, das End-Ausgangsportal zu nutzen, um dies zu erleichtern."]
 	quest.464D0C17601E8A2B.quest_desc: [
-		"The ATM Star. The Ultimate Achievement in ATM10. Congratulations! "
+		"Der ATM-Stern. Die ultimative Errungenschaft in ATM10. Herzlichen Glückwunsch!"
 		""
-		"With this, you can now make &dCreative&r items! Check out the &dCreative&r Quest chapter to find out more!"
+		"Damit kannst du jetzt &dKreative&r-Gegenstände herstellen! Schau im &dKreative&r-Questkapitel nach, um mehr zu erfahren!"
 	]
-	quest.464D0C17601E8A2B.quest_subtitle: "Take over the world."
-	quest.464D0C17601E8A2B.title: "&6ATM Star"
-	quest.464DDEAF167BD0D5.quest_subtitle: "&f9 &cAttack Damage"
-	quest.464F35993A49096D.quest_desc: ["Attuned Diamond/emeralds are mahou batteries and you'll need lots of Mahou for getting Morgan. A full attuned emerald can be used for the 5000 mahou Caliburn ritual. "]
-	quest.464F35993A49096D.title: "Enough Mahou? Probably!"
+	quest.464D0C17601E8A2B.quest_subtitle: "Übernimm die Welt."
+	quest.464D0C17601E8A2B.title: "&6ATM-Stern"
+	quest.464DDEAF167BD0D5.quest_subtitle: "&f9 &cAngriffsschaden"
+	quest.464F35993A49096D.quest_desc: ["Abgestimmte Diamanten/Smaragde sind Mahou-Batterien und du wirst viel Mahou für Morgan benötigen. Ein voller abgestimmter Smaragd kann für das 5000-Mahou-Caliburn-Ritual verwendet werden."]
+	quest.464F35993A49096D.title: "Genug Mahou? Wahrscheinlich!"
 	quest.46542F4A273E64EB.quest_desc: ["Another &eChemical Reactor&r recipe, this time using &6Electrum Foil&r and either &9Sodium Persulfate&r or &0Iron III Chloride&r"]
 	quest.46567ED894E9883C.quest_desc: [
 		"This is where it gets fun! \\n\\nUse 4 &6Deorum&r Ingots, 4 &bArcane Crystals&r, and a &9Chiseled Polished Darkstone&r to upgrade from &3&lTier 2&r to &e&lTier 3&r. \\n\\nNow we can hold even more Essences, even more Relics, and even more Recipes!"
