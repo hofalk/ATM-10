@@ -498,253 +498,253 @@
 	quest.04440BB2EFFD6DD9.title: "&cMächtiger Minosaurus-Stroganoff"
 	quest.0447551EF7FB171B.quest_desc: ["Keine weitere Verarbeitung nötig, dies ist kein &4Blut&r-Test, es ist nur Treibstoff! \\n\\nVerbinde einfach den &4Sockel&r mit der &c&lSchmiede&r und beobachte, wie das &4Blut&r einfließt!"]
 	quest.0447551EF7FB171B.title: "&4Blut"
-	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods are our Tools we use to contact the spirits to find certain Items. \\n\\nFirst, you'll need to select the Block or Item by either Shift Right Clicking it with the Rod, or crafting the Rod with its &eAlchemical Sulfur&r!\\n\\nBy holding them and holding Right Click the Rod will look for a selected Item. It will make a noise and the Rod will light up for how close the Block or Item is. \\n\\nIf close enough an orb might appear showing you the way to the Item."]
-	quest.0460DDEEFDEB0AAF.title: "Divination Rods"
-	quest.04636DE704AD7B0B.quest_desc: ["Ever feel like the Autoclave just wasnt enough for you? Well than this multiblock will fill that void! This large structure is a direct replacement for the single block Autoclave!"]
-	quest.04636DE704AD7B0B.quest_subtitle: "Lets make some Crystals! LCC"
-	quest.04665EFC3A37250E.quest_desc: ["Kill 8 &7Silverfish&r."]
-	quest.046C417B2ADF3AA7.quest_desc: ["Cards have their limits. Item Extration can only extract 8 items per Operation. Fluid Extract at only 5 Buckets. God knows with Chemical and Energy. \\n\\nThis is Modded &2&lMinecraft&r these limits won't suffice we need to Overclock them. \\n\\nThrow some Overclockers in the top right of the Card and it'll upgrade the cap they can transfer!"]
+	quest.0460DDEEFDEB0AAF.quest_desc: ["Weissagungsstäbe sind unsere Werkzeuge, um mit den Geistern zu kommunizieren und bestimmte Gegenstände zu finden. \\n\\nZuerst musst du den Block oder Gegenstand auswählen, indem du entweder Shift-Rechtsklick darauf machst oder den Stab mit seinem &eAlchemischen Schwefel&r herstellst!\\n\\nIndem du sie hältst und die rechte Maustaste gedrückt hältst, wird der Stab nach dem ausgewählten Gegenstand suchen. Er wird ein Geräusch machen und der Stab leuchtet auf, um anzuzeigen, wie nah der Block oder Gegenstand ist. \\n\\nWenn du nah genug bist, könnte eine Kugel erscheinen, die dir den Weg zum Gegenstand zeigt."]
+	quest.0460DDEEFDEB0AAF.title: "Weissagungsstäbe"
+	quest.04636DE704AD7B0B.quest_desc: ["Hattest du jemals das Gefühl, dass der Autoklav einfach nicht genug für dich war? Dann wird diese Multiblock-Struktur diese Lücke füllen! Diese große Struktur ist ein direkter Ersatz für den Einzelblock-Autoklav!"]
+	quest.04636DE704AD7B0B.quest_subtitle: "Lass uns Kristalle herstellen! LCC"
+	quest.04665EFC3A37250E.quest_desc: ["Töte 8 &7Silberfische&r."]
+	quest.046C417B2ADF3AA7.quest_desc: ["Karten haben ihre Grenzen. Item-Extraktion kann nur 8 Gegenstände pro Operation extrahieren. Flüssigkeitsextraktion nur 5 Eimer. Gott weiß was mit Chemikalien und Energie. \\n\\nDies ist modifiziertes &2&lMinecraft&r, diese Grenzen reichen nicht aus, wir müssen sie übertakten. \\n\\nWirf einige Übertakter in die obere rechte Ecke der Karte und sie erhöht die Menge, die übertragen werden kann!"]
 	quest.046C417B2ADF3AA7.quest_subtitle: "Max: 4"
-	quest.047F3F99035CE623.quest_subtitle: "I yearn for the Mines"
-	quest.0480DF316ACF12DA.quest_subtitle: "Western Hemlock + Jungle"
-	quest.0484051446480B54.quest_desc: ["Does a ton of damage, and chops down trees! What more do you need?"]
-	quest.0484051446480B54.title: "&6Allthemodium &5Alloy &3Axe"
-	quest.048BD38532A1DDCF.quest_subtitle: "Holds a max of 1M LP"
-	quest.048F2942436D3C46.title: "&6Master of The Sky"
-	quest.0496E8E786262464.quest_desc: ["Do I really need to explain the &2Overworld&r to you?"]
-	quest.0496E8E786262464.title: "&2Overworld&r: Land of &m3&r 4 bosses"
-	quest.0498A578D0EC3254.quest_desc: ["The last of the important Infused Items is the &aBasic Control Circuit&r. \\n\\nThese ones are made by combining 20mB of &4Redstone&r with an &7Osmium Ingot&r. \\n\\nCheck out the &cInfused Alloy Quest&r to learn how to add &4Redstone&r to the &9&lMetallurgic Infuser&r!"]
-	quest.0498A578D0EC3254.quest_subtitle: "The Basic Control Circuit"
+	quest.047F3F99035CE623.quest_subtitle: "Ich sehne mich nach den Minen"
+	quest.0480DF316ACF12DA.quest_subtitle: "Westliche Hemlocktanne + Dschungel"
+	quest.0484051446480B54.quest_desc: ["Macht eine Menge Schaden und fällt Bäume! Was braucht man mehr?"]
+	quest.0484051446480B54.title: "&6Allthemodium &5Legierungs &3Axt"
+	quest.048BD38532A1DDCF.quest_subtitle: "Speichert max. 1M LP"
+	quest.048F2942436D3C46.title: "&6Meister des Himmels"
+	quest.0496E8E786262464.quest_desc: ["Muss ich dir die &2Oberwelt&r wirklich erklären?"]
+	quest.0496E8E786262464.title: "&2Oberwelt&r: Land von &m3&r 4 Bossen"
+	quest.0498A578D0EC3254.quest_desc: ["Der letzte der wichtigen infundierten Gegenstände ist der &aGrundlegende Steuerungsschaltkreis&r. \\n\\nDiese werden hergestellt, indem 20mB &4Redstone&r mit einem &7Osmium-Barren&r kombiniert werden. \\n\\nSchau dir die &cInfundierte Legierungs-Quest&r an, um zu erfahren, wie man &4Redstone&r zum &9&lMetallurgischen Infusor&r hinzufügt!"]
+	quest.0498A578D0EC3254.quest_subtitle: "Der Grundlegende Steuerungsschaltkreis"
 	quest.04A1D582003A0D9A.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
+		"Gültige Verbesserungen:"
+		"- Laufgeschwindigkeit"
+		"- Gehgeschwindigkeit"
 	]
 	quest.04A371896B1E0CEC.quest_desc: [
-		"Refine the wire 1 more time, and we will have the Fine wire we need for the ZPM Field Generator."
+		"Verfeinere den Draht noch einmal, und wir haben den Feindraht, den wir für den ZPM-Feldgenerator benötigen."
 		""
-		"Unfortunately, we will need quite a bit of Fine wire, so keep processing!"
+		"Leider werden wir ziemlich viel Feindraht benötigen, also mach weiter mit der Verarbeitung!"
 	]
-	quest.04A371896B1E0CEC.quest_subtitle: "Enhance"
-	quest.04A7AA70C23830FF.quest_desc: ["Sickles tools that can be used to clear large amount of organic materials. Sickles break blocks in an area around the block you mine."]
-	quest.04B31A600004F7CB.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.04B40BB107F14330.quest_desc: ["The &4Meat Shredder&r is a Melee weapon you can make from &4Witherite&r. \\n\\nIt has two attacks, either using Left Click or Right Click. \\n\\nWhen you Left Click it'll use the &4Meat Shredder&r like an Axe, hitting them once from a decent range. \\n\\nWhen you hit Right Click it will repeatedly shred them with it's Saw, doing much quicker Damage from closer."]
-	quest.04B40BB107F14330.quest_subtitle: "Straight outta Fallout 3 DLC The Pitt"
-	quest.04B40BB107F14330.title: "&4Meat Shredder"
-	quest.04B6E31120663EB2.quest_subtitle: "Tier: &a2"
-	quest.04BE9F63E6003475.quest_desc: ["&3LPG&r can be used to make Molten Plastic."]
-	quest.04BE9F63E6003475.quest_subtitle: "The one we need"
+	quest.04A371896B1E0CEC.quest_subtitle: "Verbessern"
+	quest.04A7AA70C23830FF.quest_desc: ["Sicheln sind Werkzeuge, die verwendet werden können, um große Mengen an organischem Material zu beseitigen. Sicheln brechen Blöcke in einem Bereich um den Block, den du abbaust."]
+	quest.04B31A600004F7CB.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt. \\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden. \\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.04B40BB107F14330.quest_desc: ["Der &4Fleischzerkleinerer&r ist eine Nahkampfwaffe, die du aus &4Witherit&r herstellen kannst. \\n\\nEs hat zwei Angriffe, entweder mit Linksklick oder Rechtsklick. \\n\\nWenn du Linksklick machst, wirst du den &4Fleischzerkleinerer&r wie eine Axt benutzen und einmal aus einer anständigen Reichweite zuschlagen. \\n\\nWenn du Rechtsklick machst, wird er sie wiederholt mit seiner Säge zerschneiden und schneller Schaden aus der Nähe anrichten."]
+	quest.04B40BB107F14330.quest_subtitle: "Direkt aus dem Fallout 3 DLC The Pitt"
+	quest.04B40BB107F14330.title: "&4Fleischzerkleinerer"
+	quest.04B6E31120663EB2.quest_subtitle: "Stufe: &a2"
+	quest.04BE9F63E6003475.quest_desc: ["&3LPG&r kann verwendet werden, um geschmolzenen Kunststoff herzustellen."]
+	quest.04BE9F63E6003475.quest_subtitle: "Das, was wir brauchen"
 	quest.04BE9F63E6003475.title: "LPG"
 	quest.04C01A5FF3DAC326.quest_desc: [
-		"This special Enchanter enchants using the shards. It uses your levels and shards."
-		"It lets you decide enchants to put on. And lets you level them up."
-		"If you end up not able to use anymore, it may be \"completed\", consider using this in tandem of Apotheosis enchanting for absurd enchants."
+		"Dieser spezielle Verzauberer verzaubert mit den Splittern. Er verwendet deine Level und Splitter."
+		"Er lässt dich entscheiden, welche Verzauberungen du hinzufügst. Und lässt dich sie aufleveln."
+		"Wenn du am Ende keine mehr verwenden kannst, ist es möglicherweise \"abgeschlossen\". Erwäge, dies in Verbindung mit Apotheosis-Verzauberungen für absurde Verzauberungen zu verwenden."
 	]
-	quest.04C01A5FF3DAC326.quest_subtitle: "Consider this your gateway to Apotheosis"
-	quest.04D0543FE2820F64.quest_desc: ["Flax String can be used in replace of normal String."]
-	quest.04D0543FE2820F64.quest_subtitle: "Who needs Spiders anyway?"
-	quest.04D0543FE2820F64.title: "Flax String"
-	quest.04D9F6587EF8D9B7.quest_desc: ["The &9Potion Jar&r stores up to 100 potions. You can remove them by using an empty bottle or a potion flask on the jar. \\n\\nWixies will use these jars during Potion Autocrafting."]
-	quest.04D9F6587EF8D9B7.quest_subtitle: "Storing Potions"
+	quest.04C01A5FF3DAC326.quest_subtitle: "Betrachte dies als dein Tor zu Apotheosis"
+	quest.04D0543FE2820F64.quest_desc: ["Flachsfaden kann als Ersatz für normalen Faden verwendet werden."]
+	quest.04D0543FE2820F64.quest_subtitle: "Wer braucht schon Spinnen?"
+	quest.04D0543FE2820F64.title: "Flachsfaden"
+	quest.04D9F6587EF8D9B7.quest_desc: ["Das &9Trankglas&r speichert bis zu 100 Tränke. Du kannst sie entfernen, indem du eine leere Flasche oder einen Trankkolben auf das Glas anwendest. \\n\\nWixies werden diese Gläser während der Trank-Automatisierung verwenden."]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "Tränke aufbewahren"
 	quest.04DD3F761C210822.quest_desc: [
-		"The &c&lCrude Blast Furnace&r is our very simple (and crude) way of producing &8Steel&r. \\n\\nYou'll need to feed it an &7Iron Ingot&r and either &0Charcoal&r or &0Coke&r. \\n\\nEach &8Steel Ingot&r takes 60 seconds to bake. &0Charcoal&r gives us 15 seconds while &0Coke&r gives us the whole 60 seconds. These can also be multiplied with their Block forms. \\n\\nWe also get Slag... it's pretty useless."
+		"Der &c&lPrimitive Hochofen&r ist unsere sehr einfache (und primitive) Methode, &8Stahl&r zu produzieren. \\n\\nDu musst ihn mit einem &7Eisenbarren&r und entweder &0Holzkohle&r oder &0Koks&r füttern. \\n\\nJeder &8Stahlbarren&r benötigt 60 Sekunden zum Backen. &0Holzkohle&r gibt uns 15 Sekunden, während &0Koks&r uns die vollen 60 Sekunden gibt. Diese können auch mit ihren Blockformen multipliziert werden. \\n\\nWir bekommen auch Schlacke... sie ist ziemlich nutzlos."
 		"{@pagebreak}"
-		"This one is another 3x3x3, just now with &cBlast Bricks&r."
+		"Dies ist ein weiterer 3x3x3, nur jetzt mit &cHochofenziegel&r."
 		"{image:atm:textures/questpics/immersive/immersive_crude1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude3.png width:100 height:100 align:center}"
-		"Another time where we Right Click the Front Middle Block with our trusty &6Hammer&r!"
+		"Ein weiteres Mal, bei dem wir mit unserem treuen &6Hammer&r auf den vorderen mittleren Block rechtsklicken!"
 		"{image:atm:textures/questpics/immersive/immersive_crude.png width:100 height:100 align:center}"
 	]
-	quest.04DD3F761C210822.title: "&l&cCrude Blast Furnace"
+	quest.04DD3F761C210822.title: "&l&cPrimitiver Hochofen"
 	quest.04DEC6E210F06D65.quest_subtitle: "Balsa + Cocobolo"
-	quest.04E9253AB8F17A07.title: "Removing Echantments"
-	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r adds all sorts of different Doors and variants of Doors. \\nYou want the Birch design but with Spruce Wood? You can have it! \\n\\nHeck it even has Hospital Doors!"]
+	quest.04E9253AB8F17A07.title: "Verzauberungen entfernen"
+	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw's Doors&r fügt alle Arten von verschiedenen Türen und Varianten von Türen hinzu. \\nDu möchtest das Birkendesign, aber mit Fichtenholz? Du kannst es haben! \\n\\nEs hat sogar Krankenhaustüren!"]
 	quest.04F5846E2468E807.title: "&b&lMacaw's Doors"
-	quest.050AAD831C0AE375.title: "Rejuvenated Flesh"
+	quest.050AAD831C0AE375.title: "Verjüngtes Fleisch"
 	quest.050CCE5D1DD6B21E.quest_desc: [
-		"One of the most important &lMutliblocks&r, mostly because we need it for the other &lMultiblocks&r. \\n\\nHere you'll need &bFluid Input&r (each &bInput&r can only hold 1 type of &bFluid&r so you'll need multiple), &cEnergy Input&r, and &eItem Input&r and Output Hatches. \\n\\nUsing those Hatches we can input all the &eItems&r, &bFluids&r, and &cEnergy&r and it'll craft our Items, like the other &5Multiblock Controllers&r! \\n\\nOr craft our Items needed for the &6Star Parts&r! You'll need a lot of &4Blood&f, &bAureal&f, Souls, and &cEnergy&r for them!"
+		"Eine der wichtigsten &lMultiblock-Strukturen&r, vor allem, weil wir sie für die anderen &lMultiblock-Strukturen&r benötigen. \\n\\nHier brauchst du &bFlüssigkeitseingänge&r (jeder &bEingang&r kann nur 1 Art von &bFlüssigkeit&r aufnehmen, also brauchst du mehrere), &cEnergieeingang&r, und &eGegenstandseingang&r und Ausgangsluken. \\n\\nMit Hilfe dieser Luken können wir alle &eGegenstände&r, &bFlüssigkeiten&r und &cEnergie&r einführen, und es wird unsere Gegenstände herstellen, wie die anderen &5Multiblock-Controller&r! \\n\\nOder stellt unsere Gegenstände her, die für die &6Sternteile&r benötigt werden! Du wirst eine Menge &4Blut&f, &bAureal&f, Seelen und &cEnergie&r dafür brauchen!"
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
-		"First layer is pretty simple. Just some &9Polished Darkstone Blocks &fand &9Stairs&r. Along with the &7Rune Blocks&r and &6Arcane Polished Darkstone&r. Oh wait, I almost forgot the most important Block! The &5Forge Block&r"
+		"Die erste Schicht ist ziemlich einfach. Nur einige &9Polierte Dunkelsteinblöcke &fund &9Treppen&r. Zusammen mit den &7Runenblöcken&r und &6Arkaner Polierter Dunkelstein&r. Oh warte, ich habe fast den wichtigsten Block vergessen! Den &5Schmiedeblock&r"
 		"{image:atm:textures/questpics/chap3/creative_forge2.png width:150 height:100 align:center}"
-		"Next layer will have more &9Darkstone&r in &9Blocks&f, &9Stairs&f, and &9Slabs&r and even &6Gilded Arcane Polished Darkstone&r and &6Chiseled Polished Arcane Darkstone&r. Can't forget the 4 &bArcane Crystal Obelisks&r!"
+		"Die nächste Schicht wird mehr &9Dunkelstein&r in Form von &9Blöcken&f, &9Treppen&f und &9Stufen&r haben und sogar &6Vergoldeter Arkaner Polierter Dunkelstein&r und &6Gemeißelter Polierter Arkaner Dunkelstein&r. Nicht zu vergessen die 4 &bArkanenkristall-Obelisken&r!"
 		"{image:atm:textures/questpics/chap3/creative_forge3.png width:150 height:100 align:center}"
-		"This one's very easy! Just a &9&lTier 5 &6Forge&r square in the center with 8 &6Darkstone Pedestals&r 2 Blocks away from it."
+		"Diese ist sehr einfach! Nur ein &9&lStufe 5 &6Schmiede&r-Quadrat in der Mitte mit 8 &6Dunkelstein-Sockeln&r im Abstand von 2 Blöcken."
 		"{image:atm:textures/questpics/chap3/creative_forge4.png width:150 height:100 align:center}"
-		"We're going to skip a layer because nothing is added there! Instead, with a Block of space between them. Place the &7Quantum Injector&r above the &9&lTier 5 &6Forge&r. "
+		"Wir überspringen eine Schicht, weil dort nichts hinzugefügt wird! Stattdessen, mit einem Block Abstand dazwischen. Platziere den &7Quanteninjektor&r über der &9&lStufe 5 &6Schmiede&r. "
 		"{image:atm:textures/questpics/chap3/creative_forge5.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/chap3/creative_forge6.png width:200 height:100 align:center}"
-		"Last is placing a few more Hatches! We'll need them!"
+		"Zuletzt noch einige weitere Luken platzieren! Wir werden sie brauchen!"
 	]
-	quest.050CCE5D1DD6B21E.title: "&c&lAutomatic Hepheastus Forge"
+	quest.050CCE5D1DD6B21E.title: "&c&lAutomatische Hephaistos-Schmiede"
 	quest.050CD33E92601651.quest_desc: [
-		"&c&lTier 1&r not enough for you? Then, you'll need to upgrade it! \\n\\nPut an Edelwood Plank in the center Slot of the &6&lForge&r and place 4 &bArcane Crystals&r and 4 Spawner Scrap onto the Pedestals. \\n\\nSmack it with a Gavel and your &c&lTier 1&r will upgrade into a &3&lTier 2 &6Forge&r! \\n\\nNow, new Rituals will be available, the &6&lForge&r can hold more Essences, and you can use a second Relics!"
+		"&c&lStufe 1&r nicht genug für dich? Dann musst du sie upgraden! \\n\\nLege ein Edelholzbrett in den mittleren Slot der &6&lSchmiede&r und platziere 4 &bArkanenkristalle&r und 4 Spawner-Schrott auf die Sockel. \\n\\nSchlage es mit einem Hammer und deine &c&lStufe 1&r wird zu einer &3&lStufe 2 &6Schmiede&r aufgewertet! \\n\\nNun werden neue Rituale verfügbar sein, die &6&lSchmiede&r kann mehr Essenzen halten und du kannst ein zweites Relikt verwenden!"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier1.png width:100 height:100 align:center}"
 	]
-	quest.050CD33E92601651.title: "&l&3Tier 2 &6Forge"
+	quest.050CD33E92601651.title: "&l&3Stufe 2 &6Schmiede"
 	quest.050D8480EE9D8E62.quest_desc: [
-		"Wigglewood Forests are forests like all others. \\n\\nJust these Trees like to go as they please."
+		"Wigglewood-Wälder sind Wälder wie alle anderen. \\n\\nNur dass diese Bäume gehen, wohin sie wollen."
 		"{image:atm:textures/questpics/undergarden/undergarden_wiggle.png width:200 height:100 align:center}"
 	]
-	quest.050D8480EE9D8E62.title: "Wigglewood Forest"
-	quest.0515422E36E4E9A3.quest_desc: ["Grants invisibility when sneaking."]
-	quest.0518551637F76C50.quest_desc: ["For the &9Echoing&r upgrade we'll need a few different Items. \\n\\nCandles which are relatively easy to get! And &9Echo Shards&r... which definitely aren't... \\n\\nThe best chance at getting them is by Looting an &6Ancient City&r, but you can Craft them with a few different Rituals. \\n\\n(Or even later on with &5Enchanting&r!) \\n\\nThe &9Echoing Deepshelves&r will give a whole lot more &5Arcana&r at &515%&r! Along with raising the max &aEterna&r to &a75&r."]
-	quest.0518551637F76C50.title: "&9Echoing Deepshelf"
-	quest.051E0C85E7B71CE0.quest_desc: ["I'm going to assume you've been out mining, right? It is MINEcraft after all.\\n\\nYou'll find a ton of new ores that might confuse you, but you can stick to the vanilla materials to get you started!\\n\\nCopper is abundant and has plenty of uses for things like &aOre Hammers&r or &eDrawer Upgrades&r, so make sure to grab plenty of it!\\n\\nIron is probably one of the most important ores you'll want to get every time you run into it. The world of modded MC pretty much runs on Iron."]
-	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
-	quest.052BE1D845794702.quest_subtitle: "Teak + Acacia"
+	quest.050D8480EE9D8E62.title: "Wigglewood-Wald"
+	quest.0515422E36E4E9A3.quest_desc: ["Gewährt Unsichtbarkeit beim Schleichen."]
+	quest.0518551637F76C50.quest_desc: ["Für das &9Echoende&r-Upgrade benötigen wir einige verschiedene Gegenstände. \\n\\nKerzen, die relativ leicht zu bekommen sind! Und &9Echo-Scherben&r... die definitiv nicht so einfach zu bekommen sind... \\n\\nDie beste Chance, sie zu bekommen, ist durch Plündern einer &6Alten Stadt&r, aber du kannst sie auch mit verschiedenen Ritualen herstellen. \\n\\n(Oder später sogar mit &5Verzaubern&r!) \\n\\nDie &9Echoenden Tiefregale&r geben viel mehr &5Arkana&r bei &515%&r! Zusammen mit der Erhöhung des maximalen &aEterna&r auf &a75&r."]
+	quest.0518551637F76C50.title: "&9Echoendes Tiefregal"
+	quest.051E0C85E7B71CE0.quest_desc: ["Ich nehme an, du warst im Bergbau, richtig? Es ist schließlich MINEcraft.\\n\\nDu wirst eine Menge neuer Erze finden, die dich verwirren könnten, aber du kannst dich an die Vanilla-Materialien halten, um anzufangen!\\n\\nKupfer ist reichlich vorhanden und hat viele Verwendungsmöglichkeiten für Dinge wie &aErzhämmer&r oder &eSchubladenerweiterungen&r, also nimm davon reichlich mit!\\n\\nEisen ist wahrscheinlich eines der wichtigsten Erze, die du jedes Mal mitnehmen solltest, wenn du darauf stößt. Die Welt von modifiziertem MC läuft praktisch auf Eisen."]
+	quest.051E0C85E7B71CE0.title: "Das &9Metall&r-Zeitalter"
+	quest.052BE1D845794702.quest_subtitle: "Teak + Akazie"
 	quest.053483E3349B2F8A.quest_desc: [
-		"This structure looks similar to the Hanging Gardens, but there's only one Garden and it's massive. You'll know it's the &bBlue Sempiternal Sanctum&r by the &bBlue&r in the &bLuminescent Ancient Wax&r. \\n\\nGo into the structure and follow the way to the bottom room, (careful of Sentry Watchers) there you will find &bBlue Essence&r. \\n\\nWalk into it and get ready to hold your breathe. You'll need to fight off hordes of Drowneds, Guardians, and Elder Guardians underwater. Once all are dead you'll get..."
+		"Diese Struktur ähnelt den Hängenden Gärten, aber es gibt nur einen Garten und er ist riesig. Du erkennst das &bBlaue Sempiternal-Heiligtum&r an dem &bBlau&r im &bLumineszenten Alten Wachs&r. \\n\\nGehe in die Struktur und folge dem Weg zum untersten Raum (vorsicht vor Wächtern), dort findest du &bBlaue Essenz&r. \\n\\nGehe hinein und halte den Atem an. Du musst Horden von Ertrunkenen, Wächtern und Ältesten Wächtern unter Wasser bekämpfen. Sobald alle tot sind, bekommst du..."
 		"{image:atm:textures/questpics/bumblezone/bumble_blue1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_blue2.png width:200 height:100 align:center}"
 	]
-	quest.053483E3349B2F8A.title: "&bBlue Sempiternal Sanctum"
-	quest.0539AF15A10B2859.quest_desc: ["&lCompact Machines&r allow you to enter a compacted dimension. After placing a &lCompact Machine&r, you can enter it using the Personal Shrinking Device.\\n\\nThe size of the &lCompact Machine&r is dependent on the recipe, ranging from 5x5x5 to 45x45x45!\\n\\nYou can't break the &lCompact Machine&r's walls, and you can exit by Right Clicking the Personal Shrinking Device."]
+	quest.053483E3349B2F8A.title: "&bBlaues Sempiternal-Heiligtum"
+	quest.0539AF15A10B2859.quest_desc: ["&lCompact Machines&r ermöglichen es dir, eine komprimierte Dimension zu betreten. Nach dem Platzieren einer &lCompact Machine&r kannst du sie mit dem Persönlichen Schrumpfgerät betreten.\\n\\nDie Größe der &lCompact Machine&r ist abhängig vom Rezept und reicht von 5x5x5 bis 45x45x45!\\n\\nDu kannst die Wände der &lCompact Machine&r nicht zerbrechen und kannst sie verlassen, indem du mit der rechten Maustaste auf das Persönliche Schrumpfgerät klickst."]
 	quest.0539AF15A10B2859.title: "&lCompact Machines"
-	quest.0542FE108089A0A2.quest_desc: ["&l&6Theurgy&r is the art of using Magic for Alchemy! Or in our sense using Machines and Items to make more or different Items! \\n\\nLot's of the Machines that we need for &l&6Theurgy&r needs Copper so start there!"]
-	quest.0542FE108089A0A2.title: "&l&6Theurgy"
+	quest.0542FE108089A0A2.quest_desc: ["&l&6Theurgie&r ist die Kunst, Magie für Alchemie zu nutzen! Oder in unserem Sinne Maschinen und Gegenstände zu verwenden, um mehr oder andere Gegenstände herzustellen! \\n\\nViele der Maschinen, die wir für &l&6Theurgie&r benötigen, brauchen Kupfer, also fange damit an!"]
+	quest.0542FE108089A0A2.title: "&l&6Theurgie"
 	quest.054D2D3C20C2D32F.quest_desc: [
-		"You did it!"
+		"Du hast es geschafft!"
 		""
-		"This is it! The Highest tier Processor you can make!"
+		"Das ist es! Der höchste Prozessor, den du herstellen kannst!"
 		""
-		"But you're not done yet... This may be the last processor, but theres still more to come. Its going to get even more fun from this point on!"
+		"Aber du bist noch nicht fertig... Dies mag der letzte Prozessor sein, aber es gibt noch mehr zu kommen. Es wird von diesem Punkt an noch mehr Spaß machen!"
 	]
-	quest.054D2D3C20C2D32F.quest_subtitle: "Great Success!!!"
-	quest.054F3A0499F8A0D8.quest_subtitle: "Sweet Chestnut + Capoazu"
+	quest.054D2D3C20C2D32F.quest_subtitle: "Großer Erfolg!!!"
+	quest.054F3A0499F8A0D8.quest_subtitle: "Edelkastanie + Capoazu"
 	quest.055CCAE237DF3EEF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ironwood.png width:100 height:150 align:center}"]
-	quest.055CCAE237DF3EEF.title: "&8Ironwood"
+	quest.055CCAE237DF3EEF.title: "&8Eisenholz"
 	quest.05618FE80F2E0372.quest_desc: [
-		"The &9Infusion Crystal&r is used to upgrade to higher tier &dEssences&r. "
+		"Der &9Infusionskristall&r wird verwendet, um zu höherstufigen &dEssenzen&r aufzusteigen. "
 		""
-		"To start, you'll need to create the first tier of Crystal using &2Inferium&r. This Crystal can create &ePrudentium&r by combining 4 Inferium with the Crystal. This will be used to make the next tier Crystal, which will make the next tier of Essences. "
+		"Zuerst musst du die erste Kristallstufe mit &2Inferium&r erstellen. Dieser Kristall kann &ePrudentium&r herstellen, indem 4 Inferium mit dem Kristall kombiniert werden. Dies wird verwendet, um den Kristall der nächsten Stufe herzustellen, der die nächste Stufe von Essenzen herstellen wird. "
 		""
-		"Eventually, you'll be able to make an Infusion Crystal that works for all tiers and doesn't break!"
+		"Schließlich wirst du in der Lage sein, einen Infusionskristall herzustellen, der für alle Stufen funktioniert und nicht zerbricht!"
 	]
-	quest.05618FE80F2E0372.title: "&9The Infusion Crystal"
-	quest.056E1E3B1ED14917.quest_subtitle: "Teak + Dark Oak"
-	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r Bees are adorable but the limited things Honey gives us isn't enough to justify the work to get it. \\n\\nWell unless you can get just about anything from the Bees, then that'd be different!"]
+	quest.05618FE80F2E0372.title: "&9Der Infusionskristall"
+	quest.056E1E3B1ED14917.quest_subtitle: "Teak + Dunkeleiche"
+	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r-Bienen sind niedlich, aber die begrenzten Dinge, die Honig uns bietet, reichen nicht aus, um die Arbeit zu rechtfertigen, ihn zu bekommen. \\n\\nEs sei denn, du könntest fast alles von den Bienen bekommen, dann wäre das etwas anderes!"]
 	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
 	quest.0576C32B0FB360B0.quest_desc: [
-		"The Lunar Monstrosity has 200 Hearts and will only take 1 damage from each hit unless you use Fire. \\n\\nIt has a few attacks including Ground Spikes, Projectiles, and Exploding Tangled Heads! \\n\\nWhen you kill it, it will drop Arrows, Ingots, Tangled Skulls, Tenacious Petals, Trapped Souls, and a chance at a rare Weapon!"
+		"Die Lunare Monstrosität hat 200 Herzen und nimmt nur 1 Schaden pro Treffer, es sei denn, du verwendest Feuer. \\n\\nSie hat einige Angriffe, darunter Bodenspitzen, Projektile und explodierende Verworrene Köpfe! \\n\\nWenn du sie tötest, lässt sie Pfeile, Barren, Verworrene Schädel, Zähe Blütenblätter, Gefangene Seelen und mit etwas Glück eine seltene Waffe fallen!"
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
-	quest.0576C32B0FB360B0.title: "Lunar Monstrosity"
-	quest.0583862ED0114442.quest_subtitle: "&f4 &cAttack Damage"
+	quest.0576C32B0FB360B0.title: "Lunare Monstrosität"
+	quest.0583862ED0114442.quest_subtitle: "&f4 &cAngriffsschaden"
 	quest.0584073A7383E0EA.quest_desc: [
-		"Some of the &5Queen Bee&r Quests might seem annoying because there isn't many places to farm &dEndermites&r and &7Silverfish&r. \\n\\nWell there wasn't until recent updates! Welcome to the Mite Fortress! \\n\\nIn the massive spiky &7Stone&r structures you'll find &7Silverfish&r galore (plus loot especially within the &5Obsidian&r). \\n\\nIn the middle of the structure, with everything &5Purple&r colored, will be &dEndermites&r. \\n\\nBTW did you know that &8B&6e&8e&6s&r will attack &dEndermites&r and &7Silverfish&r! Charge into battle with them to win the heart of their &5Queen&r!"
+		"Einige der &5Bienenkönigin&r-Quests könnten ärgerlich erscheinen, weil es nicht viele Orte gibt, um &dEndermilben&r und &7Silberfische&r zu farmen. \\n\\nNun, das war so bis zu den neuesten Updates! Willkommen in der Milbenfestung! \\n\\nIn den massiven stachligen &7Stein&r-Strukturen findest du &7Silberfische&r in Hülle und Fülle (plus Beute, besonders innerhalb des &5Obsidians&r). \\n\\nIn der Mitte der Struktur, mit allem in &5Lila&r Farbe, befinden sich &dEndermilben&r. \\n\\nÜbrigens, wusstest du, dass &8B&6i&8e&6n&8e&6n&r &dEndermilben&r und &7Silberfische&r angreifen werden! Stürze mit ihnen in die Schlacht, um das Herz ihrer &5Königin&r zu gewinnen!"
 		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
 	]
-	quest.0584073A7383E0EA.title: "Mite Fortress"
-	quest.05850541675B2493.quest_desc: ["It does. \\n\\nYou have created the &6&lATM Star&r, that means you have beat the modpack!\\n\\nSo what's next?"]
-	quest.05850541675B2493.quest_subtitle: "Does this mean you win?"
-	quest.05850541675B2493.title: "&6&lATM Star"
-	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r also adds the ability for you to paint Planks as if they were Wool or Glass! "]
-	quest.0589911EB4D30FAD.title: "Painted Planks"
-	quest.0591CAFD665CE151.quest_subtitle: "Tier: &b4"
-	quest.0596F6C70758EEC0.quest_desc: ["While being the most expensive, they also are the prettiest! \\n\\nAnd that is what matters for Builds!"]
+	quest.0584073A7383E0EA.title: "Milbenfestung"
+	quest.05850541675B2493.quest_desc: ["Ja. \\n\\nDu hast den &6&lATM-Stern&r erschaffen, das bedeutet, du hast das Modpack besiegt!\\n\\nAlso, was kommt als Nächstes?"]
+	quest.05850541675B2493.quest_subtitle: "Bedeutet das, dass du gewinnst?"
+	quest.05850541675B2493.title: "&6&lATM-Stern"
+	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r fügt auch die Möglichkeit hinzu, Bretter zu bemalen, als ob sie Wolle oder Glas wären! "]
+	quest.0589911EB4D30FAD.title: "Bemalte Bretter"
+	quest.0591CAFD665CE151.quest_subtitle: "Stufe: &b4"
+	quest.0596F6C70758EEC0.quest_desc: ["Obwohl sie am teuersten sind, sind sie auch am schönsten! \\n\\nUnd das ist, was für Bauwerke zählt!"]
 	quest.05A4496705B6C6AF.quest_desc: [
-		"The Beehemoth are unique &6B&8e&6e&8s&r who are more similar to a Wild Flying Horse. \\n\\nThey can be tamed via feeding them Liquid &6Honey&r either in a Bottle or Bucket. \\n\\nThey have a friendship level which determines if they are tamed by you and how fast they go and how much health they have! Feeding them will make the level go higher while if they take damage they lower the level. \\n\\nOnce the friendship level is maxed they'll become a &5Queen Beehemoth&r! \\n\\nThey will follow &6Honey Buckets&r like Cows to Wheat, (also try using Royal Jelly with them). "
+		"Die Riesenbienen sind einzigartige &6B&8i&6e&8n&6e&8n&r, die eher einem wilden fliegenden Pferd ähneln. \\n\\nSie können gezähmt werden, indem man sie mit flüssigem &6Honig&r entweder in einer Flasche oder einem Eimer füttert. \\n\\nSie haben eine Freundschaftsstufe, die bestimmt, ob sie von dir gezähmt sind und wie schnell sie gehen und wie viel Gesundheit sie haben! Wenn du sie fütterst, steigt der Level, während er sinkt, wenn sie Schaden nehmen. \\n\\nSobald die Freundschaftsstufe maximiert ist, werden sie zu einer &5Riesenbienenkönigin&r! \\n\\nSie werden &6Honig-Eimern&r folgen wie Kühe dem Weizen, (versuche auch, Königsgelee mit ihnen zu verwenden). "
 		"{image:atm:textures/questpics/bumblezone/bumble_beehemoth.png width:100 height:100 align:center}"
 	]
-	quest.05A4496705B6C6AF.title: "Beehemoth"
+	quest.05A4496705B6C6AF.title: "Riesenbiene"
 	quest.05A845C811A9A4A0.quest_desc: [
-		"While the &bManaweave Robes&r don't offer the greatest overall protection, the set bonus is pretty powerful!"
+		"Während die &bManagewebe-Roben&r nicht den besten Gesamtschutz bieten, ist der Setbonus ziemlich mächtig!"
 		""
-		"When all four pieces are worn, you'll get a discount on Mana cost for mana tools and rods. The set can also repair itself using Mana from one's inventory."
+		"Wenn alle vier Teile getragen werden, erhältst du einen Rabatt auf die Manakosten für Manawerkzeuge und -stäbe. Das Set kann sich auch selbst reparieren, indem es Mana aus dem Inventar verwendet."
 	]
-	quest.05A845C811A9A4A0.title: "Manaweave Robes"
-	quest.05B0A7D0B991050F.title: "Reactor (Hardened)"
+	quest.05A845C811A9A4A0.title: "Managewebe-Roben"
+	quest.05B0A7D0B991050F.title: "Reaktor (Gehärtet)"
 	quest.05B5E640F1B68A28.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_golem.png width:100 height:150 align:center}"]
-	quest.05B5E640F1B68A28.title: "&3Golem Steel&r"
-	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power has &9Powercells&r to store power, which are multi-block storage units that can be customized and upgraded to store power.\\n\\nYou will need a Wrench to determine inputs and outputs for power."]
-	quest.05B6DB75AEC01187.title: "&9RFTools Power: &cPowercells"
-	quest.05B8C64EB012F6EA.quest_desc: ["Another option is using Chronal exchange; gain mahou for 12 hours, then spend it for 12 hours. If you make a second Chronal exchange circle when the first starts spending, it becomes a loop. "]
-	quest.05B8C64EB012F6EA.title: "Chronal Exchange"
+	quest.05B5E640F1B68A28.title: "&3Golem-Stahl&r"
+	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power hat &9Energiezellen&r zum Speichern von Energie, die Multiblock-Speichereinheiten sind, die angepasst und aufgerüstet werden können, um Energie zu speichern.\\n\\nDu benötigst einen Schraubenschlüssel, um Eingänge und Ausgänge für die Energie zu bestimmen."]
+	quest.05B6DB75AEC01187.title: "&9RFTools Power: &cEnergiezellen"
+	quest.05B8C64EB012F6EA.quest_desc: ["Eine andere Option ist die Verwendung von Chronalem Austausch; gewinne Mahou für 12 Stunden, dann gib es für 12 Stunden aus. Wenn du einen zweiten Chronalen Austauschkreis erstellst, wenn der erste anfängt auszugeben, wird es eine Schleife."]
+	quest.05B8C64EB012F6EA.title: "Chronaler Austausch"
 	quest.05B977269171EB06.quest_desc: [
-		"A Rocket needs something to launch off of, so we'll need to make a &aLaunch Pad&r."
+		"Eine Rakete braucht etwas, von dem sie starten kann, also brauchen wir eine &aStartrampe&r."
 		""
-		"To use it, place it down wherever you want to launch from with a clear view of the sky. Once you have a Rocket, you can place it down in the middle of the Launch Pad."
+		"Um sie zu benutzen, platziere sie dort, wo du starten möchtest, mit freier Sicht zum Himmel. Sobald du eine Rakete hast, kannst du sie in die Mitte der Startrampe stellen."
 	]
-	quest.05B977269171EB06.title: "&eLaunching Into Space"
-	quest.05D6CE1B501F59B5.quest_subtitle: "A Star for the component for a Stars Component"
+	quest.05B977269171EB06.title: "&eStart ins All"
+	quest.05D6CE1B501F59B5.quest_subtitle: "Ein Stern für die Komponente einer Sternkomponente"
 	quest.05D8C6EF8FCD6250.quest_desc: [
-		"Primogel Goo is the first tier of goo added by JDT and requires basic Overworld materials to craft."
+		"Primogel-Schleim ist die erste Stufe von Schleim, die von JDT hinzugefügt wurde und erfordert grundlegende Oberwelt-Materialien zur Herstellung."
 		""
-		"Crafts Unlocked:"
+		"Freigeschaltete Herstellungen:"
 		"- Ferricore"
-		"- Primal Coal"
+		"- Urkohle"
 		""
-		"Goo Spread Example:"
+		"Schleimverbreitung-Beispiel:"
 		""
 		"{image:atm:textures/questpics/justdirethings/goo_spread_ferricore.png width:200 height:200 align:center}"
 	]
-	quest.05DA7F48E2A1B77F.quest_desc: ["Meet &a&lRobit&r! He is your new Robotic Companion! \\n\\nPlace him down onto a &aChargepad&r to set it as his Home! This is important as &a&lRobit&r needs &aEnergy&r to move and work. He can hold 40kFE. \\n\\nWe can Right Click him to open his GUI (with his permission of course!). In the middle we'll see a Screen that teaches us facts about him: his Name, his &aEnergy&r, his Job, and his Owner! \\n\\nOn the left we got some Buttons. In order from Top to Bottom: Teleport Home will bring him to his &aChargepad&r, Rename changes his Mob Name, and Appearance is cosmetic &a&lRobit&r stuff! \\n\\nBelow the &aEnergy Slot&r is Buttons to set his Job. Pickup: will allow &a&lRobit&r to pick up &eItems&r on the ground and put them in his Inventory. Follow: will make &a&lRobit&r either Follow you or stop where he is at. \\n\\nTo the far right, is even more Buttons! The first, will bring up the main &a&lRobit&r menu. Crafting will open up a Crafting Table within &a&lRobit&r! Inventory will open up &a&lRobit's&r Inventory. Here you can store &eItems&r or where picked up &eItems&r will go. Smelting will use &aEnergy&r to Smelt &eItems&r like a Furnace. Repairing will allow you to combine two &eItems&r to Repair their Durability."]
+	quest.05DA7F48E2A1B77F.quest_desc: ["Triff &a&lRobit&r! Er ist dein neuer Roboter-Begleiter! \\n\\nPlatziere ihn auf einem &aLadepad&r, um es als sein Zuhause einzustellen! Dies ist wichtig, da &a&lRobit&r &aEnergie&r benötigt, um sich zu bewegen und zu arbeiten. Er kann 40kFE speichern. \\n\\nWir können mit der rechten Maustaste auf ihn klicken, um seine Benutzeroberfläche zu öffnen (mit seiner Erlaubnis natürlich!). In der Mitte sehen wir einen Bildschirm, der uns Fakten über ihn beibringt: seinen Namen, seine &aEnergie&r, seinen Job und seinen Besitzer! \\n\\nAuf der linken Seite haben wir einige Schaltflächen. In der Reihenfolge von oben nach unten: Teleport nach Hause bringt ihn zu seinem &aLadepad&r, Umbenennen ändert seinen Mobnamen und Erscheinung ist kosmetisches &a&lRobit&r-Zeug! \\n\\nUnter dem &aEnergieplatz&r befinden sich Schaltflächen, um seinen Job einzustellen. Aufnehmen: erlaubt &a&lRobit&r, &eGegenstände&r vom Boden aufzuheben und sie in sein Inventar zu legen. Folgen: lässt &a&lRobit&r entweder dir folgen oder dort anhalten, wo er ist. \\n\\nGanz rechts sind noch mehr Schaltflächen! Die erste öffnet das Hauptmenü von &a&lRobit&r. Handwerk öffnet einen Werkbanktisch innerhalb von &a&lRobit&r! Inventar öffnet &a&lRobit's&r Inventar. Hier kannst du &eGegenstände&r lagern oder hier werden aufgenommene &eGegenstände&r hingelegt. Schmelzen verwendet &aEnergie&r, um &eGegenstände&r wie ein Ofen zu schmelzen. Reparieren ermöglicht es dir, zwei &eGegenstände&r zu kombinieren, um ihre Haltbarkeit zu reparieren."]
 	quest.05DA7F48E2A1B77F.title: "&a&lRobit"
-	quest.05DBDD86FCFF3BA8.title: "&5Lightning&r Upgrade Orb"
-	quest.05DE9E1CDFBC22DE.quest_desc: ["&dVoid Scatter Arrows&r are Crafted with a Spectral Arrow and a &dVoid Jaw&r. \\n\\nThey can be shot by any Bow or Crossbow. When they hit any Mob or Block they will break apart. \\n\\nWhen they break apart, many parts will be thrown around the area, damaging whatever they hit!"]
-	quest.05DE9E1CDFBC22DE.title: "&dVoid Scatter Arrows"
-	quest.05E668CE6687AC64.quest_desc: ["The &bToken of Joy&r is the first Token you should craft, tokens are important crafting materials for items in &aNature's Aura&r."]
-	quest.05E668CE6687AC64.title: "&bToken of Joy"
-	quest.05F0FCBBEADA8489.quest_desc: ["You can use a &eFluid Heater&r or a &eDistillery&r on &aProgram 1&r to turn the &3Dissolved Calcium Acetate&r into &cAcetone&r"]
+	quest.05DBDD86FCFF3BA8.title: "&5Blitz&r-Verbesserungskugel"
+	quest.05DE9E1CDFBC22DE.quest_desc: ["&dLeere-Streuungspfeile&r werden mit einem Spektralpfeil und einem &dLeerenkiefer&r hergestellt. \\n\\nSie können mit jedem Bogen oder jeder Armbrust abgeschossen werden. Wenn sie einen Mob oder Block treffen, zerbrechen sie. \\n\\nWenn sie zerbrechen, werden viele Teile in der Umgebung verstreut und beschädigen alles, was sie treffen!"]
+	quest.05DE9E1CDFBC22DE.title: "&dLeere-Streuungspfeile"
+	quest.05E668CE6687AC64.quest_desc: ["Das &bToken der Freude&r ist das erste Token, das du herstellen solltest. Tokens sind wichtige Herstellungsmaterialien für Gegenstände in &aNature's Aura&r."]
+	quest.05E668CE6687AC64.title: "&bToken der Freude"
+	quest.05F0FCBBEADA8489.quest_desc: ["Du kannst einen &eFlüssigkeitserhitzer&r oder eine &eDestille&r auf &aProgramm 1&r verwenden, um das &3Gelöste Calciumacetat&r in &cAceton&r umzuwandeln"]
 	quest.05F186C95510BD4B.quest_desc: [
-		"When placed, the &9Mega Torch&r prevents all hostile mobs from naturally spawning in a 64 block radius. "
+		"Wenn platziert, verhindert die &9Mega-Fackel&r, dass alle feindlichen Mobs in einem Radius von 64 Blöcken auf natürliche Weise spawnen. "
 		""
-		"Great for stopping hostile spawns in dark parts of your base"
+		"Großartig, um feindliche Spawns in dunklen Teilen deiner Basis zu stoppen"
 	]
-	quest.05F186C95510BD4B.title: "Preventing Mob Spawns"
-	quest.05F428C34DD00B61.quest_subtitle: "Blue Yonder + Rippling Willow"
-	quest.060233F903FAE63B.quest_desc: ["These plates will be important in creating more &dLuV&r tier machines."]
-	quest.060233F903FAE63B.quest_subtitle: "This is my &dLuV&r language!"
-	quest.060233F903FAE63B.title: "LuV Machine Casing"
-	quest.06044B4452A6B720.quest_desc: ["When placed in a Desert biome, the Sand Nest will attract either the Chocolate or Ashy Mining Bee."]
-	quest.06044B4452A6B720.quest_subtitle: "Lures bees in Desert Biomes"
-	quest.06094615950AC062.title: "Other Conveyor Upgrades"
-	quest.061244C38F05CBFE.quest_subtitle: "Epic"
-	quest.061244C38F05CBFE.title: "&5Arcane Seeds&r"
-	quest.061A51A0EC13CA0F.quest_desc: ["Now that we have a &aController&r, &bDrains&r, and &4Tanks&r, we'll need a few more Blocks. \\n\\nFirst, is &6Liquid Heating Coils&r. These will make up the floor of the &c&lFoundry&r, and are needed to Heat up the &c&lFoundry&r. \\n\\nLast is either &c&lFoundry&r Windows or &cFire Bricks&r. These are what we'll use for the rest of the structure! The building blocks, quite literally. \\n\\nThe &c&lFoundry&r will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The &aController&r will tell you where a Block is missing, if there is one. \\n\\nThe &c&lFoundry&r can be as small as 1x1 on the inside, as long as it has a &aController&r, &6Liquid Heating Coils&r, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the &c&lFoundry&r, the more space it has in it! \\n\\nYou'll know the &c&lFoundry&r is built, when the &aController&r lights up like a Furnace, and the &6Liquid Heating Coils&r turn &6Orange&r."]
-	quest.061A51A0EC13CA0F.title: "Building the &c&lFoundry&r"
-	quest.06210B6FD0F9989B.quest_desc: ["&d&lUltimate Tier&r is the best we can get from &5&lMekanism&r! Well atleast in Survival. \\n\\nThese will give the most Slots, hold the most &eItems&r, and move the most &eItems&r! \\n\\nEach &d&lUltimate Tier&r will need &dAtomic Alloys&f, &dUltimate Control Circuits&f, and &bDiamonds&r. \\n\\n&dAtomic Alloys&r will need &5Refined Obsidian&r to create, follow the &7Osmium Compressor Quest&r to get those. But basically we'll need to Infuse a &bReinforced Alloy&r with 20mb of &5Refined Obsidian&r. \\n\\nThen, combine 2 &dAtomic Alloys&r with 1 &bElite Control Circuit&r to make the &dUltimate Control Circuit&r!"]
-	quest.06210B6FD0F9989B.title: "&d&lUltimate Tier"
+	quest.05F186C95510BD4B.title: "Verhindern von Mob-Spawns"
+	quest.05F428C34DD00B61.quest_subtitle: "Blaue Weite + Wellende Weide"
+	quest.060233F903FAE63B.quest_desc: ["Diese Platten werden wichtig sein, um mehr &dLuV&r-Stufen-Maschinen zu erstellen."]
+	quest.060233F903FAE63B.quest_subtitle: "Dies ist meine &dLuV&r-Sprache!"
+	quest.060233F903FAE63B.title: "LuV-Maschinengehäuse"
+	quest.06044B4452A6B720.quest_desc: ["Wenn in einem Wüstenbiom platziert, wird das Sandnest entweder die Schokoladen- oder Aschbergbaubiene anlocken."]
+	quest.06044B4452A6B720.quest_subtitle: "Lockt Bienen in Wüstenbiomen an"
+	quest.06094615950AC062.title: "Andere Förderband-Upgrades"
+	quest.061244C38F05CBFE.quest_subtitle: "Episch"
+	quest.061244C38F05CBFE.title: "&5Arkane Samen&r"
+	quest.061A51A0EC13CA0F.quest_desc: ["Jetzt, da wir einen &aController&r, &bAbflüsse&r und &4Tanks&r haben, benötigen wir noch einige weitere Blöcke. \\n\\nZuerst sind da die &6Flüssigkeitsheizspulen&r. Diese bilden den Boden der &c&lGießerei&r und werden benötigt, um die &c&lGießerei&r zu erhitzen. \\n\\nZuletzt entweder &c&lGießerei&r-Fenster oder &cFeuerziegel&r. Diese werden wir für den Rest der Struktur verwenden! Die Bausteine, ganz buchstäblich. \\n\\nDie &c&lGießerei&r benötigt keinen Rahmen, daher kann jede Ecke leer bleiben; aber sie muss 4 Wände und einen Boden haben, um fertiggestellt zu werden. Der &aController&r wird dir anzeigen, wo ein Block fehlt, wenn es einen gibt. \\n\\nDie &c&lGießerei&r kann so klein wie 1x1 im Inneren sein, solange sie einen &aController&r, &6Flüssigkeitsheizspulen&r und die anderen Wände gefüllt hat! \\n\\nIch empfehle nicht, eine so kleine zu bauen, da die &c&lGießerei&r umso mehr Platz hat, je größer sie ist! \\n\\nDu wirst wissen, dass die &c&lGießerei&r gebaut ist, wenn der &aController&r wie ein Ofen aufleuchtet und die &6Flüssigkeitsheizspulen&r &6orange&r werden."]
+	quest.061A51A0EC13CA0F.title: "Bau der &c&lGießerei&r"
+	quest.06210B6FD0F9989B.quest_desc: ["&d&lUltimative Stufe&r ist das Beste, was wir von &5&lMekanism&r bekommen können! Zumindest im Überleben. \\n\\nDiese geben die meisten Slots, halten die meisten &eGegenstände&r und bewegen die meisten &eGegenstände&r! \\n\\nJede &d&lUltimative Stufe&r benötigt &dAtomlegierungen&f, &dUltimative Steuerungsschaltkreise&f und &bDiamanten&r. \\n\\n&dAtomlegierungen&r benötigen &5Raffiniertes Obsidian&r zur Herstellung, folge der &7Osmium-Kompressor-Quest&r, um diese zu bekommen. Aber im Grunde müssen wir eine &bVerstärkte Legierung&r mit 20mb &5Raffiniertem Obsidian&r infundieren. \\n\\nDann kombiniere 2 &dAtomlegierungen&r mit 1 &bElite-Steuerungsschaltkreis&r, um den &dUltimativen Steuerungsschaltkreis&r herzustellen!"]
+	quest.06210B6FD0F9989B.title: "&d&lUltimative Stufe"
 	quest.06242EEB80032F27.quest_desc: [
-		"Lets add another clean room to our arsenal! Except this one will not only ensure the room is clean, it will sterilize the environment. "
+		"Lass uns einen weiteren Reinraum zu unserem Arsenal hinzufügen! Dieser wird nicht nur sicherstellen, dass der Raum sauber ist, sondern auch die Umgebung sterilisieren. "
 		""
-		"We will be able to work with Organic Material in our clean room and we wont have to worry about contaminants! "
+		"Wir werden in der Lage sein, mit organischem Material in unserem Reinraum zu arbeiten, und wir müssen uns keine Sorgen um Verunreinigungen machen! "
 	]
-	quest.06242EEB80032F27.quest_subtitle: "Cleanroom No. 2"
-	quest.062AA943A1629A86.quest_desc: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts forever? Actually that's pretty worth it."]
-	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
-	quest.0631F054A9B97A40.title: "Creating Runes"
-	quest.063241B72BB3403E.quest_desc: ["The &0&lHeavy Plated Shield&r is used just like a normal Shield, hold it in your Offhand and use it to defend yourself. \\nThe &0&lHeavy Plated Shield&r does have much more Durability and protects from more Damage. \\n\\nOh yeah it also has Upgrades! These upgrades can be added on with the &6Engineer's Workbench&r. \\n\\nThe Shield can hold 2 Upgrades."]
-	quest.063241B72BB3403E.title: "&8&lHeavy Plated Shield"
-	quest.063F5023D56CA6B1.quest_desc: ["Once you've got polyethylene set up, you can switch to making machine hulls in the Assembler to save on some materials"]
-	quest.064BBCC379A69748.quest_desc: ["This one is around twice as good as a vanilla furnace, and is more efficient to boot! While it gets outclassed by other furnace mods, for a strictly MI playthrough this furnace is incredibly strong!"]
-	quest.0650996C7818ADB5.quest_desc: ["The &6&lHeat Generator&r has 2 modes to generate &aEnergy&r. \\n\\nPassive: Surrounding the &6&lGenerator&r with &cLava Source&r or flowing blocks creates passive &aEnergy&r by creating &6Heat&r. \\n\\nPlace one &cLava Source Block&r on top, and let it flow over the sides. \\n\\nMake sure to connect &bPipes&r first!\\n\\nActive: Placing combustible materials such as &0Coal&r or &6Wood&r into the &6&lGenerator&r will burn the fuel to create &cEnergy&r. \\n\\nIt now creates 320FE/t."]
-	quest.0650996C7818ADB5.quest_subtitle: "Basic Power Gen"
-	quest.0650996C7818ADB5.title: "&6&lHeat Generator"
-	quest.0661E9669E639621.quest_desc: ["Some saplings can't be pollinated. These saplings have a random chance to grow into another tree.\\n\\nFor example if you want to get a &4Red Crepe Myrtle Sapling&r, first grow a Purple Crepe Myrtle Sapling. You will have a chance to get a &4Red Crepe Myrtle Tree&r from that."]
-	quest.0661E9669E639621.quest_subtitle: "Self Breeding?"
-	quest.066438B01655D866.quest_desc: ["While their &dEssence&r is useful, we can also capture these Spirits for later use. That sounds evil, doesn't it?\\n\\nTo become a Spirit Hunter, you'll need to create the &dVengeance Focus&r first. This is used to &aFreeze Spirits&r in place, then you place a &9Box of Eternal Closure&r near the Spirit. This will then suck the Spirit in for later use."]
-	quest.066438B01655D866.title: "Capturing &dSpirits"
+	quest.06242EEB80032F27.quest_subtitle: "Reinraum Nr. 2"
+	quest.062AA943A1629A86.quest_desc: ["Du hast den &cR&6a&ei&2n&3b&9o&5w&r &cO&6f&ee&2n&r in die Luft gejagt?!?! Einfach TNT daneben angezündet? Bist du verrückt? Das hat so viele Öfen und Ressourcen gekostet und du hast es einfach in die Luft gejagt!!! Hast du wenigstens etwas Gutes daraus bekommen? &cR&6a&ei&2n&3b&9o&5w&r &cK&eo&3h&5l&r? Kohle, die ewig hält? Das ist eigentlich ziemlich wertvoll."]
+	quest.062AA943A1629A86.title: "&cR&6a&ei&2n&3b&9o&5w &cK&eo&3h&5l&r"
+	quest.0631F054A9B97A40.title: "Runen erstellen"
+	quest.063241B72BB3403E.quest_desc: ["Der &0&lSchwer Gepanzerte Schild&r wird genau wie ein normaler Schild verwendet, halte ihn in deiner Nebenhand und benutze ihn, um dich zu verteidigen. \\nDer &0&lSchwer Gepanzerte Schild&r hat viel mehr Haltbarkeit und schützt vor mehr Schaden. \\n\\nOh ja, er hat auch Upgrades! Diese Upgrades können mit der &6Ingenieurswerkbank&r hinzugefügt werden. \\n\\nDer Schild kann 2 Upgrades halten."]
+	quest.063241B72BB3403E.title: "&8&lSchwer Gepanzerte Schild"
+	quest.063F5023D56CA6B1.quest_desc: ["Sobald du Polyethylen eingerichtet hast, kannst du zur Herstellung von Maschinengehäusen im Assembler übergehen, um einige Materialien zu sparen"]
+	quest.064BBCC379A69748.quest_desc: ["Dieser ist ungefähr doppelt so gut wie ein Vanilla-Ofen und noch dazu effizienter! Während er von anderen Ofen-Mods übertroffen wird, ist dieser Ofen für ein reines MI-Gameplay unglaublich stark!"]
+	quest.0650996C7818ADB5.quest_desc: ["Der &6&lHitzegenerator&r hat 2 Modi, um &aEnergie&r zu erzeugen. \\n\\nPassiv: Das Umgeben des &6&lGenerators&r mit &cLava-Quellen&r oder fließenden Blöcken erzeugt passive &aEnergie&r durch Erzeugung von &6Wärme&r. \\n\\nPlatziere einen &cLava-Quellblock&r oben und lasse ihn über die Seiten fließen. \\n\\nStelle sicher, dass du zuerst &bRohre&r anschließt!\\n\\nAktiv: Das Platzieren von brennbaren Materialien wie &0Kohle&r oder &6Holz&r in den &6&lGenerator&r verbrennt den Brennstoff, um &cEnergie&r zu erzeugen. \\n\\nEr erzeugt jetzt 320FE/t."]
+	quest.0650996C7818ADB5.quest_subtitle: "Grundlegende Energieerzeugung"
+	quest.0650996C7818ADB5.title: "&6&lHitzegenerator"
+	quest.0661E9669E639621.quest_desc: ["Einige Setzlinge können nicht bestäubt werden. Diese Setzlinge haben eine zufällige Chance, zu einem anderen Baum heranzuwachsen.\\n\\nWenn du zum Beispiel einen &4Roten Kreppmyrten-Setzling&r haben möchtest, züchte zuerst einen Lila Kreppmyrten-Setzling. Du wirst eine Chance haben, einen &4Roten Kreppmyrtenbaum&r daraus zu bekommen."]
+	quest.0661E9669E639621.quest_subtitle: "Selbstzüchtung?"
+	quest.066438B01655D866.quest_desc: ["Während ihre &dEssenz&r nützlich ist, können wir diese Geister auch für späteren Gebrauch einfangen. Das klingt böse, nicht wahr?\\n\\nUm ein Geisterjäger zu werden, musst du zuerst den &dRachefokus&r erstellen. Dieser wird verwendet, um &aGeister einzufrieren&r, dann platzierst du eine &9Box der Ewigen Schließung&r in der Nähe des Geistes. Dies wird dann den Geist für späteren Gebrauch einsaugen."]
+	quest.066438B01655D866.title: "&dGeister&r einfangen"
 	quest.066B8A75B299AED8.quest_desc: [
-		"The &9&lSqueezer&r is a simple Machine that squeezes &eItems&r to make other &eItems&r or &bFluids&r. \\n\\nWe can use the 2 Ports in the Back to &9Input &eItems&r. We'll then need to use the Port on the Right Side of the Barrels to take &eItems&r &6out&r. The Port below that one will &6Output &bFluids&r. \\n\\nThis will mainly be used to squeeze Plant Oil out of Crop Seeds like Wheat Seeds or Hemp Seeds! \\n\\nSome Seeds give more Oil, check the &6Guide&r to see what each gives. \\n\\nWe'll also need to use the &9&lSqueezer&r to get &0HOP Graphite Dust&r from 8 &0Coke Dust&r."
+		"Der &9&lPressenautomat&r ist eine einfache Maschine, die &eGegenstände&r presst, um andere &eGegenstände&r oder &bFlüssigkeiten&r herzustellen. \\n\\nWir können die 2 Anschlüsse auf der Rückseite verwenden, um &eGegenstände&r &9einzuführen&r. Wir müssen dann den Anschluss auf der rechten Seite der Fässer verwenden, um &eGegenstände&r &6herauszunehmen&r. Der Anschluss darunter wird &bFlüssigkeiten&r &6ausgeben&r. \\n\\nDies wird hauptsächlich verwendet, um Pflanzenöl aus Getreidesamen wie Weizensamen oder Hanfsamen zu pressen! \\n\\nEinige Samen geben mehr Öl, schau im &6Handbuch&r nach, um zu sehen, was jeder gibt. \\n\\nWir müssen auch den &9&lPressenautomat&r verwenden, um &0HOP-Graphitstaub&r aus 8 &0Koksstaub&r zu gewinnen."
 		"{@pagebreak}"
-		"Literally the exact same start as the &2&lFermenter&r."
+		"Buchstäblich der exakt gleiche Start wie der &2&lFermenter&r."
 		"{image:atm:textures/questpics/immersive/immersive_squeezer1.png width:100 height:100 align:center}"
-		"Just like the &2&lFermenter&r as well, just instead of Cauldrons use Barrels!"
+		"Genau wie beim &2&lFermenter&r auch, nur dass statt Kesseln Fässer verwendet werden!"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer2.png width:100 height:100 align:center}"
-		"Above the Barrel between the &eLight Engineering Block&r and &4Redstone Engineering Block&r place a Piston. On top of the other 3 Barrels place &8Steel Fence&r!"
+		"Über dem Fass zwischen dem &eLeichten Maschinenbaublock&r und dem &4Redstone-Maschinenbaublock&r platziere einen Kolben. Auf den anderen 3 Fässern platziere &8Stahlzaun&r!"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer3.png width:100 height:100 align:center}"
-		"Very easy &6Hammer&r Right Click on the Barrel beneath the Piston."
+		"Sehr einfach: &6Hammer&r-Rechtsklick auf das Fass unter dem Kolben."
 		"{image:atm:textures/questpics/immersive/immersive_squeezer.png width:100 height:100 align:center}"
 	]
-	quest.066B8A75B299AED8.title: "&9&lSqueezer"
-	quest.066F78936C8F943B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.0672462DA3599484.quest_subtitle: "512,000mb"
-	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... there's a 4 somewhere as well. \\n\\nTo set a Number put the Item in then you can Left or Right Click to change the amount. Shift and do the same to go by 10s. Once you have a set Number through it into a Card! \\n\\nIt will then wait until that set Number of Items is there to start taking Items. It will also leave that amount in the first Inventory."]
+	quest.066B8A75B299AED8.title: "&9&lPressenautomat"
+	quest.066F78936C8F943B.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt. \\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden. \\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.0672462DA3599484.quest_subtitle: "512.000mb"
+	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... irgendwo gibt es auch eine 4. \\n\\nUm eine Zahl festzulegen, lege den Gegenstand hinein, dann kannst du Links- oder Rechtsklick machen, um die Menge zu ändern. Halte Shift und mache dasselbe, um in 10er-Schritten zu gehen. Sobald du eine festgelegte Zahl hast, wirf sie in eine Karte! \\n\\nSie wird dann warten, bis diese festgelegte Anzahl von Gegenständen vorhanden ist, um mit der Entnahme zu beginnen. Sie wird auch diese Menge im ersten Inventar lassen."]
 	quest.067AB3E4C4492F0D.quest_desc: [
-		"Don't feel like Mining a bunch of Ores you got? Why not let Routers do it for you? \\n\\nYou can use a Placer to place down the Ores, then let an Enchanted Breaker Mine the Ores. Breaker needs the Pickaxe used to craft it to be Enchanted first, the Module itself can't be Enchanted. \\n\\nYou might need another Router to pick up the dropped Ores."
+		"Keine Lust, eine Menge Erze abzubauen? Warum nicht die Router das für dich erledigen lassen? \\n\\nDu kannst einen Platzierer verwenden, um die Erze zu platzieren, und dann einen Verzauberten Brecher die Erze abbauen lassen. Der Brecher benötigt eine verzauberte Spitzhacke zum Herstellen, das Modul selbst kann nicht verzaubert werden. \\n\\nMöglicherweise benötigst du einen weiteren Router, um die abgebauten Erze aufzusammeln."
 		"{image:atm:textures/questpics/router/router_break.png width:150 height:80 align:center}"
 	]
 	quest.067AB3E4C4492F0D.title: "Routers for Mining"
