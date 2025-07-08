@@ -8999,261 +8999,261 @@
 		""
 		"&eTipp:&r Du kannst durch alle verschiedenen Schaltkreise in JEI suchen, indem du &b$circuits&r eingibst oder sogar spezifische Stufen von Schaltkreisen mit &b$circuits/ulv&r"
 	]
-	quest.54EDFCD65E088296.quest_subtitle: "ULV on the cheap"
-	quest.54F0C5C48CFC94D0.quest_desc: ["With Logistics we need Filtering. There's two different Filters: List and Attribute. \\nList Filter you add Items into it and change whether it's whitelist or blacklist, and whether it respects NBT Data or not. \\n\\nAttribute Filter takes a reference Item then Filters off a selected Attribute. This includes tags and other things like whether it can be used as Furnace Fuel or can be pathwayed!"]
-	quest.54F2CB52D3A7BA87.quest_desc: ["The Item Unloader is the opposite of the Item Loader. It will take items from the &7Carts&r. This one must also be above the &6Track&r."]
-	quest.54F2CB52D3A7BA87.title: "Item Unloader"
-	quest.54F7AD64A403C9BF.quest_desc: ["These Catalysts can be added as pillar toppers to your &2Natural Altar&r. They allow you to turn more items into other items or to break them down.\\n\\nThe Crumbling Catalyst allows you to turn each Gold Leaf into 4 Gold Powder instead of 2! "]
-	quest.54F7AD64A403C9BF.title: "Catalysts"
+	quest.54EDFCD65E088296.quest_subtitle: "ULV günstig"
+	quest.54F0C5C48CFC94D0.quest_desc: ["Für Logistik brauchen wir Filterung. Es gibt zwei verschiedene Filter: Listen- und Attributfilter. \nBeim Listenfilter fügst du Gegenstände hinzu und wählst, ob es eine Whitelist oder Blacklist sein soll und ob NBT-Daten berücksichtigt werden sollen. \n\nDer Attributfilter nimmt einen Referenzgegenstand und filtert dann nach ausgewählten Attributen. Dazu gehören Tags und andere Dinge wie, ob es als Brennstoff für einen Ofen verwendet werden kann oder als Weg begehbar ist!"]
+	quest.54F2CB52D3A7BA87.quest_desc: ["Der Gegenstand-Entlader ist das Gegenteil des Gegenstand-Laders. Er nimmt Gegenstände aus den &7Wagen&r. Dieser muss auch über der &6Schiene&r platziert werden."]
+	quest.54F2CB52D3A7BA87.title: "Gegenstand-Entlader"
+	quest.54F7AD64A403C9BF.quest_desc: ["Diese Katalysatoren können als Säulenaufsatz auf deinem &2Natürlichen Altar&r hinzugefügt werden. Sie ermöglichen es dir, mehr Gegenstände in andere umzuwandeln oder sie zu zerlegen.\n\nMit dem Zerbröckelnden Katalysator kannst du aus jedem Goldblatt 4 statt 2 Goldpulver herstellen!"]
+	quest.54F7AD64A403C9BF.title: "Katalysatoren"
 	quest.5500BDFA7A5D04EB.quest_desc: [
-		"Another &aEBF&r upgrade? Yep! "
+		"Noch ein weiteres &aEBF&r-Upgrade? Ja! "
 		""
-		"This will allow us to smelt higher tier ingots, like HV Superconducting metal!"
+		"Dies wird uns ermöglichen, höherwertige Barren zu schmelzen, wie HV-Supraleitungsmetall!"
 	]
-	quest.55160BAFFD9E2988.quest_desc: ["The quintessential &9Macaw&r Mod, &9&lMacaw's Furniture&r! \\n\\nIt adds everything you need! Chairs, Tables, Bookshelves, and even Drawers!"]
-	quest.55160BAFFD9E2988.title: "&l&9Macaw's Furniture&r"
+	quest.55160BAFFD9E2988.quest_desc: ["Der Inbegriff der &9Macaw&r-Mods, &9&lMacaw's Möbel&r! \n\nEs fügt alles hinzu, was du brauchst! Stühle, Tische, Bücherregale und sogar Schubladen!"]
+	quest.55160BAFFD9E2988.title: "&l&9Macaw's Möbel&r"
 	quest.55186B8602689B66.quest_desc: [
-		"The &bMemory Card&f is a tool with two different functions. The simplest of the two is to save various devices' configurations (such as whitelist filters) to be copied over to another device of the same kind. "
+		"Die &bSpeicherkarte&f ist ein Werkzeug mit zwei verschiedenen Funktionen. Die einfachste der beiden ist das Speichern verschiedener Gerätekonfigurationen (wie Whitelist-Filter), um sie auf ein anderes Gerät der gleichen Art zu übertragen. "
 		""
-		"The second function of a memory card is to link &eP2P tunnels&f together. When doing so, the P2P tunnel being linked will be assigned a unique ID, which is stored on the memory card for further linking."
+		"Die zweite Funktion einer Speicherkarte besteht darin, &eP2P-Tunnel&f miteinander zu verbinden. Wenn du dies tust, wird dem P2P-Tunnel, der verbunden wird, eine eindeutige ID zugewiesen, die auf der Speicherkarte für weitere Verbindungen gespeichert wird."
 	]
 	quest.551A4916F032ACCF.quest_desc: [
-		"The Arcane Anvil has the most uses out of any block in &lIron Spells&r. \\n\\nYou can combine &3Spells&r with the same Ink to level it up. \\nIt can combine &3Scrolls&r into Weapons to be used with them, like a Sword. \\nYou can also set an Affinity to Rings using Upgrade Orbs, or add Upgrade Orbs to Weapons and Gear."
+		"Der Arkane Amboss hat die meisten Verwendungszwecke von allen Blöcken in &lIron Spells&r. \n\nDu kannst &3Zauber&r mit derselben Tinte kombinieren, um sie aufzuleveln. \nEs kann &3Schriftrollen&r mit Waffen kombinieren, um mit ihnen verwendet zu werden, wie ein Schwert. \nDu kannst auch eine Affinität für Ringe mit Upgrade-Orbs festlegen oder Upgrade-Orbs zu Waffen und Ausrüstung hinzufügen."
 		"{image:atm:textures/questpics/iron_spells/spells_anvil_gui.png width:100 height:100 align:center}"
 	]
 	quest.552335ED867D6EFA.quest_desc: [
-		"Great for smelting a ton of items!"
+		"Großartig zum Schmelzen einer Menge Gegenstände!"
 		""
-		"An Insanium Coal Block is needed to craft the &6ATM Star&r."
+		"Ein Insanium-Kohleblock wird benötigt, um den &6ATM-Stern&r zu craften."
 	]
-	quest.552CA2ABE659A507.quest_desc: ["&cLava&r goes in. Energy comes out."]
-	quest.552CA2ABE659A507.title: "&cMagmatic Generator"
-	quest.552F0B9B00F4F914.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.553220A2CD7CAFE4.quest_desc: ["During Christmas all the Chests look like Presents... but the Furnaces just stick out like a sore thumb! Now that can be changed with the Wrapping Paper! You can Right Click it onto any &lIron Furnace&r and it'll be all set for the holiday season! And after the season is over you can Shift Right Click it to unwrap it!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "All Wrapped up"
-	quest.55328778D7078E24.title: "Medium Voltage Age"
-	quest.553ADA7040B652CD.quest_desc: ["The &4&lMining Drill&r, &2&lBuzzsaw&r, and &b&lChemical Thrower&r normally hold 1,000mB or 1 Bucket worth of &bFluid&r. \\n\\nNormally doesn't mean always! With the Large Tank they can now hold 2,000mB or 2 Buckets worth. \\n\\nIt doesn't sound like a lot but trust me it is."]
-	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI."]
-	quest.553DD7CBD4351A71.title: "&bVibranium Tools&r"
-	quest.554389C781241743.title: "Molybdenum Vein"
-	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
+	quest.552CA2ABE659A507.quest_desc: ["&cLava&r geht rein. Energie kommt heraus."]
+	quest.552CA2ABE659A507.title: "&cMagmatischer Generator"
+	quest.552F0B9B00F4F914.quest_desc: ["Diese Quest wurde von &6AllTheMods Staff&r oder einem &2Community-Mitwirkenden&r für die Verwendung in AllTheMods-Modpacks erstellt. \n\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, ist diese Quest nicht für die Verwendung in öffentlichen Paketen, die nicht vom &6AllTheMods Team&r veröffentlicht wurden, ohne ausdrückliche Genehmigung erlaubt. \n\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.553220A2CD7CAFE4.quest_desc: ["Während der Weihnachtszeit sehen alle Truhen wie Geschenke aus... aber die Öfen stechen wie ein wunder Daumen heraus! Jetzt kann das mit dem Geschenkpapier geändert werden! Du kannst es mit Rechtsklick auf jeden &lEisenofen&r anwenden, und er ist bereit für die Feiertage! Und nach der Saison kannst du ihn mit Shift-Rechtsklick auspacken!"]
+	quest.553220A2CD7CAFE4.quest_subtitle: "Alles eingepackt"
+	quest.55328778D7078E24.title: "Mittleres Spannungszeitalter"
+	quest.553ADA7040B652CD.quest_desc: ["Der &4&lBergbaubohrer&r, die &2&lKreissäge&r und der &b&lChemische Werfer&r halten normalerweise 1.000mB oder 1 Eimer &bFlüssigkeit&r. \n\nNormalerweise bedeutet nicht immer! Mit dem Großen Tank können sie nun 2.000mB oder 2 Eimer halten. \n\nEs klingt nicht viel, aber glaub mir, es ist viel."]
+	quest.553C44F85E508DE3.quest_desc: ["Dieses ist einzigartig, da es nicht nur für 1 Router, sondern für mehrere verwendet wird. \n\nWenn du mehrere Router gleichzeitig arbeiten lassen möchtest, benötigt jeder ein Sync-Upgrade. \n\nMuss in seiner eigenen GUI eingestellt werden."]
+	quest.553DD7CBD4351A71.title: "&bVibranium-Werkzeuge&r"
+	quest.554389C781241743.title: "Molybdän-Ader"
+	quest.554F47A0AF7506EC.quest_subtitle: "59.049 Endstein"
 	quest.555ED1E39131D91B.quest_desc: [
-		"Shouldn't have come into the &bTower&r, the &b&lCryomancer&r does not like Players, they are Hostile to you. \\n\\nThe &b&lCryomancer&r will immediately start attacking you with &bIce Spells&r. Might even use animals against you! Sacrificing animals to win a fight, he really is cold-hearted! \\n\\nOnce killed he will drop Arcane Essence, Inks, &bIce Runes&r, and &bIce Scrolls&r."
+		"Du hättest nicht in den &bTurm&r kommen sollen, dem &b&lKryomanten&r gefallen Spieler nicht, sie sind dir feindlich gesinnt. \n\nDer &b&lKryomant&r wird sofort anfangen, dich mit &bEiszaubern&r anzugreifen. Er könnte sogar Tiere gegen dich einsetzen! Er opfert Tiere, um einen Kampf zu gewinnen, er ist wirklich kaltherzig! \n\nNach dem Tod lässt er Arkane Essenz, Tinten, &bEisrunen&r und &bEisschriftrollen&r fallen."
 		"{image:atm:textures/questpics/iron_spells/spells_cryomancer.png width:100 height:200 align:center}"
 	]
-	quest.555ED1E39131D91B.title: "&b&lCryomancer"
-	quest.5560F303C452E110.quest_desc: ["The Extruder pushes blocks and entities by why not push it some more! \\n\\nThe entities not the blocks."]
+	quest.555ED1E39131D91B.title: "&b&lKryomant"
+	quest.5560F303C452E110.quest_desc: ["Der Extruder drückt Blöcke und Entitäten, aber warum nicht noch mehr drücken! \n\nDie Entitäten, nicht die Blöcke."]
 	quest.5561EB1E3DD77EC5.quest_desc: [
-		"UHV Energy Hatch. We have finally reached the Pinnacle of Energy Hatches!"
+		"UHV-Energieeingangsluke. Wir haben endlich den Gipfel der Energieeingangsluken erreicht!"
 		""
-		"Now we can set our Multiblocks up to be able to processes any tier of power requirements!"
+		"Jetzt können wir unsere Multiblöcke so einrichten, dass sie jede Stufe der Energieanforderungen verarbeiten können!"
 	]
-	quest.5561EB1E3DD77EC5.quest_subtitle: "Finally at the Top"
-	quest.5563BD4934297522.quest_desc: ["Once you have a Diamond Bee, breed it with the Slimy Bee to create an Emerald Bee!"]
-	quest.5563BD4934297522.quest_subtitle: "Diamond Bee + Slimy Bee"
-	quest.5563BD4934297522.title: "Emerald Bee"
-	quest.55702BE0151D33FE.quest_desc: ["&aInduction Ports&r are how we'll get our &aEnergy&r in and out of our &a&lEnergized Induction Matrix&r. \\n\\nLike in what seems to be every single Multiblock, you'll need to place the &aPorts&r within the Walls of the &a&lInduction Matrix&r. \\n\\nI don't believe the &aPorts&r have limits besides what the &a&lInduction Matrix&r has, so you won't need more than 2 unless you're taking from different sources!"]
-	quest.55702BE0151D33FE.title: "&aInduction Ports"
-	quest.5577F49A93ADB19C.quest_desc: ["&lProductive Trees&r is a sister Mod to &lProductive Bees&r.\\n\\nIn order to get the different Trees you will need Pollinated Leaves. To get Pollinated Leaves you need Pollen. For Pollen you need Bees.\\n\\nBees flowering near the Trees will automatically Pollinate Leaves, or you can use a Pollen Sieve Upgrade in the Hive to get and use Pollen yourself! Have one on the house!"]
-	quest.5577F49A93ADB19C.title: "Productive Trees"
-	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (IF for short) is a tech mod that adds many machines with various different uses.\\n\\nTo get started, craft a &aPity Machine Frame&r."]
-	quest.55820773BDD5319D.quest_subtitle: "Tier: &a1"
+	quest.5561EB1E3DD77EC5.quest_subtitle: "Endlich an der Spitze"
+	quest.5563BD4934297522.quest_desc: ["Sobald du eine Diamanten-Biene hast, züchte sie mit der Schleimigen Biene, um eine Smaragd-Biene zu erhalten!"]
+	quest.5563BD4934297522.quest_subtitle: "Diamanten-Biene + Schleimige Biene"
+	quest.5563BD4934297522.title: "Smaragd-Biene"
+	quest.55702BE0151D33FE.quest_desc: ["&aInduktions-Ports&r sind der Weg, wie wir unsere &aEnergie&r in und aus unserer &a&lEnergisierten Induktionsmatrix&r bekommen. \n\nWie in fast jedem Multiblock musst du die &aPorts&r innerhalb der Wände der &a&lInduktionsmatrix&r platzieren. \n\nIch glaube nicht, dass die &aPorts&r andere Grenzen haben als die der &a&lInduktionsmatrix&r, also brauchst du nicht mehr als 2, es sei denn, du beziehst Energie aus verschiedenen Quellen!"]
+	quest.55702BE0151D33FE.title: "&aInduktions-Ports"
+	quest.5577F49A93ADB19C.quest_desc: ["&lProduktive Bäume&r ist ein Schwester-Mod zu &lProduktive Bienen&r.\n\nUm die verschiedenen Bäume zu bekommen, brauchst du Bestäubte Blätter. Um Bestäubte Blätter zu bekommen, brauchst du Pollen. Für Pollen brauchst du Bienen.\n\nBienen, die in der Nähe der Bäume blühen, bestäuben automatisch Blätter, oder du kannst ein Pollen-Sieb-Upgrade im Bienenstock verwenden, um selbst Pollen zu bekommen und zu verwenden! Hier hast du eines geschenkt!"]
+	quest.5577F49A93ADB19C.title: "Produktive Bäume"
+	quest.55820773BDD5319D.quest_desc: ["&bIndustrial Foregoing&r (kurz IF) ist ein Technik-Mod, der viele Maschinen mit verschiedenen Verwendungszwecken hinzufügt.\n\nUm zu beginnen, stelle einen &aMitleidsmaschinenrahmen&r her."]
+	quest.55820773BDD5319D.quest_subtitle: "Stufe: &a1"
 	quest.55820773BDD5319D.title: "Industrial Foregoing"
-	quest.5585130028BB8298.quest_desc: ["The most basic Gun we can find in &6&lATM10&r, the &d&lRevolver&r! \\n\\nShift Right Click to open the &d&lRevolver&r, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe &d&lRevolver&r can only hold 2 Upgrades but the Speedloader is technically different."]
-	quest.5585130028BB8298.quest_subtitle: "Do you feel lucky, Punk?"
+	quest.5585130028BB8298.quest_desc: ["Die grundlegendste Waffe, die wir in &6&lATM10&r finden können, der &d&lRevolver&r! \n\nShift-Rechtsklick, um den &d&lRevolver&r zu öffnen, dann verschiebe etwas Munition in die Slots. Danach einfach Rechtsklick zum Schießen! \n\nDu kannst 2 Upgrades darauf anwenden. Die Upgrades sind: Bajonett, Schnelllader, Erweitertes Magazin, Verstärker-Elektronenröhren und Präzisionsvisier. \n\nDer &d&lRevolver&r kann nur 2 Upgrades halten, aber der Schnelllader ist technisch gesehen anders."]
+	quest.5585130028BB8298.quest_subtitle: "Fühlst du dich glücklich, Punk?"
 	quest.5585130028BB8298.title: "&d&lRevolver"
-	quest.55882C10292B6A3D.quest_subtitle: "Feed a Crystalline Bee a Prosperity Block"
-	quest.55882C10292B6A3D.title: "ProsperiBee"
-	quest.558FF21A6BCFE6E8.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unomage.png width:100 height:175 align:center}"]
-	quest.558FF21A6BCFE6E8.title: "&5Unobtainium Mage Armor"
-	quest.559DB570A9152259.quest_desc: ["I have a feeling we are going to need a LOT of this..."]
-	quest.559DB570A9152259.quest_subtitle: "Got Rhodium?"
-	quest.55A9EB63F4964FCF.quest_subtitle: "&f7 &cAttack Damage"
+	quest.55882C10292B6A3D.quest_subtitle: "Füttere eine Kristalline Biene mit einem Wohlstandsblock"
+	quest.55882C10292B6A3D.title: "Wohlstands-Biene"
+	quest.558FF21A6BCFE814.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unomage.png width:100 height:175 align:center}"]
+	quest.558FF21A6BCFE814.title: "&5Unobtainium-Magier-Rüstung"
+	quest.559DB570A9152259.quest_desc: ["Ich habe das Gefühl, wir werden VIEL davon brauchen..."]
+	quest.559DB570A9152259.quest_subtitle: "Hast du Rhodium?"
+	quest.55A9EB63F4964FCF.quest_subtitle: "&f7 &cAngriffsschaden"
 	quest.55ACA94C7837FF5E.quest_desc: [
-		"At this point, you have learned so much through the Tiers, you should be rewarded with something to display your knowledge!"
+		"An diesem Punkt hast du so viel durch die Stufen gelernt, du solltest mit etwas belohnt werden, um dein Wissen zu präsentieren!"
 		""
-		"In this case, this certificate shall suffice. You are officially, Not a Noob anymore!"
+		"In diesem Fall wird dieses Zertifikat ausreichen. Du bist offiziell kein Anfänger mehr!"
 	]
-	quest.55ACA94C7837FF5E.quest_subtitle: "Certifications!"
+	quest.55ACA94C7837FF5E.quest_subtitle: "Zertifizierungen!"
 	quest.55B9B9C3AA01D323.quest_desc: [
-		"Amongst the massive &5Glistering Crystals&r in the &5&lCrystal Canyon&r lies a &5Crystal&r in the shape of a &dFlower&r. \\n\\nIt's gorgeous, mesmerizing almost. It makes me want to grow a Garden of beautiful &dFlowers&r but I know not one of those &dFlowers&r will ever come close to how stunning the &5Crystal&r &dFlower&r is... \\n\\nRegardless you'll find plenty of &5Honey Crystals&r, &6Honey&r, and most importantly &5Crystalline Flowers&r!"
+		"Inmitten der massiven &5Glitzernden Kristalle&r in der &5&lKristallschlucht&r liegt ein &5Kristall&r in Form einer &dBlume&r. \n\nSie ist wunderschön, geradezu hypnotisierend. Sie weckt in mir den Wunsch, einen Garten voller schöner &dBlumen&r zu züchten, aber ich weiß, dass keine dieser &dBlumen&r jemals an die Schönheit der &5Kristall&r-&dBlume&r heranreichen wird... \n\nDennoch wirst du dort jede Menge &5Honigkristalle&r, &6Honig&r und am wichtigsten &5Kristalline Blumen&r finden!"
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
-	quest.55B9B9C3AA01D323.title: "&5Overgrown Flower"
-	quest.55BF254B1831359B.quest_desc: ["&5Galadorian Drills&r are the greatest Drills we can attach to our Carts. \\n\\nBecause of its greatness, that also means crafting it will be more difficult... \\nLet's just say you'll need a lot of &3Stabilized Metal&r! Follow the recipes!"]
-	quest.55BF254B1831359B.title: "&5Galadorian Drills"
-	quest.55C47B868C5ECF54.quest_desc: ["Need help finding ores? Make yourself one of these and charge it up by placing it in any machine's energy slot"]
-	quest.55C4824DAD905512.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.55C8DD9A754545BD.quest_desc: ["The Pulverizer breaks raw ores into dusts, and also has a 25% chance to create an extra dust."]
-	quest.55C8DD9A754545BD.quest_subtitle: "Breaks Ores into Dusts"
-	quest.55D7CD0FA8F1AE48.quest_desc: ["The reason we're all here, &5Trains&r. The mod is called &l&7RailCraft&r don't act surprised. \\n\\nThere's 2 different main &5Trains&r and 1 special mining &5Train&r. \\n\\nThese &5Trains&r all by themselves can get a little boring, so why not attach &7Carts&r to them! Connecting &7Carts&r with &7Carts&r and with &5Trains&r is called Coupling, and to unconnect them is to Decouple. To Couple &5Trains&r and &7Carts&r use a &4Crowbar&r or a &6Track&r with the Coupling &cTrack Kit&r."]
-	quest.55D7CD0FA8F1AE48.title: "&7&lCarts&r 'N' &5&lTrains&r!"
-	quest.55DCA040C84DCEF3.quest_desc: ["If you want to get your hands on the product the &aFluidizer&r makes, you'll need an &aOutput Port&r on one of the faces.\\n\\nThe &aFluidizer&r will need power to operate, so a &cPower Port&r is required to complete the structure."]
-	quest.55DCA040C84DCEF3.title: "Required Ports"
-	quest.55E321EFBE8956DE.quest_desc: ["If you want to be cheap with Fermenting Recipes then Fermentation Starter is perfect for you. \\n\\nVery cheap replacement for other Items in Fermenting."]
-	quest.55E321EFBE8956DE.title: "Easier Fermenting"
-	quest.55F0472830CC6BF6.quest_desc: ["Looking for fluids to unearth? This prospector has a fluid mode to help with just such a task!"]
-	quest.5608C74936CA9E81.quest_desc: ["The &6Mechanical Arm&r is a very confusing but also very helpful Machine from &6&lCreate&r. Thank God, I don't need to explain how to use them, only how to Craft them! \\n\\nFirst, and simplest is the &8Andesite Alloy&r. That is just 2 &8Andesite Blocks&r and 2 &7Zinc/Iron Nuggets&r. \\n\\nNext, is the &eBrass Plates &fand &eCasing&r. Both obviously require &eBrass&r which is an Alloy made of &6Copper&r and &7Zinc&r! \\n\\nLast, is definitely the most difficult of these, the &ePrecision Mechanism&r. You'll need a whole set up of &6Deployers &fand &eBelts&r to keep moving our &eGold Plate&r to add more Items to it. \\n\\n1st step: is using the &6Deployer&r to add a &dCogwheel&r to our &eGold Plate&r. 2nd: is using similar to add a &dLarge Cogwheel&r to it. 3rd step: has us adding an &7Iron Nugget&r with the &6Deployer&r. \\n\\nWe'll need to repeat this 5 times to hopefully get our &ePrecision Mechanism&r! Yep, there is an 20% you won't get the Item in the end! \\n\\nHey, if you don't like all this work, you can always Craft the &6Large Advanced Motor&r."]
-	quest.5608C74936CA9E81.title: "&6Mechanical Arm"
-	quest.560D95D4C404A164.title: "Extreme Voltage Age"
+	quest.55B9B9C3AA01D323.title: "&5Überwucherte Blume"
+	quest.55BF254B1831359B.quest_desc: ["&5Galadorian-Bohrer&r sind die besten Bohrer, die wir an unsere Wagen anbringen können. \n\nWegen ihrer Großartigkeit ist auch ihre Herstellung schwieriger... \nSagen wir einfach, du wirst viel &3Stabilisiertes Metall&r benötigen! Folge den Rezepten!"]
+	quest.55BF254B1831359B.title: "&5Galadorian-Bohrer"
+	quest.55C47B868C5ECF54.quest_desc: ["Brauchst du Hilfe beim Finden von Erzen? Stelle dir einen davon her und lade ihn auf, indem du ihn in einen Energieslot einer Maschine legst"]
+	quest.55C4824DAD905512.quest_desc: ["Diese Quest wurde von &6AllTheMods Staff&r oder einem &2Community-Mitwirkenden&r für die Verwendung in AllTheMods-Modpacks erstellt.\n\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, ist diese Quest nicht für die Verwendung in öffentlichen Paketen, die nicht vom &6AllTheMods Team&r veröffentlicht wurden, ohne ausdrückliche Genehmigung erlaubt.\n\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.55C8DD9A754545BD.quest_desc: ["Der Pulverisierer zerbricht Roherze in Stäube und hat auch eine 25%ige Chance, einen zusätzlichen Staub zu erzeugen."]
+	quest.55C8DD9A754545BD.quest_subtitle: "Zerbricht Erze zu Stäuben"
+	quest.55D7CD0FA8F1AE48.quest_desc: ["Der Grund, warum wir alle hier sind, &5Züge&r. Der Mod heißt &l&7RailCraft&r, sei nicht überrascht. \n\nEs gibt 2 verschiedene Haupttypen von &5Zügen&r und 1 speziellen Bergbau-&5Zug&r. \n\nDiese &5Züge&r allein können etwas langweilig sein, also warum nicht &7Wagen&r an sie anhängen! Das Verbinden von &7Wagen&r mit &7Wagen&r und mit &5Zügen&r wird als Kupplung bezeichnet, und das Trennen als Entkupplung. Um &5Züge&r und &7Wagen&r zu kuppeln, verwende eine &4Brechstange&r oder eine &6Schiene&r mit dem Kupplungs-&cSchienen-Kit&r."]
+	quest.55D7CD0FA8F1AE48.title: "&7&lWagen&r und &5&lZüge&r!"
+	quest.55DCA040C84DCEF3.quest_desc: ["Wenn du das Produkt, das der &aFluidisierer&r herstellt, in die Hände bekommen möchtest, benötigst du einen &aAusgabeport&r an einer der Seiten.\n\nDer &aFluidisierer&r benötigt Energie, um zu funktionieren, daher ist ein &cEnergieport&r erforderlich, um die Struktur zu vervollständigen."]
+	quest.55DCA040C84DCEF3.title: "Erforderliche Ports"
+	quest.55E321EFBE8956DE.quest_desc: ["Wenn du bei Fermentierungsrezepten sparen willst, dann ist Fermentationsstarter perfekt für dich. \n\nEin sehr günstiger Ersatz für andere Gegenstände beim Fermentieren."]
+	quest.55E321EFBE8956DE.title: "Einfacheres Fermentieren"
+	quest.55F0472830CC6BF6.quest_desc: ["Suchst du nach Flüssigkeiten zum Ausgraben? Dieser Prospektor hat einen Flüssigkeitsmodus, der genau dabei hilft!"]
+	quest.5608C74936CA9E81.quest_desc: ["Der &6Mechanische Arm&r ist eine sehr verwirrende, aber auch sehr hilfreiche Maschine von &6&lCreate&r. Gott sei Dank muss ich nicht erklären, wie man sie benutzt, sondern nur, wie man sie herstellt! \n\nErste und einfachste Komponente ist die &8Andesit-Legierung&r. Das sind einfach 2 &8Andesit-Blöcke&r und 2 &7Zink/Eisen-Nuggets&r. \n\nAls nächstes kommen die &eMessing-Platten &fund das &eGehäuse&r. Beide benötigen natürlich &eMessing&r, eine Legierung aus &6Kupfer&r und &7Zink&r! \n\nZuletzt ist definitiv das Schwierigste, der &ePräzisionsmechanismus&r. Du benötigst eine ganze Reihe von &6Einsetzern &fund &eFließbändern&r, um unsere &eGold-Platte&r zu bewegen, damit weitere Gegenstände hinzugefügt werden können. \n\n1. Schritt: Verwenden des &6Einsetzers&r, um ein &dZahnrad&r zu unserer &eGold-Platte&r hinzuzufügen. 2. Schritt: Ähnlich, um ein &dgroßes Zahnrad&r hinzuzufügen. 3. Schritt: Hinzufügen eines &7Eisen-Nuggets&r mit dem &6Einsetzer&r. \n\nWir müssen dies 5 Mal wiederholen, um hoffentlich unseren &ePräzisionsmechanismus&r zu erhalten! Ja, es gibt eine 20%ige Chance, dass du am Ende keinen Gegenstand erhältst! \n\nHey, wenn dir diese ganze Arbeit nicht gefällt, kannst du immer den &6Großen Fortgeschrittenen Motor&r herstellen."]
+	quest.5608C74936CA9E81.title: "&6Mechanischer Arm"
+	quest.560D95D4C404A164.title: "Extremes Spannungszeitalter"
 	quest.56180F60F8E3D879.quest_desc: [
-		"The following are all resulting resources from processing in the Fusion Reactor. "
+		"Die folgenden sind alle Ressourcen, die aus der Verarbeitung im Fusionsreaktor resultieren. "
 		""
-		"We need to keep working down the processing line of these resources but they aren't all needed quite yet. "
+		"Wir müssen die Verarbeitungskette dieser Ressourcen weiter verfolgen, aber sie werden nicht alle sofort benötigt. "
 		""
-		"That being said, getting an early start on processing them will greatly benefit you later on."
+		"Dennoch wird es dir später sehr nützen, frühzeitig mit ihrer Verarbeitung zu beginnen."
 	]
-	quest.56180F60F8E3D879.quest_subtitle: "Reactor Resources"
-	quest.561B5FB009744D2B.quest_desc: ["To get &aInsanite Blocks&r you'll need 8 &aInsanite Ingots&r and 1 &cBlock of Inanite&r. Yes, I know it's confusing with only a single letter difference. \\n\\nTo get &aInsanite Ingots&r you'll need to reprocess &bBenitoite&r with &4Rossinite&r in a Reprocessor. \\n\\n&bBenitoite&r needs to be Mined in &c&lThe Nether&r. \\n\\n&cInanite Blocks&r are made by combining 8 &cInanite Ingots&r with a &cBlock of Netherite&r! &cInanite&r not &aInsanite&r. \\n\\nTo get Inanite Ingots you will need to reprocess &dRidiculite&r with &4Rossinite&r in a Reprocessor. \\n\\n&dRidiculite&r is another chain of recipes that quite frankly I'm tired of looking at!"]
-	quest.561B5FB009744D2B.title: "&aInsanite Blocks"
-	quest.562BD37539EE318E.title: "Tier: &cBlazing"
-	quest.565376084F05ED6E.quest_desc: ["The Dimension known for housing the piglins and blazes and wither skeletons, now houses 2 more bosses to fight!"]
-	quest.565376084F05ED6E.title: "&4Nether&r: Land of 2 bosses"
-	quest.56550CD12C681B0F.quest_desc: ["&2Flax Seeds&r can be found growing in fields of grass. Flax is great if you need a lot of String in the eraly game."]
-	quest.56550CD12C681B0F.quest_subtitle: "Flax on, Flax off"
-	quest.565703CBB06CEABF.quest_desc: ["I know why you all are here for, you're here for the &4&lMorgan Sword&r. \\n\\nOne of the powerful Swords of all the &6&lATM Modpacks&r. \\n\\nFollow these Quests and you'll become an unstoppable force!"]
-	quest.565703CBB06CEABF.title: "Getting &4&lMorgan"
-	quest.565EBD340595EAC4.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.5660E81BBEED6DC3.quest_desc: ["The &dSoul Binding Crystal&r is the most difficult one to craft. \\n&3Ender Pearl Fragments&r can be crafted from &3Ender Pearls&r which can be farmed from &5Endermen&r. You can use an Extractor to get infinite &5Amethyst&r. Quartz can be farmed from &2&lMA&r. \\n\\nNow we need to focus on the Souls. To start we need normal Souls! Which we usually use a Soul Extractor on Soul Sand to take the Soul out of it. \\n\\nBut that's from using an Item, and it changes the Soul Sand... First, we can replace ourselves by using a Clicker from &3&lJust Dire Things&r! \\n\\nNow we just need to replace the Souless Sand with Soul Sand, which can be used with Block Breakers and Placers, also from &3&lJust Dire Things&r. \\n\\nNow we can combine Souls with &5Corrupti Dust&r and Trapped Souls (farmed Items from &5Lunar Guardian&r) to get Corrupt Souls. \\n\\nFinally, combine Souls with Liquid Aureal and the Holy Hand Grenade to make Enchanted Souls. The Holy Hand Grenade is from a line of recipes from &c&lReliquary&r."]
-	quest.5660E81BBEED6DC3.title: "&dSoul Binding Crystal"
-	quest.566C1DBA9829E328.quest_desc: ["The &e&lCombiner&r can automate simple 2 &eItem&r Recipes! \\n\\nLike 2 different Dyes, or Mud and Wheat to get Packed Mud. \\n\\nIt can even do some new unique Recipes like &7Cobble&f and &0Flint&r to make &7Gravel&r, or 4 &5Obsidian Dust &fand &8Deepslate&f to make &5Obsidian&r!"]
-	quest.566C1DBA9829E328.title: "&e&lCombiner"
-	quest.568A1121F820345F.quest_subtitle: "&fTier 2&r"
-	quest.56970D44D4C9015A.quest_subtitle: "&f7 &cAttack Damage"
-	quest.56A5C102BDD74ED8.quest_desc: [
-		"Once you have some &6Allthemodium&r, the next upgrade will take &dVibranium&r.  "
+	quest.56180F60F8E3D879.quest_subtitle: "Reaktor-Ressourcen"
+	quest.561B5FB009744D2B.quest_desc: ["Um &aInsanite-Blöcke&r zu erhalten, benötigst du 8 &aInsanite-Barren&r und 1 &cBlock aus Inanit&r. Ja, ich weiß, es ist verwirrend mit nur einem einzigen Buchstabenunterschied. \n\nUm &aInsanite-Barren&r zu erhalten, musst du &bBenitoite&r mit &4Rossinite&r in einem Wiederaufbereiter verarbeiten. \n\n&bBenitoite&r muss im &c&lNether&r abgebaut werden. \n\n&cInanite-Blöcke&r werden hergestellt, indem 8 &cInanite-Barren&r mit einem &cNetherit-Block&r kombiniert werden! &cInanit&r, nicht &aInsanit&r. \n\nUm Inanite-Barren zu erhalten, musst du &dRidiculite&r mit &4Rossinite&r in einem Wiederaufbereiter verarbeiten. \n\n&dRidiculite&r ist eine weitere Rezeptkette, auf die ich ehrlich gesagt keine Lust mehr habe, zu schauen!"]
+	quest.561B5FB009744D2B.title: "&aInsanite-Blöcke"
+	quest.562BD37539EE318E.title: "Stufe: &cLodernd"
+	quest.565376084F05ED6E.quest_desc: ["Die Dimension, die bekannt ist für die Behausung von Piglins, Lohen und Witherskeletten, beherbergt jetzt 2 weitere Bosse zum Kämpfen!"]
+	quest.565376084F05ED6E.title: "&4Nether&r: Land der 2 Bosse"
+	quest.56550CD12C681B0F.quest_desc: ["&2Flachssamen&r können in Grasfeldern wachsend gefunden werden. Flachs ist großartig, wenn du im frühen Spiel viel Schnur brauchst."]
+	quest.56550CD12C681B0F.quest_subtitle: "Flachs an, Flachs aus"
+	quest.565703CBB06CEABF.quest_desc: ["Ich weiß, warum ihr alle hier seid, ihr seid hier für das &4&lMorgan-Schwert&r. \n\nEines der mächtigsten Schwerter aller &6&lATM-Modpacks&r. \n\nFolge diesen Quests und du wirst zu einer unaufhaltsamen Kraft werden!"]
+	quest.565703CBB06CEABF.title: "&4&lMorgan&r bekommen"
+	quest.565EBD340595EAC4.quest_desc: ["Diese Quest wurde von &6AllTheMods Staff&r oder einem &2Community-Mitwirkenden&r für die Verwendung in AllTheMods-Modpacks erstellt. \n\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, ist diese Quest nicht für die Verwendung in öffentlichen Paketen, die nicht vom &6AllTheMods Team&r veröffentlicht wurden, ohne ausdrückliche Genehmigung erlaubt. \n\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.5660E81BBEED6DC3.quest_desc: ["Der &dSeelenbindungskristall&r ist der schwierigste zu fertigen. \n&3Enderperlen-Fragmente&r können aus &3Enderperlen&r hergestellt werden, die von &5Endermen&r gefarmt werden können. Du kannst einen Extraktor verwenden, um unendlich &5Amethyst&r zu bekommen. Quarz kann von &2&lMA&r gefarmt werden. \n\nJetzt müssen wir uns auf die Seelen konzentrieren. Zu Beginn brauchen wir normale Seelen! Normalerweise verwenden wir einen Seelenextraktor auf Seelensand, um die Seele daraus zu nehmen. \n\nAber das ist durch die Verwendung eines Gegenstands, und es verändert den Seelensand... Zuerst können wir uns selbst durch einen Klicker von &3&lJust Dire Things&r ersetzen! \n\nJetzt müssen wir nur noch den seelenlosen Sand durch Seelensand ersetzen, was mit Blockbrechern und Platzierern ebenfalls von &3&lJust Dire Things&r möglich ist. \n\nJetzt können wir Seelen mit &5Corrupti-Staub&r und Gefangenen Seelen (gefarmte Gegenstände vom &5Mondwächter&r) kombinieren, um Korrumpierte Seelen zu erhalten. \n\nZum Schluss kombiniere Seelen mit Flüssigem Aureal und der Heiligen Handgranate, um Verzauberte Seelen herzustellen. Die Heilige Handgranate stammt aus einer Reihe von Rezepten von &c&lReliquary&r."]
+	quest.5660E81BBEED6DC3.title: "&dSeelenbindungskristall"
+	quest.566C1DBA9829E328.quest_desc: ["Der &e&lKombinierer&r kann einfache 2-&eGegenstand&r-Rezepte automatisieren! \n\nWie 2 verschiedene Farbstoffe, oder Schlamm und Weizen, um verdichteten Schlamm zu bekommen. \n\nEs kann sogar einige neue, einzigartige Rezepte wie &7Bruchstein&f und &0Feuerstein&r zu &7Kies&r, oder 4 &5Obsidianstaub &fund &8Tiefenschiefer&f zu &5Obsidian&r machen!"]
+	quest.566C1DBA9829E328.title: "&e&lKombinierer"
+	quest.568A1121F820345F.quest_subtitle: "&fStufe 2&r"
+	quest.56970D44D4C9015A.quest_subtitle: "&f7 &cAngriffsschaden"
+	quest.56A5C102BDD74ED2.quest_desc: [
+		"Sobald du etwas &6Allthemodium&r hast, wird das nächste Upgrade &dVibranium&r benötigen. "
 		""
-		"You can find this rare ore in the Nether above Y64 along the ceiling and walls of any biome. "
+		"Du kannst dieses seltene Erz im Nether oberhalb von Y64 entlang der Decke und Wände jedes Bioms finden. "
 		""
-		"You can also find it in any biome in the Other, between Y0 and Y40 along cave walls and ceilings. "
+		"Du kannst es auch in jedem Biom in The Other zwischen Y0 und Y40 entlang von Höhlenwänden und -decken finden. "
 		""
-		"Note: The ore will only be found exposed to air!"
+		"Hinweis: Das Erz wird nur freiliegend an der Luft gefunden!"
 	]
-	quest.56A5C102BDD74ED8.title: "Vibranium Ore"
-	quest.56B58CAFCB707565.quest_subtitle: "Tier: &63"
-	quest.56B6ABF3D6EA0D84.quest_desc: ["With our Plug set up, we can now tap into the power from our network. The &9Flux Point&r does exactly that. It points the power from your network to whatever block it is attached to, including Pipes or Cables, or just directly on machines!\\n\\nOnce you've placed your Point on the machine or block you want to power, right-click on it and select your network in the \"Network Selection\" tab. Just like the Plug, you can adjust how much power the Point pulls, priority level, etc."]
-	quest.56B6ABF3D6EA0D84.title: "Accessing Network Power"
+	quest.56A5C102BDD74ED2.title: "Vibranium-Erz"
+	quest.56B58CAFCB707565.quest_subtitle: "Stufe: &63"
+	quest.56B6ABF3D6EA0D84.quest_desc: ["Mit unserem installierten Plug können wir nun auf die Energie aus unserem Netzwerk zugreifen. Der &9Flux-Punkt&r tut genau das. Er leitet die Energie aus deinem Netzwerk zu dem Block, an dem er befestigt ist, einschließlich Rohren oder Kabeln oder direkt an Maschinen!\n\nSobald du deinen Punkt auf der Maschine oder dem Block platziert hast, den du mit Energie versorgen möchtest, klicke mit der rechten Maustaste darauf und wähle dein Netzwerk im Tab \"Netzwerkauswahl\". Wie beim Plug kannst du einstellen, wie viel Energie der Punkt zieht, Prioritätsstufe usw."]
+	quest.56B6ABF3D6EA0D84.title: "Zugriff auf Netzwerk-Energie"
 	quest.56B7CC072B8E9B48.quest_desc: [
-		"Sodium Hydroxide Dust is useful yet again! &eChemical React&r it with the Epichlorohydrin and Bisphenol A to make liquid Epoxy"
+		"Natriumhydroxidstaub ist wieder nützlich! &eChemisch reagieren&r lasse es mit dem Epichlorhydrin und Bisphenol A, um flüssiges Epoxid herzustellen"
 		""
-		"You can then &eFluid Solidify&r the Epoxy into plates directly"
+		"Du kannst dann das Epoxid direkt zu Platten &eFest verfestigen&r"
 		""
-		"We'll use these as a base for the &bNanoprocessor&r circuit boards"
+		"Wir werden diese als Basis für die &bNanoprozessor&r-Leiterplatten verwenden"
 	]
-	quest.56B80A7EBFE21428.quest_subtitle: "More Filtering Options"
-	quest.56B80A7EBFE21428.title: "&eAdvanced Pump Upgrade"
-	quest.56BF647EA84FFF7E.quest_desc: ["Shows which crafting recipes are happening at any time."]
-	quest.56BF647EA84FFF7E.quest_subtitle: "Shows Recipes"
-	quest.56CD54A4422FF473.quest_desc: ["For real, this would be for normal play. It increases your damage by double, but you take 5 times more damage."]
-	quest.56CD54A4422FF473.quest_subtitle: "I WOULD NOT SUGGEST USING THIS WITH CURSED RING CHALLENGE"
-	quest.56CE6CF9C99FB522.quest_desc: ["For &8Radiators&r we'll need the usual &8Steel Sheetmetal&r, a &9Water Bucket&r which is a new one! And &6Constantan Plates&r. \\n\\n&6Constantan&r is an Alloy made by combining &6Copper&r and &7Nickel&r in an &l&6Alloy Kiln&r."]
-	quest.56CE6CF9C99FB522.title: "&8Radiator Block"
-	quest.56DA46DC82F6665D.quest_desc: ["The Wilden Chimera is a Boss added by Ars Nouveau and is needed for progressing through it. \\n\\nHe needs to be summoned through a ritual then fought!"]
-	quest.56DA46DC82F6665D.title: "Kill The Wilden Chimera"
-	quest.56DB53F255100136.quest_desc: ["You need even fancier Pants? How about we upgrade our &5Unobtainium leggings&r into &a&lMekaSuit Pants&r! \\n\\nThis will also cost an &dAntimatter Pellet&r, an &dUltimate Induction Cells&r, and a few &aPolonium Pellets&r. \\n\\nIs the upgrade worth it? It only has the same Armor stats as &cNetherite Leggings&r?!? And these should be 4 upgrades after &cNetherite&r! \\n\\nYes... it... is! We can Charge the &a&lMekaSuit Pants&r and instead of you taking Damage, the &a&lMekaSuit Pants&r will use up &aEnergy&r! Well all Damage except Magic Damage... \\n\\nThen, use it in a &7&lModification Station&r to add &7Module Units&r which mostly upgrade your Movement. Yeah, that can be pretty darn important!"]
-	quest.56DB53F255100136.title: "&a&lMekaSuit Pants"
-	quest.56E30438AE512475.quest_desc: ["Let's get these flames burning! \\n\\nThe Preheater is a very simple addition to the &l&4Improved Blast Furnace&r. \\n\\nSimply place them on the Left and Right of the &l&4Improved Blast Furnace&r. Then, connect power to the top of it and it will start speeding up the &l&4Improved Blast Furnace&r."]
-	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r is the maximum tier of &5Possession Rituals&r. It only has two uses: creating Cruelty Essence, the main ingredient in Brown Chalk, and creating an Iesnium Golem, which is basically just an Iron Golem that's immortal and does more damage."]
-	quest.56EC79AF11B0869E.quest_subtitle: "Maximum Possession"
+	quest.56B80A7EBFE21428.quest_subtitle: "Mehr Filteroptionen"
+	quest.56B80A7EBFE21428.title: "&eErweitertes Pumpen-Upgrade"
+	quest.56BF647EA84FFF7E.quest_desc: ["Zeigt an, welche Herstellungsrezepte gerade ablaufen."]
+	quest.56BF647EA84FFF7E.quest_subtitle: "Zeigt Rezepte"
+	quest.56CD54A4422FF473.quest_desc: ["Ernsthaft, das wäre für normales Spielen. Es erhöht deinen Schaden um das Doppelte, aber du nimmst 5 Mal mehr Schaden."]
+	quest.56CD54A4422FF473.quest_subtitle: "ICH WÜRDE NICHT EMPFEHLEN, DIES MIT DER VERFLUCHTEN-RING-HERAUSFORDERUNG ZU VERWENDEN"
+	quest.56CE6CF9C99FB522.quest_desc: ["Für &8Heizkörper&r benötigen wir das übliche &8Stahlblech&r, einen &9Wassereimer&r, was neu ist! Und &6Konstantan-Platten&r. \n\n&6Konstantan&r ist eine Legierung, die durch die Kombination von &6Kupfer&r und &7Nickel&r in einem &l&6Legierungsofen&r hergestellt wird."]
+	quest.56CE6CF9C99FB522.title: "&8Heizkörper-Block"
+	quest.56DA46DC82F6665D.quest_desc: ["Die Wilden Chimäre ist ein von Ars Nouveau hinzugefügter Boss und wird für den Fortschritt durch den Mod benötigt. \n\nSie muss durch ein Ritual beschworen und dann bekämpft werden!"]
+	quest.56DA46DC82F6665D.title: "Töte die Wilden Chimäre"
+	quest.56DB53F255100136.quest_desc: ["Du brauchst noch bessere Hosen? Wie wäre es mit einem Upgrade unserer &5Unobtainium-Beinschienen&r zu &a&lMekaSuit-Hosen&r! \n\nDas wird auch ein &dAntimateriekügelchen&r, eine &dUltimative Induktionszelle&r und ein paar &aPolonium-Kügelchen&r kosten. \n\nIst das Upgrade es wert? Es hat nur die gleichen Rüstungswerte wie &cNetherit-Beinschienen&r?!? Und diese sollten 4 Upgrades nach &cNetherit&r sein! \n\nJa... es... ist es! Wir können die &a&lMekaSuit-Hosen&r aufladen, und anstatt dass du Schaden nimmst, werden die &a&lMekaSuit-Hosen&r &aEnergie&r verbrauchen! Nun, aller Schaden außer magischem Schaden... \n\nDann verwende sie in einer &7&lModifikationsstation&r, um &7Modul-Einheiten&r hinzuzufügen, die hauptsächlich deine Bewegung verbessern. Ja, das kann ziemlich wichtig sein!"]
+	quest.56DB53F255100136.title: "&a&lMekaSuit-Hosen"
+	quest.56E30438AE512475.quest_desc: ["Lass diese Flammen brennen! \n\nDer Vorwärmer ist eine sehr einfache Ergänzung zum &l&4Verbesserten Schmelzofen&r. \n\nPlatziere sie einfach links und rechts vom &l&4Verbesserten Schmelzofen&r. Schließe dann Energie an der Oberseite an und es beginnt, den &l&4Verbesserten Schmelzofen&r zu beschleunigen."]
+	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Adjure&r ist die höchste Stufe der &5Besitzergreifungsrituale&r. Es hat nur zwei Verwendungen: Die Erschaffung von Grausamkeitsessenz, der Hauptzutat in Brauner Kreide, und die Erschaffung eines Iesnium-Golems, der im Grunde nur ein Eisengolem ist, der unsterblich ist und mehr Schaden verursacht."]
+	quest.56EC79AF11B0869E.quest_subtitle: "Maximale Besitzergreifung"
 	quest.56EC79AF11B0869E.title: "&9Xeovrenth Adjure"
-	quest.56FB82DEB944F758.quest_desc: ["Works like the &aMace of Distortion&r, except it causes an AoE explosion instead."]
-	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen is a similar Mod to Overhauled Creepers! Just with Endermen of course! \\n\\nYou'll find all these Endermen in all different Biomes and each are unique in their own ways! Some have different attacks, some drop different Pearls, and they all look different!"]
-	quest.570223A03231DF8C.title: "Overhauled Endermen"
-	quest.5703EDAFCF9E7719.quest_subtitle: "Tier: &63"
-	quest.57167FE67CFAC255.quest_subtitle: "Used to add Bees to a Filter"
-	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks are Blocks made through &l&7PneumaticCraft: Repressurized&r. \\n\\nJust like their real life counter parts they hurt to step on! \\n\\nSo either wear Shoes or smooth down the Bricks."]
-	quest.5716E84828EC0C23.title: "Plastic Construction Bricks"
+	quest.56FB82DEB944F758.quest_desc: ["Funktioniert wie die &aKeule der Verzerrung&r, außer dass sie eine AoE-Explosion verursacht."]
+	quest.570223A03231DF8C.quest_desc: ["Überarbeitete Endermen ist ein ähnlicher Mod wie Überarbeitete Creeper! Nur mit Endermen natürlich! \n\nDu wirst all diese Endermen in verschiedenen Biomen finden und jeder ist auf seine eigene Weise einzigartig! Einige haben unterschiedliche Angriffe, einige lassen unterschiedliche Perlen fallen, und sie alle sehen unterschiedlich aus!"]
+	quest.570223A03231DF8C.title: "Überarbeitete Endermen"
+	quest.5703EDAFCF9E7719.quest_subtitle: "Stufe: &63"
+	quest.57167FE67CFAC255.quest_subtitle: "Wird verwendet, um Bienen zu einem Filter hinzuzufügen"
+	quest.5716E84828EC0C23.quest_desc: ["Plastik-Konstruktionssteine sind Blöcke, die durch &l&7PneumaticCraft: Repressurized&r hergestellt werden. \n\nGenau wie ihre realen Gegenstücke tut es weh, auf sie zu treten! \n\nAlso trage entweder Schuhe oder glätte die Steine."]
+	quest.5716E84828EC0C23.title: "Plastik-Konstruktionssteine"
 	quest.571CC5558B87377D.quest_desc: [
-		"The Crystal Cannon is a very fun and dangerous Weapon added from &6&lBumblezone&r! \\n\\nBut like all Cannons, it is best to practice. The Cannon Range is made for that! \\n\\nThere you will find plenty of Cannons, &5Crystals&r, and Targets to hit! Then you can take the rewards for hitting the Target Blocks."
+		"Die Kristallkanone ist eine sehr lustige und gefährliche Waffe, die von &6&lBumblezone&r hinzugefügt wurde! \n\nAber wie alle Kanonen ist es am besten zu üben. Der Kanonenbereich ist dafür gemacht! \n\nDort findest du viele Kanonen, &5Kristalle&r und Ziele zum Treffen! Dann kannst du die Belohnungen für das Treffen der Zielblöcke nehmen."
 		"{image:atm:textures/questpics/bumblezone/bumble_range.png width:200 height:100 align:center}"
 	]
-	quest.571CC5558B87377D.title: "Cannon Range"
+	quest.571CC5558B87377D.title: "Kanonenbereich"
 	quest.57282D7E31EE61EE.quest_desc: [
-		"Once you've gathered a few &aRaw Iesnium Ores&r, you'll probably want to use the first few ingots to make an &dIesnium Pickaxe&r. This not only mines Iesnium like the Infused Pickaxe, but lasts a lot longer too."
+		"Sobald du ein paar &aRohe Iesnium-Erze&r gesammelt hast, möchtest du wahrscheinlich die ersten Barren verwenden, um eine &dIesnium-Spitzhacke&r herzustellen. Diese baut nicht nur Iesnium ab wie die Infundierte Spitzhacke, sondern hält auch viel länger."
 		""
-		"Do yourself a favor and make one of these!"
+		"Tu dir selbst einen Gefallen und stelle eine davon her!"
 	]
-	quest.57282D7E31EE61EE.title: "&aThe Otherworld Pickaxe&r"
+	quest.57282D7E31EE61EE.title: "&aDie Anderswelt-Spitzhacke&r"
 	quest.5728D87E3240AF0D.quest_desc: [
-		"Very simple structure, the &ePollinated Streams&r. They are &bSugar Water&r Aqueducts!\\n"
+		"Sehr einfache Struktur, die &eBestäubten Ströme&r. Es sind &bZuckerwasser&r-Aquädukte!\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_streams.png width:200 height:100 align:center}"
 	]
-	quest.5728D87E3240AF0D.title: "&ePollinated Streams"
-	quest.5732936F1FD1D4AE.quest_desc: ["Allows a Mana Burst to influence nearby dropped items, experience orbs, and falling blocks, having them move in the exact same vector of the motion as the burst itself."]
-	quest.573885D6EF32B7BC.quest_subtitle: "Tier: &a2"
+	quest.5728D87E3240AF0D.title: "&eBestäubte Ströme"
+	quest.5732936F1FD1D4AE.quest_desc: ["Erlaubt einem Mana-Schub, nahegelegene fallengelassene Gegenstände, Erfahrungskugeln und fallende Blöcke zu beeinflussen, indem sie sich in genau dem gleichen Vektor der Bewegung wie der Schub selbst bewegen."]
+	quest.573885D6EF32B7BC.quest_subtitle: "Stufe: &a2"
 	quest.573C2242EAB85B49.quest_desc: [
-		"&0&lCoke Oven&r is how we make our &0Coal Coke&r, take a guess what it's made of! \\n\\nWe can use the &0&lOven&r to smelt Logs into &0Charcoal&r, or smelt &0Coal&r and &0Coal Blocks&r into &0Coke&r! \\n\\nEither of these will produce Creosote Oil as well as the normal recipe."
+		"&0&lKoksofen&r ist wie wir unseren &0Kokskohle&r herstellen, rate mal, woraus es gemacht wird! \n\nWir können den &0&lOfen&r verwenden, um Stämme zu &0Holzkohle&r zu schmelzen oder &0Kohle&r und &0Kohleblöcke&r zu &0Koks&r zu schmelzen! \n\nBeides wird Kreosotöl sowie das normale Rezept produzieren."
 		"{@pagebreak}"
-		"The &0&lCoke Oven&r is a very simple Multiblock, 3x3x3 of &0Coke Bricks&r."
+		"Der &0&lKoksofen&r ist ein sehr einfacher Multiblock, 3x3x3 aus &0Kokssteinen&r."
 		"{image:atm:textures/questpics/immersive/immersive_coke1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke3.png width:100 height:100 align:center}"
-		"Simply Right Click the Middle Block of the Front Side with an &6Engineer's Hammer&r to create it."
+		"Klicke einfach mit einem &6Ingenieurshammer&r mit der rechten Maustaste auf den mittleren Block der Vorderseite, um ihn zu erstellen."
 		"{image:atm:textures/questpics/immersive/immersive_coke.png width:100 height:100 align:center}"
 	]
-	quest.573C2242EAB85B49.title: "&l&8Coke Oven"
-	quest.574019B5B7CA43E0.quest_desc: ["The Advanced Inductor! Keep updating those old recipes"]
-	quest.574E65B7954A13D0.quest_desc: ["A necessary Component in order for us to be able to craft our next tier of Energy Hatches!"]
-	quest.574E65B7954A13D0.quest_subtitle: "Zero Points!"
-	quest.5753E0138A072A3F.quest_subtitle: "Cherry + Oak/Dark Oak"
-	quest.5758645223B4B5BA.quest_desc: ["With &3Aqua Walkers&r you can use it's Ability to walk on &9Water&r! You can hold Shift to sink into &9Water&r and Swim. I think I've read about a story like that once?"]
-	quest.5758645223B4B5BA.quest_subtitle: "Found in Shipwrecks and Ocean Ruins"
-	quest.5758645223B4B5BA.title: "&3Aqua Walkers"
-	quest.575E405B270BBCBC.quest_desc: ["In the &9Twilight Forest&r, there are a bunch of new creatures to discover.\\n\\nOne of the worst of these creatures is the Cicada. I suggest killing this for this, but killing any Twilight Forest mob will work."]
-	quest.575E405B270BBCBC.title: "The Silence of the Forest"
-	quest.57630D2B5150F714.quest_desc: ["The UV Piston is a necessary Component of UV machines, and the UV Robotic Arm. "]
-	quest.57630D2B5150F714.quest_subtitle: "The Best Piston"
+	quest.573C2242EAB85B49.title: "&l&8Koksofen"
+	quest.574019B5B7CA43E0.quest_desc: ["Der Fortgeschrittene Induktor! Aktualisiere weiter die alten Rezepte"]
+	quest.574E65B7954A13D0.quest_desc: ["Eine notwendige Komponente, damit wir unsere nächste Stufe von Energieluken herstellen können!"]
+	quest.574E65B7954A13D0.quest_subtitle: "Null Punkte!"
+	quest.5753E0138A072A3F.quest_subtitle: "Kirsche + Eiche/Dunkle Eiche"
+	quest.5758645223B4B5BA.quest_desc: ["Mit &3Aqua-Wanderer&r kannst du die Fähigkeit nutzen, auf &9Wasser&r zu laufen! Du kannst die Umschalttaste gedrückt halten, um ins &9Wasser&r zu sinken und zu schwimmen. Ich glaube, ich habe einmal eine Geschichte darüber gelesen?"]
+	quest.5758645223B4B5BA.quest_subtitle: "Gefunden in Schiffswracks und Ozeanruinen"
+	quest.5758645223B4B5BA.title: "&3Aqua-Wanderer"
+	quest.575E405B270BBCBC.quest_desc: ["Im &9Zwielichtwald&r gibt es eine Menge neuer Kreaturen zu entdecken.\n\nEine der schlimmsten dieser Kreaturen ist die Zikade. Ich schlage vor, diese dafür zu töten, aber das Töten jedes Zwielichtwald-Mobs würde funktionieren."]
+	quest.575E405B270BBCBC.title: "Die Stille des Waldes"
+	quest.57630D2B5150F714.quest_desc: ["Der UV-Kolben ist eine notwendige Komponente von UV-Maschinen und dem UV-Roboterarm."]
+	quest.57630D2B5150F714.quest_subtitle: "Der beste Kolben"
 	quest.5766C8B9E850C186.quest_desc: [
-		"To create one of the main crafting items in Ars, the &9Source Gem&r, we'll need to make an &6Imbuement Chamber&r. \\n\\nThe Imbuement Chamber requires Source to imbue items. It produces a small amount of Source by itself, but can also use Source Jars as a power source. \\n\\nSeveral recipes also require Arcane Pedestals to be placed around it as well.\\n"
+		"Um einen der Hauptherstellungsgegenstände in Ars herzustellen, den &9Quellstein&r, müssen wir eine &6Imbukammer&r erstellen. \n\nDie Imbukammer benötigt Quelle, um Gegenstände zu imprägnieren. Sie produziert selbst eine kleine Menge Quelle, kann aber auch Quellgläser als Energiequelle verwenden. \n\nFür mehrere Rezepte müssen außerdem Arkane Podeste darum herum platziert werden.\n"
 		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
 	]
-	quest.5766C8B9E850C186.quest_subtitle: "Creating Source Gems"
-	quest.576ABF43FCF886B7.title: "&2Prudentium Farmland"
-	quest.577A5FC500E14C05.quest_subtitle: "Lawson Cypress + Oak"
-	quest.5791F3000D18E2C9.quest_desc: ["The &8Wither&r has a tendency to break and blow up Blocks. \\n\\nMost players do not enjoy this, so the &8Witherproof Bricks&r are just what you are looking for! \\n\\nThey are just like &8Witherproof Blocks&r, just with a better design!"]
-	quest.5791F3000D18E2C9.title: "&8Witherproof Bricks"
-	quest.5792CC9E3AFAB229.quest_desc: ["We also have the mod called &aGenerators Galore&r! This mod adds unique generators that use coal or other items."]
-	quest.57940981E8DE55D4.quest_desc: ["It's easy to get lost in the &9Twilight Forest&r. In your travels, you'll run into &5Obsidian Pillars&r.\\n\\nThese pillars will have &8Ravens&r around them. Kill them and they'll drop their feathers, which you can use to create a map for the &9Twilight Forest&r!"]
-	quest.57940981E8DE55D4.title: "&8Raven Feathers"
+	quest.5766C8B9E850C186.quest_subtitle: "Herstellung von Quellsteinen"
+	quest.576ABF43FCF886B7.title: "&2Prudentium-Ackerland"
+	quest.577A5FC500E14C05.quest_subtitle: "Lawson-Zypresse + Eiche"
+	quest.5791F3000D18E2C9.quest_desc: ["Der &8Wither&r hat die Tendenz, Blöcke zu zerstören und zu sprengen. \n\nDie meisten Spieler genießen das nicht, also sind die &8Withersicheren Ziegel&r genau das, wonach du suchst! \n\nSie sind wie &8Withersichere Blöcke&r, nur mit einem besseren Design!"]
+	quest.5791F3000D18E2C9.title: "&8Withersichere Ziegel"
+	quest.5792CC9E3AFAB229.quest_desc: ["Wir haben auch den Mod namens &aGenerators Galore&r! Dieser Mod fügt einzigartige Generatoren hinzu, die Kohle oder andere Gegenstände verwenden."]
+	quest.57940981E8DE55D4.quest_desc: ["Es ist leicht, sich im &9Zwielichtwald&r zu verlaufen. Auf deinen Reisen wirst du auf &5Obsidian-Säulen&r stoßen.\n\nDiese Säulen werden &8Raben&r um sich haben. Töte sie und sie werden ihre Federn fallen lassen, die du verwenden kannst, um eine Karte für den &9Zwielichtwald&r zu erstellen!"]
+	quest.57940981E8DE55D4.title: "&8Rabenfedern"
 	quest.579A41570D610B07.quest_desc: [
-		"This machine is going to see a lot of use, upgrading it is worth it to keep it processing recipes quickly"
+		"Diese Maschine wird viel genutzt werden, es lohnt sich, sie aufzurüsten, um Rezepte schnell zu verarbeiten"
 		""
-		"Consider making multiple of these to help process recipes in parallel"
+		"Erwäge, mehrere davon herzustellen, um Rezepte parallel zu verarbeiten"
 	]
-	quest.579A41570D610B07.quest_subtitle: "Where's your lab coat?"
-	quest.579DA82672BF632C.quest_subtitle: "&f6 &cAttack Damage"
-	quest.57A18F2E51952EB8.quest_desc: ["&5Postboxes&r will use Addresses and &5Trains&r to deliver &ePackages&r! \\n\\nFirst, &ePackages&r can be held on &5Trains&r with &eDepots&r! Obviously the &eDepot&r needs to be connected to the &5Train &fvia &aGlue&r. \\n\\nNext, we can assign the &5Postbox&r to a &5Train Station&r by Right Clicking the &5Train Station&r wtih the &5Postbox&r in Hand. \\n\\nWe can then place the &5Postbox&r nearby and when a &5Train &farrives at the &5Station&r they will interact with the &5Postbox&r. \\n\\nIn the &5Postbox's&r GUI we can change its Address, which will effect whether &ePackages&r are delivered or sent from it. If the Address of the &ePackage&r matches the Address of the &5Postbox&r, it will be sent to the &5Postbox&r. If it doesn't match, it will go from the &5Postbox&r to your &5Train&r!"]
-	quest.57A18F2E51952EB8.title: "&5Postboxes"
-	quest.57A7A5C79389A96A.quest_desc: ["Most Players will already know of &6&lCreate&r especially its billions of Addons! Not that many Mods have whole Modpacks based around them! \\n\\nIf you aren't used to &6&lCreate&r, these Quests should help you to learn the Mod. And with many &eItems &fand &6Machines&r there is a Ponder Option! Hold W while viewing the &eItem&r to watch a schematic that will teach you to understand the &eItem &for &6Machine&r. \\n\\nAnd trust me, you'll want to learn &6&lCreate&r, it is super useful! \\n\\nTo start you'll need &8Andesite&r and lots of it."]
+	quest.579A41570D610B07.quest_subtitle: "Wo ist dein Laborkittel?"
+	quest.579DA82672BF632C.quest_subtitle: "&f6 &cAngriffsschaden"
+	quest.57A18F2E51952EB8.quest_desc: ["&5Briefkästen&r werden Adressen und &5Züge&r verwenden, um &ePakete&r zu liefern! \n\nZunächst können &ePakete&r auf &5Zügen&r mit &eDepots&r gehalten werden! Offensichtlich muss das &eDepot&r mit dem &5Zug &fdurch &aKleber&r verbunden sein. \n\nAls nächstes können wir den &5Briefkasten&r einer &5Zugstation&r zuweisen, indem wir mit Rechtsklick auf die &5Zugstation&r mit dem &5Briefkasten&r in der Hand klicken. \n\nWir können dann den &5Briefkasten&r in der Nähe platzieren und wenn ein &5Zug &fan der &5Station&r ankommt, werden sie mit dem &5Briefkasten&r interagieren. \n\nIn der GUI des &5Briefkastens&r können wir seine Adresse ändern, was beeinflusst, ob &ePakete&r geliefert oder von ihm gesendet werden. Wenn die Adresse des &ePakets&r mit der Adresse des &5Briefkastens&r übereinstimmt, wird es zum &5Briefkasten&r geschickt. Wenn nicht, geht es vom &5Briefkasten&r zu deinem &5Zug&r!"]
+	quest.57A18F2E51952EB8.title: "&5Briefkästen"
+	quest.57A7A5C79389A96A.quest_desc: ["Die meisten Spieler werden &6&lCreate&r bereits kennen, besonders seine Milliarden von Addons! Nicht viele Mods haben ganze Modpacks, die um sie herum basieren! \n\nWenn du nicht mit &6&lCreate&r vertraut bist, sollten dir diese Quests helfen, den Mod zu erlernen. Und bei vielen &eGegenständen &fund &6Maschinen&r gibt es eine Nachdenk-Option! Halte W gedrückt, während du dir den &eGegenstand&r ansiehst, um ein Schema zu sehen, das dir hilft, den &eGegenstand &foder die &6Maschine&r zu verstehen. \n\nUnd glaub mir, du wirst &6&lCreate&r lernen wollen, es ist super nützlich! \n\nZum Start brauchst du &8Andesit&r und davon viel."]
 	quest.57A7A5C79389A96A.title: "&6&lCreate&r"
 	quest.57ACD83205988834.quest_subtitle: "Gold + Ender"
-	quest.57ACD83205988834.title: "Platinum Bee"
-	quest.57B4881AA36A1D76.quest_desc: ["Compress wooden dust into plate form"]
-	quest.57B4881AA36A1D76.quest_subtitle: "Is this plywood?"
+	quest.57ACD83205988834.title: "Platin-Biene"
+	quest.57B4881AA36A1D76.quest_desc: ["Komprimiere Holzstaub zu Plattenform"]
+	quest.57B4881AA36A1D76.quest_subtitle: "Ist das Sperrholz?"
 	quest.57B5100C11F76EE9.quest_desc: [
-		"Now that we are in the Quantum Age, Our machines are flying!"
+		"Jetzt, da wir im Quantenzeitalter sind, fliegen unsere Maschinen!"
 		""
-		"But With greater processing, comes more complications. Power, resources, and processing lines. That doesnt deter us though, right? Thats exactly why we are here!"
+		"Aber mit größerer Verarbeitung kommen mehr Komplikationen. Energie, Ressourcen und Verarbeitungslinien. Das hält uns aber nicht ab, oder? Genau deshalb sind wir hier!"
 	]
-	quest.57B5100C11F76EE9.quest_subtitle: "What comes after Quantum?"
-	quest.57C4A0BAE739E903.quest_desc: ["The Dissolution Chamber is used to craft more advanced machines.\\n\\nYou will need to put a certain fluid in it along with the items needed for what you are crafting. Check JEI."]
-	quest.57C4A0BAE739E903.quest_subtitle: "The Crafting Table?"
-	quest.57CF8C6C867B9BDA.quest_subtitle: "More Filtering Options"
-	quest.57CF8C6C867B9BDA.title: "&eAdvanced Filter Upgrade"
+	quest.57B5100C11F76EE9.quest_subtitle: "Was kommt nach Quantum?"
+	quest.57C4A0BAE739E903.quest_desc: ["Die Auflösungskammer wird verwendet, um fortschrittlichere Maschinen herzustellen.\n\nDu musst eine bestimmte Flüssigkeit zusammen mit den für die Herstellung benötigten Gegenständen hineinlegen. Überprüfe JEI."]
+	quest.57C4A0BAE739E903.quest_subtitle: "Der Werkbanktisch?"
+	quest.57CF8C6C867B9BDA.quest_subtitle: "Mehr Filteroptionen"
+	quest.57CF8C6C867B9BDA.title: "&eErweitertes Filter-Upgrade"
 	quest.57D12E37E980FDBB.quest_desc: [
-		"Naquadah Alloy is very important for us to be able to make components for multiblocks and other machines."
+		"Naquadah-Legierung ist sehr wichtig für uns, um Komponenten für Multiblöcke und andere Maschinen herstellen zu können."
 		""
-		"We will need a lot of Naq Alloy, so we can make all of the Naq Alloy Frames needed for the Rotary Hearth."
+		"Wir werden viel Naq-Legierung benötigen, damit wir alle Naq-Legierungsrahmen herstellen können, die für den Rotationsherd benötigt werden."
 	]
-	quest.57D12E37E980FDBB.quest_subtitle: "This is Naq the alloy you were looking for"
-	quest.57F107892FFA1F52.quest_desc: ["To grow Nether Star Seeds you'll need a Crux below the Farmland. Yes growing Nether Stars needed to be made more expensive! \\n\\nTo make the Nether Star Crux you'll need &7Withering Souls&r which have a 1/3 chance drop from &8Withers&r."]
-	quest.57F1B60DEA622275.quest_desc: ["That wafer needs to be cut into chips now, so back to the Cutter with these"]
-	quest.57F47BA495B27F83.quest_desc: ["&9Tier 1&r Harvest Level is the lowest pickaxe level, needing a pickaxe. Any pickaxe can mine these. Items that are Tier 1 would be like Stone, Furnace, and Coal Ore."]
-	quest.57F47BA495B27F83.title: "&9Harvest Tier 1"
+	quest.57D12E37E980FDBB.quest_subtitle: "Dies ist Naq nicht die Legierung, nach der du gesucht hast"
+	quest.57F107892FFA1F52.quest_desc: ["Um Netherstern-Samen anzubauen, benötigst du einen Sockel unter dem Ackerland. Ja, das Anbauen von Nethersternen musste teurer gemacht werden! \n\nUm den Netherstern-Sockel herzustellen, benötigst du &7Verwitternde Seelen&r, die mit einer 1/3 Chance von &8Withern&r fallen gelassen werden."]
+	quest.57F1B60DEA622275.quest_desc: ["Dieser Wafer muss jetzt in Chips geschnitten werden, also zurück zum Schneider mit diesen"]
+	quest.57F47BA495B27F83.quest_desc: ["&9Stufe 1&r der Abbaustufe ist die niedrigste Spitzhackenstufe, die eine Spitzhacke benötigt. Jede Spitzhacke kann diese abbauen. Gegenstände der Stufe 1 wären wie Stein, Ofen und Kohleerz."]
+	quest.57F47BA495B27F83.title: "&9Abbaustufe 1"
 	quest.57F6323716A0ED24.quest_desc: [
-		"Are we trying to create mutated sewer creatures?"
+		"Versuchen wir, mutierte Kanalkreaturen zu erschaffen?"
 		""
-		"I gotta go tell Master Splinter about this one..."
+		"Ich muss Master Splinter davon erzählen..."
 	]
 	quest.57F6323716A0ED24.quest_subtitle: "TMNT"
 	quest.580148D1141446A6.quest_desc: ["&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r! \\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around. \\n\\nYou can kill them for the Souls that they drop! It is much less efficient though..."]
