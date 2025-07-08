@@ -5999,254 +5999,254 @@
 	quest.3AE0198177A8E91B.quest_subtitle: "Schiffswracks und vergrabene Schätze"
 	quest.3AE0198177A8E91B.title: "Küsten-Rüstungsverzierung"
 	quest.3AE1811C32B94A66.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Exingishes the player if they are on fire, has a cooldown."
+		"Löscht den Spieler, wenn er in Flammen steht, hat eine Abklingzeit."
 	]
-	quest.3AF1DC02E9A0010C.quest_desc: ["&cPressurized Tubes&r will pretty much anything the other Pipes can't move! &cChemicals&f, &cPigments&f, and &cInfuse Types&r are all moved with &cPressurized Tubes&r. \\n\\nIn order to move &cChemicals&r in to &5Machines&r though, we'll need to change the Configs within the &5Machine&r. Those are in the Top Left of the Machine's GUI, Side Configs. They'll need to bet set to Auto-Eject to Output! \\n\\nYou can Craft them with 2 &8Steel Ingots&r and a piece of Glass, any Glass! Then upgrade them with 8 &cTubes&r and a Control Circuit. \\n\\n&a&lBasic&r: will hold 4 Buckets of Chemicals and move 750mB of Chemicals each Tick. \\n&c&lAdvanced&r: will hold 16 Buckets of Chemicals and move 2 Buckets of Chemicals each Tick. \\n\\n&b&lElite&r: will hold 256 Buckets of Chemicals and will move 64 Buckets each Tick. \\n\\n&d&lUltimate&r: will hold 1,024 Buckets and will move 256 Buckets each Tick."]
-	quest.3AF1DC02E9A0010C.quest_subtitle: "Chemicals, Pigments, Infuse Types"
-	quest.3AF1DC02E9A0010C.title: "&cPressurized Tubes"
-	quest.3AF2BC9A0E298882.quest_desc: ["With our &8Andesite Alloys&r we can now make &8Andesite Casing&r. \\n\\nGet some Wood, Strip it with an Axe, and then Right Click the Stripped Wood with the &8Andesite Alloy&r. \\n\\nThat will give us our &8Andesite Casing&r! \\n\\n&8Andesite Casing&r will be needed for many, many, many &6Machines&r! And looks good for decoration."]
-	quest.3AF2BC9A0E298882.title: "&6&lMachines"
-	quest.3AF30E1EC163E2E3.quest_subtitle: "Feed a Diamond Bee a Sapphire"
-	quest.3AF30E1EC163E2E3.title: "Sapphire Bee"
-	quest.3AF7446592D19FA6.quest_desc: ["&eRegalium&r is the Emerald equivalent in &2&lUndergarden&r. \\n\\nIt can't be made into Armor or Tools but it can be used to trade with &2Stoneborns&r for other Items."]
+	quest.3AF1DC02E9A0010C.quest_desc: ["&cDruckrohre&r können so ziemlich alles transportieren, was andere Rohre nicht bewegen können! &cChemikalien&f, &cPigmente&f und &cInfusionstypen&r werden alle mit &cDruckrohren&r bewegt. \\n\\nUm &cChemikalien&r in &5Maschinen&r zu bewegen, müssen wir jedoch die Konfigurationen innerhalb der &5Maschine&r ändern. Diese befinden sich in der oberen linken Ecke der Maschinen-GUI, Seitenkonfigurationen. Sie müssen auf Auto-Auswurf eingestellt werden, um auszugeben! \\n\\nDu kannst sie mit 2 &8Stahlbarren&r und einem Stück Glas, egal welchem Glas, herstellen! Dann rüste sie mit 8 &cRohren&r und einem Steuerkreislauf auf. \\n\\n&a&lBasic&r: kann 4 Eimer Chemikalien halten und bewegt 750mB Chemikalien pro Tick. \\n&c&lAdvanced&r: kann 16 Eimer Chemikalien halten und bewegt 2 Eimer Chemikalien pro Tick. \\n\\n&b&lElite&r: kann 256 Eimer Chemikalien halten und bewegt 64 Eimer pro Tick. \\n\\n&d&lUltimate&r: kann 1.024 Eimer halten und bewegt 256 Eimer pro Tick."]
+	quest.3AF1DC02E9A0010C.quest_subtitle: "Chemikalien, Pigmente, Infusionstypen"
+	quest.3AF1DC02E9A0010C.title: "&cDruckrohre"
+	quest.3AF2BC9A0E298882.quest_desc: ["Mit unseren &8Andesit-Legierungen&r können wir jetzt &8Andesit-Gehäuse&r herstellen. \\n\\nBesorge etwas Holz, schäle es mit einer Axt und klicke dann mit der rechten Maustaste auf das geschälte Holz mit der &8Andesit-Legierung&r. \\n\\nDas gibt uns unser &8Andesit-Gehäuse&r! \\n\\n&8Andesit-Gehäuse&r werden für viele, viele, viele &6Maschinen&r benötigt! Und sie sehen als Dekoration gut aus."]
+	quest.3AF2BC9A0E298882.title: "&6&lMaschinen"
+	quest.3AF30E1EC163E2E3.quest_subtitle: "Füttere eine Diamantbiene mit einem Saphir"
+	quest.3AF30E1EC163E2E3.title: "Saphir-Biene"
+	quest.3AF7446592D19FA6.quest_desc: ["&eRegalium&r ist das Smaragd-Äquivalent im &2&lUntergarten&r. \\n\\nEs kann nicht zu Rüstungen oder Werkzeugen verarbeitet werden, aber es kann zum Handeln mit &2Steinernen&r für andere Gegenstände verwendet werden."]
 	quest.3AF7446592D19FA6.title: "&eRegalium&r"
 	quest.3B0BC233A6C81B73.quest_desc: [
-		"Your First Raw Crystal Chip may take quite a few tries to get. "
+		"Dein erster Roher Kristall-Chip könnte einige Versuche benötigen. "
 		""
-		"But once you get it, you can reliably duplicate them using a simple loop of crafting a Raw Crystal Chip, Forge Hammering it, into Raw Crystal Chip parts, then processing those into more Raw Crystal Chips, and repeating. "
+		"Aber sobald du ihn hast, kannst du sie zuverlässig duplizieren, indem du einen einfachen Kreislauf aus dem Herstellen eines Rohen Kristall-Chips, Schmiedehämmern zu Rohen Kristall-Chip-Teilen, dann Verarbeiten dieser zu mehr Rohen Kristall-Chips und Wiederholen verwendest. "
 	]
-	quest.3B0BC233A6C81B73.quest_subtitle: "Low Odds"
+	quest.3B0BC233A6C81B73.quest_subtitle: "Geringe Chancen"
 	quest.3B1268D75B34A0F6.quest_desc: [
-		"Now were talking! Our machines have some Horsepower behind them. However, even if it seems ridiculous, we are going to need more!"
+		"Jetzt reden wir! Unsere Maschinen haben etwas Pferdestärke hinter sich. So lächerlich es auch erscheinen mag, wir werden noch mehr brauchen!"
 		""
-		"But this will do for now."
+		"Aber das wird vorerst reichen."
 	]
-	quest.3B1268D75B34A0F6.quest_subtitle: "Hydrogen said it’s feeling positive today, probably because it lost an electron."
+	quest.3B1268D75B34A0F6.quest_subtitle: "Wasserstoff sagte, er fühle sich heute positiv, wahrscheinlich weil er ein Elektron verloren hat."
 	quest.3B13BBC38696D452.quest_desc: [
-		"Applied Energistics 2 (or &oAE2&r for short) is an incredibly versatile &bdigital storage&f mod! "
+		"Applied Energistics 2 (oder &oAE2&r abgekürzt) ist ein unglaublich vielseitiger &bdigitaler Speicher&f-Mod! "
 		""
-		"Even if you've chosen to go the &aRS&r route, you'll still need to make a few items from the mod to make the &6Star&r."
+		"Selbst wenn du dich für den &aRS&r-Weg entschieden hast, wirst du trotzdem einige Gegenstände aus dem Mod benötigen, um den &6Stern&r herzustellen."
 		""
-		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"07210DDF872160BA\"}, \"text\": \"Click here to start the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"07210DDF872160BA\"}, \"text\": \"Klicke hier, um die Questlinie zu starten!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
 	quest.3B13BBC38696D452.title: "Applied Energistics 2"
-	quest.3B3B38B17CF5D81C.quest_desc: ["&ePackage Frogports&r are adorable and helpful &6Machines&r used for mixing &ePackages&f and &8Chain Conveyors&r! \\n\\nFirst, Right Click a part of the &8Chain &fon a &8Chain Conveyor&r with the &eFrogport&r in Hand, this will set it as the &eFrogports&r destination. \\n\\nThen, when placed we can mess with its GUI. Here we can change the name of its Address, determine whether it takes and gives &ePackages&r or just gives &ePackages&r. \\n\\nThey have 18 Slots to Hold &ePackages&r for moving. \\n\\nIf the Address of the &ePackage&r doesn't match the Address you gave the &eFrogport&f, the &eFrogport&r will send the &ePackage&r onto the &8Chain Conveyor&r. \\n\\nIf it matches the Address, the &ePackage&r will be taken into the &eFrogport&r. If there is no matching Address the &ePackage&r will just go in circles! \\n\\n&ePackages&r can also be automatically sent and taken from &eFrogports&r with &eFunnels &fand &eBelts&r."]
+	quest.3B3B38B17CF5D81C.quest_desc: ["&ePackage-Frogports&r sind niedliche und hilfreiche &6Maschinen&r, die zum Mischen von &ePackages&f und &8Kettenförderbändern&r verwendet werden! \\n\\nKlicke zunächst mit der rechten Maustaste auf einen Teil der &8Kette&f an einem &8Kettenförderer&r mit dem &eFrogport&r in der Hand, dies wird als Ziel des &eFrogports&r festgelegt. \\n\\nDann können wir, wenn platziert, mit seiner GUI spielen. Hier können wir den Namen seiner Adresse ändern, bestimmen, ob es &ePackages&r nimmt und gibt oder nur &ePackages&r gibt. \\n\\nSie haben 18 Plätze zum Halten von &ePackages&r zum Bewegen. \\n\\nWenn die Adresse des &ePackage&r nicht mit der Adresse übereinstimmt, die du dem &eFrogport&f gegeben hast, wird der &eFrogport&r das &ePackage&r auf das &8Kettenförderer&r senden. \\n\\nWenn sie übereinstimmt, wird das &ePackage&r in den &eFrogport&r aufgenommen. Wenn es keine passende Adresse gibt, wird das &ePackage&r einfach im Kreis gehen! \\n\\n&ePackages&r können auch automatisch von &eFrogports&r mit &eTrichtern&f und &eFörderbändern&r gesendet und genommen werden."]
 	quest.3B3B38B17CF5D81C.title: "&ePackage Frogport"
-	quest.3B3BD39BA02DCA13.quest_desc: ["With the &6Pocket Piston&r your Attacks will hit your Enemies much farther! \\n\\nI wonder which wins, &6Pocket Piston&r or &7Steadfast Boots&r?"]
-	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
-	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
+	quest.3B3BD39BA02DCA13.quest_desc: ["Mit dem &6Taschenkolben&r werden deine Angriffe deine Feinde viel weiter treffen! \\n\\nIch frage mich, was gewinnt, &6Taschenkolben&r oder &7Standhaftigkeitsstiefel&r?"]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Hände"
+	quest.3B3BD39BA02DCA13.title: "&6Taschenkolben&r"
 	quest.3B3E3D81843BB358.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Increases running speed."
+		"Erhöht die Laufgeschwindigkeit."
 	]
-	quest.3B42CCC19D23EC6D.quest_desc: ["The second tier of storage component, providing &e4096&f bytes of storage."]
+	quest.3B42CCC19D23EC6D.quest_desc: ["Die zweite Stufe der Speicherkomponente, die &e4096&f Bytes Speicher bietet."]
 	quest.3B42CCC19D23EC6D.quest_subtitle: "x4"
-	quest.3B42CCC19D23EC6D.title: "4k Storage Component"
+	quest.3B42CCC19D23EC6D.title: "4k Speicherkomponente"
 	quest.3B4511E7DC788AB3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tenacious.png width:100 height:150 align:center}"]
-	quest.3B4511E7DC788AB3.title: "&dTenacious Petal&r"
-	quest.3B4BF42C55C8BBBF.quest_desc: ["Don't you hate when your breaking something and the Blocks fall just out of your reach! \\n\\nWell worry no more for we have &4Magnets&r! Simply Right Click while holding the &4Magnet&r to turn it on. Then, all dropped Items and Blocks in a 5 Block Radius will come to you. \\n\\nYou can also equip the &4Magnet&r in your Curios to keep using it! \\n\\nIf you don't wish to continue using the &4Magnet&r (I find this happens near Mob Farms) then just Right Click with it again to disable it. \\n\\nIt can also be upgraded to increase the range!"]
+	quest.3B4511E7DC788AB3.title: "&dZähe Blütenblätter&r"
+	quest.3B4BF42C55C8BBBF.quest_desc: ["Hasst du es nicht, wenn du etwas zerstörst und die Blöcke fallen gerade außerhalb deiner Reichweite! \\n\\nKeine Sorge mehr, denn wir haben &4Magnete&r! Klicke einfach mit der rechten Maustaste, während du den &4Magneten&r hältst, um ihn einzuschalten. Dann werden alle fallengelassenen Gegenstände und Blöcke in einem Umkreis von 5 Blöcken zu dir kommen. \\n\\nDu kannst den &4Magneten&r auch in deinen Curios ausrüsten, um ihn weiter zu benutzen! \\n\\nWenn du den &4Magneten&r nicht weiter benutzen möchtest (ich finde, das passiert in der Nähe von Mob-Farmen), klicke einfach noch einmal mit der rechten Maustaste, um ihn zu deaktivieren. \\n\\nEr kann auch aufgerüstet werden, um die Reichweite zu erhöhen!"]
 	quest.3B4BF42C55C8BBBF.title: "&l&9Simple &4Magnets"
 	quest.3B4F326D72E794D3.quest_desc: [
-		"This is where the &aCracker&r comes in handy, as it doesn't lose any of your hard earned Naphtha when cracking"
+		"Hier kommt der &aCracker&r ins Spiel, da er beim Cracken kein mühsam gewonnenes Naphtha verliert"
 		""
-		"An alternative is to use a &eChemical Reactor&r, but that loses half the Naphtha!"
+		"Eine Alternative ist die Verwendung eines &eChemischen Reaktors&r, aber der verliert die Hälfte des Naphthas!"
 		""
-		"You probably want to make another &aDistillation Tower&r to distill this"
+		"Du solltest wahrscheinlich einen weiteren &aDestillationsturm&r bauen, um dies zu destillieren"
 	]
-	quest.3B542DC05240242C.quest_subtitle: "&f6 &cAttack Damage"
-	quest.3B560B2ECE331CAF.quest_desc: ["This is a Tier 3 Pillar Cap for the Starlight Charger."]
-	quest.3B560B2ECE331CAF.title: "Tier 3 Starlight Charger Pillar Cap"
-	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 Storage Upgrade"
-	quest.3B570B3DB5F6D2CB.title: "&eGold Upgrade&r"
-	quest.3B577572FA7A413E.quest_desc: ["The &3Wrath of the &eDesert&r is a combination of the &3Cursed Bow&r and &eSandstorm in a Bottle&r. \\n\\nThis Bow doesn't shoot Arrows like normal, instead it will shoot &3Cursed &eSandstorms&r! \\n\\nThree of them to be exact! \\n\\nIt also doesn't need Arrows to shoot, which is also nice."]
-	quest.3B577572FA7A413E.title: "&3Wrath of the &eDesert"
-	quest.3B6F1BD64C0C570F.quest_desc: ["Just like wind generation this will give you lots of power without giving it any resources. The only downside here is it has to be daytime. "]
-	quest.3B6F1BD64C0C570F.title: "Solar Power"
-	quest.3B6F723B03C4BF55.quest_desc: ["Digestion (very crude form of processing) is how we change &3Alchemical Niters&r to different forms. \\n\\nFirst we'll need Purified Gold which can be made from putting Gold, &bAlchemical Salt&r, and &9Water&r into the Digestion Vat and Shift Right Click to close it like the Fermentation Vat. \\n\\nThen we can either combine 4 of one &3Alchemical Niter&r with Purified Gold and &dSal Ammoniac&r to get a higher Tier or do the reverse for a lower Tier."]
-	quest.3B6F723B03C4BF55.title: "Digestion Vat"
+	quest.3B542DC05240242C.quest_subtitle: "&f6 &cAngriffsschaden"
+	quest.3B560B2ECE331CAF.quest_desc: ["Dies ist eine Stufe-3-Säulenkappe für den Sternenlicht-Aufladegerät."]
+	quest.3B560B2ECE331CAF.title: "Stufe-3-Sternenlicht-Aufladegerät-Säulenkappe"
+	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 Speicher-Upgrade"
+	quest.3B570B3DB5F6D2CB.title: "&eGold-Upgrade&r"
+	quest.3B577572FA7A413E.quest_desc: ["Der &3Zorn der &eWüste&r ist eine Kombination aus dem &3Verfluchten Bogen&r und &eSandsturm in einer Flasche&r. \\n\\nDieser Bogen schießt keine normalen Pfeile, sondern &3Verfluchte &eSandstürme&r! \\n\\nGenauer gesagt, drei davon! \\n\\nAußerdem benötigt er keine Pfeile zum Schießen, was auch nett ist."]
+	quest.3B577572FA7A413E.title: "&3Zorn der &eWüste"
+	quest.3B6F1BD64C0C570F.quest_desc: ["Genau wie die Windenergieerzeugung gibt dir dies viel Energie, ohne dass du Ressourcen hinzufügen musst. Der einzige Nachteil ist, dass es Tag sein muss."]
+	quest.3B6F1BD64C0C570F.title: "Solarenergie"
+	quest.3B6F723B03C4BF55.quest_desc: ["Verdauung (eine sehr grobe Form der Verarbeitung) ist die Methode, wie wir &3Alchemistischen Salpeter&r in verschiedene Formen umwandeln. \\n\\nZuerst brauchen wir Gereinigtes Gold, das hergestellt werden kann, indem Gold, &bAlchemistisches Salz&r und &9Wasser&r in das Verdauungsgefäß gegeben und mit Umschalttaste und Rechtsklick geschlossen wird, wie beim Fermentationsgefäß. \\n\\nDann können wir entweder 4 von einem &3Alchemistischen Salpeter&r mit Gereinigtem Gold und &dSal Ammoniac&r kombinieren, um eine höhere Stufe zu erhalten, oder umgekehrt für eine niedrigere Stufe."]
+	quest.3B6F723B03C4BF55.title: "Verdauungsgefäß"
 	quest.3B7BB08D6AA2E7FE.quest_desc: [
-		"Now the &cRed Super Candles&r finally look in place! We know it's the &cRed one&r by the &cRed Flowers&r and &cRed Luminescent Ancient Wax&r. \\n\\nVenture through the &cfirey red rooms&r to get to the &cRed Essence&r. \\n\\nDozens of different angry Mobs will spawn: Wolves, Polar Bears, and Hoglins. Kill them all to win!"
+		"Jetzt sehen die &cRoten Superkerzen&r endlich passend aus! Wir erkennen, dass es sich um die &crote&r handelt, an den &croten Blumen&r und dem &croten leuchtenden antiken Wachs&r. \\n\\nWandere durch die &cfeurigen roten Räume&r, um zur &croten Essenz&r zu gelangen. \\n\\nDutzende verschiedener wütender Mobs werden spawnen: Wölfe, Eisbären und Hoglins. Töte sie alle, um zu gewinnen!"
 		"{image:atm:textures/questpics/bumblezone/bumble_red1.png width:200 height:100 align:center}"
 		"{image:atm:textures/questpics/bumblezone/bumble_red2.png width:200 height:100 align:center}"
 	]
-	quest.3B7BB08D6AA2E7FE.title: "&cRed Sempiternal Sanctum&r"
+	quest.3B7BB08D6AA2E7FE.title: "&cRotes Ewiges Heiligtum&r"
 	quest.3B84215240D9F2CB.quest_desc: [
-		"The &9Security Manager&r allows you to grant access and permissions to users within your network. "
+		"Der &9Sicherheitsmanager&r ermöglicht es dir, Zugang und Berechtigungen für Benutzer innerhalb deines Netzwerks zu gewähren. "
 		""
-		"When placed in your system, you'll need to create a &9Security Card&r for each player you'd like to configure permissions for. When no cards are present, everyone has access to all permissions. "
+		"Wenn er in deinem System platziert ist, musst du eine &9Sicherheitskarte&r für jeden Spieler erstellen, für den du Berechtigungen konfigurieren möchtest. Wenn keine Karten vorhanden sind, haben alle Zugriff auf alle Berechtigungen. "
 		""
-		"To restrict permissions and access to all unconfigured players, configure a card that isn't bound to a player and put it into the manager. The person who placed the Security Manager will always have access to it."
+		"Um die Berechtigungen und den Zugriff für alle nicht konfigurierten Spieler einzuschränken, konfiguriere eine Karte, die nicht an einen Spieler gebunden ist, und lege sie in den Manager. Die Person, die den Sicherheitsmanager platziert hat, wird immer Zugriff darauf haben."
 	]
-	quest.3B84215240D9F2CB.quest_subtitle: "Secure your grid!"
-	quest.3B84215240D9F2CB.title: "Security Manager"
-	quest.3B884E05AE2EEBFC.quest_subtitle: "Tier: &c5"
-	quest.3B88D58B11B5DC78.quest_subtitle: "Tier: &54"
-	quest.3B936CA3F0F7B26B.quest_desc: ["The &l&7Digital Miner&r is a 3x2x3... Block? &5Machine&r? \\n\\nWe all know of Void Miners but come on those are weird! This Mines actual Blocks! \\n\\nWe can Right Click it to open it's GUI, here we can see a whole bunch! Buttons, Screens, and even Slots! \\n\\nSlots are where the Mined &eItems&r will go to. The Screen will tell if it is ready, doesn't have enough &aEnergy&r, or how many Blocks it can Mine. It also has Buttons within the Screen to Auto-Eject, suck up the Blocks it Mines, and even use Silk Touch! \\n\\nThe Buttons will do everything else! We can use Visuals to see the area that will be Mined. Or even add Upgrades to make it better! \\n\\nStart: will tell the &l&7Digital Miner&r to start Mining! It won't work if the &5Machine&r isn't ready. Stop: will tell the &l&7Digital Miner&r to stop Mining. Config: sets Filters, this is important. Reset: is broken. \\n\\nConfigs left side sets the Working Area for the Mining. How far, high, and low! The right side is for the actual &eItem&r Filter. The Filter is the same as with &e&lQIO&r &eImporters &fand &eExporters&r, check out their Quest to learn how to set those! \\n\\nYou can also use Inverse Mode to Blacklist the Filters. Plus Replacements which will fill in the Mined Blocks. "]
+	quest.3B84215240D9F2CB.quest_subtitle: "Sichere dein Netzwerk!"
+	quest.3B84215240D9F2CB.title: "Sicherheitsmanager"
+	quest.3B884E05AE2EEBFC.quest_subtitle: "Stufe: &c5"
+	quest.3B88D58B11B5DC78.quest_subtitle: "Stufe: &54"
+	quest.3B936CA3F0F7B26B.quest_desc: ["Der &l&7Digital Miner&r ist ein 3x2x3... Block? &5Maschine&r? \\n\\nWir alle kennen Void Miner, aber komm schon, die sind komisch! Dieser gräbt tatsächlich Blöcke ab! \\n\\nWir können mit der rechten Maustaste darauf klicken, um seine GUI zu öffnen, hier sehen wir eine ganze Menge! Knöpfe, Bildschirme und sogar Slots! \\n\\nSlots sind, wo die abgebauten &eGegenstände&r hingehen. Der Bildschirm zeigt an, ob er bereit ist, nicht genug &aEnergie&r hat oder wie viele Blöcke er abbauen kann. Er hat auch Knöpfe innerhalb des Bildschirms für automatisches Auswerfen, Aufsaugen der abgebauten Blöcke und sogar Verwendung von Seidenberührung! \\n\\nDie Knöpfe erledigen alles andere! Wir können Visuals verwenden, um den Bereich zu sehen, der abgebaut wird. Oder sogar Upgrades hinzufügen, um ihn zu verbessern! \\n\\nStart: wird dem &l&7Digital Miner&r sagen, mit dem Abbau zu beginnen! Es wird nicht funktionieren, wenn die &5Maschine&r nicht bereit ist. Stop: wird dem &l&7Digital Miner&r sagen, mit dem Abbau aufzuhören. Config: setzt Filter, das ist wichtig. Reset: ist kaputt. \\n\\nConfigs linke Seite legt den Arbeitsbereich für das Mining fest. Wie weit, hoch und tief! Die rechte Seite ist für den eigentlichen &eGegenstand&r-Filter. Der Filter ist der gleiche wie bei &e&lQIO&r &eImportern&f und &eExportern&r, schau dir deren Quest an, um zu lernen, wie man diese einstellt! \\n\\nDu kannst auch den Inversen Modus verwenden, um die Filter auf die schwarze Liste zu setzen. Plus Ersetzungen, die die abgebauten Blöcke auffüllen werden."]
 	quest.3B936CA3F0F7B26B.title: "&l&7Digital Miner"
 	quest.3B9E6FBEDABA4F7E.quest_desc: [
-		"Deep within the &6&lHive Walls&r you may find a &6Honey&r Cave! \\n\\nHere you can find &6Honey Fluid&r, &5Honey Crystals&r, Brood Blocks, and even Beehemoths! \\n\\nEverything &6Honey&r related. "
+		"Tief in den &6&lWabenwänden&r findest du vielleicht eine &6Honig&r-Höhle! \\n\\nHier findest du &6Honigflüssigkeit&r, &5Honigkristalle&r, Brutblöcke und sogar Bienenhemmoths! \\n\\nAlles &6Honig&r-bezogen. "
 		"{image:atm:textures/questpics/bumblezone/bumble_cave.png width:200 height:100 align:center}"
 	]
-	quest.3B9E6FBEDABA4F7E.title: "&6Honey&r Cave Room"
-	quest.3BA4504DEFB87264.quest_desc: ["Works similar to the &lSimply Lights&r, Inverted will Light when no Redstone is applied to it while normal will only work with Redstone. \\n\\nThese need to be attached to a Wall to be placed though."]
-	quest.3BA4504DEFB87264.title: "Wall Lamps"
-	quest.3BAEF1A3FDB818A4.quest_subtitle: "European Larch + Red Maple"
-	quest.3BB0926C4C00BE1D.quest_desc: ["Don't you hate when you run out of Energy in your Jetpack? Well you'll neever need to worry about that again! \\n\\nYou might need to make every Jetpack before it, an &6&lATM Star&r, plus more expensive Items but hey it is worth it! \\n\\nJust put it on and use it as normal, just with less charging."]
-	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
-	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)"]
-	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
-	quest.3BC0A50886A3222B.title: "&dWelcome to All The Mods 10!"
-	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
-	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
-	quest.3BD5C517AD024A45.quest_desc: ["The last Superconductor we made was a while back. But now each tier's Superconductor will become more important, as well as allow us to have no Amperage loss cabling!"]
-	quest.3BD5C517AD024A45.quest_subtitle: "Recall"
-	quest.3BD73FEAE853D350.quest_desc: ["Ever hate how slow &bIce&r is unless using a Boat? Which still doesn't make sense to me! &bIce Skates&r change that now you accelerate on &bIce&r while wearing &bIce Skates&r. You can upgrade them to accel faster! \\n \\nAfter upgrading them you can get a Second Ability which allows you to damage Mobs by running into them while wearing &bIce Skates&r."]
-	quest.3BD73FEAE853D350.quest_subtitle: "Found in Villages in Taigas or Snowy Taigas"
-	quest.3BD73FEAE853D350.title: "&bIce Skates"
-	quest.3BDB94F17765EE77.quest_desc: ["If you're looking to generate a ton of power, you can start by scaling up some of the options from the &9Mid Game Power&r section. Make your &aReactors&r bigger. Upgrade your &9Thermo Generators&r to Nitro. Go wild.\\n\\nHowever, you may need even more power."]
-	quest.3BDB94F17765EE77.quest_subtitle: "More Power Than You'll Need"
-	quest.3BDB94F17765EE77.title: "End Game Power Options"
-	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Soul Lava is a part of &6&lAllthemodium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\\n\\nWe'll need to feed a Bucket of &9Soul Lava&r to a Ghostly Bee to make a &9Soul Lava Bee&r.\\n\\nThen, you'll need to squish them or poke them for it's DNA to make a Spawn Egg!  "]
-	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&r Spawn Egg"
+	quest.3B9E6FBEDABA4F7E.title: "&6Honig&r-Höhlenraum"
+	quest.3BA4504DEFB87264.quest_desc: ["Funktioniert ähnlich wie &lSimply Lights&r, Invertiert wird leuchten, wenn kein Redstone angelegt wird, während normal nur mit Redstone funktioniert. \\n\\nDiese müssen jedoch an einer Wand befestigt werden, um platziert zu werden."]
+	quest.3BA4504DEFB87264.title: "Wandlampen"
+	quest.3BAEF1A3FDB818A4.quest_subtitle: "Europäische Lärche + Rotahorn"
+	quest.3BB0926C4C00BE1D.quest_desc: ["Hasst du es nicht, wenn dir die Energie in deinem Jetpack ausgeht? Nun, darüber musst du dir nie wieder Sorgen machen! \\n\\nDu musst vielleicht jeden Jetpack davor herstellen, einen &6&lATM Star&r, plus teurere Gegenstände, aber hey, es ist es wert! \\n\\nLege ihn einfach an und benutze ihn wie gewohnt, nur mit weniger Aufladen."]
+	quest.3BB0926C4C00BE1D.title: "&5&lKreativer Jetpack"
+	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Geschwindigkeit II (3:00)"]
+	quest.3BB3AA6C29285837.title: "&2Prudentium-Apfel"
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 ist ein Kitchensink-Pack, das es dir ermöglicht, die Welt von Modded Minecraft auf deine eigene Weise zu erkunden!\\n\\nWenn du Fragen oder Probleme hast, tritt gerne dem ATM Discord bei!"]
+	quest.3BC0A50886A3222B.title: "&dWillkommen bei All The Mods 10!"
+	quest.3BC94B0B922C0708.quest_desc: ["Dies sind Herstellungszutaten für Dinge, die importieren, ob es sich um Gegenstände, Flüssigkeiten oder Energie handelt."]
+	quest.3BD304D851F49EC0.quest_subtitle: "Holunder + Silbertanne"
+	quest.3BD5C517AD024A45.quest_desc: ["Der letzte Supraleiter, den wir hergestellt haben, ist schon eine Weile her. Aber jetzt wird der Supraleiter jeder Stufe wichtiger werden und uns auch ermöglichen, keine Ampere-Verluste bei der Verkabelung zu haben!"]
+	quest.3BD5C517AD024A45.quest_subtitle: "Erinnerung"
+	quest.3BD73FEAE853D350.quest_desc: ["Hasst du nicht, wie langsam &bEis&r ist, es sei denn, du benutzt ein Boot? Was für mich immer noch keinen Sinn ergibt! &bEisschuhe&r ändern das, jetzt beschleunigst du auf &bEis&r, während du &bEisschuhe&r trägst. Du kannst sie aufrüsten, um schneller zu beschleunigen! \\n \\nNach dem Aufrüsten erhältst du eine zweite Fähigkeit, die es dir ermöglicht, Mobs zu schädigen, indem du in sie hineinläufst, während du &bEisschuhe&r trägst."]
+	quest.3BD73FEAE853D350.quest_subtitle: "Gefunden in Dörfern in Taiga oder Schneereichen Taiga"
+	quest.3BD73FEAE853D350.title: "&bEisschuhe"
+	quest.3BDB94F17765EE77.quest_desc: ["Wenn du eine Menge Energie erzeugen möchtest, kannst du damit beginnen, einige der Optionen aus dem Abschnitt &9Mittlere Spielphase Energie&r zu skalieren. Mache deine &aReaktoren&r größer. Rüste deine &9Thermo-Generatoren&r auf Nitro auf. Werde wild.\\n\\nAber vielleicht brauchst du noch mehr Energie."]
+	quest.3BDB94F17765EE77.quest_subtitle: "Mehr Energie als du brauchen wirst"
+	quest.3BDB94F17765EE77.title: "Endspiel-Energieoptionen"
+	quest.3BE5CD0C7CC4BCC6.quest_desc: ["Seelenlava ist ein Teil von &6&lAllthemodium&r. Es kann im &b&lAnderen&r sehr selten unterirdisch gefunden werden oder häufig in Piglich-Dörfern!\\n\\nWir müssen einen Eimer &9Seelenlava&r an eine Geisterbiene verfüttern, um eine &9Seelenlava-Biene&r zu machen.\\n\\nDann musst du sie zerquetschen oder stechen, um ihre DNA für ein Spawn-Ei zu bekommen!"]
+	quest.3BE5CD0C7CC4BCC6.title: "&9Seelenlava-Biene&r Spawn-Ei"
 	quest.3BEDF19CD79D53D5.quest_desc: [
-		"The &aDistillation Tower&r serves as the foundation for &dOil Processing&r which can turn oil into many more useful forms"
+		"Der &aDestillationsturm&r dient als Grundlage für die &dÖlverarbeitung&r, die Öl in viele nützlichere Formen umwandeln kann"
 		""
-		"When building the Tower, you will need it to be &c1 + Fluid Outputs tall&r to process recipes correctly"
+		"Beim Bau des Turms muss er &c1 + Flüssigkeitsausgänge hoch&r sein, um Rezepte korrekt zu verarbeiten"
 		""
-		"&eFor example&r, if the recipe you want to run outputs 5 fluids, then your tower must be at least 6 tall with 5 output hatches "
+		"&eZum Beispiel&r, wenn das Rezept, das du ausführen möchtest, 5 Flüssigkeiten ausgibt, dann muss dein Turm mindestens 6 hoch sein mit 5 Ausgängen"
 		""
-		"The max size is a 3x3x13 structure"
+		"Die maximale Größe ist eine 3x3x13 Struktur"
 		""
-		"&bRemember:&r For how to build multiblocks, look at the uses of the multiblock controller in JEI for the &3Multiblock Info&r page"
+		"&bErinnerung:&r Für den Aufbau von Multiblöcken, schaue dir die Verwendungen des Multiblock-Controllers in JEI für die &3Multiblock-Info&r-Seite an"
 		""
-		"How you get the oil is left up to you! A couple options are outlined in the quests below"
+		"Wie du an das Öl kommst, ist dir überlassen! Einige Optionen sind in den Quests unten beschrieben"
 	]
-	quest.3BEDF19CD79D53D5.quest_subtitle: "Ah finally, real fluid processing"
-	quest.3BF1900346772703.quest_subtitle: "Tier: &f2"
+	quest.3BEDF19CD79D53D5.quest_subtitle: "Ah endlich, echte Flüssigkeitsverarbeitung"
+	quest.3BF1900346772703.quest_subtitle: "Stufe: &f2"
 	quest.3BF32843DE3CF3C2.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
-		"- Decoy"
+		"Gültige Upgrades:"
+		"- Laufgeschwindigkeit"
+		"- Gehgeschwindigkeit"
+		"- Schwimmgeschwindigkeit"
+		"- Köder"
 	]
 	quest.3BF90C250AC1ADF3.quest_desc: [
-		"Lets add in some Industrial Foregoing Black Hole Controllers, just for good measure."
+		"Fügen wir einige Industrial Foregoing Schwarze Loch Controller hinzu, nur zur Sicherheit."
 		""
-		"This way, we know that the resulting Star can be controlled, and its immense power wont run rampantly out of control."
+		"Auf diese Weise wissen wir, dass der resultierende Stern kontrolliert werden kann und seine immense Kraft nicht unkontrolliert davonläuft."
 	]
-	quest.3BF90C250AC1ADF3.quest_subtitle: "Black Hole Controller"
-	quest.3C2F5AB815A6C949.quest_desc: ["To make an &2Infused Iron Ingot&r place an Iron Ingot on the &2Natural Altar&r.\\n\\nThis process will be quicker than with &6Tainted Gold."]
+	quest.3BF90C250AC1ADF3.quest_subtitle: "Schwarzes Loch Controller"
+	quest.3C2F5AB815A6C949.quest_desc: ["Um einen &2Infundierten Eisenbarren&r herzustellen, platziere einen Eisenbarren auf dem &2Natürlichen Altar&r.\\n\\nDieser Prozess wird schneller sein als mit &6Getöntem Gold."]
 	quest.3C322474D2F2BA99.quest_desc: [
-		"The Teleport Pad is used to teleport to 3 new dimensions added by the ATM pack."
+		"Das Teleport-Pad wird verwendet, um zu 3 neuen Dimensionen zu teleportieren, die vom ATM-Paket hinzugefügt wurden."
 		""
-		"You can use it to get to the &aMining Dimension&r by placing it in the overworld, then shift right clicking with an empty hand."
+		"Du kannst es verwenden, um zur &aMinendimension&r zu gelangen, indem du es in der Oberwelt platzierst und dann mit Umschalt-Rechtsklick mit einer leeren Hand klickst."
 		""
-		"To go to the &cOther&r, do the same thing but in the Nether."
+		"Um zum &cAnderen&r zu gelangen, mache dasselbe, aber im Nether."
 		""
-		"To get to the &5Beyond&r, use the Teleport Pad in the End."
+		"Um zum &5Jenseits&r zu gelangen, verwende das Teleport-Pad im End."
 	]
-	quest.3C322474D2F2BA99.title: "Allthemodium Dimensions"
-	quest.3C3FE45CEF5E242B.quest_desc: ["While the other &aReprocessor Parts&r have a mandatory spot when building, these three parts can be placed on any vertical face as long as they aren't on the frame!\\n\\nThe &cPower Port&r is used to give power to the multiblock machine to process waste.\\n\\nThe &9Fluid Injector Port&r is used to inject the liquid needed, which will depend on the type of waste injected. For Cyanite, that means water!\\n\\nThe &aOutput Port&r is used to output the reprocessed material. You can right click it to grab the material out by hand, or pipe it out for automation."]
-	quest.3C413D4A210A3BDE.title: "Honey Bee"
-	quest.3C54C36CE97A48DC.quest_desc: ["Droppers drop,\\nDispensers dispense, \\nAnd Flingers fling! \\n\\nInstead of nicely setting down items from the Buffer, the Flinger Module will throw them? How far? You determine that!"]
-	quest.3C5734448FEC128B.quest_desc: ["The cheapest Divination Rod, the Glass Divination Rod. \\n\\nIt can find all Ores that a Stone Pickaxe can mine. So Copper, Coal, and Iron. Nothing higher."]
+	quest.3C322474D2F2BA99.title: "Allthemodium-Dimensionen"
+	quest.3C3FE45CEF5E242B.quest_desc: ["Während die anderen &aWiederaufbereitungs-Teile&r einen obligatorischen Platz beim Bau haben, können diese drei Teile auf jeder vertikalen Fläche platziert werden, solange sie nicht auf dem Rahmen sind!\\n\\nDer &cEnergieanschluss&r wird verwendet, um dem Multiblock-Gerät Energie zu geben, um Abfall zu verarbeiten.\\n\\nDer &9Flüssigkeitsinjektor-Anschluss&r wird verwendet, um die benötigte Flüssigkeit zu injizieren, die je nach Art des injizierten Abfalls variiert. Für Cyanit bedeutet das Wasser!\\n\\nDer &aAusgabe-Anschluss&r wird verwendet, um das wiederaufbereitete Material auszugeben. Du kannst mit der rechten Maustaste klicken, um das Material von Hand zu nehmen, oder es für die Automatisierung herausleiten."]
+	quest.3C413D4A210A3BDE.title: "Honigbiene"
+	quest.3C54C36CE97A48DC.quest_desc: ["Werfer werfen,\\nSpender geben aus, \\nUnd Schleudern schleudern! \\n\\nAnstatt Gegenstände schön aus dem Puffer zu setzen, wirft das Schleuder-Modul sie! Wie weit? Das bestimmst du!"]
+	quest.3C5734448FEC128B.quest_desc: ["Die günstigste Wahrsagerstab, der Glas-Wahrsagerstab. \\n\\nEr kann alle Erze finden, die eine Steinspitzhacke abbauen kann. Also Kupfer, Kohle und Eisen. Nichts Höheres."]
 	quest.3C5A5432E6B1EF9E.quest_desc: [
-		"We got our Spawner, we got some way of moving the spawned in Mobs, now how do we get &4Blood&r from them? \\n\\nWe can use Spikes or Mob Mashers to kill them normally but if we want &4Blood&r from them we should use a &4Powered Sanguinary Pedestal&r with &7Spiked Plates&r on top of them! \\n\\nWhen on top of a &4Pedestal&r, &7Spiked Plates&r will deal damage to Mobs that hit them and deposit that &4Blood&r into the &4Pedestal&r. The more &4Health&r the Mobs have, the more &4Blood&r you can get! \\n\\nThe &4Blood&r will be in Fluid Form and can be moved with Pipes from the &4Pedestal&r to our &c&lForge&r."
+		"Wir haben unseren Spawner, wir haben eine Möglichkeit, die gespawnten Mobs zu bewegen, aber wie bekommen wir &4Blut&r von ihnen? \\n\\nWir können Stacheln oder Mob-Zermalmer verwenden, um sie normal zu töten, aber wenn wir &4Blut&r von ihnen wollen, sollten wir ein &4Angetriebenes Blut-Podest&r mit &7Stachelplatten&r darauf verwenden! \\n\\nWenn sie auf einem &4Podest&r stehen, werden &7Stachelplatten&r Schaden an Mobs verursachen, die sie treffen, und dieses &4Blut&r in das &4Podest&r einzahlen. Je mehr &4Gesundheit&r die Mobs haben, desto mehr &4Blut&r kannst du bekommen! \\n\\nDas &4Blut&r wird in flüssiger Form sein und kann mit Rohren vom &4Podest&r zu unserer &c&lSchmiede&r transportiert werden."
 		"{image:atm:textures/questpics/forbidden/forbidden_pedestal.png width:100 height:100 align:center}"
 	]
-	quest.3C5A5432E6B1EF9E.title: "Auto &4Blood&r"
-	quest.3C74DAE7EC844A98.quest_desc: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \\nJust these give much more Food Points and Saturation!"]
-	quest.3C7C9EE57AD00A76.quest_desc: ["You can craft these?!?!?! I've always just looted for them. \\n\\nYou can change if they home in on targets or fly straight. When homing you can change between the settings of &cSpeed&r, &6Damage&r, and &aTurn Speed&r."]
-	quest.3C7C9EE57AD00A76.title: "&cMicromissiles"
-	quest.3C84D684B3A5D7B6.quest_desc: ["Using Mana, the &2Terra Truncator&r will feel entire trees in one fell swoop."]
-	quest.3C8724C3A9459507.quest_desc: ["Yeti Armor can be crafted with Alpha Yeti Fur."]
-	quest.3C8724C3A9459507.title: "Yeti Armor"
-	quest.3C892B33758B7BA6.quest_desc: ["&dCogs &fand &dLarge Cogs&r can interact with each other to change Speed and Stress! \\n\\nIf you connect a &dCog&r, diagonally from a &dLarge Cog&r, the &dCog&r will double in Speed! This is because the &dLarge Cog&r has more Teeth than the &dCog&r, it takes longer to take a full &dRotation&r. \\n\\nThis also works in the reverse, if you put a &dLarge Cog&r diagonal to a &dCog&r, the &dLarge Cog&r will spin at half Speed. \\n\\nThese will also change the Stress Units from the &dCogs&r. More Speed, more Stress. Less Speed, less Stress."]
-	quest.3C892B33758B7BA6.title: "&dCog&r Teamwork!"
-	quest.3C8C80345D3F5FE8.quest_desc: ["The item collecter collects items and deposits them into the inventory below it."]
-	quest.3C8D9278B81BB37A.quest_desc: ["We don't have all the time in the World, let's &eSpeed&r it up a bit! \\n\\nThe &2&lReactors&r won't wait forever!"]
-	quest.3C8D9278B81BB37A.title: "&eSpeed &8Upgrade"
-	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
-	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
-	quest.3C99017FD32B6DE2.quest_desc: ["&eBrass Casings&r are made the same way as &8Andesite&r and &cCopper Casings&r. Just apply the &eItem&r to Stripped Wood. \\n\\nBut with &eBrass Casings&r giving us some of the most powerful &6Machines&r, it won't be as easy to get as &8Andesite&r or &cCopper&r. \\n\\nThankfully this is &6&lATM10&r so you can make &eBrass&r in many different ways! \\n\\nBut the &6&lCreate&r way would be to throw a &cCopper Ingot&r and &7Zinc Ingot&r into a &8Basin&r below a &6Mechanical Mixer&r, while the &8Basin&r is heated."]
-	quest.3C99017FD32B6DE2.title: "&eBrass Casing"
+	quest.3C5A5432E6B1EF9E.title: "Auto &4Blut&r"
+	quest.3C74DAE7EC844A98.quest_desc: ["Die Mondbeeren sind eine ausgezeichnete Nahrungsquelle und zudem sehr leicht zu bekommen! \\n\\nSie wachsen nach unten von den Mondbaum-Blättern, du kannst die Beeren von den Ranken pflücken wie Glühbeeren. \\nNur geben diese viel mehr Nahrungspunkte und Sättigung!"]
+	quest.3C7C9EE57AD00A76.quest_desc: ["Du kannst diese herstellen?!?!?! Ich habe immer nur nach ihnen gesucht. \\n\\nDu kannst ändern, ob sie auf Ziele zusteuern oder geradeaus fliegen. Bei der Zielverfolgung kannst du zwischen den Einstellungen von &cGeschwindigkeit&r, &6Schaden&r und &aDrehgeschwindigkeit&r wechseln."]
+	quest.3C7C9EE57AD00A76.title: "&cMikroraketen"
+	quest.3C84D684B3A5D7B6.quest_desc: ["Mit Mana wird der &2Terra Truncator&r ganze Bäume mit einem Schlag fällen."]
+	quest.3C8724C3A9459507.quest_desc: ["Yeti-Rüstung kann mit Alpha-Yeti-Fell hergestellt werden."]
+	quest.3C8724C3A9459507.title: "Yeti-Rüstung"
+	quest.3C892B33758B7BA6.quest_desc: ["&dZahnräder &fand &dGroße Zahnräder&r können miteinander interagieren, um Geschwindigkeit und Belastung zu ändern! \\n\\nWenn du ein &dZahnrad&r diagonal zu einem &dGroßen Zahnrad&r verbindest, wird das &dZahnrad&r die Geschwindigkeit verdoppeln! Das liegt daran, dass das &dGroße Zahnrad&r mehr Zähne hat als das &dZahnrad&r, es dauert länger, eine vollständige &dDrehung&r zu machen. \\n\\nDies funktioniert auch umgekehrt, wenn du ein &dGroßes Zahnrad&r diagonal zu einem &dZahnrad&r stellst, wird sich das &dGroße Zahnrad&r mit halber Geschwindigkeit drehen. \\n\\nDies wird auch die Belastungseinheiten von den &dZahnrädern&r ändern. Mehr Geschwindigkeit, mehr Belastung. Weniger Geschwindigkeit, weniger Belastung."]
+	quest.3C892B33758B7BA6.title: "&dZahnrad&r-Teamarbeit!"
+	quest.3C8C80345D3F5FE8.quest_desc: ["Der Gegenstandssammler sammelt Gegenstände und legt sie in das Inventar darunter."]
+	quest.3C8D9278B81BB37A.quest_desc: ["Wir haben nicht die ganze Zeit der Welt, lass uns ein bisschen &eGeschwindigkeit&r hinzufügen! \\n\\nDie &2&lReaktoren&r werden nicht ewig warten!"]
+	quest.3C8D9278B81BB37A.title: "&eGeschwindigkeits&8-Upgrade"
+	quest.3C9539083BCC145C.quest_desc: ["Menril-Bienen können verwendet werden, um kristallisierte Menril-Stücke zu automatisieren."]
+	quest.3C9539083BCC145C.quest_subtitle: "Automatisierung von Menril"
+	quest.3C99017FD32B6DE2.quest_desc: ["&eMessing-Gehäuse&r werden auf die gleiche Weise hergestellt wie &8Andesit&r und &cKupfer-Gehäuse&r. Wende einfach den &eGegenstand&r auf geschältes Holz an. \\n\\nAber mit &eMessing-Gehäusen&r, die uns einige der mächtigsten &6Maschinen&r geben, wird es nicht so einfach zu bekommen sein wie &8Andesit&r oder &cKupfer&r. \\n\\nGlücklicherweise ist dies &6&lATM10&r, also kannst du &eMessing&r auf viele verschiedene Arten herstellen! \\n\\nAber der &6&lCreate&r-Weg wäre, einen &cKupferbarren&r und einen &7Zinkbarren&r in ein &8Becken&r unter einem &6Mechanischen Mixer&r zu werfen, während das &8Becken&r erhitzt wird."]
+	quest.3C99017FD32B6DE2.title: "&eMessing-Gehäuse"
 	quest.3C9E93426D6412E0.quest_desc: [
-		"Now we have Fluoroantimonic Acid. This is the catalyst that we were processing towards for our Naq processing line."
+		"Jetzt haben wir Fluorantimonsäure. Dies ist der Katalysator, auf den wir für unsere Naq-Verarbeitungslinie hingearbeitet haben."
 		""
-		"Make sure that you passive this in a renewable manner, as we will need to keep the Naq processing line running."
+		"Stelle sicher, dass du dies auf erneuerbare Weise passivierst, da wir die Naq-Verarbeitungslinie am Laufen halten müssen."
 	]
-	quest.3C9E93426D6412E0.quest_subtitle: "Converting to Liquid"
-	quest.3C9F5EB59D72AC90.quest_desc: ["An Awakened Supremium Ingot Block is needed to craft the &6ATM Star&r."]
+	quest.3C9E93426D6412E0.quest_subtitle: "Umwandlung in Flüssigkeit"
+	quest.3C9F5EB59D72AC90.quest_desc: ["Ein Erweckter Supremium-Barren-Block wird benötigt, um den &6ATM Star&r herzustellen."]
 	quest.3CA2D15D1EC4D852.quest_desc: [
-		"Another lens for the collection!"
+		"Eine weitere Linse für die Sammlung!"
 		""
-		"SoC stands for System on Chip"
+		"SoC steht für System on Chip"
 	]
 	quest.3CA2D15D1EC4D852.title: "System on Chip"
 	quest.3CAD0701EC16C2D8.quest_desc: [
-		"Dark Swamps litter the world of the Starlight. \\n\\nHere you can find plenty of plants, animals, and of course Mud."
+		"Dunkle Sümpfe durchziehen die Welt des Sternenlichts. \\n\\nHier findest du viele Pflanzen, Tiere und natürlich Schlamm."
 		"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
 	]
-	quest.3CAD0701EC16C2D8.title: "Dark Swamp"
-	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender Gates&r are used to transfer power wirelessly to and from an adjacent block into the &7Ender Network&r.\\n\\nThink of these like wireless access points to your wireless network of power.\\n\\nNote: You can only add &apower storage capacity&r using an Ender Cell."]
+	quest.3CAD0701EC16C2D8.title: "Dunkler Sumpf"
+	quest.3CB6DC5B09C62CFE.quest_desc: ["&5Ender-Tore&r werden verwendet, um Energie drahtlos von und zu einem angrenzenden Block in das &7Ender-Netzwerk&r zu übertragen.\\n\\nDenke an diese wie drahtlose Zugangspunkte zu deinem drahtlosen Energienetzwerk.\\n\\nHinweis: Du kannst nur &aEnergiespeicherkapazität&r mit einer Ender-Zelle hinzufügen."]
 	quest.3CB7884B7B32CF00.quest_desc: [
-		"Getting your first &bEther Gas&r might be a little bit scary.\\n\\n&bEther Gas&r is made from drilling a Wither, using a Fluid Drill with a &5Purple Lens&r."
+		"Dein erstes &bÄther-Gas&r zu bekommen, könnte ein bisschen beängstigend sein.\\n\\n&bÄther-Gas&r wird hergestellt, indem man einen Wither mit einem Flüssigkeitsbohrer mit einer &5lila Linse&r bohrt."
 		""
-		"But don't worry about the Wither, Industrial Foregoing has a machine just to help you with that task. The &4Stasis Chamber&r is a machine that freezes in place anything that is on top of it in a 3x3 area, including the Wither."
+		"Aber mach dir keine Sorgen wegen des Withers, Industrial Foregoing hat eine Maschine, die dir bei dieser Aufgabe helfen kann. Die &4Stasiskammer&r ist eine Maschine, die alles, was sich in einem 3x3-Bereich darauf befindet, einschließlich des Withers, einfriert."
 		""
-		"&cHope you don't run out of power, because if you do... I hope you're ready to fight the &0Wither&c."
+		"&cHoffen wir, dass dir nicht die Energie ausgeht, denn wenn das passiert... hoffe ich, dass du bereit bist, gegen den &0Wither&c zu kämpfen."
 	]
-	quest.3CB7884B7B32CF00.quest_subtitle: "Ether Gas? Huh?"
+	quest.3CB7884B7B32CF00.quest_subtitle: "Äther-Gas? Hä?"
 	quest.3CBB78C9B8D3665E.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Reduces the dectection range of hostile mobs."
+		"Reduziert den Erkennungsbereich feindlicher Mobs."
 	]
-	quest.3CCBE9BBCA8ADA38.quest_desc: ["The &d&lSuper-Critical Phase Shifter&r will need a lot of &aEnergy&r. I mean a lot a lot! Hundreds of Millions of FE. \\n\\nHow do we deliver this much &aEnergy&r though? \\n\\nWe'll need atleast 1 (recommended 2) &dSupercharged Coils&r! \\n\\nThe &dSupercharged Coil&r is placed inside the &d&lS.P.S.&r, on an &dSPS Port&r. The &dPort&r will need to feed the &dSupercharged Coil &aEnergy&r. \\n\\nEach &dSupercharged Coil&r can send in 400MFE per Tick. And we'll need a whole lotta those for &dAntimatter&r!"]
-	quest.3CCBE9BBCA8ADA38.title: "&dSupercharged Coils"
-	quest.3CD307DDD6A5F5A3.quest_subtitle: "&f4 &cAttack Damage"
-	quest.3CD45533D0BDF26D.quest_desc: ["When a block is hit by a Mana Burst from this lens, the block will fall as if it were Sand or Gravel."]
-	quest.3CE3D9245F8EC005.quest_desc: ["The fourth MEGA tier of storage component, providing &e67108864&f (65536k) bytes of storage."]
+	quest.3CCBE9BBCA8ADA38.quest_desc: ["Der &d&lSuper-Kritische Phasenverschieber&r wird eine Menge &aEnergie&r benötigen. Ich meine wirklich viel! Hunderte von Millionen FE. \\n\\nWie liefern wir so viel &aEnergie&r aber? \\n\\nWir benötigen mindestens 1 (empfohlen 2) &dSupergeladene Spulen&r! \\n\\nDie &dSupergeladene Spule&r wird innerhalb des &d&lS.P.S.&r auf einem &dSPS-Anschluss&r platziert. Der &dAnschluss&r muss die &dSupergeladene Spule&r mit &aEnergie&r versorgen. \\n\\nJede &dSupergeladene Spule&r kann 400MFE pro Tick senden. Und wir werden eine ganze Menge davon für &dAntimaterie&r brauchen!"]
+	quest.3CCBE9BBCA8ADA38.title: "&dSupergeladene Spulen"
+	quest.3CD307DDD6A5F5A3.quest_subtitle: "&f4 &cAngriffsschaden"
+	quest.3CD45533D0BDF26D.quest_desc: ["Wenn ein Block von einem Mana-Stoß von dieser Linse getroffen wird, wird der Block fallen, als wäre er Sand oder Kies."]
+	quest.3CE3D9245F8EC005.quest_desc: ["Die vierte MEGA-Stufe der Speicherkomponente, die &e67108864&f (65536k) Bytes Speicher bietet."]
 	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3"
-	quest.3CE3D9245F8EC005.title: "64M Storage Component"
-	quest.3CFD27F273B97FDD.quest_desc: ["The &5&lApothic&r mods have multiple cores, each changing different parts of &2&lMinecraft&r.\\n\\nThe Attributes and Enchanting mods are what you'll need to follow to get the &6&lATM Star&r!"]
-	quest.3CFD27F273B97FDD.title: "&5&lApothic&r Mods"
+	quest.3CE3D9245F8EC005.title: "64M Speicherkomponente"
+	quest.3CFD27F273B97FDD.quest_desc: ["Die &5&lApothic&r-Mods haben mehrere Kerne, die jeweils verschiedene Teile von &2&lMinecraft&r verändern.\\n\\nDie Attribute und Verzauberungs-Mods sind das, was du befolgen musst, um den &6&lATM Star&r zu bekommen!"]
+	quest.3CFD27F273B97FDD.title: "&5&lApothic&r-Mods"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
-		"The &3Reinforced Chest&r is a blast-proof Chest with 36 slots. Not Double Chest-able. Also works like a Shulker Box."
+		"Die &3Verstärkte Truhe&r ist eine explosionssichere Truhe mit 36 Plätzen. Nicht als Doppeltruhe verwendbar. Funktioniert auch wie eine Shulkerkiste."
 		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
 	]
-	quest.3CFE522A4B7CC2EC.quest_subtitle: "Better than your Everyday Chest"
-	quest.3D1D5CB45D81A6E4.quest_desc: ["Similar to &b&lMacaw's Doors&r this one adds different types and versions of Trapdoors. \\n\\nYou want a Jungle Trapdoor with the Spruce Pattern? Well now you can! "]
-	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw's Trapdoors"
+	quest.3CFE522A4B7CC2EC.quest_subtitle: "Besser als deine alltägliche Truhe"
+	quest.3D1D5CB45D81A6E4.quest_desc: ["Ähnlich wie &b&lMacaw's Doors&r fügt dieser verschiedene Arten und Versionen von Falltüren hinzu. \\n\\nDu willst eine Dschungel-Falltür mit dem Fichten-Muster? Nun, jetzt kannst du das!"]
+	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw's Falltüren"
 	quest.3D26E7BFE0AA964A.quest_desc: [
-		"The Luminofish is a glowing fish that lives within The Abyss.\\n\\nThey act just like normal Fish. You can fish for them, put them in a Bucket, you can even cook them!"
+		"Der Luminofish ist ein leuchtender Fisch, der im Abgrund lebt.\\n\\nSie verhalten sich wie normale Fische. Du kannst sie angeln, in einen Eimer geben, du kannst sie sogar kochen!"
 		"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
 	]
-	quest.3D26E7BFE0AA964A.title: "Luminofish"
-	quest.3D29EF7F150F5334.quest_desc: ["The &3Ender Bow&r is found rarely in the &bAurora Palace&r.\\n\\nWhen an enemy is hit with an arrow from this bow, you will swap places with them. Be careful shooting things out of the sky!"]
-	quest.3D29EF7F150F5334.title: "&3Ender Bow"
-	quest.3D2A03EB2B91E9C1.quest_desc: ["These are literally just fancy Hoppers. \\n\\nThey connect two Inventories, bringing &eItems&r from the Top one to the Bottom one. \\n\\n&eChutes&r can connect to each other, even diagonally. \\n\\nYou can also use them with &6Fans&r to shoot &eItems&r up the &eChutes&r!"]
-	quest.3D2A03EB2B91E9C1.title: "&eChute"
-	quest.3D2B4D9FD2086B9B.quest_desc: ["The &2Fission Reactor Logic Adapter&r ,which I will be calling &2FRLA&r, is used to monitor and configure the &2&lFission Reactor&r with &4Redstone&r. \\n\\nFirst, place the &2FRLA&r in one of the walls of the &2&lFission Reactor&r like you would with the &2Ports&r. \\n\\nThen, we can Right Click the &2FRLA&r to configure it. \\n\\nDisabled: won't interact with &4Redstone&r. \\n\\nActivation: will turn the &2&lReactor&r on when given a &4Redstone Signal&r, and when there is no longer a &4Signal&r it will turn off. \\n\\nHigh Temperature: will send out a &4Redstone Signal&r when the &6Temperatures&r reach a dangerous Level. \\n\\nCritical Waste Level: will give a &4Signal&r when there is too much &8Nuclear Waste&r. \\n\\nDamage Critical: will, like the others, will give out a &4Signal&r when the &2&lReactor&r is just about to blow up! \\n\\nInsufficient Fuel: will give a &4Signal&r when it is running out of &2Fissile Fuel&r."]
-	quest.3D2B4D9FD2086B9B.title: "&2Fission Reactor Logic Adapter"
-	quest.3D2C6FF462B17205.quest_desc: ["Low damage, very high attack speed. Reduces the invincibility time of the target."]
-	quest.3D2C6FF462B17205.quest_subtitle: "Stabby Stab"
-	quest.3D31B94CC42BCE43.quest_desc: ["The &8Tome of Extraction&r is the &8Tome&r we are looking for! It will take off all &5Enchantments&r and leave the Item alone! \\n\\nTo make it we'll need to &d&lInfuse&r our &8Tome of Superior Scrapping&r. \\n\\nWe can just add another &9Soul-Touched Sculkshelf&r to our previous Table to get enough!"]
-	quest.3D31B94CC42BCE43.quest_subtitle: "All Enchantments, doesn't break"
-	quest.3D4032E7119AF8B7.quest_desc: ["Sonar Bombs are made with Shivering Gel which is dropped from Crystallized Moths. \\n\\nThey can be thrown to damage any Mob (and Player) in a huge area! It will also shake the players screen and play a loud sound effect. \\n\\nIt is disorienting so only use it on your friends!"]
-	quest.3D40D91D7D948714.quest_desc: ["There is going to be a high demand for these plates. Figuring out how to supply yourself with a bunch of these plates may be a challenge, but well worth it."]
-	quest.3D40D91D7D948714.quest_subtitle: "The dishes Plating matters"
+	quest.3D26E7BFE0AA964A.title: "Luminofisch"
+	quest.3D29EF7F150F5334.quest_desc: ["Der &3Ender-Bogen&r wird selten im &bAurora-Palast&r gefunden.\\n\\nWenn ein Feind mit einem Pfeil von diesem Bogen getroffen wird, wechselst du die Plätze mit ihm. Sei vorsichtig, wenn du Dinge vom Himmel schießt!"]
+	quest.3D29EF7F150F5334.title: "&3Ender-Bogen"
+	quest.3D2A03EB2B91E9C1.quest_desc: ["Dies sind buchstäblich nur ausgefallene Trichter. \\n\\nSie verbinden zwei Inventare, bringen &eGegenstände&r vom oberen zum unteren. \\n\\n&eSchächte&r können sich miteinander verbinden, sogar diagonal. \\n\\nDu kannst sie auch mit &6Ventilatoren&r verwenden, um &eGegenstände&r die &eSchächte&r hinaufzuschießen!"]
+	quest.3D2A03EB2B91E9C1.title: "&eSchacht"
+	quest.3D2B4D9FD2086B9B.quest_desc: ["Der &2Spaltreaktor-Logikadapter&r, den ich &2FRLA&r nennen werde, wird verwendet, um den &2&lSpaltreaktor&r mit &4Redstone&r zu überwachen und zu konfigurieren. \\n\\nPlatziere zuerst den &2FRLA&r in einer der Wände des &2&lSpaltreaktors&r, wie du es mit den &2Anschlüssen&r tun würdest. \\n\\nDann können wir mit der rechten Maustaste auf den &2FRLA&r klicken, um ihn zu konfigurieren. \\n\\nDeaktiviert: wird nicht mit &4Redstone&r interagieren. \\n\\nAktivierung: wird den &2&lReaktor&r einschalten, wenn ein &4Redstone-Signal&r gegeben wird, und wenn kein &4Signal&r mehr da ist, wird er ausgeschaltet. \\n\\nHohe Temperatur: wird ein &4Redstone-Signal&r senden, wenn die &6Temperaturen&r einen gefährlichen Wert erreichen. \\n\\nKritischer Abfallstand: gibt ein &4Signal&r, wenn zu viel &8Nuklearabfall&r vorhanden ist. \\n\\nSchaden kritisch: wird, wie die anderen, ein &4Signal&r geben, wenn der &2&lReaktor&r kurz davor ist, zu explodieren! \\n\\nUnzureichender Brennstoff: wird ein &4Signal&r geben, wenn der Brennstoff &2Spaltbarer Brennstoff&r zur Neige geht."]
+	quest.3D2B4D9FD2086B9B.title: "&2Spaltreaktor-Logikadapter"
+	quest.3D2C6FF462B17205.quest_desc: ["Geringer Schaden, sehr hohe Angriffsgeschwindigkeit. Reduziert die Unverwundbarkeitszeit des Ziels."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Stecherei"
+	quest.3D31B94CC42BCE43.quest_desc: ["Das &8Handbuch der Extraktion&r ist das &8Handbuch&r, nach dem wir suchen! Es wird alle &5Verzauberungen&r entfernen und den Gegenstand unberührt lassen! \\n\\nUm es herzustellen, müssen wir unser &8Handbuch der überlegenen Zerlegung&r &d&linfundieren&r. \\n\\nWir können einfach ein weiteres &9Seelenberührtes Sculkregal&r zu unserem vorherigen Tisch hinzufügen, um genug zu bekommen!"]
+	quest.3D31B94CC42BCE43.quest_subtitle: "Alle Verzauberungen, zerbricht nicht"
+	quest.3D4032E7119AF8B7.quest_desc: ["Sonarbomben werden mit Zitterndem Gel hergestellt, das von Kristallisierten Motten fallengelassen wird. \\n\\nSie können geworfen werden, um jeden Mob (und Spieler) in einem riesigen Gebiet zu schädigen! Es wird auch den Bildschirm des Spielers schütteln und einen lauten Soundeffekt abspielen. \\n\\nEs ist desorientierend, also benutze es nur bei deinen Freunden!"]
+	quest.3D40D91D7D948714.quest_desc: ["Es wird eine hohe Nachfrage nach diesen Platten geben. Herauszufinden, wie du dich selbst mit einer Menge dieser Platten versorgen kannst, kann eine Herausforderung sein, aber es lohnt sich."]
+	quest.3D40D91D7D948714.quest_subtitle: "Die Beschichtung der Gerichte ist wichtig"
 	quest.3D41D0092D94636B.quest_desc: [
 		"What if I told you that the Demon's Fruit is flammable?"
 		""
