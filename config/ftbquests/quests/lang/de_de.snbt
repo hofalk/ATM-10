@@ -304,200 +304,200 @@
 		"Entfernt bei Aktivierung alle negativen Debuffs vom Spieler, hat eine Abklingzeit."
 	]
 	quest.0272E58516A0C284.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
+		"Gültige Upgrades:"
+		"- Erz-Bergmann"
+		"- Erzscanner &4&lDEAKTIVIERT&r&f"
+		"- Rasenmäher"
+		"- Himmelsfeger"
+		"- Baumfäller"
+		"- Blattbrecher"
+		"- Auto-Schmelzer"
 		"- Hammer"
-		"- Drops Teleporter"
+		"- Drops-Teleporter"
 	]
-	quest.027E6E294D9E1375.quest_desc: ["Take notes &lCorail&r! This is how you do Holidays! (I say this will 100% love, we love you &lCorail&r!) \\n\\nThis addition adds plenty of decorations for Christmas and Halloween. \\n\\nFrom Christmas Trees, Presents, and Lights for Christmas to Pumpkins, Spiders, and Witch Hats for Halloween."]
+	quest.027E6E294D9E1375.quest_desc: ["Nimm dir Notizen &lCorail&r! So macht man Feiertage! (Ich sage das mit 100% Liebe, wir lieben dich &lCorail&r!) \\n\\nDiese Ergänzung fügt viele Dekorationen für Weihnachten und Halloween hinzu. \\n\\nVon Weihnachtsbäumen, Geschenken und Lichtern für Weihnachten bis hin zu Kürbissen, Spinnen und Hexenhüten für Halloween."]
 	quest.027E6E294D9E1375.title: "&b&lMacaw's Holidays&r"
 	quest.027EF5C8A74B1596.quest_desc: [
-		"&6B&8e&6e&8's&r main weapons are their Stingers. \\n\\nSo why don't we use that for our own Weapon! You can make, find, or trade for the Stinger Spear and it works like a Trident. \\n\\nJust much weaker and inflicts Poison to Mobs!"
+		"Die Hauptwaffen der &6B&8i&6e&8nen&r sind ihre Stacheln. \\n\\nWarum nutzen wir das nicht für unsere eigene Waffe! Du kannst den Stachelspeer herstellen, finden oder handeln und er funktioniert wie ein Dreizack. \\n\\nNur viel schwächer und fügt Monstern Gift zu!"
 		"{image:atm:textures/questpics/bumblezone/bumble_spear.png width:100 height:150 align:center}"
 	]
-	quest.027FD9135DEC4949.quest_subtitle: "Lures in Ghostly Bees when placed in the Nether and given Ghast Tears"
-	quest.0298A17C2AAC5765.quest_desc: ["Increases stack size in the Backpack by 8."]
-	quest.0298A17C2AAC5765.title: "&bStack Upgrade Tier 3"
+	quest.027FD9135DEC4949.quest_subtitle: "Lockt geisterhafte Bienen an, wenn im Nether platziert und mit Ghasttränen gefüttert"
+	quest.0298A17C2AAC5765.quest_desc: ["Erhöht die Stapelgröße im Rucksack um 8."]
+	quest.0298A17C2AAC5765.title: "&bStapel-Upgrade Stufe 3"
 	quest.0299E59D23F16ACB.quest_desc: [
-		"You know what to do, &aOre Process&r some tungstate or some scheelite ore down into dust form"
+		"Du weißt, was zu tun ist, &aErz verarbeiten&r, etwas Tungstat oder Scheelit-Erz zu Staub verarbeiten"
 		""
-		"The raw ores are found in &eThe End Layer&r of &dThe Mining Dimension&r, between y levels -63 and 0, mixed in with Lithium. There may even be scheelite surface indicators!"
+		"Die Roherze findet man in der &eEnd-Schicht&r der &dBergbau-Dimension&r, zwischen den Y-Ebenen -63 und 0, vermischt mit Lithium. Es könnte sogar Scheelit-Oberflächenanzeiger geben!"
 	]
-	quest.029AA03790F055E8.quest_subtitle: "Crystalline + Mason"
-	quest.029AA03790F055E8.title: "Gold Bee"
+	quest.029AA03790F055E8.quest_subtitle: "Kristallin + Maurer"
+	quest.029AA03790F055E8.title: "Goldbiene"
 	quest.02AFB98510478664.quest_desc: [
-		"We were messing with the Arsenic earlier, and it seemed odd that there was no Gallium in sight."
+		"Wir haben vorher mit Arsen herumgespielt und es schien seltsam, dass kein Gallium in Sicht war."
 		""
-		"But dont fear, we found the Gallium!"
+		"Aber keine Sorge, wir haben das Gallium gefunden!"
 	]
-	quest.02AFB98510478664.quest_subtitle: "Found it!"
-	quest.02B0CCD5607FF3B5.quest_desc: ["The player accessor acts as a chest that interfaces with the player's inventory. Using the GUI the player accessor can have it's sides configured to interface with the player's inventory, off-hand or armor slots."]
+	quest.02AFB98510478664.quest_subtitle: "Gefunden!"
+	quest.02B0CCD5607FF3B5.quest_desc: ["Der Spielerzugriff funktioniert wie eine Truhe, die mit dem Inventar des Spielers verbunden ist. Über die GUI kann der Spielerzugriff so konfiguriert werden, dass seine Seiten mit dem Inventar des Spielers, der Nebenhand oder den Rüstungsplätzen interagieren."]
 	quest.02B574B09AB45D09.quest_desc: [
-		"Freezes work similar to Blazes, they'll fly up and shoot a ball at you. \\n\\nJust Freezes only throw 1 ball and it will make you cold instead of warm. \\n\\nThey have 16 Hearts and will drop Frozen Tubes on death."
+		"Freezes arbeiten ähnlich wie Lohen, sie fliegen hoch und schießen einen Ball auf dich. \\n\\nFreeze werfen nur 1 Ball und machen dich kalt statt warm. \\n\\nSie haben 16 Herzen und lassen bei ihrem Tod gefrorene Röhren fallen."
 		"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
 	]
 	quest.02B574B09AB45D09.title: "Freeze"
 	quest.02B8F50721F12CFF.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:"
+		"&lFähigkeitsfunktion:"
 		""
-		"Prevents the player from taking fall damage."
+		"Verhindert, dass der Spieler Fallschaden erleidet."
 	]
-	quest.02C6132919DEAF2A.quest_desc: ["Before we start making &aEnergy&r let's get our Steam all over the place. We can do that by surrounding the &9Rotational Complex&r with &9Pressure Dispersers&r! \\n\\nAbove that layer we'll need a new layer, this one full of &aElectromagnetic Coils&r. These will be moved because of the &9Rotational Complex&r, them moving with each other is what develops &aEnergy&r through their Magnetic Forces. Same thing happens with Hydroelectric Plants! \\n\\nAbove the &aElectromagnetic Coils&r we can use &9Saturating Condensers&r which will recycle our Steam back into some &9Water&r! The &9Water&r will be extracted through the &9Vents&r."]
-	quest.02C6132919DEAF2A.title: "Making &aEnergy&r with a &9&lTurbine&r"
+	quest.02C6132919DEAF2A.quest_desc: ["Bevor wir anfangen, &aEnergie&r zu erzeugen, verteilen wir unseren Dampf überall. Das können wir tun, indem wir den &9Rotationskomplex&r mit &9Druckverteilern&r umgeben! \\n\\nÜber dieser Schicht benötigen wir eine neue Schicht, die voller &aElektromagnetischer Spulen&r ist. Diese werden durch den &9Rotationskomplex&r bewegt, und ihre gemeinsame Bewegung erzeugt durch ihre magnetischen Kräfte &aEnergie&r. Das Gleiche passiert bei Wasserkraftwerken! \\n\\nÜber den &aElektromagnetischen Spulen&r können wir &9Sättigende Kondensatoren&r verwenden, die unseren Dampf zu etwas &9Wasser&r recyceln! Das &9Wasser&r wird durch die &9Entlüftungen&r extrahiert."]
+	quest.02C6132919DEAF2A.title: "&aEnergie&r mit einer &9&lTurbine&r erzeugen"
 	quest.02CC3E13B8905603.quest_desc: [
-		"Solidify that Tritanium, and now we have a resource usable to us in many ways."
+		"Verfestige das Tritanium und schon haben wir eine Ressource, die wir auf viele Arten nutzen können."
 		""
-		"And believe me, many of our components we are going to be making will need Titanium."
+		"Und glaub mir, viele unserer Komponenten, die wir herstellen werden, werden Titan benötigen."
 	]
-	quest.02CC3E13B8905603.quest_subtitle: "Solidly Stronk"
-	quest.02D45E3FB37ED0AD.quest_subtitle: "Tier: &63"
-	quest.02F2DF9D9DA7833A.quest_desc: ["In order to get our &9Corrupt Souls&r we'll need to do some &5Enchanting&r! \\n\\nWe are looking for the &5Soul Looting Enchantment&r. It goes on Weapons, and everytime you kill a Mob it has a chance to spawn a &9Corrupt Soul&r. \\n\\nThese can then be killed to get them as Items. Try to do it quickly as they like to fly away. \\n\\nMaybe they know you want to kill them?"]
-	quest.02F2DF9D9DA7833A.title: "&5Soul Looting Enchantment"
-	quest.02F3133A9006BC1E.quest_subtitle: "Iron + Coal"
-	quest.02F3133A9006BC1E.title: "Steel Bee"
+	quest.02CC3E13B8905603.quest_subtitle: "Solide stark"
+	quest.02D45E3FB37ED0AD.quest_subtitle: "Stufe: &63"
+	quest.02F2DF9D9DA7833A.quest_desc: ["Um unsere &9Korrumpierten Seelen&r zu bekommen, müssen wir etwas &5Verzauberung&r betreiben! \\n\\nWir suchen nach der &5Seelenbeute-Verzauberung&r. Sie wird auf Waffen angewendet und jedes Mal, wenn du einen Mob tötest, besteht die Chance, dass eine &9Korrumpierte Seele&r erscheint. \\n\\nDiese können dann getötet werden, um sie als Gegenstände zu erhalten. Versuche, es schnell zu machen, da sie gerne wegfliegen. \\n\\nVielleicht wissen sie, dass du sie töten willst?"]
+	quest.02F2DF9D9DA7833A.title: "&5Seelenbeute-Verzauberung"
+	quest.02F3133A9006BC1E.quest_subtitle: "Eisen + Kohle"
+	quest.02F3133A9006BC1E.title: "Stahlbiene"
 	quest.02F4C3BEBD8427AD.quest_desc: [
-		"Trust me you'll know it when you see it. \\n\\nDozens of Gardens hanging from the roof of the Hive. Containing hundreds of different flowers and trees, heck even some from different mods like Eternal Starlight or Regions Unexplored!\\n"
+		"Glaub mir, du wirst es erkennen, wenn du es siehst. \\n\\nDutzende von Gärten, die vom Dach des Bienenstocks hängen. Sie enthalten hunderte verschiedener Blumen und Bäume, sogar einige aus verschiedenen Mods wie Eternal Starlight oder Regions Unexplored!\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_garden.png width:200 height:100 align:center}"
 	]
-	quest.02F4C3BEBD8427AD.title: "Hanging Gardens"
+	quest.02F4C3BEBD8427AD.title: "Hängende Gärten"
 	quest.0301633594309CC6.quest_desc: [
-		"&bSilent Gear&r helps you create your own custom tools and armor! It can also combine several ingots into strong alloys, which you'll need for the Star."
+		"&bSilent Gear&r hilft dir, deine eigenen benutzerdefinierten Werkzeuge und Rüstungen zu erstellen! Es kann auch mehrere Barren zu starken Legierungen kombinieren, die du für den Stern benötigen wirst."
 		""
-		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"1D42B373285DEF81\"}, \"text\": \"Click here to start the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"1D42B373285DEF81\"}, \"text\": \"Klicke hier, um die Questlinie zu starten!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
-	quest.0306D25C7407FE88.quest_desc: ["Another part we'll need to actually start the &c&lFusion Reactor&r is &6Heat&r! We can use either &4Lasers&r or &cPorting &6Heat&r into it. \\n\\nWe're just going to use &4Lasers&r here. More specifically &4Laser Amplifier&r shooting a certain amount into the &cLaser Focus Matrix&r. \\n\\nWe'll need a &4Laser Amplifier&r with 1GFE worth of &aEnergy&r to be shot into the &cLaser Focus Matrix&r. It sounds like a lot of &aEnergy&r but don't worry we'll get it back! \\n\\nFollowing the &4Laser Amplifier&r Quest, we'll need to shoot &4Lasers&r into the &4Laser Amplifier&r. But each only gives about 1MFE every few seconds... \\n\\nInstead of waiting a year, we can use multiple &4Lasers&r shooting into multiple &4Laser Amplifiers&r that shoot into the one targeting the &cLaser Focus Matrix&r. \\n\\nPlace the &4Laser Amplifiers&r so that they have another behind each other, while all of them have 4 &4Lasers&r shooting from the other directions!"]
-	quest.0306D25C7407FE88.title: "&cLaser Focus Matrix"
-	quest.030AC1AF8F735550.quest_desc: ["To get liquids into the Tank you'll need some sort of Pipes.\\n\\nThe Hydro Pump can automatically put Water into them at a slow rate, but also for free!"]
-	quest.030AC1AF8F735550.title: "Pipes"
-	quest.03250A0202C25E80.quest_desc: ["After you've successfully slain the &9Unbound Marid&r Demon that you summoned with &4Abras' Fortified Conjure&r, you can use the &9Marid Essence&r that it drops to craft the \"highest\" colored Chalk, Blue Chalk."]
-	quest.03250A0202C25E80.title: "&9Blue Chalk"
-	quest.032B654201E71618.quest_desc: ["These &cTrack Kits&r are for using entities with your &7Carts&r (Entities aka Mobs). \\n\\nThe &cEmbarking Kit&r will pick up any Mobs nearby and put them in a &7Cart&r. \\nThe &cDisembarking Kit&r unloads Mobs from the &7Carts&r. \\nThe &cDumping Kit&r will drop the mobs in the &7Carts&r below the &6tracks&r its on."]
-	quest.032B654201E71618.title: "&cTrack Kits&r for moving entities"
-	quest.033BF8D12E32A5E5.quest_desc: ["Take that Ruthenium Dust and get to mixing! "]
-	quest.033BF8D12E32A5E5.quest_subtitle: "All Mixed Up"
-	quest.0342248394E40B6A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.034A9FBCA6D79BB6.quest_desc: ["The Harvester Pylon needs a Hoe to work. \\n\\n(Hoes that can't break will work forever, Hoes that can will need to be replaced)."]
-	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r is a built in-house mod made to help unify ores.\\n\\nWith that comes a ton of very useful decorative blocks!\\n\\n&dFluorite&r and &9Sapphire&r both look very cool!"]
-	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blocks"
+	quest.0306D25C7407FE88.quest_desc: ["Ein weiterer Teil, den wir tatsächlich benötigen, um den &c&lFusionsreaktor&r zu starten, ist &6Wärme&r! Wir können entweder &4Laser&r verwenden oder &6Wärme&r hinein &cübertragen&r. \\n\\nWir werden hier einfach &4Laser&r verwenden. Genauer gesagt &4Laserverstärker&r, die eine bestimmte Menge in die &cLaserfokusmatrix&r schießen. \\n\\nWir benötigen einen &4Laserverstärker&r mit 1GFE &aEnergie&r, der in die &cLaserfokusmatrix&r geschossen wird. Das klingt nach viel &aEnergie&r, aber keine Sorge, wir bekommen sie zurück! \\n\\nGemäß der &4Laserverstärker&r-Quest müssen wir &4Laser&r in den &4Laserverstärker&r schießen. Aber jeder gibt nur etwa 1MFE alle paar Sekunden ab... \\n\\nAnstatt ein Jahr zu warten, können wir mehrere &4Laser&r verwenden, die auf mehrere &4Laserverstärker&r schießen, die wiederum auf denjenigen schießen, der auf die &cLaserfokusmatrix&r zielt. \\n\\nPlatziere die &4Laserverstärker&r so, dass sie hintereinander stehen, während alle von ihnen 4 &4Laser&r haben, die aus den anderen Richtungen schießen!"]
+	quest.0306D25C7407FE88.title: "&cLaserfokusmatrix"
+	quest.030AC1AF8F735550.quest_desc: ["Um Flüssigkeiten in den Tank zu bekommen, brauchst du irgendeine Art von Rohren.\\n\\nDie Hydropumpe kann automatisch Wasser in sie einfüllen, langsam, aber auch kostenlos!"]
+	quest.030AC1AF8F735550.title: "Rohre"
+	quest.03250A0202C25E80.quest_desc: ["Nachdem du erfolgreich den &9Ungebundenen Marid&r-Dämon besiegt hast, den du mit &4Abras' Verstärkter Beschwörung&r beschworen hast, kannst du die &9Marid-Essenz&r, die er fallen lässt, verwenden, um die \"höchste\" farbige Kreide, Blaue Kreide, herzustellen."]
+	quest.03250A0202C25E80.title: "&9Blaue Kreide"
+	quest.032B654201E71618.quest_desc: ["Diese &cSchienenausrüstungen&r dienen der Verwendung von Entitäten mit deinen &7Wagen&r (Entitäten alias Mobs). \\n\\nDie &cEinschiffungsausrüstung&r nimmt alle Mobs in der Nähe auf und legt sie in einen &7Wagen&r. \\nDie &cAusschiffungsausrüstung&r entlädt Mobs aus den &7Wagen&r. \\nDie &cEntleerungsausrüstung&r lässt die Mobs in den &7Wagen&r unter die &6Schienen&r fallen, auf denen sie sich befinden."]
+	quest.032B654201E71618.title: "&cSchienenausrüstungen&r zum Bewegen von Entitäten"
+	quest.033BF8D12E32A5E5.quest_desc: ["Nimm diesen Rutheniumstaub und mische los!"]
+	quest.033BF8D12E32A5E5.quest_subtitle: "Alles durcheinander gemischt"
+	quest.0342248394E40B6A.quest_desc: ["Diese Quest wurde von &6AllTheMods-Mitarbeitern&r oder einem &2Community-Mitwirkenden&r zur Verwendung in AllTheMods-Modpacks erstellt.\\n\\nDa alle &6AllTheMods&r-Pakete unter &eAlle Rechte vorbehalten&r lizenziert sind, darf diese Quest nicht in öffentlichen Paketen verwendet werden, die nicht vom &6AllTheMods-Team&r ohne ausdrückliche Genehmigung veröffentlicht wurden.\\n\\nDiese Quest ist absichtlich versteckt. Wenn du sie siehst, befindest du dich im Bearbeitungsmodus."]
+	quest.034A9FBCA6D79BB6.quest_desc: ["Der Ernter-Pylon benötigt eine Hacke zum Arbeiten. \\n\\n(Hacken, die nicht kaputt gehen können, funktionieren für immer, Hacken, die es können, müssen ersetzt werden)."]
+	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r ist ein intern entwickelter Mod, der zur Vereinheitlichung von Erzen beiträgt.\\n\\nDamit kommen eine Menge sehr nützlicher dekorativer Blöcke!\\n\\n&dFluorit&r und &9Saphir&r sehen beide sehr cool aus!"]
+	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blöcke"
 	quest.034F2CDF0830254B.quest_desc: [
-		"Works just like the Item Importer, put the &eFluid Importer&r onto a Tank with Liquid. Then the &eFluid Interface&r on where you want it to go and connect with Logic Cables. Finally Variable Card just like before! \\n\\nAlso can pull Liquids at the Integer Limit. \\n\\nDoes not place or take Fluid Sources from in the world, it only moves Fluids from one Tank to another."
+		"Funktioniert genau wie der Gegenstandsimporteur, platziere den &eFlüssigkeitsimporteur&r auf einen Tank mit Flüssigkeit. Dann den &eFlüssigkeitsschnittstelle&r dort, wo du es hinschicken möchtest und verbinde sie mit Logikkabeln. Schließlich die Variablenkarte wie zuvor! \\n\\nKann auch Flüssigkeiten bis zum Ganzzahllimit ziehen. \\n\\nPlatziert oder nimmt keine Flüssigkeitsquellen aus der Welt, es bewegt nur Flüssigkeiten von einem Tank zu einem anderen."
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 	]
-	quest.034F2CDF0830254B.title: "&eFluid Importing"
-	quest.034FC4BCCCD7D154.quest_desc: ["Note: While you can put several base upgrades into a machine, only the highest tier takes effect."]
-	quest.034FC4BCCCD7D154.quest_subtitle: "Tier 3 Base Upgrade"
-	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
-	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
-	quest.035C52EF63AD23A7.quest_desc: ["Hence the name of the mod, &lRailCraft&r, and what it revolves around, &5Trains&r, &6Rails&r are pretty important. \\n\\nThe &2Vanilla&r ones work for lots of these but come on we all know they suck. Upgraded ones will need some more special items for their recipes! Craft them! (They might require using machines to make the items so check out that part of the quest!)"]
-	quest.035C52EF63AD23A7.title: "&6&lRails&r!"
-	quest.036D5767E07005BC.quest_desc: ["&bDrains&r are what we'll use to extract our the &7Liquid Metals&r. Yes, it is unfortunately too hot for our Hands or Buckets. \\n\\nConnect the &c&lFoundry&r &7Tap&r to the &bDrain&r, to drain out the &7Liquid Metals&r when Right Clicking the Tap. \\n\\nYou can also view the amounts of Liquids in the &c&lFoundry&r when viewing the &bDrain&r!"]
-	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
-	quest.0373198D54FA6B93.quest_subtitle: "Double it Up"
-	quest.037415D5B965E214.quest_desc: ["This upgrade makes it so the Backpack can't die."]
-	quest.037488EF1F3581CE.quest_desc: ["By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices.\\n\\nThe &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."]
-	quest.037BB7C486D2D360.quest_subtitle: "Indeed"
-	quest.037BB7C486D2D360.title: "Naquadah Vein"
-	quest.037E0DAA5ECC5AB8.quest_desc: ["Hit 24 different Mobs with &ePollen Puffs&r. \\n&6B&8e&6e&8s&r are the most fun to hit with them!"]
-	quest.037E566ACC83FE07.quest_desc: ["Pro Tip: You can enchant these with &9Capacity&r to increase the storage!"]
-	quest.037E566ACC83FE07.title: "Storing Power"
-	quest.03840E4C74731E0C.quest_desc: ["Listen, I have been telling you guys to use &9Electric Pumps&r for most of the &5&lMekanism&r Quests. \\n\\nBut to be honest I have to let you guys graduate. The &2&lReactors&r will need more &9Water&r so I grant you, the &9Sink&r! \\n\\nThe &9Sink&r has Infinite &9Water&r and can be &bPiped&r out from practically any Mod. I recommend using &9&lID&r if available because it can pull over 2 Billion mB of &9Water&r each Tick! \\n\\nThe reason I have been using the &9Electric Pumps&r is not because I don't trust you with &9Sinks&r rather it is for these reasons. 1. it will stay for Modpacks that don't have &9Sinks&r and 2. it is from &5&lMekanism&r. "]
-	quest.03840E4C74731E0C.title: "&9Water &bCoolant"
-	quest.038812A14456236C.quest_desc: ["By combining some Processors, an Energy Cell, and any Dense Cable we get the ME Quantum Ring. \\n\\nUsually we'd use it to connect our ME system across Dimensions but we only care about the &6&lATM Star&r!"]
+	quest.034F2CDF0830254B.title: "&eFlüssigkeitsimport"
+	quest.034FC4BCCCD7D154.quest_desc: ["Hinweis: Während du mehrere Basisupgrades in eine Maschine einbauen kannst, ist nur die höchste Stufe wirksam."]
+	quest.034FC4BCCCD7D154.quest_subtitle: "Stufe 3 Basisupgrade"
+	quest.03564837ECB5CC79.quest_desc: ["Noch ein Ritual, dieses Mal &2Ihagans Verzauberung&r. (Um übrigens ein Pferd zu opfern, musst du es in der Nähe haben, während du das Ritual durchführst) \\n\\nSobald es fertig ist, erhältst du ein Spawn-Ei für einen &2Drachen-Vertrauten&r. Diese können entweder beim Herstellen des &6&lATM-Sterns&r verwendet werden, oder du kannst den &2Vertrauten&r spawnen. \\n\\nDieser wird dir folgen und kann gestreichelt werden, indem du Shift-Rechtsklick auf ihn machst."]
+	quest.03564837ECB5CC79.title: "&2Drachen-Vertrauter&r Spawn-Ei"
+	quest.035C52EF63AD23A7.quest_desc: ["Aufgrund des Namens des Mods, &lRailCraft&r, und worum es sich dreht, &5Züge&r, sind &6Schienen&r ziemlich wichtig. \\n\\nDie &2Vanilla&r-Schienen funktionieren für vieles davon, aber wir wissen alle, dass sie schlecht sind. Verbesserte werden für ihre Rezepte einige speziellere Gegenstände benötigen! Stelle sie her! (Sie könnten Maschinen zur Herstellung der Gegenstände erfordern, also schaue dir diesen Teil der Quest an!)"]
+	quest.035C52EF63AD23A7.title: "&6&lSchienen&r!"
+	quest.036D5767E07005BC.quest_desc: ["&bAbflüsse&r werden wir verwenden, um unsere &7Flüssigen Metalle&r zu extrahieren. Ja, es ist leider zu heiß für unsere Hände oder Eimer. \\n\\nVerbinde den &c&lGießerei&r-&7Hahn&r mit dem &bAbfluss&r, um die &7Flüssigen Metalle&r abzulassen, wenn du mit rechts auf den Hahn klickst. \\n\\nDu kannst auch die Mengen der Flüssigkeiten in der &c&lGießerei&r sehen, wenn du den &bAbfluss&r betrachtest!"]
+	quest.036D5767E07005BC.title: "&c&lGießerei&r &bAbflüsse"
+	quest.0373198D54FA6B93.quest_subtitle: "Verdopple es"
+	quest.037415D5B965E214.quest_desc: ["Dieses Upgrade sorgt dafür, dass der Rucksack nicht kaputt gehen kann."]
+	quest.037488EF1F3581CE.quest_desc: ["Standardmäßig hat ein ME-Netzwerk alleine nur einen internen Puffer von 800AE ohne einen ME-Controller, wobei der Controller pro Block zusätzliche 8kAE hinzufügt. Für große genug Netzwerke kann dies unzureichend sein und dazu führen, dass ein Netzwerk zeitweise ausfällt, wenn es versucht, Energie für angeschlossene Geräte zu sparen.\\n\\nDie &bEnergiezelle&f erlaubt einem ME-Netzwerk, erheblich mehr Energie zu speichern, indem sie weitere 200kAE pro reguläre Energiezelle und 1,6MAE pro &bDichte&f Energiezelle hinzufügt. Diese können auch überall im Netzwerk platziert werden, um den erhöhten Energiepuffer zu bieten."]
+	quest.037BB7C486D2D360.quest_subtitle: "In der Tat"
+	quest.037BB7C486D2D360.title: "Naquadah-Ader"
+	quest.037E0DAA5ECC5AB8.quest_desc: ["Triff 24 verschiedene Mobs mit &ePollenpuffen&r. \\n&6B&8i&6e&8nen&r sind am lustigsten zu treffen!"]
+	quest.037E566ACC83FE07.quest_desc: ["Profi-Tipp: Du kannst diese mit &9Kapazität&r verzaubern, um den Speicher zu erhöhen!"]
+	quest.037E566ACC83FE07.title: "Energie speichern"
+	quest.03840E4C74731E0C.quest_desc: ["Hör zu, ich habe euch für die meisten &5&lMekanism&r-Quests gesagt, dass ihr &9Elektrische Pumpen&r verwenden sollt. \\n\\nAber um ehrlich zu sein, muss ich euch jetzt graduieren lassen. Die &2&lReaktoren&r werden mehr &9Wasser&r benötigen, also gewähre ich euch das &9Waschbecken&r! \\n\\nDas &9Waschbecken&r hat unendlich &9Wasser&r und kann von praktisch jeder Mod &bverrohrt&r werden. Ich empfehle &9&lID&r, wenn verfügbar, weil es über 2 Milliarden mB &9Wasser&r pro Tick ziehen kann! \\n\\nDer Grund, warum ich die &9Elektrischen Pumpen&r benutzt habe, ist nicht, weil ich euch nicht mit &9Waschbecken&r vertraue, sondern aus diesen Gründen: 1. es bleibt für Modpacks, die keine &9Waschbecken&r haben und 2. es ist von &5&lMekanism&r. "]
+	quest.03840E4C74731E0C.title: "&9Wasser&r &bKühlmittel"
+	quest.038812A14456236C.quest_desc: ["Durch die Kombination einiger Prozessoren, einer Energiezelle und eines beliebigen dichten Kabels erhalten wir den ME-Quantenring. \\n\\nNormalerweise würden wir ihn verwenden, um unser ME-System über Dimensionen hinweg zu verbinden, aber wir interessieren uns nur für den &6&lATM-Stern&r!"]
 	quest.039DBFD0172076AB.quest_desc: [
-		"This question has been asked previously, but it will be asked again..."
+		"Diese Frage wurde schon einmal gestellt, aber sie wird wieder gestellt werden..."
 		""
-		"Can this thing brew some beers?"
+		"Kann dieses Ding Bier brauen?"
 	]
-	quest.039DBFD0172076AB.quest_subtitle: "Distillery you say?"
+	quest.039DBFD0172076AB.quest_subtitle: "Destillerie, sagst du?"
 	quest.03B40AB768FC0161.quest_desc: [
-		"Shimmer Rivers are friendly rivers. These won't go out of their way to kill you. \\n\\nThey sometimes connect Seas together and go through Forests. \\n\\nClearly they have Water but within the Water is plenty of goods!"
+		"Schimmerflüsse sind freundliche Flüsse. Diese werden nicht aktiv versuchen, dich zu töten. \\n\\nSie verbinden manchmal Meere miteinander und fließen durch Wälder. \\n\\nOffensichtlich haben sie Wasser, aber im Wasser gibt es viele Güter!"
 		"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
 	]
-	quest.03B40AB768FC0161.title: "Shimmer River"
+	quest.03B40AB768FC0161.title: "Schimmerfluss"
 	quest.03B5D467E76C5B8A.quest_desc: [
-		"I hope you've been keeping up with your ore gathering and processing!"
+		"Ich hoffe, du hast mit dem Sammeln und Verarbeiten von Erzen Schritt gehalten!"
 		""
-		"You can get &dRutile Dust&r from several methods:"
-		"&eElectrolyzing&r 15 Bauxite dust"
-		"[ \"\", { \"text\": \"EBF \", \"color\": \"green\", \"hoverEvent\": { \"action\": \"show_text\", \"contents\": { \"text\": \"Electric Blast Furnace\" } } }, { \"text\": \"10 Ilmenite and 4 Carbon together\" }]"
-		"&6Ore Process&r Ilmenite or Bauxite for a chanced output"
-		"&eChemical Bath&r Aluminium in &3Sodium Persulfate&r for a higher chanced output"
+		"Du kannst &dRutil-Staub&r durch verschiedene Methoden erhalten:"
+		"&eElektrolysieren&r von 15 Bauxit-Staub"
+		"[ \"\", { \"text\": \"EBF \", \"color\": \"green\", \"hoverEvent\": { \"action\": \"show_text\", \"contents\": { \"text\": \"Electric Blast Furnace\" } } }, { \"text\": \"10 Ilmenit und 4 Kohlenstoff zusammen\" }]"
+		"&6Erzverarbeitung&r von Ilmenit oder Bauxit für eine Zufallsausgabe"
+		"&eChemisches Bad&r mit Aluminium in &3Natriumpersulfat&r für eine höhere Zufallsausgabe"
 		""
-		"&cRemember:&r Chanced outputs increase with the tier of the machine"
+		"&cErinnere dich:&r Zufallsausgaben steigen mit der Stufe der Maschine"
 	]
-	quest.03B5D467E76C5B8A.quest_subtitle: "More like futile dust"
-	quest.03B842E4A2A6B2C9.quest_subtitle: "Good for manganese"
-	quest.03B842E4A2A6B2C9.title: "Grossular Vein"
-	quest.03C40D6A5D722543.quest_desc: ["Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them. \\n\\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card. \\n\\nIf you're like me just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved."]
-	quest.03C475ABEFF04DEF.quest_desc: ["This lens will redirect any Mana Spreaders or entities it collides with to face towards teh block or entity that fired the burst."]
-	quest.03C54B07106091DD.quest_desc: ["&cSmelter Prism&r is probably the most used Item from these Rituals, like how it is needed for the &6&lATM Star&r! \\n\\nYou'll need 4 &cBlaze Powder&r, 2 &8Coal&r, and a block of &bArcane Crystal&r to make it. And don't forget the &3Elementarium&r Relic! \\nObviously and what you are most likely wanting the &cSmelter Prism&r for is the &6&lATM Star&r. It can also be used with Tools to Smelt the Items that they break: Raw Ore to Ingots, Logs to Charcoal, Sand to Glass. \\n\\nYou can also use it for Furnace Fuel, but it kinda sucks. Which is dumb because the name suggests it would be better!"]
-	quest.03C54B07106091DD.title: "&cSmelter Prism"
+	quest.03B5D467E76C5B8A.quest_subtitle: "Eher wie futiler Staub"
+	quest.03B842E4A2A6B2C9.quest_subtitle: "Gut für Mangan"
+	quest.03B842E4A2A6B2C9.title: "Grossular-Ader"
+	quest.03C40D6A5D722543.quest_desc: ["Variablenkarten sind notwendig, um Interaktionen wie das Importieren von Gegenständen zu starten. Du wirst sie in einen der Slots des Importeurs legen, um sie hinzuzufügen. \\n\\nVon dort aus kannst du alles über die +-Schaltfläche bearbeiten. Du kannst ändern, wie viel importiert wird, welcher Gegenstandsslot, welcher Kanal, praktisch alles mit nur dieser Karte. \\n\\nWenn du wie ich nur Gegenstände verschieben möchtest, nichts zu Ausgefallenes, leg sie einfach ein und ändere vielleicht das Limit dafür, wie viel bewegt wird."]
+	quest.03C475ABEFF04DEF.quest_desc: ["Diese Linse leitet alle Mana-Spreader oder Entitäten, mit denen sie kollidiert, um, um auf den Block oder die Entität zu zielen, der/die den Ausbruch abgefeuert hat."]
+	quest.03C54B07106091DD.quest_desc: ["&cSmelter Prisma&r ist wahrscheinlich der am häufigsten verwendete Gegenstand aus diesen Ritualen, wie er für den &6&lATM-Stern&r benötigt wird! \\n\\nDu benötigst 4 &cLohenstaub&r, 2 &8Kohle&r und einen Block &bArkankristall&r, um es herzustellen. Und vergiss nicht das &3Elementarium&r-Relikt! \\nOffensichtlich und wofür du das &cSmelter Prisma&r am wahrscheinlichsten haben möchtest, ist der &6&lATM-Stern&r. Es kann auch mit Werkzeugen verwendet werden, um die Gegenstände zu schmelzen, die sie abbauen: Roherz zu Barren, Stämme zu Holzkohle, Sand zu Glas. \\n\\nDu kannst es auch als Ofenbrennstoff verwenden, aber es ist ziemlich schlecht. Was dumm ist, weil der Name darauf hindeutet, dass es besser wäre!"]
+	quest.03C54B07106091DD.title: "&cSmelter Prisma"
 	quest.03C756EB123CA953.quest_desc: [
-		"We'll use this to upgrade the Medium Power Integrated Circuit (&aMPIC&r) Wafer to the High Power (&6HPIC&r) variant, allowing for larger energy hatches!"
+		"Wir werden dies verwenden, um den Mittleren Integrierten Leistungsschaltkreis (&aMPIC&r)-Wafer auf die Hochleistungs-Variante (&6HPIC&r) aufzurüsten, was größere Energieklappen ermöglicht!"
 		""
-		"This will need to go into your &bCleanroom&r to run the recipe"
+		"Dies muss in deinen &bReinraum&r, um das Rezept auszuführen"
 	]
-	quest.03C78165C5CBD9E1.quest_desc: ["The 16k Storage Disk can store 16000 items."]
-	quest.03C78165C5CBD9E1.title: "&a16k Storage Part"
-	quest.03DCDFB32CD4BD85.quest_desc: ["&e&lCaliburn&r requires a few things, some already stated in quests, some not yet. \\nFirst, you need the &3Mahou Lake&r and 5000 &4Mahou&r. \\n\\nThen, you'll need an Enchanted &bDiamond Sword&r with &5Smite&r (the higher the level, the better). \\n\\nFinally, throw the &bSword&r into the &3Lake&r and you'll find &e&lCaliburn&r at the bottom of it!"]
+	quest.03C78165C5CBD9E1.quest_desc: ["Die 16k-Speicherdiskette kann 16000 Gegenstände speichern."]
+	quest.03C78165C5CBD9E1.title: "&a16k-Speicherteil"
+	quest.03DCDFB32CD4BD85.quest_desc: ["&e&lCaliburn&r benötigt einige Dinge, einige bereits in Quests erwähnt, einige noch nicht. \\nZuerst brauchst du den &3Mahou-See&r und 5000 &4Mahou&r. \\n\\nDann brauchst du ein verzaubertes &bDiamantschwert&r mit &5Bann&r (je höher die Stufe, desto besser). \\n\\nZum Schluss wirf das &bSchwert&r in den &3See&r und du wirst &e&lCaliburn&r auf dem Grund finden!"]
 	quest.03DCDFB32CD4BD85.title: "&e&lCaliburn"
-	quest.03E05018D64DDEE1.quest_desc: ["&eTier 5&r is basically just for Allthemodium Ore, not much else."]
-	quest.03E05018D64DDEE1.title: "&eHarvest Tier 5"
-	quest.03E6FA4DCB71162E.quest_desc: ["The &bColor Applicator&f is a chargeable tool that allows for in-world dyeing of cables. It functions more or less as a specialised &estorage cell&f to be loaded up with either vanilla dyes or &epaint balls&f for specific colours, along with &esnowballs&f to wash colours off and turn cables back to their Fluix variant.\\n\\nApplying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."]
-	quest.03E6FA4DCB71162E.title: "Color Applicator"
+	quest.03E05018D64DDEE1.quest_desc: ["&eStufe 5&r ist im Grunde nur für Allthemodium-Erz, nicht viel mehr."]
+	quest.03E05018D64DDEE1.title: "&eAbbauwerkzeug Stufe 5"
+	quest.03E6FA4DCB71162E.quest_desc: ["Der &bFarbapplikator&f ist ein aufladbares Werkzeug, das es ermöglicht, Kabel in der Welt zu färben. Er funktioniert mehr oder weniger wie eine spezialisierte &eSpeicherzelle&f, die mit Vanilla-Farbstoffen oder &eFarbbällen&f für bestimmte Farben gefüllt werden kann, zusammen mit &eSchneebällen&f, um Farben abzuwaschen und Kabel wieder in ihre Fluix-Variante zu verwandeln.\\n\\nDas Auftragen von Farbe auf ein Kabel verbraucht 100AE Energie aus seiner internen Batterie, insgesamt für 3400 Kabelsegmente in einer einzigen Ladung."]
+	quest.03E6FA4DCB71162E.title: "Farbapplikator"
 	quest.03E7D73433AB6B7C.quest_desc: [
-		"Using our Arcane Crystal Dust, we'll need to combine it with other dusts and powders to create &dMundabiter Dust&r."
+		"Mit unserem Arkankristallstaub müssen wir ihn mit anderen Stäuben und Pulvern kombinieren, um &dMundabiter-Staub&r herzustellen."
 		""
-		"This dust is used in several recipes, as well as activating the Hephaestus Forge."
+		"Dieser Staub wird in mehreren Rezepten verwendet, sowie zur Aktivierung der Hephaistos-Schmiede."
 	]
-	quest.03E7D73433AB6B7C.quest_subtitle: "Let the Dusts Combine"
-	quest.03E7D73433AB6B7C.title: "Mundabitur Dust"
+	quest.03E7D73433AB6B7C.quest_subtitle: "Lass die Stäube sich verbinden"
+	quest.03E7D73433AB6B7C.title: "Mundabitur-Staub"
 	quest.03ED9B0DFE8B4574.quest_desc: [
-		"Valid Upgrades:"
-		"- Mind Fog"
-		"- Stupefy"
+		"Gültige Upgrades:"
+		"- Gedankennebel"
+		"- Betäuben"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Intrinsische Fähigkeit:"
+		"- Lava-Reparatur"
 	]
-	quest.041365A540BF5A03.quest_desc: ["The &7Dictionary&r isn't helpful to the average Player: it doesn't Mine, Place Blocks, Craft, Smelt, really interact with anything. \\n\\nInstead it is used for finding Tags! \\n\\nWe can Right Click a Block with the &7Dictionary&r in Hand and the Blocks Tags will show up in Chat. We can do the same with Entities. \\n\\nIs that not enough? Well we can also Shift Right Click to open up our &7Dictionary&r! \\n\\nHere we can see the Items in our Inventory and check all the different Tags for them. From Item, to Potion, to Enchantment Tags, nothing can hide from the &7Dictionary&r!"]
-	quest.041365A540BF5A03.title: "&7Dictionary"
-	quest.0416C489903BCFFF.title: "Ultimate Voltage Age"
+	quest.041365A540BF5A03.quest_desc: ["Das &7Wörterbuch&r ist für den durchschnittlichen Spieler nicht hilfreich: es gräbt nicht, platziert keine Blöcke, stellt nicht her, schmilzt nicht, interagiert wirklich mit nichts. \\n\\nStattdessen wird es zum Finden von Tags verwendet! \\n\\nWir können mit dem &7Wörterbuch&r in der Hand mit der rechten Maustaste auf einen Block klicken, und die Tags des Blocks werden im Chat angezeigt. Wir können dasselbe mit Entitäten tun. \\n\\nIst das nicht genug? Nun, wir können auch Shift-Rechtsklick machen, um unser &7Wörterbuch&r zu öffnen! \\n\\nHier können wir die Gegenstände in unserem Inventar sehen und alle verschiedenen Tags für sie überprüfen. Von Gegenstand- über Trank- bis hin zu Verzauberungs-Tags kann sich nichts vor dem &7Wörterbuch&r verstecken!"]
+	quest.041365A540BF5A03.title: "&7Wörterbuch"
+	quest.0416C489903BCFFF.title: "Ultimative Spannungszeitalter"
 	quest.041D16DA96BC4253.quest_desc: [
-		"&e&lPollinated Pillars&r are what connect &e&lPollinated Fields&r to the &6&lHive Walls&r. \\nThey are a good mix of both! Huge steep walls of &6Honey&r while being layered with &ePollen&r!\\n"
+		"&e&lBestäubte Säulen&r verbinden &e&lBestäubte Felder&r mit den &6&lBienenstockwänden&r. \\nSie sind eine gute Mischung aus beidem! Riesige steile Wände aus &6Honig&r, gleichzeitig mit &ePollen&r beschichtet!\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_pollenpillar.png width:200 height:100 align:center}"
 	]
-	quest.041D16DA96BC4253.title: "&e&lPollinated Pillars"
-	quest.041ED280691BB05D.quest_desc: ["&9Froststeel&r is a common Ore in the Cold Biomes of the &2&lUndergarden&r. "]
+	quest.041D16DA96BC4253.title: "&e&lBestäubte Säulen"
+	quest.041ED280691BB05D.quest_desc: ["&9Froststahl&r ist ein häufiges Erz in den kalten Biomen des &2&lUntergartens&r. "]
 	quest.041ED280691BB05D.quest_subtitle: "18"
-	quest.041ED280691BB05D.title: "&9Froststeel Armor"
+	quest.041ED280691BB05D.title: "&9Froststahl-Rüstung"
 	quest.04291652780AEE72.quest_desc: [
-		"Large Maceration Towers will be very important, as ore processing will continue to be very important as we get into new resources through the tiers. "
+		"Große Zerkleinerungstürme werden sehr wichtig sein, da die Erzverarbeitung weiterhin sehr wichtig sein wird, wenn wir durch die Stufen zu neuen Ressourcen gelangen. "
 		""
-		"As such having a Maceration tower that can parallelize the processes will optimize the Ore processing that still needs to happen."
+		"Daher wird ein Zerkleinerungsturm, der die Prozesse parallelisieren kann, die Erzverarbeitung optimieren, die immer noch stattfinden muss."
 	]
-	quest.04291652780AEE72.quest_subtitle: "Maceration Tower!"
-	quest.04362E2A5C541EC5.quest_desc: ["16x Manganese Phosphide wires - Qty 8"]
-	quest.04362E2A5C541EC5.quest_subtitle: "LV Superconductor"
+	quest.04291652780AEE72.quest_subtitle: "Zerkleinerungsturm!"
+	quest.04362E2A5C541EC5.quest_desc: ["16x Manganphosphid-Drähte - Menge 8"]
+	quest.04362E2A5C541EC5.quest_subtitle: "LV-Supraleiter"
 	quest.0436DF3308681913.quest_desc: [
-		"Sitting on the Throne lies the remains of a past &4&lKing&r. But once you come close, and touch them, you will see them reanimate; the &4&lKing&r is dead no longer! But only murder will keep him alive... and well you're the closest living thing. \\n\\n&4&lThe Dead King&r is the hardest Boss, he has 400 &cHearts&r and is the only to have an actual Boss Bar (and music). He can use a variety of &3Spells&r from any class, &2Poison Arrow&r from &2Nature&r to &6Blight&r from &6Holy&r to even &aFangs&r from &aEvokation&r! He can also teleport, summon the dead, and hit you with the &4Blood Staff&r. \\n\\nIf you can kill him he will drop &3Scrolls&r of all sorts, &7Blank Runes&r, and possibly drop the &4Blood Staff&r and Necronomicon."
+		"Auf dem Thron liegen die Überreste eines vergangenen &4&lKönigs&r. Aber sobald du näher kommst und sie berührst, wirst du sehen, wie sie wieder zum Leben erwachen; der &4&lKönig&r ist nicht länger tot! Aber nur Mord wird ihn am Leben halten... und nun, du bist das nächste lebende Wesen. \\n\\n&4&lDer Tote König&r ist der schwerste Boss, er hat 400 &cHerzen&r und ist der einzige mit einer echten Boss-Leiste (und Musik). Er kann eine Vielzahl von &3Zaubern&r aus jeder Klasse verwenden, vom &2Giftpfeil&r aus &2Natur&r über &6Seuche&r aus &6Heilig&r bis hin zu &aFängen&r aus &aEvokation&r! Er kann sich auch teleportieren, Tote beschwören und dich mit dem &4Blutstab&r treffen. \\n\\nWenn du ihn töten kannst, wird er &3Schriftrollen&r aller Art, &7Leere Runen&r und möglicherweise den &4Blutstab&r und das Necronomicon fallen lassen."
 		"{image:atm:textures/questpics/iron_spells/spells_king.png width:100 height:200 align:center}"
 	]
-	quest.0436DF3308681913.title: "&4&lThe Dead King"
-	quest.043A424FDDA71692.quest_desc: ["ME Fluid Input! Inputs fluids for your processes in Multiblocks, and even keeps a stock in the Hatch itself!"]
-	quest.043A424FDDA71692.quest_subtitle: "ME Fluid Input"
-	quest.04440BB2EFFD6DD9.quest_desc: ["In the depths of the Labyrinth Swamp is a giant &cMinoshroom&r.\\n\\nOnce defeated, it'll drop &eMeef Stroganoff&r. To unlock the next area, you must eat it."]
-	quest.04440BB2EFFD6DD9.title: "&cMighty Meef Stroganoff"
-	quest.0447551EF7FB171B.quest_desc: ["Don't need anymore processing, this isn't a &4Blood&r Test, it's just fuel! \\n\\nJust Pipe the &4Pedestal&r to the &c&lForge&r and watch the &4Blood&r flow in!"]
-	quest.0447551EF7FB171B.title: "&4Blood"
+	quest.0436DF3308681913.title: "&4&lDer Tote König"
+	quest.043A424FDDA71692.quest_desc: ["ME-Flüssigkeitseingang! Führt Flüssigkeiten für deine Prozesse in Multiblöcken ein und hält sogar einen Vorrat in der Klappe selbst!"]
+	quest.043A424FDDA71692.quest_subtitle: "ME-Flüssigkeitseingang"
+	quest.04440BB2EFFD6DD9.quest_desc: ["In den Tiefen des Labyrinth-Sumpfes befindet sich ein riesiger &cMinoshroom&r.\\n\\nNachdem er besiegt wurde, lässt er &eMinosaurus-Stroganoff&r fallen. Um den nächsten Bereich freizuschalten, musst du es essen."]
+	quest.04440BB2EFFD6DD9.title: "&cMächtiger Minosaurus-Stroganoff"
+	quest.0447551EF7FB171B.quest_desc: ["Keine weitere Verarbeitung nötig, dies ist kein &4Blut&r-Test, es ist nur Treibstoff! \\n\\nVerbinde einfach den &4Sockel&r mit der &c&lSchmiede&r und beobachte, wie das &4Blut&r einfließt!"]
+	quest.0447551EF7FB171B.title: "&4Blut"
 	quest.0460DDEEFDEB0AAF.quest_desc: ["Divination Rods are our Tools we use to contact the spirits to find certain Items. \\n\\nFirst, you'll need to select the Block or Item by either Shift Right Clicking it with the Rod, or crafting the Rod with its &eAlchemical Sulfur&r!\\n\\nBy holding them and holding Right Click the Rod will look for a selected Item. It will make a noise and the Rod will light up for how close the Block or Item is. \\n\\nIf close enough an orb might appear showing you the way to the Item."]
 	quest.0460DDEEFDEB0AAF.title: "Divination Rods"
 	quest.04636DE704AD7B0B.quest_desc: ["Ever feel like the Autoclave just wasnt enough for you? Well than this multiblock will fill that void! This large structure is a direct replacement for the single block Autoclave!"]
