@@ -8748,256 +8748,256 @@
 	quest.52F85CED20C8B1E9.title: "&eEnergiekarte"
 	quest.5303509A1C2B1CCD.quest_desc: ["Der &3Pneumatische Presslufthammer&r nutzt Druck zum Abbauen und kann verbessert werden, um erstaunlich zu sein!"]
 	quest.5303509A1C2B1CCD.quest_subtitle: "Tut mir leid, Jack!"
-	quest.5311404799117060.quest_subtitle: "Tier: &b4"
+	quest.5311404799117060.quest_subtitle: "Stufe: &b4"
 	quest.53154550397E9704.quest_desc: [
-		"The &c&lNetherite Monstrosity&r lives up to his name, he's a beast of &cNetherite &fand &cLava&r. \\n\\nHe can have up to 48,000 &4Hearts&r but when I first met him he was only at around 9,500 &4Hearts&r. He will regenerate &4Hearts&r when no Player is nearby.\\n\\nHe has a few Melee attacks like smacking you with his massive arms and ground pounding on you. He can also throw blocks in the Air causing a Shockwave. \\n\\nIf you get farther from him he might charge at you or leap at you. Honestly he looks like he weighs 100 Tons, I wouldn't want him doing either to me! \\n\\nThe worst of his attacks are definitely the Ranged ones though... he can shoot &cMagma Balls&r at you and where they drop, &cLava&r will spawn. He can also shoot &cFireballs&r from his hands, these will cause &cFire Spouts&r to come out of the ground."
+		"Der &c&lNetherit-Monstrosität&r wird seinem Namen gerecht, er ist ein Biest aus &cNetherit &fund &cLava&r. \\n\\nEr kann bis zu 48.000 &4Herzen&r haben, aber als ich ihm zum ersten Mal begegnete, hatte er nur etwa 9.500 &4Herzen&r. Er regeneriert &4Herzen&r, wenn kein Spieler in der Nähe ist.\\n\\nEr hat einige Nahkampfangriffe wie das Schlagen mit seinen massiven Armen und das Stampfen auf den Boden. Er kann auch Blöcke in die Luft werfen, die eine Schockwelle verursachen. \\n\\nWenn du dich weiter von ihm entfernst, könnte er auf dich zustürmen oder auf dich springen. Ehrlich gesagt sieht er aus, als würde er 100 Tonnen wiegen, ich möchte nicht, dass er mir das antut! \\n\\nDie schlimmsten seiner Angriffe sind definitiv die aus der Ferne... er kann &cMagmabälle&r auf dich schießen und wo sie landen, wird &cLava&r entstehen. Er kann auch &cFeuerbälle&r aus seinen Händen schießen, diese werden &cFeuerausbrüche&r aus dem Boden verursachen."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_monstrosity.png width:100 height:100 align:center}"
 	]
-	quest.53154550397E9704.title: "&c&lNetherite Monstrosity&r"
-	quest.5316DF321B45D2CA.quest_desc: ["Welcome to &dOccultism&r!\\n\\nThis mod aimes to help the player in many different ways by enlisting the help of &c&mDemons&r &bSpirits&r! Don't worry, most of them are friendly. &oMost&r.\\n\\nTo get started, you'll need to get some &aDemon's Fruit Seeds&r."]
-	quest.5316DF321B45D2CA.title: "&dDreaming of &cDemons"
+	quest.53154550397E9704.title: "&c&lNetherit-Monstrosität&r"
+	quest.5316DF321B45D2CA.quest_desc: ["Willkommen bei &dOccultism&r!\\n\\nDieser Mod zielt darauf ab, dem Spieler auf verschiedene Weise zu helfen, indem er die Hilfe von &c&mDämonen&r &bGeistern&r anfordert! Keine Sorge, die meisten von ihnen sind freundlich. &oDie meisten&r.\\n\\nUm zu beginnen, benötigst du &aDämonenfrucht-Samen&r."]
+	quest.5316DF321B45D2CA.title: "&dTräumen von &cDämonen"
 	quest.532229D285CA4858.quest_desc: [
-		"The &9Importer&r is used to pull items from a connected block. "
+		"Der &9Importeur&r wird verwendet, um Gegenstände aus einem verbundenen Block zu ziehen. "
 		""
-		"For example, you can use these on Furnaces to pull the finished product out into your system. "
+		"Du kannst diese zum Beispiel an Öfen anbringen, um das fertige Produkt in dein System zu ziehen. "
 		""
-		"Make sure to grab some &6Speed&r or &6Stack&r upgrades for them! "
+		"Vergiss nicht, einige &6Geschwindigkeits-&r oder &6Stapel&r-Upgrades dafür zu besorgen! "
 		""
-		"You can also filter what items are pulled. Need more filter slots? Upgrade it!"
+		"Du kannst auch filtern, welche Gegenstände gezogen werden. Brauchst du mehr Filterplätze? Upgrade es!"
 	]
-	quest.532229D285CA4858.quest_subtitle: "Importing Items!"
-	quest.532229D285CA4858.title: "Importer"
-	quest.53292D808E8F5218.quest_subtitle: "Blackthorn + Luck"
-	quest.532F3E6868A29037.quest_desc: ["Think of the previous Upgrade: Speed, now think of it making things even faster! \\n\\nThese Upgrades can be used in the Machines to make them work 40% faster! \\nYes, their effects stack. \\n\\nNo, they can not be used in Hives, that's what Productivity is for!"]
-	quest.532F3E6868A29037.quest_subtitle: "Sonic everything but Bees"
-	quest.533624CA5C2A7BBD.quest_desc: ["Allows Mana Bursts to use its own mana to damage any living being it hits."]
+	quest.532229D285CA4858.quest_subtitle: "Gegenstände importieren!"
+	quest.532229D285CA4858.title: "Importeur"
+	quest.53292D808E8F5218.quest_subtitle: "Schwarzdorn + Glück"
+	quest.532F3E6868A29037.quest_desc: ["Denke an das vorherige Upgrade: Geschwindigkeit, jetzt denke daran, dass es die Dinge noch schneller macht! \\n\\nDiese Upgrades können in den Maschinen verwendet werden, um sie 40% schneller arbeiten zu lassen! \\nJa, ihre Effekte stapeln sich. \\n\\nNein, sie können nicht in Bienenstöcken verwendet werden, dafür ist Produktivität gedacht!"]
+	quest.532F3E6868A29037.quest_subtitle: "Alles schnell, aber nicht die Bienen"
+	quest.533624CA5C2A7BBD.quest_desc: ["Ermöglicht Mana-Schüben, ihr eigenes Mana zu verwenden, um jedem Lebewesen zu schaden, das sie treffen."]
 	quest.533DB1666B11489A.quest_desc: [
-		"If you didn't make the &5EV Assembler&r before now, then now is the time to do it!"
+		"Wenn du den &5EV-Assembler&r noch nicht vorher gebaut hast, dann ist jetzt der Zeitpunkt gekommen!"
 		""
-		"You'll use this to make the &9Tungstensteel Coil&r for your &aEBF&r"
+		"Du wirst ihn verwenden, um die &9Wolframstahlspule&r für deinen &aEBF&r herzustellen"
 	]
-	quest.53518D4ED99A242F.quest_desc: ["The &3Camouflage Applicator&r can be used to hide PneumaticCraft machinery inside of other blocks."]
-	quest.53518D4ED99A242F.quest_subtitle: "Want to make your setup look cool?"
-	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \\n\\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
-	quest.535525EA4DF4AB59.title: "&cNitro Player Transmitter"
-	quest.5357A140DD05654A.quest_desc: ["16x Uranium Triplatinum Wire - Qty 8"]
-	quest.5357A140DD05654A.quest_subtitle: "EV Superconductor"
-	quest.53594EBA9F7BA840.quest_desc: ["The Advanced Item Unloader is just like the normal part but can be used from any direction. Nothing different besides direction."]
-	quest.53594EBA9F7BA840.title: "Advanced Item Unloader"
+	quest.53518D4ED99A242F.quest_desc: ["Der &3Tarnungs-Applikator&r kann verwendet werden, um PneumaticCraft-Maschinen in anderen Blöcken zu verstecken."]
+	quest.53518D4ED99A242F.quest_subtitle: "Möchtest du, dass dein Setup cool aussieht?"
+	quest.535525EA4DF4AB59.quest_desc: ["Der &cSpieler-Transmitter&r versorgt jeden mit der gebundenen Karte mit Energie. Das umfasst Energie für alle Rüstungen, Werkzeuge und Gegenstände in ihrem Inventar. \\n\\nDie &cNitro-Stufe&r wird für den &6&lStern&r benötigt, der natürlich der letzte und schwierigste zu bekommen ist."]
+	quest.535525EA4DF4AB59.title: "&cNitro Spieler-Transmitter"
+	quest.5357A140DD05654A.quest_desc: ["16x Uran-Triplatinum-Draht - Menge 8"]
+	quest.5357A140DD05654A.quest_subtitle: "EV-Supraleiter"
+	quest.53594EBA9F7BA840.quest_desc: ["Der erweiterte Gegenstand-Entlader funktioniert wie der normale Teil, kann aber aus jeder Richtung verwendet werden. Nichts anderes außer der Richtung ist anders."]
+	quest.53594EBA9F7BA840.title: "Erweiterter Gegenstand-Entlader"
 	quest.5361F72BAB72D318.quest_desc: [
-		"Now you can stab others to use their Blood instead!"
+		"Jetzt kannst du andere erstechen, um ihr Blut stattdessen zu verwenden!"
 		""
-		"Stabbing any mob within 2 blocks of your Altar with one of these will insta-kill them and drain their LP into your Altar!"
+		"Wenn du einen Mob innerhalb von 2 Blöcken deines Altars mit einem dieser Gegenstände erstichst, wird er sofort getötet und sein LP in deinen Altar fließen!"
 		""
-		"If you have Runes of Sacrifice around your Altar, you'll get more per kill."
+		"Wenn du Runen der Opferung um deinen Altar herum hast, erhältst du mehr pro Tötung."
 		""
-		"I'm also totally not giving you 16 eggs for you to potentially get chickens for blood. Totally just for cooking."
+		"Ich gebe dir auch nicht 16 Eier, damit du möglicherweise Hühner für Blut bekommst. Nur zum Kochen."
 	]
-	quest.5361F72BAB72D318.quest_subtitle: "Tired of Stabbing Yourself?"
-	quest.537B39B42C7D21ED.quest_desc: ["In the new Biomes added by &l&aOh The Biomes We've Gone&r you can find 4 new Stone types: Dacite, Red Rock, Mossy Stone, and Rocky Stone. \\n\\nNow I'd like to know what separates the Rocky Stone from any other Stone that earns it the title of Rocky."]
-	quest.537B39B42C7D21ED.title: "&l&aOh The Biomes We've Gone&r Stones"
+	quest.5361F72BAB72D318.quest_subtitle: "Müde davon, dich selbst zu erstechen?"
+	quest.537B39B42C7D21ED.quest_desc: ["In den neuen Biomen, die von &l&aOh The Biomes We've Gone&r hinzugefügt wurden, kannst du 4 neue Steinarten finden: Dazit, Roter Stein, Moosiger Stein und Felsiger Stein. \\n\\nJetzt würde ich gerne wissen, was den Felsigen Stein von jedem anderen Stein unterscheidet, der ihm den Titel 'Felsig' verleiht."]
+	quest.537B39B42C7D21ED.title: "&l&aOh The Biomes We've Gone&r Steine"
 	quest.537E39530360AD73.quest_desc: [
-		"To perform a ritual, place the ingredients on the Arcane Pedestals around the Forge."
+		"Um ein Ritual durchzuführen, lege die Zutaten auf die arkanen Sockel um die Schmiede."
 		""
-		"You'll need a &9Blacksmith's Gavel&r to activate the ritual. To do this, right click on the Forge with the Gavel."
+		"Du benötigst einen &9Schmiedehammer&r, um das Ritual zu aktivieren. Dazu klicke mit der rechten Maustaste auf die Schmiede mit dem Hammer."
 	]
-	quest.537E39530360AD73.title: "Performing Rituals"
-	quest.53829B3E51936ACD.quest_desc: ["Hold a &bDiamond Sword&r in your off hand and the &7Scroll of Strengthening&r in your main and hold Right Click."]
-	quest.53829B3E51936ACD.title: "Strong Sword"
-	quest.538821E23E39BE97.quest_desc: ["&2Augment&r: Fuel Efficiency is for all you Earth-Loving, Tree-Hugging, Captain Planet Embracing, Hippies. The Furnace consumes half of the amount of Fuel at the cost of half the time. Coal will not Smelt 8 items but rather 16!"]
-	quest.538821E23E39BE97.title: "&2Augment&r: Fuel Efficiency"
-	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Nature Armor&r!"]
+	quest.537E39530360AD73.title: "Rituale durchführen"
+	quest.53829B3E51936ACD.quest_desc: ["Halte ein &bDiamantschwert&r in deiner Nebenhand und die &7Schriftrolle der Stärkung&r in deiner Haupthand und halte die rechte Maustaste gedrückt."]
+	quest.53829B3E51936ACD.title: "Starkes Schwert"
+	quest.538821E23E39BE97.quest_desc: ["&2Augment&r: Kraftstoffeffizienz ist für alle umweltliebenden, baumkuscheligen, Captain-Planet-verehrenden Hippies. Der Ofen verbraucht die Hälfte der Brennstoffmenge auf Kosten der halben Zeit. Kohle wird nicht 8, sondern 16 Gegenstände schmelzen!"]
+	quest.538821E23E39BE97.title: "&2Augment&r: Kraftstoffeffizienz"
+	quest.5391385A75535EC8.quest_desc: ["&e&lIron's Spells&r &2Natur-Rüstung&r!"]
 	quest.5391385A75535EC8.quest_subtitle: "20"
-	quest.5391385A75535EC8.title: "&2Plagued Outfit"
+	quest.5391385A75535EC8.title: "&2Verseuchtes Outfit"
 	quest.539266A1C03C2EBA.quest_desc: [
-		"Souls is the 2nd Slot needed for the &6&lForge&r, also the smallest one: only needing 10 to fill it! \\n\\nEach Soul and Corrupt Soul will count as 1 Soul. While Enchanted Souls count as the whole 10!"
+		"Seelen sind der 2. Slot, der für die &6&lSchmiede&r benötigt wird, auch der kleinste: nur 10 werden benötigt, um ihn zu füllen! \\n\\nJede Seele und korrupte Seele zählt als 1 Seele. Während verzauberte Seelen als die ganzen 10 zählen!"
 		"{image:atm:textures/questpics/forbidden/forbidden_souls.png width:135 height:100 align:center}"
 	]
-	quest.539266A1C03C2EBA.title: "Souls"
-	quest.539AAF04D9B9790F.quest_desc: ["&4&lCataclysm&r is the Boss Mod! You like massive fights against gigantic eldritch beasts? Then you'll love &4&lCataclysm&r! \\n\\nThroughout the &2&lOverworld&r, &4&lThe Nether&r, and &5&lThe End&r we'll find Structures which hold tons of new Mobs, Mini Bosses, and of couse the actual Bosses. \\n\\nThey are pretty difficult to fight off though, so you might want to prepare before fighting them!"]
+	quest.539266A1C03C2EBA.title: "Seelen"
+	quest.539AAF04D9B9790F.quest_desc: ["&4&lCataclysm&r ist der Boss-Mod! Du magst riesige Kämpfe gegen gigantische, eldritch Bestien? Dann wirst du &4&lCataclysm&r lieben! \\n\\nÜberall in der &2&lOberwelt&r, dem &4&lNether&r und dem &5&lEnd&r werden wir Strukturen finden, die Tonnen neuer Mobs, Mini-Bosse und natürlich die eigentlichen Bosse beherbergen. \\n\\nSie sind jedoch ziemlich schwer zu bekämpfen, also solltest du dich besser vorbereiten, bevor du gegen sie kämpfst!"]
 	quest.539AAF04D9B9790F.title: "&4&lCataclysm"
-	quest.539D5084283C6219.quest_desc: ["Argon is a chemical element; it has symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most abundant gas in Earth's atmosphere, at 0.934% (9340 ppmv)"]
-	quest.539D5084283C6219.quest_subtitle: "Helium Plasma"
+	quest.539D5084283C6219.quest_desc: ["Argon ist ein chemisches Element; es hat das Symbol Ar und die Atomzahl 18. Es befindet sich in Gruppe 18 des Periodensystems und ist ein Edelgas. Argon ist das dritthäufigste Gas in der Erdatmosphäre mit 0,934% (9340 ppmv)"]
+	quest.539D5084283C6219.quest_subtitle: "Helium-Plasma"
 	quest.53A5F5E49EA8D5AF.quest_desc: [
-		"Here's a good example of using Modular Routers to make a super easy organized Mob Farm. (Does not include way of killing mobs). \\n\\nFor it I'll use a Wither Skeleton Farm as example. \\n\\nFirst, you want to get Items into the Buffer with a Vacuum Module. Next, get rid of the Stone Swords with a Void Module. To make sure it doesn't delete everything use a Whitelist Filter with the Stone Sword in it and not matching Damage. After, that you'll need a place to put the Loot, I recommend a Drawer System. Then, use a Sender Module to send the Loot to the Storage System. \\n\\nThat's all you need!"
+		"Hier ist ein gutes Beispiel für die Verwendung von modularen Routern, um einen super einfachen organisierten Mob-Farm zu erstellen. (Enthält keine Methode zum Töten von Mobs). \\n\\nFür dieses Beispiel verwende ich eine Witherskelett-Farm. \\n\\nZuerst willst du Gegenstände mit einem Vakuum-Modul in den Puffer bekommen. Als nächstes entferne die Steinschwerte mit einem Void-Modul. Um sicherzustellen, dass es nicht alles löscht, verwende einen Whitelist-Filter mit dem Steinschwert und nicht übereinstimmendem Schaden. Danach brauchst du einen Ort, um die Beute zu platzieren, ich empfehle ein Schubladensystem. Dann verwende ein Sender-Modul, um die Beute an das Speichersystem zu senden. \\n\\nDas ist alles, was du brauchst!"
 		"{image:atm:textures/questpics/router/router_mob.png width:200 height:65 align:center}"
 	]
-	quest.53A5F5E49EA8D5AF.title: "Routers for Mob Farms"
-	quest.53A79338994088FD.quest_desc: ["The &dTri-Bow&r is dropped from the &3Snow Queen&r, it can shoot 3 Arrows at the same time, while only using 1."]
-	quest.53A79338994088FD.quest_subtitle: "From a Lynel?"
-	quest.53A79338994088FD.title: "&dTri-Bow"
+	quest.53A5F5E49EA8D5AF.title: "Router für Mob-Farmen"
+	quest.53A79338994088FD.quest_desc: ["Der &dTri-Bogen&r wird von der &3Schneekönigin&r fallen gelassen, er kann 3 Pfeile gleichzeitig abschießen, während er nur 1 verbraucht."]
+	quest.53A79338994088FD.quest_subtitle: "Von einem Lynel?"
+	quest.53A79338994088FD.title: "&dTri-Bogen"
 	quest.53AF056139DAACDB.quest_desc: [
-		"Macerate those plant balls and make some bio chaff"
+		"Zerkleinere diese Pflanzenbälle und stelle Bio-Häcksel her"
 		""
-		"When automating this, make sure you set the output to only 2 bio chaff and not 4. The chance outputs will confuse the autocrafting setup otherwise"
+		"Wenn du dies automatisierst, stelle sicher, dass du den Output auf nur 2 Bio-Häcksel und nicht 4 einstellst. Die Zufallsoutputs werden sonst die automatische Herstellung verwirren"
 	]
-	quest.53B44E24BB111D24.quest_desc: ["Cheaper IV tier as well?! This just keeps getting better!"]
+	quest.53B44E24BB111D24.quest_desc: ["Günstigere IV-Stufe auch?! Das wird ja immer besser!"]
 	quest.53B44E24BB111D24.quest_subtitle: "IV"
-	quest.53B58FC3958750E7.quest_desc: ["Did you play around with the Placer too much and need to Break those Blocks? \\n\\nIts Tier and Enchants are determined by the Pickaxe its Crafted with. \\n\\nNow set the area and hopefully put a Filter and let it run! \\n\\nCan be used with a Placer to do stuff like turning Ores into Items."]
-	quest.53BA0C64804ADD24.quest_subtitle: "Pomelo + Wild Cherry"
-	quest.53BBE717148C0B18.quest_subtitle: "Lots of iron in these ores"
-	quest.53BBE717148C0B18.title: "Goethite Vein"
-	quest.53BDD0459F7B1D60.quest_subtitle: "Coffea + Teak"
+	quest.53B58FC3958750E7.quest_desc: ["Hast du zu viel mit dem Platzierer herumgespielt und musst diese Blöcke abbauen? \\n\\nSeine Stufe und Verzauberungen werden durch die Spitzhacke bestimmt, mit der er hergestellt wurde. \\n\\nStelle jetzt den Bereich ein und füge hoffentlich einen Filter hinzu und lass ihn laufen! \\n\\nKann mit einem Platzierer verwendet werden, um Dinge wie das Umwandeln von Erzen in Gegenstände zu tun."]
+	quest.53BA0C64804ADD24.quest_subtitle: "Pomelo + Wildkirsche"
+	quest.53BBE717148C0B18.quest_subtitle: "Viel Eisen in diesen Erzen"
+	quest.53BBE717148C0B18.title: "Goethit-Ader"
+	quest.53BDD0459F7B1D60.quest_subtitle: "Kaffee + Teakholz"
 	quest.53C5CE6433E201BD.quest_desc: [
-		"These Wafers make the highest tier traditional Semi-Conductor chip, the UHPIC or Ultra High Power IC (Integrated Circuit). "
+		"Diese Wafer machen den höchsten traditionellen Halbleiterchip, den UHPIC oder Ultra High Power IC (Integrierter Schaltkreis). "
 		""
-		"There will be a great demand on these chips from many of the machines we create from here on out."
+		"Es wird eine große Nachfrage nach diesen Chips von vielen der Maschinen geben, die wir von hier aus erstellen."
 	]
-	quest.53C5CE6433E201BD.quest_subtitle: "Ultra High Power Integrated Circuit"
-	quest.53CA0D6B4D5A17D5.quest_desc: ["The 16384k Fluid Storage Part is used to craft the 16384k Fluid Storage Disk."]
-	quest.53CA0D6B4D5A17D5.title: "&616384k Fluid Part&r"
-	quest.53CE66D760CEFD7E.quest_desc: ["Sinks, Toilets, and Baths! \\n\\nEverything you need to keep fresh and hygenic! \\n\\nAll of them hold Water and yes you can sit on the Toilets."]
-	quest.53CE66D760CEFD7E.title: "Bathroom Set"
+	quest.53C5CE6433E201BD.quest_subtitle: "Ultra-Hochleistungs-Integrierter Schaltkreis"
+	quest.53CA0D6B4D5A17D5.quest_desc: ["Das 16384k Flüssigkeitsspeicherteil wird verwendet, um die 16384k Flüssigkeitsspeicherdisk herzustellen."]
+	quest.53CA0D6B4D5A17D5.title: "&616384k Flüssigkeitsteil&r"
+	quest.53CE66D760CEFD7E.quest_desc: ["Waschbecken, Toiletten und Badewannen! \\n\\nAlles, was du brauchst, um frisch und hygienisch zu bleiben! \\n\\nAlle halten Wasser und ja, du kannst auf den Toiletten sitzen."]
+	quest.53CE66D760CEFD7E.title: "Badezimmer-Set"
 	quest.53DD784E75965947.quest_desc: [
-		"Situated past the edge of the End, is the Beyond, a completely unavoidable space for those builders that want a lot of clear area to work in."
+		"Jenseits des Randes des Ends befindet sich das Jenseits, ein vollständig unvermeidbarer Raum für Bauherren, die viel freien Bereich zum Arbeiten wünschen."
 		""
-		"Similar to the overworld->Nether, there is a block ratio of 1:50 for the End->Beyond"
+		"Ähnlich wie beim Übergang von der Oberwelt zum Nether gibt es ein Blockverhältnis von 1:50 für das Ende zum Jenseits"
 	]
-	quest.53DD784E75965947.title: "The Beyond"
+	quest.53DD784E75965947.title: "Das Jenseits"
 	quest.53DEA3DFEDC4809E.quest_desc: [
-		"Don't worry, this is the last of the Abras series of rituals. It is used to summon a &9Marid&r demon, but even though it uses Red Chalk, it's not powerful enough to &9bind&r the Demon. This means that, unfortunately, you're going to have to fight it."
+		"Keine Sorge, dies ist das letzte der Abras-Reihe von Ritualen. Es wird verwendet, um einen &9Marid&r-Dämon zu beschwören, aber obwohl es rote Kreide verwendet, ist es nicht mächtig genug, um den Dämon zu &9binden&r. Das bedeutet leider, dass du gegen ihn kämpfen musst."
 		""
-		"This ritual uses a Trident as a sacrifice, which is confusing because most sacrifices are living creatures. So instead of killing a mob on top of the completed ritual circle, you simply throw the Trident at the center bowl to start the ritual."
+		"Dieses Ritual verwendet einen Dreizack als Opfer, was verwirrend ist, da die meisten Opfer lebende Kreaturen sind. Anstatt also einen Mob auf dem fertigen Ritualkreis zu töten, wirfst du einfach den Dreizack auf die mittlere Schale, um das Ritual zu starten."
 	]
-	quest.53DEA3DFEDC4809E.quest_subtitle: "Is it a Bird? Is it a Plane? No, it's an unbound &9Marid&r!"
-	quest.53DEA3DFEDC4809E.title: "&4Abras' Fortified Conjure"
-	quest.53E2BEA626B35BFC.quest_desc: ["Quite expensive recipe but most definitely worth it! \\n\\nUsing the &6Spectral &4Eye&r will give you the &4Spectral Vision Effect&r. This Effect gives &eGlowing&r to every Mob within a 100 Block radius in every direction! \\n\\nPerfect for finding structures underground, or Bastions in the &c&lNether&r, or even finding your friends hidden Axolotl farm!"]
-	quest.53E2BEA626B35BFC.quest_subtitle: "Very popular in ATM6!"
-	quest.53E2BEA626B35BFC.title: "&6Spectral &4Eye &7Amulet"
-	quest.53E5A8F2B05C2989.quest_subtitle: "Tier: &63"
-	quest.53E929BF89209CFC.quest_desc: ["&eImporters &fand &eExporters&r can be used to automatically Import and Export &eItems&r from and to the &e&lQIO System&r. \\n\\n&eImporters &fand &eExporters&r are both Placed on Blocks with Inventories in order to take or give &eItems&r. They'll also need to be set to the same Network as the &e&lQIO Drive Array&r. \\n\\nIf they are set to Import or Export without Filters, they will automatically take in (or out) every &eItem&r in the respected Inventories or System. \\n\\nIf you want to Filter, you use Itemstack, Tag, and Mod. Each are set by putting an &eItem&r into the Slot. Itemstack will use only that &eItem&r. Tag will need the Item Tag typed into the Text Box. Mod will use the Mod an &eItem&r is from. Like &2&lMinecraft&r for all &2&lVanilla&r Blocks."]
-	quest.53E929BF89209CFC.title: "Import and Export"
+	quest.53DEA3DFEDC4809E.quest_subtitle: "Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist ein ungebundener &9Marid&r!"
+	quest.53DEA3DFEDC4809E.title: "&4Abras verstärkte Beschwörung"
+	quest.53E2BEA626B35BFC.quest_desc: ["Ziemlich teures Rezept, aber definitiv lohnenswert! \\n\\nDie Verwendung des &6Spektral &4Auges&r gibt dir den &4Spektrale Sicht-Effekt&r. Dieser Effekt lässt jeden Mob im Umkreis von 100 Blöcken in jede Richtung &eleuchten&r! \\n\\nPerfekt, um unterirdische Strukturen zu finden oder Bastionen im &c&lNether&r, oder sogar um die versteckte Axolotl-Farm deiner Freunde zu finden!"]
+	quest.53E2BEA626B35BFC.quest_subtitle: "Sehr beliebt in ATM6!"
+	quest.53E2BEA626B35BFC.title: "&6Spektral &4Augen &7Amulett"
+	quest.53E5A8F2B05C2989.quest_subtitle: "Stufe: &63"
+	quest.53E929BF89209CFC.quest_desc: ["&eImporteure &fund &eExporteure&r können verwendet werden, um automatisch &eGegenstände&r aus und in das &e&lQIO-System&r zu importieren und zu exportieren. \\n\\n&eImporteure &fund &eExporteure&r werden beide auf Blöcke mit Inventaren platziert, um &eGegenstände&r zu nehmen oder zu geben. Sie müssen auch auf das gleiche Netzwerk wie das &e&lQIO Drive Array&r eingestellt sein. \\n\\nWenn sie auf Import oder Export ohne Filter eingestellt sind, werden sie automatisch jeden &eGegenstand&r in den jeweiligen Inventaren oder dem System aufnehmen (oder abgeben). \\n\\nWenn du filtern möchtest, verwendest du Itemstack, Tag und Mod. Jeder wird durch Einfügen eines &eGegenstands&r in den Slot eingestellt. Itemstack verwendet nur diesen &eGegenstand&r. Tag benötigt den Item-Tag, der in das Textfeld eingegeben wird. Mod verwendet den Mod, aus dem ein &eGegenstand&r stammt. Wie &2&lMinecraft&r für alle &2&lVanilla&r-Blöcke."]
+	quest.53E929BF89209CFC.title: "Import und Export"
 	quest.53EC96FA0E7C4ED4.quest_desc: [
-		"Every Tech Mod needs &cEnergy&r, whether it's FE, RF or something else! &cEnergy Pipez&r don't discriminate, it just moves! \\n\\nSome Machines have strict IO ports for &cEnergy&r so make sure to check for those!"
+		"Jeder Tech-Mod braucht &cEnergie&r, sei es FE, RF oder etwas anderes! &cEnergie-Pipez&r diskriminieren nicht, sie bewegen einfach! \\n\\nEinige Maschinen haben strikte IO-Ports für &cEnergie&r, also achte darauf!"
 		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
 	]
-	quest.53EC96FA0E7C4ED4.title: "&cEnergy Pipez"
-	quest.53F861876B991C36.quest_desc: ["Adds a Jukebox GUI to the Backpack."]
-	quest.53F861876B991C36.quest_subtitle: "Now we're jammin"
-	quest.53F9E5CE7EE6F852.quest_desc: ["The Creature Catcher allows for the transport of mobs. Mobs can be blacklisted via an entitiy tag."]
-	quest.53FDC6C536E50A1A.quest_desc: ["&bGwiblings&r are friendly fish in the Seas. \\n\\nThey are smaller than &bGwibs&r and act like Vanilla Fish!"]
+	quest.53EC96FA0E7C4ED4.title: "&cEnergie-Pipez"
+	quest.53F861876B991C36.quest_desc: ["Fügt eine Jukebox-GUI zum Rucksack hinzu."]
+	quest.53F861876B991C36.quest_subtitle: "Jetzt geht die Party los"
+	quest.53F9E5CE7EE6F852.quest_desc: ["Der Kreaturenfänger ermöglicht den Transport von Mobs. Mobs können über ein Entitäten-Tag auf die schwarze Liste gesetzt werden."]
+	quest.53FDC6C536E50A1A.quest_desc: ["&bGwiblinge&r sind freundliche Fische in den Meeren. \\n\\nSie sind kleiner als &bGwibs&r und verhalten sich wie Vanilla-Fische!"]
 	quest.53FDC6C536E50A1A.title: "&bGwibling&r"
 	quest.540895E6C9E724AD.quest_desc: [
-		"&6&lPillars&r are like &6&lHive Walls&r just smaller. Simply that."
+		"&6&lSäulen&r sind wie &6&lBienenstockwände&r, nur kleiner. So einfach ist das."
 		"{image:atm:textures/questpics/bumblezone/bumble_hivepillar.png width:200 height:100 align:center}"
 	]
-	quest.540895E6C9E724AD.title: "&6&lHive Pillar"
+	quest.540895E6C9E724AD.title: "&6&lBienenstock-Säule"
 	quest.540B4CE165EE4D5B.quest_desc: [
-		"Primarily, we'll use this dust to make &dTungstensteel&r by &eMixing&r it with steel dust"
+		"In erster Linie werden wir diesen Staub verwenden, um &dWolframstahl&r herzustellen, indem wir ihn mit Stahlstaub &emischen&r"
 		""
-		"Sometimes though, we'll need to throw this dust into the &eEBF&r on &aProgram 1&r to get the hot ingot, then cool it off in the &eVacuum Freezer&r to acquire the &3Tungsten Ingot&r"
+		"Manchmal müssen wir diesen Staub jedoch in den &eEBF&r auf &aProgramm 1&r werfen, um den heißen Barren zu erhalten, und ihn dann im &eVakuum-Kühler&r abkühlen lassen, um den &3Wolfram-Barren&r zu erhalten"
 	]
-	quest.540B857F043C24D5.quest_desc: ["The Bioreactor uses Biofuel made from the Biofuel Generator to generate FE."]
-	quest.540B857F043C24D5.title: "Bio Power"
-	quest.54118BE76738EB6D.quest_desc: ["Get together a dozen or so of these Exquisite Emeralds, as they will help immensely in these next few steps."]
-	quest.54118BE76738EB6D.quest_subtitle: "Exquisite Might I say?"
-	quest.541446863A72B96C.title: "&7Common&r Ink"
-	quest.54169B69725C49DF.quest_desc: ["Place your Liquid Plastic onto the ground or store some in a Chest with a Heat Frame attached and there's your &3Plastic Sheet&r!"]
-	quest.54169B69725C49DF.quest_subtitle: "Finally!"
-	quest.54169B69725C49DF.title: "&fPlastic"
-	quest.541D270451DA4320.quest_desc: ["The Switch Track will be needed for moving lanes between the different Special &6Tracks&r. The Arrows on it show which goes where."]
-	quest.5424A0E1292B13EE.quest_desc: ["Around the Starlight you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find Thermal Springstone."]
-	quest.54255B7820A0F0B1.title: "&l&5Isotopic Centrifuge Multiblock"
+	quest.540B857F043C24D5.quest_desc: ["Der Bioreaktor verwendet Biokraftstoff, der aus dem Biokraftstoff-Generator hergestellt wird, um FE zu erzeugen."]
+	quest.540B857F043C24D5.title: "Bio-Energie"
+	quest.54118BE76738EB6D.quest_desc: ["Besorge dir etwa ein Dutzend dieser exquisiten Smaragde, da sie bei den nächsten Schritten enorm helfen werden."]
+	quest.54118BE76738EB6D.quest_subtitle: "Exquisit, würde ich sagen?"
+	quest.541446863A72B96C.title: "&7Gewöhnliche&r Tinte"
+	quest.54169B69725C49DF.quest_desc: ["Platziere deinen flüssigen Kunststoff auf dem Boden oder bewahre ihn in einer Truhe mit einem angebrachten Heizrahmen auf und schon hast du deine &3Plastikfolie&r!"]
+	quest.54169B69725C49DF.quest_subtitle: "Endlich!"
+	quest.54169B69725C49DF.title: "&fPlastik"
+	quest.541D270451DA4320.quest_desc: ["Die Weiche wird benötigt, um zwischen den verschiedenen speziellen &6Schienen&r zu wechseln. Die Pfeile darauf zeigen, welche wohin gehen."]
+	quest.5424A0E1292B13EE.quest_desc: ["Um das Sternenlicht herum könntest du heiße Teiche finden. \\n\\n(Dies sind keine Biome oder Strukturen, daher musst du einfach herumschauen, um sie zu finden!) \\n\\nDarin kannst du Thermischen Quellstein finden."]
+	quest.54255B7820A0F0B1.title: "&l&5Isotopische Zentrifuge Multiblock"
 	quest.54277F570314DCE1.quest_desc: [
-		"&dExtreme Reactors&r is all about creating customizable multiblock reactors and turbines for all of your power needs!"
+		"&dExtreme Reactors&r dreht sich alles darum, anpassbare Multiblock-Reaktoren und Turbinen für all deine Energiebedürfnisse zu erstellen!"
 		""
-		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"3C78926E5D301BA0\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"3C78926E5D301BA0\"}, \"text\": \"Klicke hier, um die Questreihe zu überprüfen!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
 	quest.54277F570314DCE1.title: "&dExtreme Reactors&r"
-	quest.542C6D76B579886C.quest_desc: ["Using our Enchanting Apparatus structure, we'll want to craft our first seed, the &5Magebloom Seed&r. \\n\\nThis will be used to create us some magical clothing!"]
-	quest.5436157FDFC9633E.quest_desc: ["With the Infused &dPatrick &aStar&r, 5 &6Star Fragments&r, &5Corrupti Dust&r, &cMundabitur Dust&r, and the Lens of the &4Killer&r we can rebuild &6&lATM Stars&r, 100% automated! \\n\\nNow these &5Creative&r Items will be a breeze to craft!"]
-	quest.5436157FDFC9633E.title: "Fully Automated &6&lATM Star"
+	quest.542C6D76B579886C.quest_desc: ["Mit unserer Verzauberungsapparatur-Struktur wollen wir unseren ersten Samen herstellen, den &5Magebloom-Samen&r. \\n\\nDieser wird verwendet, um uns magische Kleidung zu erschaffen!"]
+	quest.5436157FDFC9633E.quest_desc: ["Mit dem infundierten &dPatrick &aStern&r, 5 &6Stern-Fragmenten&r, &5Corrupti-Staub&r, &cMundabitur-Staub&r und der Linse des &4Killers&r können wir &6&lATM-Sterne&r zu 100% automatisiert herstellen! \\n\\nJetzt werden diese &5kreativen&r Gegenstände ein Kinderspiel zum Herstellen sein!"]
+	quest.5436157FDFC9633E.title: "Vollautomatischer &6&lATM-Stern"
 	quest.54378277B8D28B1D.quest_desc: [
-		"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+		"Ein \"Upgrade\" zur Regenbogen-Kreide, für diejenigen, die nicht mögen, dass die schnell wechselnden Farbigen Runen ihre mühsam hergestellte Ästhetik ruinieren. "
 		""
-		"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
+		"Hat die gleiche Funktion wie die Regenbogen-Kreide, außer dass alle Runen weiß erscheinen."
 	]
-	quest.543F00603790AD3E.quest_desc: ["The (Log) Stripper strips Logs automatically using Axes put in the machine."]
-	quest.543F00603790AD3E.quest_subtitle: "Please don't"
-	quest.543F00603790AD3E.title: "Stripping"
-	quest.544011D1C48D8E65.quest_desc: ["Gem Cutting Table! To change the Rarity of your Gem you'll need to use this table. By using 2 of the same Gem and Rarity Materials you can increase your Gems rarity and that increases its power."]
-	quest.544011D1C48D8E65.title: "Getting better Gems"
+	quest.543F00603790AD3E.quest_desc: ["Der (Stamm-)Entrinder entrindiert automatisch Stämme mit Äxten, die in die Maschine gelegt werden."]
+	quest.543F00603790AD3E.quest_subtitle: "Bitte nicht"
+	quest.543F00603790AD3E.title: "Entrinden"
+	quest.544011D1C48D8E65.quest_desc: ["Edelsteinschneidetisch! Um die Seltenheit deines Edelsteins zu ändern, musst du diesen Tisch verwenden. Durch die Verwendung von 2 des gleichen Edelsteins und Seltenheitsmaterialien kannst du die Seltenheit deines Edelsteins erhöhen und das erhöht seine Kraft."]
+	quest.544011D1C48D8E65.title: "Bessere Edelsteine bekommen"
 	quest.54423ED491F170B5.quest_desc: [
-		"In this portion, chanting to the gods to get power (well, not actual super powers)."
-		"First make an Effigy, 6 Altar tables. Place on them 2 Candlesticks, Effigy, wither (or best skull), Goblet and 2 Potted wither roses (or best \"flower\" you can from book)."
-		"Be a lesson to tell you that these can only be done once a day."
-		"Start with clicking Wicked Sign 3 times, then click Chant."
-		"You will get a new symbol if done right, with the Effigy's eyes glow."
+		"In diesem Teil beschwören wir die Götter, um Macht zu erhalten (nun, keine tatsächlichen Superkräfte)."
+		"Stelle zuerst eine Effigie und 6 Altartische her. Platziere darauf 2 Kerzenständer, Effigie, Wither (oder bester Schädel), Kelch und 2 getopfte Witherrose (oder beste \"Blume\", die du aus dem Buch bekommen kannst)."
+		"Dies kann nur einmal pro Tag gemacht werden."
+		"Beginne mit dem Klicken auf das böse Zeichen 3 Mal, dann klicke auf Gesang."
+		"Du erhältst ein neues Symbol, wenn es richtig gemacht ist, wobei die Augen der Effigie leuchten."
 	]
 	quest.54423ED491F170B5.quest_subtitle: "HAY HOO ZAE LA"
-	quest.54423ED491F170B5.title: "Dark Worship"
-	quest.5443AA65C0D0C599.quest_desc: ["These you can either steal it from the &5Bee Queen&r or work for it by helping her. I recommend being respectful to the &5Queen&r though, she is royalty! \\n\\nWhen you drink it you will get plenty of amazing Effects plus it will take away some terrible ones. \\n\\nIt can also be used on &6B&8e&6e&8s&r and Beehemoths to give them Effects!"]
-	quest.544791880F315D5A.quest_desc: ["Boats with Chests are Boats with Chests on them. You can open the chest while you're in the Boat or you can right-click on it. Only one person can ride in the Boat at a time."]
-	quest.545959C8C28C6F2B.quest_desc: ["Process one of those emerald plates in a Lathe to get your Emerald Lens!"]
-	quest.546100C879F45BB1.quest_desc: ["No one wants to get dirty by manually sifting everything. Let this multiblock do all your sifting needs, and get those gems that we need as we move towards the end!"]
-	quest.546100C879F45BB1.quest_subtitle: "Who wants to get Dusty with manual Sifting??"
-	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \\n\\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
+	quest.54423ED491F170B5.title: "Dunkle Anbetung"
+	quest.5443AA65C0D0C599.quest_desc: ["Diese kannst du entweder von der &5Bienenkönigin&r stehlen oder sie dir verdienen, indem du ihr hilfst. Ich empfehle jedoch, der &5Königin&r gegenüber respektvoll zu sein, sie ist Adel! \\n\\nWenn du es trinkst, erhältst du viele erstaunliche Effekte und es nimmt einige schreckliche weg. \\n\\nEs kann auch bei &6B&8i&6e&8nen&r und Bienenungeheuern verwendet werden, um ihnen Effekte zu geben!"]
+	quest.544791880F315D5A.quest_desc: ["Boote mit Truhen sind Boote mit Truhen darauf. Du kannst die Truhe öffnen, während du im Boot bist, oder du kannst mit der rechten Maustaste darauf klicken. Nur eine Person kann gleichzeitig im Boot fahren."]
+	quest.545959C8C28C6F2B.quest_desc: ["Verarbeite eine dieser Smaragdplatten in einer Drehbank, um deine Smaragdlinse zu bekommen!"]
+	quest.546100C879F45BB1.quest_desc: ["Niemand will schmutzig werden, indem er alles manuell siebt. Lass diesen Multiblock all deine Sieb-Bedürfnisse erfüllen und hol dir diese Edelsteine, die wir brauchen, während wir uns dem Ende nähern!"]
+	quest.546100C879F45BB1.quest_subtitle: "Wer will schon staubig werden mit manuellem Sieben??"
+	quest.5466CB622A637DCD.quest_desc: ["Abgrundfrucht kann technisch gesehen in jedem Gewässer spawnen, aber es ist die einzige, die in den Schimmerflüssen lebt. \\n\\nSie wächst wie Seetang vom Boden nach oben, funktioniert aber auch wie Leuchtbeeren, da Früchte wachsen und von ihr gesammelt werden können."]
 	quest.546F6933699B9BF3.quest_desc: [
-		"&dPalladium Ore&r is quite rare, some alternative methods to acquiring it might be to give &bCrushed Platinum&r or &6Crushed Sheldonite Ore&r a &eChemical Bath&r in &cMercury&r"
+		"&dPalladium-Erz&r ist ziemlich selten, einige alternative Methoden, es zu erwerben, könnten sein, &bZerkleinerte Platin&r oder &6Zerkleinerte Sheldonit-Erz&r ein &eChemisches Bad&r in &cQuecksilber&r zu geben"
 		""
-		"Mercury you can get easily by &eCentrifuging&r Redstone Dust"
+		"Quecksilber kannst du leicht bekommen, indem du Rotstone-Staub &ezentrifugierst&r"
 	]
-	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r is a resource generation mod that allows you to grow a large variety of vanilla and modded resources using &aSeeds&r."]
+	quest.54735C5FCD2077B3.quest_desc: ["&aMystical Agriculture&r ist ein Ressourcenerzeugungsmod, mit dem du eine Vielzahl von Vanilla- und gemoddeten Ressourcen mit &aSamen&r anbauen kannst."]
 	quest.54735C5FCD2077B3.title: "&aMystical Agriculture!"
-	quest.54822638CC243004.quest_desc: ["Pufferfish are pretty cool, same with Guardians, same with Thorns! Every damage dealt while wearing the &9Reflecting Necklace&r will accumulate points. Either after 5 seconds from last damage or when the points are full, the &9Necklace&r will shoot out &5Obsidian Spikes&r in all directions damaging all nearby."]
-	quest.54822638CC243004.quest_subtitle: "Found in Ruined Portals, Nether Fortresses, and Bastions"
-	quest.54822638CC243004.title: "&9Reflecting Necklace"
+	quest.54822638CC243004.quest_desc: ["Kugelfische sind ziemlich cool, ebenso wie Wächter, ebenso wie Dornen! Jeder Schaden, der während des Tragens der &9Reflektierenden Halskette&r verursacht wird, sammelt Punkte. Entweder nach 5 Sekunden nach dem letzten Schaden oder wenn die Punkte voll sind, schießt die &9Halskette&r &5Obsidian-Stacheln&r in alle Richtungen und beschädigt alle in der Nähe."]
+	quest.54822638CC243004.quest_subtitle: "Gefunden in ruinierten Portalen, Netherfestungen und Bastionen"
+	quest.54822638CC243004.title: "&9Reflektierende Halskette"
 	quest.548F85EE6B6F1811.quest_desc: [
-		"Just like the Piglins the &2&lApotheocarist&r resembles, he is also Neutral. He doesn't care about &eGold&r like his fellow Piglins though, just people who attack him. \\n\\nYou can trade with him: giving him either Emeralds or Potion Ingrediants for Potions, Potion Ingrediants, and &2Nature Scrolls&r. \\n\\nIf you wish to slay him he has 60 Hearts. He will attack you with Potions and &2Nature Spells&r. When hurt he will try to heal with Potions, (I think he really likes Potions). \\n\\nWhen killed he will drop Arcane Essence, Inks, &2Nature Runes&r, and &2Nature Scrolls&r!"
+		"Wie die Piglins, denen der &2&lApotheokarist&r ähnelt, ist er auch neutral. Er kümmert sich nicht um &eGold&r wie seine Piglin-Kollegen, sondern nur um Leute, die ihn angreifen. \\n\\nDu kannst mit ihm handeln: Gib ihm entweder Smaragde oder Trankzutaten für Tränke, Trankzutaten und &2Natur-Schriftrollen&r. \\n\\nWenn du ihn töten möchtest, hat er 60 Herzen. Er wird dich mit Tränken und &2Natur-Zaubern&r angreifen. Wenn er verletzt wird, versucht er, sich mit Tränken zu heilen (ich denke, er mag Tränke wirklich). \\n\\nWenn er getötet wird, lässt er Arkane Essenz, Tinten, &2Natur-Runen&r und &2Natur-Schriftrollen&r fallen!"
 		"{image:atm:textures/questpics/iron_spells/spells_apotheocarist.png width:100 height:200 align:center}"
 	]
-	quest.548F85EE6B6F1811.title: "&2&lApothecarist"
+	quest.548F85EE6B6F1811.title: "&2&lApotheokarist"
 	quest.54A164C737660C4E.quest_desc: [
-		"This is typically used in Ore Processing lines to get alternative byproducts by washing crushed ore in mercury or sodium persulfate"
+		"Dies wird typischerweise in Erzverarbeitungslinien verwendet, um alternative Nebenprodukte durch Waschen von zerkleinertem Erz in Quecksilber oder Natriumpersulfat zu erhalten"
 		""
-		"In this case though, it can also be used to cool hot silicon ingots"
+		"In diesem Fall kann es aber auch zum Abkühlen von heißen Siliziumbarren verwendet werden"
 	]
 	quest.54B1A876E9F6707A.quest_desc: [""]
-	quest.54B1A876E9F6707A.quest_subtitle: "&oPower and destruction like no other!"
-	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
-	quest.54BAF833344F0AAE.quest_desc: ["This ones a 2 parter! First, you'll need a &8Dark Tank&r. Simple recipe only needing &8Dark Gems&r, Iron, and Glass. \\n\\nNext, you'll need &7Eclipse Ember Fuel&r. That's not so simple... \\n\\nTo get it you can start, drop an &7Eclipse Ember&r into &3Liquid Voidflame Fuel&r to make it &7Unrefined Eclipse Ember&r. Then, you'll need &9Shadowpulse Goo&r to spread to it to make &7Eclipse Ember Fuel&r. \\n\\nBy the way you'll need 16 Buckets worth!"]
-	quest.54BAF833344F0AAE.title: "&8Dark Tank&r full of &7Eclipse Ember Fuel"
-	quest.54BEC01D84237DBC.quest_desc: ["A little hydrogen and chlorine together in a &echemical reactor&r will result in some HCl"]
-	quest.54D3D6806C1F33F3.quest_subtitle: "&f5 &cAttack Damage"
+	quest.54B1A876E9F6707A.quest_subtitle: "&oMacht und Zerstörung wie keine andere!"
+	quest.54B1A876E9F6707A.title: "&5&lVergessenheits-Scherbe"
+	quest.54BAF833344F0AAE.quest_desc: ["Das ist ein zweiteiliger Prozess! Zuerst benötigst du einen &8Dunklen Tank&r. Einfaches Rezept, das nur &8Dunkle Edelsteine&r, Eisen und Glas benötigt. \\n\\nAls nächstes benötigst du &7Finsternis-Glut-Treibstoff&r. Das ist nicht so einfach... \\n\\nUm ihn zu bekommen, kannst du einen &7Finsternis-Glut&r in &3Flüssigen Leereflammenkraftstoff&r fallen lassen, um &7Unraffinierte Finsternis-Glut&r zu erhalten. Dann benötigst du &9Schattenpuls-Schleim&r, um es zu &7Finsternis-Glut-Treibstoff&r zu verarbeiten. \\n\\nÜbrigens brauchst du 16 Eimer davon!"]
+	quest.54BAF833344F0AAE.title: "&8Dunkler Tank&r voll mit &7Finsternis-Glut-Treibstoff"
+	quest.54BEC01D84237DBC.quest_desc: ["Ein wenig Wasserstoff und Chlor zusammen in einem &echemischen Reaktor&r ergeben HCl"]
+	quest.54D3D6806C1F33F3.quest_subtitle: "&f5 &cAngriffsschaden"
 	quest.54D6F7F8FE859729.quest_desc: [
-		"&bProsperity Shards&r are used as one of the main crafting mats for several of the recipes in Mystical Agriculture, like seeds, ingots, and more. "
+		"&bProsperity-Scherben&r werden als eines der Hauptherstellungsmaterialien für verschiedene Rezepte in Mystical Agriculture verwendet, wie Samen, Barren und mehr. "
 		""
-		"You'll find these from mining!"
+		"Du findest diese beim Bergbau!"
 	]
-	quest.54D6F7F8FE859729.title: "&bProsperity Shards&r"
-	quest.54D72C234EA76054.quest_subtitle: "Tier: &e1"
-	quest.54D80939887B3F7D.quest_desc: ["Trade with the &5Bee Queen&r 128 times! \\n\\nGood luck!"]
-	quest.54DE8AAAE2181F18.quest_desc: ["The Moonring Greatsword needs to be crafted from drops by both Bosses! Obviously making it the hardest to get and the most powerful! \\n\\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
+	quest.54D6F7F8FE859729.title: "&bProsperity-Scherben&r"
+	quest.54D72C234EA76054.quest_subtitle: "Stufe: &e1"
+	quest.54D80939887B3F7D.quest_desc: ["Handle 128 Mal mit der &5Bienenkönigin&r! \\n\\nViel Glück!"]
+	quest.54DE8AAAE2181F18.quest_desc: ["Das Mondring-Großschwert muss aus Drops von beiden Bossen hergestellt werden! Dadurch ist es natürlich am schwierigsten zu bekommen und am mächtigsten! \\n\\nEs funktioniert wie ein normales Schwert, nur vor 1.9. Es kann Angriffe wie ein Schild blocken, aber es kann nicht für vollen Schaden gespammt werden."]
 	quest.54E0B946BAC13654.quest_desc: [
-		"Technically the smallest (working) &a&lEnergized Induction Matrix&r we can make only has 1 &aInduction Cell &fand &aInduction Provider&r but all are made the same way. \\n\\nWe'll need to make a frame of &aInduction Casings&r atleast 3x4x3 to 18x18x18. \\n\\nThe Walls, Ceiling, and Floor can be filled with &aInduction Casing&r, Structural/Reactor Glass, or &aInduction Ports&r. \\n\\nThe inside of the &a&lInduction Matrix&r will be made of our &aInduction Cells &fand &aProviders&r. \\n\\nIf we use the 18x18x18 size, we'll have 4,096 Space to place &aCells &fand &aProviders&r. So if we split it in half between the two we can get... a Storage of 3.28QFE and an Input/Output of 107GFE per Tick."
+		"Technisch gesehen ist die kleinste (funktionierende) &a&lEnergisierte Induktionsmatrix&r, die wir herstellen können, nur mit 1 &aInduktionszelle &fund &aInduktionsanbieter&r ausgestattet, aber alle werden auf die gleiche Weise hergestellt. \\n\\nWir müssen einen Rahmen aus &aInduktionsgehäusen&r von mindestens 3x4x3 bis zu 18x18x18 erstellen. \\n\\nDie Wände, die Decke und der Boden können mit &aInduktionsgehäusen&r, Strukturelles/Reaktorglas oder &aInduktionsanschlüssen&r gefüllt werden. \\n\\nDas Innere der &a&lInduktionsmatrix&r wird aus unseren &aInduktionszellen &fund &aProvidern&r bestehen. \\n\\nWenn wir die Größe 18x18x18 verwenden, haben wir 4.096 Platz, um &aZellen &fund &aProvider&r zu platzieren. Wenn wir es also zur Hälfte zwischen den beiden aufteilen, können wir einen Speicher von 3,28QFE und eine Eingabe/Ausgabe von 107GFE pro Tick erhalten."
 		"{@pagebreak}"
-		"This Multiblock can be made at any size available, not just what is shown through the Images. The Images merely show the smallest size we can make."
+		"Dieser Multiblock kann in jeder verfügbaren Größe hergestellt werden, nicht nur in der, die durch die Bilder gezeigt wird. Die Bilder zeigen lediglich die kleinste Größe, die wir herstellen können."
 		"{image:atm:textures/questpics/mek/mek_matrix1.png width:100 height:75 align:center}"
 		"{image:atm:textures/questpics/mek/mek_matrix2.png width:100 height:90 align:center}"
 		"{image:atm:textures/questpics/mek/mek_matrix3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/mek/mek_matrix4.png width:100 height:110 align:center}"
 	]
-	quest.54E0B946BAC13654.title: "&a&lEnergized Induction Matrix"
-	quest.54E4F00AD20D7096.quest_subtitle: "Tier: &b4"
-	quest.54E6C0D1BB442184.quest_desc: ["In order to get &eSpells&r you'll need Powdered Items. \\n\\nTo get Powdered Items you'll need a &9Mortar and Pestle&r."]
-	quest.54E6C0D1BB442184.title: "&9Mortar and Pestle"
-	quest.54E7967B45B20F36.quest_subtitle: "Holly + Purple Crepe Myrtle"
+	quest.54E0B946BAC13654.title: "&a&lEnergisierte Induktionsmatrix"
+	quest.54E4F00AD20D7096.quest_subtitle: "Stufe: &b4"
+	quest.54E6C0D1BB442184.quest_desc: ["Um &eZauber&r zu erhalten, benötigst du pulverisierte Gegenstände. \\n\\nUm pulverisierte Gegenstände zu erhalten, benötigst du einen &9Mörser und Stößel&r."]
+	quest.54E6C0D1BB442184.title: "&9Mörser und Stößel"
+	quest.54E7967B45B20F36.quest_subtitle: "Stechpalme + Lila Kreppmyrte"
 	quest.54E812911D10AA51.quest_desc: [
-		"Why generate resources when you can just harvest the world for them? "
+		"Warum Ressourcen erzeugen, wenn du einfach die Welt abbauen kannst? "
 		""
-		"These &aQuarries&r are some of the most commonly used ways to mine out large portions of the world to gather tons of resources, with the &dChunk Destroyer&r being one of the best! "
+		"Diese &aSteinbrüche&r sind einige der am häufigsten verwendeten Möglichkeiten, große Teile der Welt abzubauen, um tonnenweise Ressourcen zu sammeln, wobei der &dChunkzerstörer&r einer der besten ist! "
 		""
-		"If you plan on using these, it is best to use them in the &aMining Dimension&r!"
+		"Wenn du vorhast, diese zu verwenden, ist es am besten, sie in der &aBergbau-Dimension&r zu verwenden!"
 	]
-	quest.54E812911D10AA51.title: "&aQuarrying The World&r"
-	quest.54EB576C8EAF2C28.quest_desc: ["Hastelloy X is a wrought nickel base alloy with excellent high temperature strength and oxidation resistance. All of the product forms are excellent in terms of forming and welding."]
-	quest.54EB576C8EAF2C28.quest_subtitle: "Wrought Iron? No. Wrought Nickel."
-	quest.54EC1C7FC1DA9107.quest_desc: ["&dAdjustable Chain Drives&r work like &dEncased Chain Drives&r, just with more configs. \\n\\nIf we send a &4Redstone Signal&r to the &dAdjustable Chain Drive&r that the original &8Shaft&r is connected to, the other &dChain Drive &8Shafts&r will double in Speed! \\n\\nIf we send one to a different &dChain Drive&r though, the Speed of that &dChain Drive&r will be cut in half!"]
-	quest.54EC1C7FC1DA9107.title: "&dAdjustable Chain Drive"
+	quest.54E812911D10AA51.title: "&aDie Welt abbauen&r"
+	quest.54EB576C8EAF2C28.quest_desc: ["Hastelloy X ist eine Nickel-Basislegierung mit ausgezeichneter Hochtemperaturfestigkeit und Oxidationsbeständigkeit. Alle Produktformen sind ausgezeichnet in Bezug auf Formgebung und Schweißen."]
+	quest.54EB576C8EAF2C28.quest_subtitle: "Schmiedeeisen? Nein. Schmiedenickel."
+	quest.54EC1C7FC1DA9107.quest_desc: ["&dEinstellbare Kettenantriebe&r funktionieren wie &dVerkapselte Kettenantriebe&r, nur mit mehr Konfigurationen. \\n\\nWenn wir ein &4Redstone-Signal&r an den &dEinstellbaren Kettenantrieb&r senden, mit dem die ursprüngliche &8Welle&r verbunden ist, verdoppelt sich die Geschwindigkeit der anderen &dKettenantrieb-&8Wellen&r! \\n\\nWenn wir jedoch ein Signal an einen anderen &dKettenantrieb&r senden, wird die Geschwindigkeit dieses &dKettenantriebs&r halbiert!"]
+	quest.54EC1C7FC1DA9107.title: "&dEinstellbarer Kettenantrieb"
 	quest.54EDFCD65E088296.quest_desc: [
-		"Recipes that used the vacuum tube can now use this instead!"
+		"Rezepte, die die Vakuumröhre verwendeten, können jetzt stattdessen diese verwenden!"
 		""
-		"&eTip:&r You can search through all the different circuits in JEI by typing &b$circuits&r or even specific tiers of circuits with &b$circuits/ulv&r"
+		"&eTipp:&r Du kannst durch alle verschiedenen Schaltkreise in JEI suchen, indem du &b$circuits&r eingibst oder sogar spezifische Stufen von Schaltkreisen mit &b$circuits/ulv&r"
 	]
 	quest.54EDFCD65E088296.quest_subtitle: "ULV on the cheap"
 	quest.54F0C5C48CFC94D0.quest_desc: ["With Logistics we need Filtering. There's two different Filters: List and Attribute. \\nList Filter you add Items into it and change whether it's whitelist or blacklist, and whether it respects NBT Data or not. \\n\\nAttribute Filter takes a reference Item then Filters off a selected Attribute. This includes tags and other things like whether it can be used as Furnace Fuel or can be pathwayed!"]
