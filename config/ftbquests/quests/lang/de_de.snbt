@@ -9496,258 +9496,258 @@
 		"Intrinsische Fähigkeit:"
 		"- Lava-Fähigkeit"
 	]
-	quest.5A3FF46A2B275049.quest_desc: ["We are at the edge of Technology, and now we need to utilize Crystal Chip's to make some new Processors!!"]
-	quest.5A3FF46A2B275049.quest_subtitle: "Shiny Crystal"
-	quest.5A4C9F7F81D6B9DB.quest_desc: ["&5Gravitational Modulating Additional &7Unit&r, as you can tell by the name is an upgrade to the &dGravitational Modulating &7Unit&r. \\n\\nBoth will need to be Installed to use them! \\n\\nSo what are these Upgrades? Well you will instantly stop when you stop holding your Movement Keys in Flight. You can ascend faster! And even Fly always!"]
-	quest.5A4C9F7F81D6B9DB.quest_subtitle: "Bodyarmor"
-	quest.5A4C9F7F81D6B9DB.title: "&5Gravitational Modulating Additional &7Unit"
-	quest.5A615BB74A5CD332.quest_desc: ["Using the &aReprocessor&r, we can combine everything we've made so far to make a few new ingots.\\n\\nNote: You might need a &9Fluidizer&r to complete this step!"]
-	quest.5A615BB74A5CD332.title: "Ludicrite \\& Ridiculite"
-	quest.5A658F239928850E.quest_desc: ["Breaking into LuV! Lets continue progression and find out what &cZPM &7is all about!"]
-	quest.5A658F239928850E.quest_subtitle: "Make &dLuV&r, not War!"
-	quest.5A658F239928850E.title: "I &dLuV &7Progression"
-	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cAttack Damage"
-	quest.5A6831E0BD2F6AB5.quest_desc: ["You'll need a lotta &8Dark Gems&r!"]
-	quest.5A6831E0BD2F6AB5.title: "2 &4Piercing Vengeance Focuses"
-	quest.5A6FF0D4BA894306.quest_desc: ["The poster child of &6&lForbidden \\& Arcanus&r, the &aEternal Stella&r. \\n\\nFor 1 &6Allthemodium&r Ingot, 3 &aXpetrified Orbs&r, and a &2Stellarite Piece&r we can make one of the most overpowered Items in this Modpack! \\n\\nYou can use the &aEternal Stella&r with an Item and an Apply Item Modifier to make Items lose their Durability. No, wait I mean lose their need for Durability! Basically Indestructible Items. \\n\\nThis can be used on almost every Item with Durability from &bDiamond Axes&r, to Fishing Rods, to even &eRefined Glowstone Armor&r! \\n\\nThere are some limitations, it only works with Items with Durability not uses: like Infusion Crystals or Energy: like Meka-Tool!"]
+	quest.5A3FF46A2B275049.quest_desc: ["Wir stehen an der Grenze der Technologie und müssen jetzt Kristallchips verwenden, um einige neue Prozessoren herzustellen!!"]
+	quest.5A3FF46A2B275049.quest_subtitle: "Glänzender Kristall"
+	quest.5A4C9F7F81D6B9DB.quest_desc: ["&5Gravitationsmodulierende Zusatz &7Einheit&r, wie du am Namen erkennen kannst, ist eine Verbesserung der &dGravitationsmodulierenden &7Einheit&r. \n\nBeide müssen installiert sein, um sie zu nutzen! \n\nWas sind also diese Verbesserungen? Du wirst sofort anhalten, wenn du beim Fliegen aufhörst, die Bewegungstasten zu drücken. Du kannst schneller aufsteigen! Und sogar immer fliegen!"]
+	quest.5A4C9F7F81D6B9DB.quest_subtitle: "Körperpanzerung"
+	quest.5A4C9F7F81D6B9DB.title: "&5Gravitationsmodulierende Zusatz &7Einheit"
+	quest.5A615BB74A5CD332.quest_desc: ["Mit dem &aWiederaufbereiter&r können wir alles, was wir bisher hergestellt haben, kombinieren, um ein paar neue Barren herzustellen.\n\nHinweis: Du könntest für diesen Schritt einen &9Fluidisierer&r benötigen!"]
+	quest.5A615BB74A5CD332.title: "Ludicrite & Ridiculite"
+	quest.5A658F239928850E.quest_desc: ["Durchbruch zu LuV! Lass uns den Fortschritt fortsetzen und herausfinden, worum es bei &cZPM &7geht!"]
+	quest.5A658F239928850E.quest_subtitle: "Mache &dLuV&r, nicht Krieg!"
+	quest.5A658F239928850E.title: "Ich &dLuV &7Fortschritt"
+	quest.5A6670364ADE0858.quest_subtitle: "&f29 &cAngriffsschaden"
+	quest.5A6831E0BD2F6AB5.quest_desc: ["Du wirst viele &8Dunkle Edelsteine&r brauchen!"]
+	quest.5A6831E0BD2F6AB5.title: "2 &4Durchbohrende Rachefokusse"
+	quest.5A6FF0D4BA894306.quest_desc: ["Das Aushängeschild von &6&lForbidden & Arcanus&r, die &aEternal Stella&r. \n\nFür 1 &6Allthemodium&r-Barren, 3 &aXpetrified Orbs&r und ein &2Stellarite-Stück&r können wir einen der übermächtigsten Gegenstände in diesem Modpack herstellen! \n\nDu kannst die &aEternal Stella&r mit einem Gegenstand und einem Gegenstand-Modifikator verwenden, um Gegenstände ihre Haltbarkeit verlieren zu lassen. Nein, warte, ich meine, dass sie ihren Bedarf an Haltbarkeit verlieren! Grundsätzlich unzerstörbare Gegenstände. \n\nDies kann bei fast jedem Gegenstand mit Haltbarkeit verwendet werden, von &bDiamantäxten&r über Angelruten bis hin zu &eRaffinierter Glowstone-Rüstung&r! \n\nEs gibt einige Einschränkungen, es funktioniert nur mit Gegenständen mit Haltbarkeit, nicht mit Verwendungen wie Infusionskristallen oder Energie wie beim Meka-Tool!"]
 	quest.5A6FF0D4BA894306.title: "&aEternal Stella"
-	quest.5A7FF6D0AED656DC.quest_desc: ["Decreases the amount of time that it takes for a Mana Burst to start losing its Mana, but will also decrease its rate of loss."]
-	quest.5A84A64CB3D3E6F5.quest_subtitle: "White Willow + Oak/Birch/Silver Lime"
-	quest.5A8F4CA0F09F4842.quest_desc: ["Need to remove &dEnchantments&r from an item you've found? Maybe you want to remove a Curse? This can be done using the &cPurifier&r.\\n\\nTo do this, first place at least 3 buckets worth of blood into the Purifier, then throw in the item you want to remove an enchantment from.\\n\\nNext, add in the &cBlook&r. The Blook will absorb one of the enchants from the item, and convert it into a book of the enchant."]
-	quest.5A8F4CA0F09F4842.title: "Removing &dEnchantments&r and &dCurses"
-	quest.5A912903E09F664F.quest_desc: ["Tip: Use the Ritual Tablet on the brazier first, then right click with one of each of the Wilden mob drops, then activate the ritual to summon the Wilden Chimera."]
-	quest.5A912903E09F664F.title: "Summoning Wilden Chimera"
-	quest.5A94A2664BFDD7B9.quest_desc: ["Welcome to the Basic Storage Chapter!\\n\\nYou'll find all of the basic ways to store items without needing power, as well as useful items for your storage needs!"]
-	quest.5A94A2664BFDD7B9.title: "Basic Storage"
-	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
-	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
+	quest.5A7FF6D0AED656DC.quest_desc: ["Verringert die Zeit, die ein Mana-Schub benötigt, um sein Mana zu verlieren, verringert aber auch die Verlustrate."]
+	quest.5A84A64CB3D3E6F5.quest_subtitle: "Weißweide + Eiche/Birke/Silberlinde"
+	quest.5A8F4CA0F09F4842.quest_desc: ["Musst du &dVerzauberungen&r von einem gefundenen Gegenstand entfernen? Vielleicht möchtest du einen Fluch entfernen? Dies kann mit dem &cReiniger&r erfolgen.\n\nPlatziere dazu mindestens 3 Eimer Blut im Reiniger und wirf dann den Gegenstand hinein, von dem du eine Verzauberung entfernen möchtest.\n\nFüge als Nächstes den &cBlook&r hinzu. Der Blook absorbiert eine der Verzauberungen vom Gegenstand und wandelt sie in ein Buch dieser Verzauberung um."]
+	quest.5A8F4CA0F09F4842.title: "Entfernung von &dVerzauberungen&r und &dFlüchen"
+	quest.5A912903E09F664F.quest_desc: ["Tipp: Benutze zuerst die Ritualtafel auf dem Kohlenbecken, klicke dann mit der rechten Maustaste mit einem Gegenstand von jedem Wilden-Mob-Drop, und aktiviere dann das Ritual, um die Wilde Chimäre zu beschwören."]
+	quest.5A912903E09F664F.title: "Beschwörung der Wilden Chimäre"
+	quest.5A94A2664BFDD7B9.quest_desc: ["Willkommen zum Kapitel über grundlegende Lagerung!\n\nHier findest du alle grundlegenden Möglichkeiten, Gegenstände ohne Strombedarf zu lagern, sowie nützliche Gegenstände für deine Lagerungsbedürfnisse!"]
+	quest.5A94A2664BFDD7B9.title: "Grundlegende Lagerung"
+	quest.5A955C0F53AED3ED.quest_desc: ["Die &bSeelenkette&r funktioniert ähnlich wie ein Enterhaken. \n\nDu kannst mit Rechtsklick eine &bKette&r aussenden, die dich zu dem Block zieht, auf den du geschossen hast. Du kannst sie mit einem erneuten Rechtsklick lösen. Sie hat eine Reichweite von 90 Blöcken, mehr oder weniger. \n\nZur Herstellung benötigst du eine &bGefangene Seele&r, 2 &5Hartnäckige Ranken&r und ein &9Hartnäckiges Blütenblatt&r. \n\nDie ersten beiden erhältst du als Drop von einem &5Verwickelten Hass&r, während du für Letzteres eine &9Mondmonstrosität&r töten musst."]
+	quest.5A955C0F53AED3ED.title: "&bSeelenkette"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
-	quest.5A9D6672385D3D82.quest_desc: ["Only use 1 Lapis for an Upgrade instead of 4."]
-	quest.5A9D6672385D3D82.quest_subtitle: "Saving Lapis"
-	quest.5A9E8222AEA6EF6F.title: "Charoite Armor"
-	quest.5AA3E5DFECB4AC4D.quest_desc: ["Naturally, AE2 provides its own way to dramatically speed up crystal growth.\\n\\nPlace these around your Budding Crystals, give them some power, and watch your crystals grow!"]
-	quest.5AAD0E516762BA53.quest_desc: ["Do you feel like you are levitating yet? Might be all that shulker from that Soul Vial."]
-	quest.5AAD0E516762BA53.quest_subtitle: "Prescient Crystal"
-	quest.5AAF6CA41209B365.title: "&3Vibranium Tools"
-	quest.5AC1BE754210429E.quest_desc: ["If you want to create a team for you and your friends, use the command &a/ftbteams party create (name of team)&r to create the team!"]
-	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Witches"
-	quest.5AC68C8A4024F4C9.quest_desc: ["&aEnergy &7Units&r can be used in all the &a&lMekaSuit Parts&r and even the &dMeka-Tool&r. \\n\\nWe can add 8 of them to each &eItem&r. Each adds more &aEnergy Storage&r to the &eItem&r. \\n\\nNo, it doesn't increase the &aEnergy&r that is already in it. There's no such thing as Free &aEnergy&r!"]
-	quest.5AC68C8A4024F4C9.quest_subtitle: "Everything"
-	quest.5AC68C8A4024F4C9.title: "&aEnergy &7Unit"
+	quest.5A9D6672385D3D82.quest_desc: ["Verwende nur 1 Lapis für ein Upgrade anstatt 4."]
+	quest.5A9D6672385D3D82.quest_subtitle: "Lapis sparen"
+	quest.5A9E8222AEA6EF6F.title: "Chariotit-Rüstung"
+	quest.5AA3E5DFECB4AC4D.quest_desc: ["Natürlich bietet AE2 eine eigene Methode, um das Kristallwachstum dramatisch zu beschleunigen.\n\nPlatziere diese um deine Knospenkristalle herum, gib ihnen etwas Energie und beobachte, wie deine Kristalle wachsen!"]
+	quest.5AAD0E516762BA53.quest_desc: ["Fühlst du dich schon schwebend? Könnte an all dem Shulker aus dieser Seelenflasche liegen."]
+	quest.5AAD0E516762BA53.quest_subtitle: "Weissagender Kristall"
+	quest.5AAF6CA41209B365.title: "&3Vibranium-Werkzeuge"
+	quest.5AC1BE754210429E.quest_desc: ["Wenn du ein Team für dich und deine Freunde erstellen möchtest, verwende den Befehl &a/ftbteams party create (Name des Teams)&r, um das Team zu erstellen!"]
+	quest.5AC497F76A086A5C.title: "&l&9Oberflächenprämie:&r&e Hexen"
+	quest.5AC68C8A4024F4C9.quest_desc: ["&aEnergie &7Einheiten&r können in allen &a&lMekaSuit-Teilen&r und sogar im &dMeka-Tool&r verwendet werden. \n\nWir können 8 davon zu jedem &eGegenstand&r hinzufügen. Jede erhöht den &aEnergiespeicher&r des &eGegenstands&r. \n\nNein, es erhöht nicht die &aEnergie&r, die bereits darin ist. Es gibt keine solche Sache wie kostenlose &aEnergie&r!"]
+	quest.5AC68C8A4024F4C9.quest_subtitle: "Alles"
+	quest.5AC68C8A4024F4C9.title: "&aEnergie &7Einheit"
 	quest.5ACE97EE75813006.quest_desc: [
-		"This is the main source of information on &dRituals&r. Here's the basics:"
+		"Dies ist die Hauptinformationsquelle zu &dRitualen&r. Hier sind die Grundlagen:"
 		""
-		"&lTiers of Rituals&r:"
+		"&lStufen der Rituale&r:"
 		""
-		"Rituals have (basically) four tiers based on how powerful the Demon that you're invoking is. The first tier is &eFoliot&r, then &aDijini&r, &cAfrit&r, and &9Marid&r. Some rituals fall into in-between tiers, such as the &6Unbound Afrit&r tier."
+		"Rituale haben (im Grunde) vier Stufen, basierend darauf, wie mächtig der Dämon ist, den du anrufst. Die erste Stufe ist &eFoliot&r, dann &aDijini&r, &cAfrit&r und &9Marid&r. Einige Rituale fallen in Zwischenstufen, wie die &6Ungebundener Afrit&r-Stufe."
 		""
-		"T&lypes of Rituals&r:"
+		"&lArten von Ritualen&r:"
 		""
-		"There are five main types of rituals, but we'll only need four for progression. The main three are &9Summoning Rituals&r, &5Possession Rituals&r, and &6Infusion Rituals&r. Each one will be explained the first time that they appear in these quests. The fourth type of ritual is a sort of &dDemon-less&r &dRitual&r, meaning that it uses bits and pieces from all three types to preform a special action without the direct usage of a Demon."
+		"Es gibt fünf Haupttypen von Ritualen, aber wir werden nur vier für den Fortschritt benötigen. Die drei Haupttypen sind &9Beschwörungsrituale&r, &5Besitzergreifungsrituale&r und &6Infusionsrituale&r. Jeder wird erklärt, wenn er zum ersten Mal in diesen Quests auftaucht. Die vierte Art von Ritual ist eine Art &dDämonenfreies&r &dRitual&r, was bedeutet, dass es Teile aus allen drei Typen verwendet, um eine spezielle Aktion auszuführen, ohne die direkte Verwendung eines Dämons."
 		""
-		"The fifth type, &eFamiliar Rituals&r, are not needed for progression. But they can still be summon some useful friends to help you out!"
+		"Der fünfte Typ, &eFamiliarenrituale&r, sind nicht für den Fortschritt erforderlich. Aber sie können trotzdem nützliche Freunde beschwören, die dir helfen!"
 		""
-		"&lChalks&r:"
+		"&lKreiden&r:"
 		""
-		"There are two types of Chalks: Foundation Chalks, and Colored Chalks."
+		"Es gibt zwei Arten von Kreiden: Grundkreiden und farbige Kreiden."
 		""
-		"Foundation chalks are used in every single ritual, and each tier higher gets a shade darker, starting with White Chalk and ending with Black Chalk. "
+		"Grundkreiden werden in jedem einzelnen Ritual verwendet, und jede höhere Stufe wird einen Schatten dunkler, beginnend mit Weißer Kreide und endend mit Schwarzer Kreide."
 		""
-		"Colored Chalks are the most commonly used, but the color of the Chalk doesn't directly corelate to its power the same as Foundation Chalks."
+		"Farbige Kreiden werden am häufigsten verwendet, aber die Farbe der Kreide korreliert nicht direkt mit ihrer Kraft wie bei Grundkreiden."
 	]
-	quest.5ACE97EE75813006.title: "The Basics of Rituals"
-	quest.5AD09CCEEDC0B50F.quest_desc: ["Now these are super helpful, you should definitely check them out! \\n\\nThe actual Light Source is the Feral Flare Lantern. It will place invisible Light Sources around 20 Blocks or more around it. \\n\\nThe Mega Torch is different: it doesn't emit Light but it does Block all Hostile Mob spawns with 64 Blocks of it! Useful for those using Night Vision. \\n\\nThe Dread Lamp does the opposite, it blocks Passive Mob spawns in the same area."]
+	quest.5ACE97EE75813006.title: "Die Grundlagen der Rituale"
+	quest.5AD09CCEEDC0B50F.quest_desc: ["Diese sind super hilfreich, du solltest sie definitiv ausprobieren! \n\nDie eigentliche Lichtquelle ist die Feral Flare-Laterne. Sie platziert unsichtbare Lichtquellen etwa 20 Blöcke oder mehr um sich herum. \n\nDie Mega-Fackel ist anders: Sie strahlt kein Licht aus, blockiert aber alle feindlichen Mob-Spawns innerhalb von 64 Blöcken! Nützlich für diejenigen, die Nachtsicht verwenden. \n\nDie Schreckenslampe bewirkt das Gegenteil, sie blockiert das Spawnen friedlicher Mobs im gleichen Bereich."]
 	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
 	quest.5AD33290313151D6.quest_desc: [
-		"Americium is typically used as a particle detector in Smoke Detectors."
+		"Americium wird typischerweise als Teilchendetektor in Rauchmeldern verwendet."
 		""
-		"The amount is incredibly tiny and harmless to people, but is very effective at detecting smoke, which is why it is used."
+		"Die Menge ist unglaublich winzig und für Menschen harmlos, aber sehr effektiv bei der Erkennung von Rauch, weshalb es verwendet wird."
 	]
-	quest.5AD33290313151D6.quest_subtitle: "Liquid Americium"
-	quest.5AD80D3242DD3F60.quest_desc: ["One of the hardest materials to get in the mod!\\n\\nThis is also used to create the &6ATM Star&r!"]
-	quest.5AD80D3242DD3F60.title: "&dInsanite Block"
+	quest.5AD33290313151D6.quest_subtitle: "Flüssiges Americium"
+	quest.5AD80D3242DD3F60.quest_desc: ["Eines der am schwierigsten zu erhaltenden Materialien im Mod!\n\nDies wird auch zur Erstellung des &6ATM-Sterns&r verwendet!"]
+	quest.5AD80D3242DD3F60.title: "&dInsanite-Block"
 	quest.5AE80FF518B1BBA6.quest_desc: [
-		"Tired of lugging around Chalks, Candles, Skulls, and Crystals? Just make a Ritual Satchel!"
+		"Bist du es leid, Kreiden, Kerzen, Schädel und Kristalle mit dir herumzutragen? Stelle einfach eine Ritualtasche her!"
 		""
-		"By sneak + right-clicking with the Ritual Satchel in your hand, you can fill it with all the materials you need to draw a ritual circle."
+		"Durch Schleichen + Rechtsklick mit der Ritualtasche in deiner Hand kannst du sie mit allen Materialien füllen, die du benötigst, um einen Ritualkreis zu zeichnen."
 		""
-		"Once you've loaded up the Satchel, simply right-click any preview block to begin (slowly) automatically placing all the runes for the selected ritual. "
+		"Sobald du die Tasche gefüllt hast, klicke einfach mit der rechten Maustaste auf einen beliebigen Vorschaublock, um (langsam) automatisch alle Runen für das ausgewählte Ritual zu platzieren."
 		""
-		"If a piece of chalk inside the bag falls under 40% durability, the enchantment glint on this item will dissapear to signal that it may be time to repair or replace some of your Chalks."
+		"Wenn die Haltbarkeit einer Kreide in der Tasche unter 40% fällt, verschwindet der Verzauberungsglanz von diesem Gegenstand, um zu signalisieren, dass es Zeit sein könnte, einige deiner Kreiden zu reparieren oder zu ersetzen."
 	]
-	quest.5AE80FF518B1BBA6.quest_subtitle: "Pocket Ritual!"
-	quest.5AE80FF518B1BBA6.title: "Tools of the Trade: Ritual Satchel"
-	quest.5AEA705D6A64A982.quest_desc: ["If you have a small &2&lFission Reactor&r primarily for &aPolonium&r then we should use this as a simple fail safe! \\n\\n&aPolonium&r is made with the &e&lSolar Neutron Activator&r. You can probably tell it needs &eDaylight&r to work! \\n\\nSo, in order to stop bottle-necking (which can be deadly when we are talking about &2&lReactors&r) we can turn off our &2&lReactor&r when it is Nighttime! \\n\\nFirst, set your &2FRLA&r to Activation. This will turn on the &2&lReactor&r when it has a &4Redstone Signal&r and turned off when it doesn't. \\n\\nNow we can place our &eDaylight Sensor&r and connect it to the &2FRLA&r with &4Redstone&r. \\n\\nThen, boom, it is ready!"]
-	quest.5AEA705D6A64A982.title: "Clock Switch"
-	quest.5AEE86EB39FD4087.quest_desc: ["The &3Vortex Tube&r seperates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side."]
-	quest.5AEE86EB39FD4087.quest_subtitle: "Still not RF..."
-	quest.5AEE86EB39FD4087.title: "Heat Production"
-	quest.5B013A3A37D6902B.quest_desc: ["You can find the fragments of Ancient Knowledge spread out in the Chests of the &9Ancient City&r. \\n\\nYou'll also need &9Echo Shards&r to 1. Combine the Fragments to learn of the &9Spells&r and 2. Actually make the &9Spells&r."]
-	quest.5B013A3A37D6902B.title: "Into the Ancient City"
+	quest.5AE80FF518B1BBA6.quest_subtitle: "Taschen-Ritual!"
+	quest.5AE80FF518B1BBA6.title: "Werkzeuge des Handwerks: Ritualtasche"
+	quest.5AEA705D6A64A982.quest_desc: ["Wenn du einen kleinen &2&lSpaltreaktor&r hauptsächlich für &aPolonium&r hast, sollten wir dies als einfache Absicherung verwenden! \n\n&aPolonium&r wird mit dem &e&lSolaren Neutronenaktivator&r hergestellt. Du kannst wahrscheinlich erkennen, dass er &eTageslich&r für die Arbeit benötigt! \n\nUm Engpässe zu vermeiden (was tödlich sein kann, wenn wir über &2&lReaktoren&r sprechen), können wir unseren &2&lReaktor&r abschalten, wenn es Nacht ist! \n\nStelle zuerst deinen &2FRLA&r auf Aktivierung. Dies schaltet den &2&lReaktor&r ein, wenn er ein &4Redstone-Signal&r hat, und aus, wenn er keins hat. \n\nJetzt können wir unseren &eTageslichtsensor&r platzieren und ihn mit &4Redstone&r mit dem &2FRLA&r verbinden. \n\nDann, boom, ist es bereit!"]
+	quest.5AEA705D6A64A982.title: "Zeitschaltung"
+	quest.5AEE86EB39FD4087.quest_desc: ["Das &3Vortex-Rohr&r trennt Druck in heiße und kalte Luft. Die kalte Luft geht zur blauen Seite und die heiße Luft zur roten Seite."]
+	quest.5AEE86EB39FD4087.quest_subtitle: "Immer noch kein RF..."
+	quest.5AEE86EB39FD4087.title: "Wärmeerzeugung"
+	quest.5B013A3A37D6902B.quest_desc: ["Du kannst die Fragmente des Alten Wissens in den Truhen der &9Alten Stadt&r verstreut finden. \n\nDu wirst auch &9Echo-Scherben&r benötigen, um 1. die Fragmente zu kombinieren, um von den &9Zaubern&r zu erfahren und 2. die &9Zauber&r tatsächlich herzustellen."]
+	quest.5B013A3A37D6902B.title: "In die Alte Stadt"
 	quest.5B02719C13B1FFE2.quest_desc: [
-		"Abilities:"
-		"- Air Burst: Further improved launch distance."
-		"- Void Shift: Improved teleportation distance."
-		"- Eclipse Gate: Creates a portable hole in a 3x3 area, direction is dependant of the face of the block targeted. Distance of the hole created is configurable. Note Eclipse Gate doesn't work on tile entities."
+		"Fähigkeiten:"
+		"- Luftstoß: Weiter verbesserte Startdistanz."
+		"- Leereverschiebung: Verbesserte Teleportationsdistanz."
+		"- Eklipsentor: Erzeugt ein tragbares Loch in einem 3x3-Bereich, die Richtung hängt von der Fläche des anvisierten Blocks ab. Die Distanz des erzeugten Lochs ist konfigurierbar. Hinweis: Eklipsentor funktioniert nicht bei Tile-Entities."
 	]
-	quest.5B0FF8E0B58A4150.quest_subtitle: "Walnut + Wild Cherry"
-	quest.5B114CE7192A0549.quest_subtitle: "Beech + Birch"
-	quest.5B18676A77CD6069.quest_desc: ["Move aside &b&lAE2&r and &3&lRS2&r! We got &5&lMekanism&r! \\n\\nThe &e&lQuantum Item Orchestration&r (&e&lQIO&r) is a Virtual &eItem&r storage. We'll need a few &eItems&r to open and store &eItems&r in it before we get to use it! \\n\\nFirst, is the heart of the system, the &e&lQIO Drive Array&r. It is the &5Machine&r everything will go through and connect through. \\n\\nIt doesn't require &aEnergy&r but like &a&lTeleporters&r and &5&lQuantum Entangloporters&r it will need to be set to a Network! The other &eItems&r that connect to the &e&lQIO Drive Array&r will need to be set to that Network as well. \\n\\nFor the &eQIO Drives&r we just need to place them within the &e&lQIO Drive Array&r! "]
+	quest.5B0FF8E0B58A4150.quest_subtitle: "Walnuss + Wildkirsche"
+	quest.5B114CE7192A0549.quest_subtitle: "Buche + Birke"
+	quest.5B18676A77CD6069.quest_desc: ["Macht Platz für &b&lAE2&r und &3&lRS2&r! Wir haben &5&lMekanism&r! \n\nDie &e&lQuantum Item Orchestration&r (&e&lQIO&r) ist ein virtueller &eGegenstands&r-Speicher. Wir benötigen einige &eGegenstände&r, um &eGegenstände&r darin zu öffnen und zu speichern, bevor wir es benutzen können! \n\nZuerst das Herz des Systems, das &e&lQIO Drive Array&r. Es ist die &5Maschine&r, durch die alles gehen und verbinden wird. \n\nEs benötigt keine &aEnergie&r, aber wie &a&lTeleporter&r und &5&lQuantum Entangloporters&r muss es auf ein Netzwerk eingestellt werden! Die anderen &eGegenstände&r, die mit dem &e&lQIO Drive Array&r verbunden sind, müssen ebenfalls auf dieses Netzwerk eingestellt werden. \n\nFür die &eQIO-Laufwerke&r müssen wir sie einfach im &e&lQIO Drive Array&r platzieren!"]
 	quest.5B18676A77CD6069.quest_subtitle: "(QIO)"
 	quest.5B18676A77CD6069.title: "&e&lQuantum Item Orchestration"
 	quest.5B1C5C9F9CCC51EB.quest_desc: [
-		"A little sulfuric acid with cyan dye and 2 salt dust will make the liquid cyan dye"
+		"Ein wenig Schwefelsäure mit Cyan-Farbstoff und 2 Salzstaub ergibt den flüssigen Cyan-Farbstoff"
 		""
-		"Don't worry, I won't make you grab a bucket of the stuff"
+		"Keine Sorge, ich werde dich nicht zwingen, einen Eimer davon zu besorgen"
 	]
-	quest.5B1E0E3E876339E7.title: "&4Supremium Armor"
-	quest.5B2FD54E425D5C9D.quest_desc: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
-	quest.5B2FD54E425D5C9D.title: "&dVoid &cForge"
-	quest.5B36DE3826F26963.quest_desc: ["&dRotational Power&r is the most important and confusing part of &6&lCreate&r. \\n\\nAll Machines will need some sort of &dRotational Power&r to work, but what is it and how do we use it? \\n\\n&dRotational Power&r is simply our Machines moving. Blocks like Shafts and Cogs will move that &dRotational Power&r to our Machines. \\n\\nTalking about Shafts, that is our start to &dRotational Power&r. They can be placed in a straight line, next to each other. \\n\\nWhen one &8Shaft&r is moved, all &8Shafts&r connected to it (on the same axis) will move with it. \\n\\nCraft 2 &8Andesite Alloys&r to create 8 &8Shafts&r."]
-	quest.5B36DE3826F26963.title: "&d&lRotational Power"
+	quest.5B1E0E3E876339E7.title: "&4Supremium-Rüstung"
+	quest.5B2FD54E425D5C9D.quest_desc: ["Dieser ist schwer zu bekommen... wir müssen 2 Bosse und einen Miniboss töten, um alles für die &dLeere &cSchmiede&r zu bekommen. \n\nZuerst benötigen wir einen &4Mechanischen Fusionsamboss&r. Um ihn zu bekommen, besuche die &4Antike Fabrik&r, die unter der &2&lOberwelt&r liegt. \n\nDann füttere &4&lDen Vorboten&r mit einem Netherstern, um ihn aufzuladen, und töte ihn! &4&lDer Vorbote&r wird &4Witherit&r fallen lassen, mit dem du den &4Mechanischen Fusionsamboss&r herstellen kannst. \n\nAls nächstes benötigen wir die &cInfernalische Schmiede&r. Das ist ein Drop vom &c&lNetherit-Monstrosität&r. \n\nGehe zum &c&lNether&r, um die &cSeelenschmiede&r-Struktur zu finden. Dann kämpfe gegen die &c&lNetherit-Monstrosität&r und töte sie, um deine &cInfernalische Schmiede&r zu bekommen! \n\nZuletzt und wahrscheinlich am einfachsten ist der &dLeerenkern&r. Glücklicherweise wird er nicht von einem Boss fallen gelassen, sondern von einem Miniboss! \n\nBesuche &5&lDas Ende&r, um eine &dRuinierte Zitadelle&r zu finden, in der du den &dEnder-Golem&r findest. Dieser wird unseren &dLeerenkern&r fallen lassen. \n\nSobald du alles hast, verwende den &4Mechanischen Fusionsamboss&r, um die &cInfernalische Schmiede&r und den &dLeerenkern&r zu kombinieren, um die &dLeeren &cSchmiede&r herzustellen."]
+	quest.5B2FD54E425D5C9D.title: "&dLeere &cSchmiede"
+	quest.5B36DE3826F26963.quest_desc: ["&dRotationskraft&r ist der wichtigste und verwirrendste Teil von &6&lCreate&r. \n\nAlle Maschinen benötigen irgendeine Form von &dRotationskraft&r, um zu funktionieren, aber was ist das und wie verwenden wir es? \n\n&dRotationskraft&r ist einfach die Bewegung unserer Maschinen. Blöcke wie Wellen und Zahnräder werden diese &dRotationskraft&r zu unseren Maschinen bewegen. \n\nÜber Wellen gesprochen, das ist unser Start in die &dRotationskraft&r. Sie können in einer geraden Linie nebeneinander platziert werden. \n\nWenn eine &8Welle&r bewegt wird, werden alle &8Wellen&r, die mit ihr verbunden sind (auf derselben Achse), sich mit ihr bewegen. \n\nStelle 2 &8Andesit-Legierungen&r her, um 8 &8Wellen&r zu erhalten."]
+	quest.5B36DE3826F26963.title: "&d&lRotationskraft"
 	quest.5B3CC3F66F2C3DE5.quest_desc: ["{atm9.quest.enchant.desc.seashelf}"]
 	quest.5B3CC3F66F2C3DE5.title: "{atm9.quest.enchant.seashelf}"
 	quest.5B4397D4EC23E702.quest_desc: [
-		"The perfect place for all &6B&8e&6e&r Warriors! \\n\\nHere you can grab a Stinger Spear and enchants for it!"
+		"Der perfekte Ort für alle &6B&8i&6e&8nen&r-Krieger! \n\nHier kannst du einen Stachel-Speer und Verzauberungen dafür erhalten!"
 		"{image:atm:textures/questpics/bumblezone/bumble_stingy.png width:200 height:100 align:center}"
 	]
-	quest.5B4397D4EC23E702.title: "Stinger Spear Shrine"
-	quest.5B46B5BF4ADB2BE9.quest_desc: ["Yes it can make pathways don't worry!"]
-	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Alloy &3Shovel"
+	quest.5B4397D4EC23E702.title: "Stachel-Speer-Schrein"
+	quest.5B46B5BF4ADB2BE9.quest_desc: ["Ja, sie kann auch Wege schaffen, keine Sorge!"]
+	quest.5B46B5BF4ADB2BE9.title: "&6Allthemodium &5Legierungs &3Schaufel"
 	quest.5B4B5C148D63ACA1.quest_desc: [
-		"&aForgotten Minions&r aren't spawned like normal Mobs, they need to be created. They are created by placing a Carved Gloomgourd over a &aBlock of Forgotten Ingots&r. \\n\\nThey act similar to Snow Golems, they won't ever attack you and instead shoot at Hostile Mobs. \\n\\nThey have 10 Hearts and don't drop anything on death... but like why would you kill them?"
+		"&aVergessene Diener&r werden nicht wie normale Mobs gespawnt, sie müssen erschaffen werden. Sie werden erschaffen, indem man einen geschnitzten Düsterkürbis über einem &aBlock aus Vergessenen Barren&r platziert. \n\nSie verhalten sich ähnlich wie Schneegolem, sie werden dich niemals angreifen und stattdessen auf feindliche Mobs schießen. \n\nSie haben 10 Herzen und lassen beim Tod nichts fallen... aber warum solltest du sie töten?"
 		"{image:atm:textures/questpics/undergarden/undergarden_minion.png width:125 height:100 align:center}"
 	]
-	quest.5B4B5C148D63ACA1.title: "&aForgotten Minions&r"
-	quest.5B52389583A70E66.quest_subtitle: "Tier: &c5"
-	quest.5B556192F060F3F1.quest_desc: ["&5Refined Obsidian&r will be important for many &eItems &fand &5Machines&r within &5&lMekanism&r especially at &d&lUltimate Tier&r. \\nFirst, we'll need to &3Crush &5Obsidian&f to get &5Obsidian Dust&r. Obviously you need to use a &4&lCrusher&r for that. \\n\\nThen, we can use the &9&lMetallurgic Infuser&r to &9Infuse&f the &5Obsidian Dust&r with &bChemical Diamond&r. I'd recommend using &bEnriched Diamonds&r to get the most bang for your buck! \\n\\nNow we get a few choices of what to do with it, either &dEnrich&r it to get more &5Chemical Refined Obsidian&r or..."]
-	quest.5B556192F060F3F1.title: "&5Refined Obsidian Dust"
+	quest.5B4B5C148D63ACA1.title: "&aVergessene Diener&r"
+	quest.5B52389583A70E66.quest_subtitle: "Stufe: &c5"
+	quest.5B556192F060F3F1.quest_desc: ["&5Raffiniertes Obsidian&r wird für viele &eGegenstände &fund &5Maschinen&r innerhalb von &5&lMekanism&r wichtig sein, besonders auf &d&lUltimater Stufe&r. \nZuerst müssen wir &5Obsidian&f &3zerkleinern&f, um &5Obsidianstaub&r zu erhalten. Offensichtlich musst du dafür einen &4&lZerkleinerer&r verwenden. \n\nDann können wir den &9&lMetallurgischen Infusor&r verwenden, um den &5Obsidianstaub&r mit &bChemischem Diamant&r zu &9infundieren&f. Ich würde &bAngereicherte Diamanten&r empfehlen, um das Beste für dein Geld zu bekommen! \n\nJetzt haben wir ein paar Möglichkeiten, was wir damit machen können, entweder es &danreichern&r, um mehr &5Chemisches Raffiniertes Obsidian&r zu erhalten, oder..."]
+	quest.5B556192F060F3F1.title: "&5Raffinierter Obsidianstaub"
 	quest.5B5FC539BD1F4A73.quest_desc: [
-		"This Pylon is all about blocking Mob Spawns. "
+		"Bei diesem Pylon geht es darum, Mob-Spawns zu blockieren."
 		""
-		"You can use Mob Filters to block spawns of only certain Mobs or use the Lifeless Filter to block all Mob spawns! "
+		"Du kannst Mob-Filter verwenden, um Spawns bestimmter Mobs zu blockieren, oder den Leblosen Filter, um alle Mob-Spawns zu blockieren!"
 		""
-		"You can stack multiple Mob Filters to block off more spawns. Plus you can change the Working Area for how far it blocks those Mob Spawns. "
+		"Du kannst mehrere Mob-Filter stapeln, um mehr Spawns zu blockieren. Außerdem kannst du den Arbeitsbereich ändern, wie weit er diese Mob-Spawns blockiert."
 		""
-		"If you use the Lifeless Filter it will ignore all those settings."
+		"Wenn du den Leblosen Filter verwendest, werden alle diese Einstellungen ignoriert."
 	]
-	quest.5B64384E4CE27851.quest_subtitle: "Banded Iron Vein"
-	quest.5B64384E4CE27851.title: "Goethite Vein"
+	quest.5B64384E4CE27851.quest_subtitle: "Gebändertes Eisenerz"
+	quest.5B64384E4CE27851.title: "Goethit-Ader"
 	quest.5B910F1389C0B915.quest_desc: [
-		"Abilities:"
-		"- Air Burst: Improved launching distance and conusmes FE."
-		"- Void Shift: Teleports player in the direction they are looking consuming FE in the process."
+		"Fähigkeiten:"
+		"- Luftstoß: Verbesserte Startdistanz und verbraucht FE."
+		"- Leereverschiebung: Teleportiert den Spieler in die Richtung, in die er schaut, und verbraucht dabei FE."
 	]
-	quest.5B92DA55541B168B.quest_desc: ["That's right, another &eLaser Engraver&r recipe... these quests are becoming non-linear"]
+	quest.5B92DA55541B168B.quest_desc: ["Genau, ein weiteres &eLaser-Graveur&r-Rezept... diese Quests werden nicht-linear"]
 	quest.5B95C5B5B3A9CB2E.quest_desc: [
-		"We all love looting, and &dLootr Chests&r help us do exactly that. "
+		"Wir alle lieben Beute, und &dLootr-Truhen&r helfen uns genau dabei."
 		""
-		"These loot chests have per-player loot, meaning you and your friends can loot them without stealing loot from each other! "
+		"Diese Beutetruhen haben spielerspezifische Beute, was bedeutet, dass du und deine Freunde sie plündern können, ohne einander Beute zu stehlen!"
 		""
-		"You'll also find rare items called &6Artifacts&r in them, which can be placed in your &bCurios&r slots for unique effects or abilities! "
+		"Du wirst auch seltene Gegenstände namens &6Artefakte&r darin finden, die du in deine &bCurios&r-Slots für einzigartige Effekte oder Fähigkeiten platzieren kannst!"
 		""
-		"Tip: You can break a Lootr chest by sneaking while mining it!"
+		"Tipp: Du kannst eine Lootr-Truhe aufbrechen, indem du beim Abbauen schleichst!"
 	]
-	quest.5B95C5B5B3A9CB2E.title: "&dLoot Chests&r"
-	quest.5B9F3F32AB28A83A.quest_desc: ["The inside, and important part, of the &6&lThermoelectric Boiler&r is made of fancy Blocks! \\n\\n&6Superheating Elements&r which work in transfering &6Heat&r to &9Water&r and &9Pressure Dispersers&r which will help create the Steam! \\n\\nIf we use bigger Builds, we can leave room between the different Blocks inside the &6&lBoiler&r to give more storage to Steam and &9Water&r. \\n\\nAir between the Top and the &9Pressure Dispersers&r will add to the Steam Storage. Air between the &9Pressure Dispersers&r and the &6Superheating Elements&r will give more room for &9Water&r."]
-	quest.5B9F3F32AB28A83A.title: "The Thermo part of the &6&lThermoelectric Boiler"
-	quest.5B9F933ECD6B24FD.quest_desc: ["Allows you to jump higher than with Tier II."]
+	quest.5B95C5B5B3A9CB2E.title: "&dBeutetruhen&r"
+	quest.5B9F3F32AB28A83A.quest_desc: ["Das Innere, und wichtiger Teil, des &6&lThermoelektrischen Kessels&r besteht aus speziellen Blöcken! \n\n&6Überhitzungselemente&r, die bei der Übertragung von &6Wärme&r auf &9Wasser&r helfen, und &9Druckverteiler&r, die bei der Erzeugung des Dampfes helfen! \n\nWenn wir größere Bauten verwenden, können wir Platz zwischen den verschiedenen Blöcken im &6&lKessel&r lassen, um mehr Speicherplatz für Dampf und &9Wasser&r zu schaffen. \n\nLuft zwischen der Oberseite und den &9Druckverteilern&r erhöht den Dampfspeicher. Luft zwischen den &9Druckverteilern&r und den &6Überhitzungselementen&r schafft mehr Platz für &9Wasser&r."]
+	quest.5B9F3F32AB28A83A.title: "Der Thermo-Teil des &6&lThermoelektrischen Kessels"
+	quest.5B9F933ECD6B24FD.quest_desc: ["Ermöglicht es dir, höher zu springen als mit Stufe II."]
 	quest.5B9F933ECD6B24FD.quest_subtitle: "Max: 1"
-	quest.5BA84F6282D9CAF1.quest_desc: ["&6Allthemodium Armor&r but with buffs to &e&lIron's Spells&r Spells!"]
+	quest.5BA84F6282D9CAF1.quest_desc: ["&6Allthemodium-Rüstung&r, aber mit Verbesserungen für &e&lIron's Spells&r-Zauber!"]
 	quest.5BA84F6282D9CAF1.quest_subtitle: "24"
-	quest.5BA84F6282D9CAF1.title: "&6Allthemodium Mage Outfit"
-	quest.5BA986D7928BF09F.quest_desc: ["The Piglich is a Boss added by &6&lAllthemodium&r. \\n\\nHas he 1000 Hearts and currently has no attacks but trust me when he does they will be devastating! \\n\\nWhen killed he'll drop his Heart which will be needed for Alloys and the ATM Star! \\n\\n(Look into ways of farming them like with HNN or EnderIO!)"]
-	quest.5BA986D7928BF09F.title: "Piglich Boss"
-	quest.5BB7648DC10E1E08.quest_desc: ["Has 27 more filter slots and is 6x faster than the regular Exporter. Also has the Stack Upgrade integrated."]
-	quest.5BB7648DC10E1E08.title: "Ultra Exporter"
-	quest.5BB887411B8B38FA.quest_desc: ["As for wirelessly expanding the ME Network itself, the first step is admittedly somewhat unorthodox.\\n\\nThe &bMatter Condenser&f is AE2's take on a trash can, voiding any items inserted into it. When fitted with a &eStorage Component&f, however, the condenser can harness some left-over energy from the item being voided and store it to make two special crafting items out of enough concentrated energy.\\n\\nThe first of these two items is the &bMatter Ball&f, requiring at least a 1k storage component and 256 items' worth of voided material."]
-	quest.5BB887411B8B38FA.title: "Condensed Matter"
+	quest.5BA84F6282D9CAF1.title: "&6Allthemodium-Magier-Outfit"
+	quest.5BA986D7928BF09F.quest_desc: ["Der Piglich ist ein Boss, der von &6&lAllthemodium&r hinzugefügt wurde. \n\nEr hat 1000 Herzen und hat derzeit keine Angriffe, aber vertrau mir, wenn er sie hat, werden sie verheerend sein! \n\nWenn er getötet wird, lässt er sein Herz fallen, das für Legierungen und den ATM-Stern benötigt wird! \n\n(Schau dir Möglichkeiten an, sie zu farmen, wie mit HNN oder EnderIO!)"]
+	quest.5BA986D7928BF09F.title: "Piglich-Boss"
+	quest.5BB7648DC10E1E08.quest_desc: ["Hat 27 zusätzliche Filterplätze und ist 6x schneller als der normale Exporteur. Hat auch das Stapel-Upgrade integriert."]
+	quest.5BB7648DC10E1E08.title: "Ultra-Exporteur"
+	quest.5BB887411B8B38FA.quest_desc: ["Der erste Schritt zur drahtlosen Erweiterung des ME-Netzwerks selbst ist zugegebenermaßen etwas unorthodox.\n\nDer &bMateriekondensator&f ist AE2's Version eines Mülleimers, der alle eingeführten Gegenstände vernichtet. Wenn er jedoch mit einer &eSpeicherkomponente&f ausgestattet ist, kann der Kondensator etwas überschüssige Energie aus dem vernichteten Gegenstand nutzen und speichern, um zwei spezielle Herstellungsgegenstände aus genügend konzentrierter Energie herzustellen.\n\nDer erste dieser beiden Gegenstände ist die &bMaterienkugel&f, die mindestens eine 1k-Speicherkomponente und 256 Gegenstände an vernichtetem Material benötigt."]
+	quest.5BB887411B8B38FA.title: "Kondensierte Materie"
 	quest.5BBE8B30ED7518B8.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
+		"Gültige Upgrades:"
+		"- Erzbergbauer"
+		"- Erzscanner &4&lDEAKTIVIERT&r&f"
 	]
-	quest.5BC4250E4C9F803C.title: "&9Imperium Farmland"
-	quest.5BCA3F716348ECCD.quest_desc: ["The &9Energy Hopper&r will charge any chargeable item inside of the inventory of the block it is pointed to, like a chest."]
-	quest.5BD5737703F3F077.quest_desc: ["Ferricore is a new material added by JDT. Ferricore is aquired by performing Goo Spread on Iron Blocks using tier one goo or higher. Ferricore Ore is affected by fortune."]
+	quest.5BC4250E4C9F803C.title: "&9Imperium-Ackerland"
+	quest.5BCA3F716348ECCD.quest_desc: ["Der &9Energie-Trichter&r lädt alle aufladbaren Gegenstände im Inventar des Blocks, auf den er zeigt, wie zum Beispiel eine Truhe."]
+	quest.5BD5737703F3F077.quest_desc: ["Ferricore ist ein neues Material, das von JDT hinzugefügt wurde. Ferricore wird gewonnen, indem man Eisenblöcke mit Schleim der Stufe eins oder höher ausbreitet. Ferricore-Erz wird von Glück beeinflusst."]
 	quest.5BD5737703F3F077.title: "Ferricore"
 	quest.5BDBE666E604FCAC.quest_desc: [
-		"This lucrative ore starts your journey to becoming overpowered!"
+		"Dieses lukrative Erz beginnt deine Reise, um übermächtig zu werden!"
 		""
-		"It is found in Deep Dark biomes along ceilings and walls, or in the Mining Dimension within the deepslate layer."
+		"Es ist in den Tiefe Dunkelheit-Biomen an Decken und Wänden zu finden oder in der Bergbaudimension innerhalb der Tiefenschiefer-Schicht."
 	]
-	quest.5BDBE666E604FCAC.title: "Allthemodium Ore"
-	quest.5BE1F2AE0A8926E0.quest_desc: ["These are going to be forming large parts of the machines we are going to building."]
+	quest.5BDBE666E604FCAC.title: "Allthemodium-Erz"
+	quest.5BE1F2AE0A8926E0.quest_desc: ["Diese werden große Teile der Maschinen bilden, die wir bauen werden."]
 	quest.5BF29A151A04FEF0.quest_desc: [
-		"The &9Weak Blood Orb&r is used to store blood (or LP). It can be used as a way to transport blood to and from Altars. It also is used in several crafting recipes."
+		"Der &9Schwache Blutorb&r wird verwendet, um Blut (oder LP) zu speichern. Er kann als Möglichkeit verwendet werden, Blut zu und von Altären zu transportieren. Er wird auch in verschiedenen Herstellungsrezepten verwendet."
 		""
-		"To craft this, you'll need to place a diamond on top of the Blood Altar, then generate enough LP to craft it."
+		"Um dies herzustellen, musst du einen Diamanten oben auf den Blutaltar legen und dann genug LP erzeugen, um ihn herzustellen."
 		""
-		"To charge a Blood Orb, you can right-click to sacrifice some of your health to the Orb. This also links your Soul to your Soul Network. :)"
+		"Um einen Blutorb aufzuladen, kannst du mit der rechten Maustaste klicken, um etwas von deiner Gesundheit für den Orb zu opfern. Dies verbindet auch deine Seele mit deinem Seelennetzwerk. :)"
 		""
-		"You can also place the Orb in a Blood Altar that has some LP in it. It'll drain faster the more Speed Runes it has."
+		"Du kannst den Orb auch in einen Blutaltar legen, der etwas LP enthält. Er wird schneller entleert, je mehr Geschwindigkeitsrunen der Altar hat."
 	]
-	quest.5BF29A151A04FEF0.quest_subtitle: "Holds a max of 5k LP"
-	quest.5BF29A151A04FEF0.title: "Portable Blood Storage"
+	quest.5BF29A151A04FEF0.quest_subtitle: "Hält maximal 5.000 LP"
+	quest.5BF29A151A04FEF0.title: "Tragbarer Blutspeicher"
 	quest.5C040191740A53C8.quest_desc: [
-		"Your &5Highness&r, the &5Bee Queen&r.\\n\\nAn absolute unit of a Bee, so big she can't even move on her own.\\n\\nUpon meeting her, she will request of you to get a certain Item for her. If you do you'll be granted a special reward.\\n\\nAlso now that you have met her you can trade with her (check JEI for all trades) and you can do her quest desires.\\n\\nIn order to advance in Bumblezone you will need Bee Essence which you get from doing all 16 of her quests.\\n"
+		"Ihre &5Hoheit&r, die &5Bienenkönigin&r.\n\nEine absolute Einheit einer Biene, so groß, dass sie sich nicht einmal alleine bewegen kann.\n\nBei deinem Treffen mit ihr wird sie dich bitten, einen bestimmten Gegenstand für sie zu besorgen. Wenn du das tust, wird dir eine besondere Belohnung gewährt.\n\nJetzt, da du sie getroffen hast, kannst du mit ihr handeln (schau in JEI für alle Handel) und du kannst ihre Questwünsche erfüllen.\n\nUm in Bumblezone voranzukommen, benötigst du Bienenessenz, die du durch die Erfüllung aller 16 ihrer Quests erhältst.\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_queen.png width:200 height:100 align:center}"
 	]
-	quest.5C040191740A53C8.title: "&5Your Highness"
-	quest.5C0F6B1C93A52113.quest_desc: ["Now this is the true Heart of &c&lLaserIO&r! The &cLaser Nodes&r are where the actual Cards will go into in order to work. \\n\\nThey will move Items from any adjacent Inventory in the 4 Cardinal Directions and Up and Down. In order to move to Farther Inventories you'll need a second &cNode&r and Connect them with the Wrench by Shift Right Clicking 1 and Right Clicking the 2nd. \\n\\nYou'll put the Cards into the Slots of the correct Direction and you can put Node Overclockers there as well to make it work faster. "]
+	quest.5C040191740A53C8.title: "&5Eure Hoheit"
+	quest.5C0F6B1C93A52113.quest_desc: ["Dies ist das wahre Herz von &c&lLaserIO&r! Die &cLaser-Knoten&r sind der Ort, an dem die eigentlichen Karten eingesetzt werden, um zu funktionieren. \n\nSie bewegen Gegenstände aus jedem angrenzenden Inventar in den 4 Himmelsrichtungen sowie nach oben und unten. Um zu weiter entfernten Inventaren zu gelangen, benötigst du einen zweiten &cKnoten&r und verbindest sie mit dem Schraubenschlüssel, indem du Shift-Rechtsklick auf den ersten und Rechtsklick auf den zweiten machst. \n\nDu legst die Karten in die Slots der entsprechenden Richtung und kannst dort auch Knoten-Übertakter platzieren, damit es schneller funktioniert."]
 	quest.5C1BB559DD83E88F.quest_desc: [
-		"Upgrading your machines will grant you access to new recipes and increase their processing speed"
+		"Die Aufrüstung deiner Maschinen gewährt dir Zugang zu neuen Rezepten und erhöht ihre Verarbeitungsgeschwindigkeit"
 		""
-		"This is called overclocking and can be configured in the GUI of the machine if you do not want to overclock (to conserve power for example)"
+		"Dies wird als Übertakten bezeichnet und kann in der GUI der Maschine konfiguriert werden, wenn du nicht übertakten möchtest (um beispielsweise Energie zu sparen)"
 		""
-		"Overclocking a recipe results in it processing twice as fast but using four times as much power - overall this means twice as much energy is used"
+		"Das Übertakten eines Rezepts führt dazu, dass es doppelt so schnell verarbeitet wird, aber viermal so viel Energie verbraucht - insgesamt bedeutet das, dass doppelt so viel Energie verbraucht wird"
 	]
-	quest.5C1BB559DD83E88F.quest_subtitle: "Welcome to LV"
-	quest.5C22E3103544B120.quest_desc: ["To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable.\\n\\nBoth glass cables and their &ecovered&f counterpart can carry up to 8 channels along a single section of cabling. Unlike glass cables, covered cables can subsequently be crafted into &edense&f covered cables, capable of carrying up to 32 channels. However, most 'multipart' devices such as buses and terminals cannot be directly attached to dense cables, requiring normal-width cables to form a connection instead.\\n\\nAll cables can also be crafted with dye to colour them. Uncoloured ('Fluix') cables can connect to any other colour of cable, but otherwise differently-coloured cables will never connect to one another."]
-	quest.5C22E3103544B120.title: "Basic Cabling"
-	quest.5C26EBA2F58F28F1.quest_subtitle: "Red Delicious Apple + Cherry"
-	quest.5C2B30655A44227F.quest_desc: ["Oh did you think &5&lEternal Starlight&r will have you get all these Metals the easy way? \\n\\nHA! don't be stupid. You'll have to fight Bosses, dig through Mud, and look for Meteor Showers!"]
-	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metals"
+	quest.5C1BB559DD83E88F.quest_subtitle: "Willkommen bei LV"
+	quest.5C22E3103544B120.quest_desc: ["Um den Großteil deines ME-Netzwerks zu verbinden, benötigst du ein Kabel. &eME-Glaskabel&f ist die erste und grundlegendste Kabelart, und du wirst es durchgehend als ersten Schritt zur Herstellung der anderen Kabelarten verwenden.\n\nSowohl Glaskabel als auch ihre &eabgedeckten&f Pendants können bis zu 8 Kanäle entlang eines einzelnen Kabelabschnitts übertragen. Im Gegensatz zu Glaskabeln können abgedeckte Kabel anschließend zu &edichten&f abgedeckten Kabeln verarbeitet werden, die bis zu 32 Kanäle übertragen können. Die meisten 'Multiteil'-Geräte wie Busse und Terminals können jedoch nicht direkt an dichte Kabel angeschlossen werden und benötigen normale Kabel, um eine Verbindung herzustellen.\n\nAlle Kabel können auch mit Farbstoff eingefärbt werden. Ungefärbte ('Fluix')-Kabel können sich mit jeder anderen Kabelfarbe verbinden, aber ansonsten werden sich unterschiedlich gefärbte Kabel nie miteinander verbinden."]
+	quest.5C22E3103544B120.title: "Grundlegende Verkabelung"
+	quest.5C26EBA2F58F28F1.quest_subtitle: "Roter Köstlicher Apfel + Kirsche"
+	quest.5C2B30655A44227F.quest_desc: ["Oh, dachtest du, &5&lEternal Starlight&r wird dich all diese Metalle auf einfache Weise bekommen lassen? \n\nHA! Sei nicht dumm. Du wirst gegen Bosse kämpfen, durch Schlamm graben und nach Meteorschauern Ausschau halten müssen!"]
+	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metalle"
 	quest.5C2C29ECA67F9B49.quest_desc: [
-		"With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. "
+		"Mit dem Leblosen Filter musst du dir nie wieder Sorgen um Mob-Spawns in einem 25x25 Chunk-Bereich machen."
 		""
-		"This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!"
+		"Dies gilt jedoch nicht für erzwungene Spawns, also Mobs, die von Spawnern oder sogar Spawn-Eiern gespawnt werden!"
 		""
-		"The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. "
+		"Der 25x25-Bereich deckt jede Entfernung ab, in der Mobs in der Nähe des Spielers spawnen. Feindlich oder friedlich."
 		""
-		"This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! "
+		"Dies umfasst auch jede Y-Ebene, über oder unter dem Pylon, also keine Sorge mehr über die Beleuchtung von Höhlen!"
 		""
-		"There's no Whitelisting with this Filter, it will prevent every Mob Spawn."
+		"Bei diesem Filter gibt es keine Whitelist, er verhindert jeden Mob-Spawn."
 	]
-	quest.5C2C29ECA67F9B49.quest_subtitle: "Finally peace and quiet. "
-	quest.5C38DAD6BA43A7F1.quest_desc: ["Take that Acetic Acid and add more Ethylene and Oxygen, this time on &aProgram 3&r in a &eChemical Reactor&r"]
-	quest.5C3FF43CF16BCF30.quest_desc: ["With Source Gems, you can get started crafting the various machines by creating &5Sourcestones&r."]
-	quest.5C3FF43CF16BCF30.quest_subtitle: "Formerly \"Arcane Stones\""
-	quest.5C3FF43CF16BCF30.title: "Sourcestone"
-	quest.5C47935A3B2877FF.quest_desc: ["Mekanism offers a nice looking Cable to transfer your power.\\n\\nIf the machine you are connecting to already pulls or pushes power, you will not need to configure the Cable. Otherwise, you'll need a &9Configurator&r to configure the Cable. Shift right-clicking will change the Cable to pull or push mode."]
-	quest.5C47935A3B2877FF.quest_subtitle: "Mekanism's Energy Transfer Pipe"
-	quest.5C47935A3B2877FF.title: "&9Mekanism: &aUniversal Cables"
-	quest.5C5546A5103BCF55.quest_desc: ["This one is supposed to shoot Chemicals like &bFluids&r or Gases... but it won't do it for me. \\n\\nIt can hold 2 Upgrades atleast! Those work!"]
-	quest.5C5546A5103BCF55.title: "&b&lChemical Thrower"
+	quest.5C2C29ECA67F9B49.quest_subtitle: "Endlich Ruhe und Frieden."
+	quest.5C38DAD6BA43A7F1.quest_desc: ["Nimm diese Essigsäure und füge mehr Ethylen und Sauerstoff hinzu, diesmal auf &aProgramm 3&r in einem &eChemischen Reaktor&r"]
+	quest.5C3FF43CF16BCF30.quest_desc: ["Mit Quelledelsteinen kannst du beginnen, die verschiedenen Maschinen herzustellen, indem du &5Quellsteine&r erstellst."]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "Früher \"Arkane Steine\""
+	quest.5C3FF43CF16BCF30.title: "Quellstein"
+	quest.5C47935A3B2877FF.quest_desc: ["Mekanism bietet ein schön aussehendes Kabel zur Übertragung deiner Energie an.\n\nWenn die Maschine, mit der du dich verbindest, bereits Energie zieht oder schiebt, musst du das Kabel nicht konfigurieren. Andernfalls benötigst du einen &9Konfigurator&r, um das Kabel zu konfigurieren. Shift-Rechtsklick ändert den Kabelmodus zum Ziehen oder Schieben."]
+	quest.5C47935A3B2877FF.quest_subtitle: "Mekanisms Energie-Übertragungsleitung"
+	quest.5C47935A3B2877FF.title: "&9Mekanism: &aUniversalkabel"
+	quest.5C5546A5103BCF55.quest_desc: ["Dieser soll Chemikalien wie &bFlüssigkeiten&r oder Gase schießen... aber bei mir funktioniert es nicht. \n\nEs kann immerhin 2 Upgrades halten! Die funktionieren!"]
+	quest.5C5546A5103BCF55.title: "&b&lChemiewerfer"
 	quest.5C56452BE7879D0A.quest_desc: ["{atm9.quest.enchant.desc.negative}"]
 	quest.5C56452BE7879D0A.title: "{atm9.quest.enchant.negative}"
-	quest.5C590DB2F3D935E5.quest_desc: ["The Seed Reprocessor can convert essence seeds back into essences."]
+	quest.5C590DB2F3D935E5.quest_desc: ["Der Saaten-Wiederaufbereiter kann Essenzsamen zurück in Essenzen umwandeln."]
 	quest.5C590DB2F3D935E5.quest_subtitle: "Recycling!"
 	quest.5C6709350BEF4050.quest_desc: [
-		"Voidshimmer Goo is the third tier of goo added by JDT and requires End materials to craft."
+		"Leerenschimmer-Schleim ist die dritte Stufe von Schleim, die von JDT hinzugefügt wurde und Endmaterialien zum Herstellen benötigt."
 		""
-		"Crafts Unlocked:"
+		"Freigeschaltete Herstellungen:"
 		"- Celestigem"
-		"- Void Flame"
+		"- Leerenflamme"
 	]
-	quest.5C6C4AD0F60BECCA.quest_desc: ["The &eKhopesh&r is the Weapon and Drop of &eKoboletons&r. \\n\\nIt does the same damage as an Iron Sword but can't be Enchanted or Repaired. \\n\\nGuess they didn't plan on you using them that much..."]
+	quest.5C6C4AD0F60BECCA.quest_desc: ["Der &eKhopesh&r ist die Waffe und der Drop der &eKoboleten&r. \n\nEr verursacht den gleichen Schaden wie ein Eisenschwert, kann aber nicht verzaubert oder repariert werden. \n\nSie haben anscheinend nicht geplant, dass du sie so viel benutzt..."]
 	quest.5C6C4AD0F60BECCA.title: "&eKhopesh"
-	quest.5C6F8FE4BA28807E.quest_desc: ["Some Advanced Computers."]
-	quest.5C6F8FE4BA28807E.quest_subtitle: "Advanced Computers"
-	quest.5C73247A48E72FB3.quest_desc: ["If you want to remove a specific &5Enchant&r from &5Enchantment Pool&r, you can use this &bBookshelf&r in your &5Enchanting&r set up! \\n\\nPlace an &5Enchantment Book&r, you want to Blacklist, in an empty spot in this &bSeashelf&r. \\n\\nThen, when you &5Enchant&r, this &5Enchantment&r won't show up on Items or Books."]
-	quest.5C73247A48E72FB3.title: "Remove &5Enchantments&r from Pool"
-	quest.5C7B81756CA58056.title: "Infinite Mana"
+	quest.5C6F8FE4BA28807E.quest_desc: ["Einige fortschrittliche Computer."]
+	quest.5C6F8FE4BA28807E.quest_subtitle: "Fortschrittliche Computer"
+	quest.5C73247A48E72FB3.quest_desc: ["Wenn du eine bestimmte &5Verzauberung&r aus dem &5Verzauberungspool&r entfernen möchtest, kannst du dieses &bBücherregal&r in deinem &5Verzauberungs&r-Aufbau verwenden! \n\nLege ein &5Verzauberungsbuch&r, das du auf die schwarze Liste setzen möchtest, in einen leeren Slot in diesem &bMeeresregal&r. \n\nDann, wenn du &5verzauberst&r, wird diese &5Verzauberung&r nicht auf Gegenständen oder Büchern erscheinen."]
+	quest.5C73247A48E72FB3.title: "&5Verzauberungen&r aus dem Pool entfernen"
+	quest.5C7B81756CA58056.title: "Unendliches Mana"
 	quest.5C7D9BCDF19B86BD.quest_desc: ["Prevents things from exploding."]
 	quest.5C7D9BCDF19B86BD.quest_subtitle: "Secure!"
 	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
