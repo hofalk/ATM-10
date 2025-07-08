@@ -7498,105 +7498,105 @@
 	]
 	quest.4869D9DBDD1A15CD.quest_desc: ["Die &cF&6a&er&ab&be&cn&6e&ei&an&bh&ce&6i&et&a &7Einheit&r ermöglicht es dir, die &cF&6a&er&ab&be&r des &a&lMekaSuit-Teils&r zu ändern, in dem sie sich befindet. \\n\\nHalte einfach den &eGegenstand&r und drücke (\\\\), um auf seine Konfigurationen zuzugreifen. \\n\\nWie viele &cF&6a&er&ab&be&cn&r haben wir zur Verfügung? Ich weiß es nicht, wie viele &cF&6a&er&ab&be&cn&r haben wir mit den Hex-Codes! \\n\\nDies wird jedoch nur dieses &a&lMekaSuit-Teil&r beeinflussen, jedes &a&lMekaSuit-Teil&r wird seine eigenen &7Einheiten&r benötigen."]
 	quest.4869D9DBDD1A15CD.quest_subtitle: "Alle Rüstungen"
-	quest.4869D9DBDD1A15CD.title: "&cC&6o&el&ao&br &cM&6o&ed&au&bl&ca&6t&ei&ao&bn &7Unit"
-	quest.486B5A605D79EA10.quest_desc: ["These we can actually farm for! Milk that &cPyromancer&r!"]
-	quest.486B5A605D79EA10.title: "&cFire&r Upgrade Orb"
-	quest.487275B970530E3F.quest_desc: ["An upgrade to our Will storage. This will hold a max of 256 Will."]
+	quest.4869D9DBDD1A15CD.title: "&cF&6a&er&ab&be&cn&6e&ei&an&bh&ce&6i&et&a &7Einheit"
+	quest.486B5A605D79EA10.quest_desc: ["Diese können wir tatsächlich farmen! Melke diesen &cPyromancer&r!"]
+	quest.486B5A605D79EA10.title: "&cFeuer&r-Upgrade-Kugel"
+	quest.487275B970530E3F.quest_desc: ["Eine Verbesserung unserer Willensspeicherung. Dies wird maximal 256 Willen speichern."]
 	quest.4875FB6628C1FCDC.quest_desc: [
-		"Many machines use a programmed circuit setting to determine what recipes can be processed"
+		"Viele Maschinen verwenden eine programmierte Schaltkreiseinstellung, um festzulegen, welche Rezepte verarbeitet werden können"
 		""
-		"You'll find the option to change the programmed circuit setting in the machine's GUI, just select the program that corresponds to the recipe you are running and it will start running"
+		"Du findest die Option zum Ändern der programmierten Schaltkreiseinstellung in der Benutzeroberfläche der Maschine. Wähle einfach das Programm aus, das dem Rezept entspricht, das du ausführst, und es wird starten"
 		""
-		"You don't need to craft a programmed circuit"
+		"Du musst keinen programmierten Schaltkreis herstellen"
 		""
-		"Often it is easier to dedicate a machine to a specific program setting and make a new one rather than change program settings manually for different crafting recipes"
+		"Oft ist es einfacher, eine Maschine einer bestimmten Programmeinstellung zu widmen und eine neue zu erstellen, anstatt Programmeinstellungen manuell für verschiedene Rezepte zu ändern"
 	]
-	quest.487C70679535DDDB.quest_desc: ["Don't you hate those stupid limitations on your Quantum Catcher? Can't put Wardens in your friends base! \\n\\nWell now there is no worries for we can upgrade our Quantum Catcher with 3 &2Stellarite Pieces&r and a Nether Star to make the Boss Catcher. \\n\\nNow we can transport our Bosses wherever we want!"]
-	quest.4881ABF8877BA572.title: "Alloy Axe"
-	quest.488DBE69595F38F8.quest_desc: ["No, no, no, no, no more using &0Coal&r to power our Furnaces, we need &0Coal &ffor &8Steel&r! \\n\\nHere use the &6&lEnergized Smelter&r instead! It uses &aEnergy&r to &6Smelt&e Items&r! \\n\\nIt can also be Upgraded to contain more Slots for more &6Smelting&r, kinda like a Jumbo Furnace. \\n\\nUpgraded &lTiers&r will also have an Auto-Sort button. This allows the &6&lMachine&r to automatically distribute the &eItems&r evenly among the Slots to be more efficient!"]
-	quest.488DBE69595F38F8.quest_subtitle: "Mekanism's Powered Furnace"
-	quest.488DBE69595F38F8.title: "&6&lEnergized Smelter"
-	quest.48971CE964CF037F.quest_desc: ["While protecting our Nuclear Reactors are important and viewing the contents of them relate to the safety of it. \\n\\nThe Glass can also be used to make our bases look better! \\n\\nAnd really what's more important: safety and protection of our nuclear reactors? Or making our bases look better!"]
-	quest.4897C7BB3139C6C6.quest_subtitle: "Lumber + Rancher"
+	quest.487C70679535DDDB.quest_desc: ["Hasst du nicht diese dummen Einschränkungen bei deinem Quanten-Fänger? Kannst keine Wächter in der Basis deiner Freunde platzieren! \\n\\nJetzt gibt es keine Sorgen mehr, denn wir können unseren Quanten-Fänger mit 3 &2Stellarit-Stücken&r und einem Netherstern zum Boss-Fänger aufrüsten. \\n\\nJetzt können wir unsere Bosse überall hin transportieren!"]
+	quest.4881ABF8877BA572.title: "Legierungsaxt"
+	quest.488DBE69595F38F8.quest_desc: ["Nein, nein, nein, nein, nein, keine Verwendung von &0Kohle&r mehr, um unsere Öfen zu betreiben, wir brauchen &0Kohle&f für &8Stahl&r! \\n\\nHier verwende stattdessen den &6&lEnergiegeladenen Schmelzofen&r! Er verwendet &aEnergie&r, um &e Gegenstände&r zu &6schmelzen&r! \\n\\nEr kann auch aufgerüstet werden, um mehr Plätze für mehr &6Schmelzen&r zu enthalten, ähnlich wie ein Jumbo-Ofen. \\n\\nAufgerüstete &lStufen&r haben auch eine Auto-Sortier-Taste. Damit kann die &6&lMaschine&r die &eGegenstände&r automatisch gleichmäßig auf die Plätze verteilen, um effizienter zu sein!"]
+	quest.488DBE69595F38F8.quest_subtitle: "Mekanisms Stromofen"
+	quest.488DBE69595F38F8.title: "&6&lEnergiegeladener Schmelzofen"
+	quest.48971CE964CF037F.quest_desc: ["Während der Schutz unserer Kernreaktoren wichtig ist und das Betrachten ihres Inhalts mit der Sicherheit zusammenhängt. \\n\\nDas Glas kann auch verwendet werden, um unsere Basen besser aussehen zu lassen! \\n\\nUnd was ist wirklich wichtiger: Sicherheit und Schutz unserer Kernreaktoren? Oder dass unsere Basen besser aussehen!"]
+	quest.4897C7BB3139C6C6.quest_subtitle: "Holzfäller + Rancher"
 	quest.489833A2A6C39151.quest_desc: [
-		"He was mean you can steal it I don't care."
+		"Er war gemein, du kannst es stehlen, das ist mir egal."
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_cryomancer.png width:60 height:100 align:center}"
 	]
-	quest.489833A2A6C39151.title: "&bCryomancecr Outfit"
-	quest.489A811AB1CFCBA3.quest_subtitle: "Kapok + Dark Oak"
+	quest.489833A2A6C39151.title: "&bKryomancer-Outfit"
+	quest.489A811AB1CFCBA3.quest_subtitle: "Kapok + Dunkle Eiche"
 	quest.489B77B85B000B39.quest_desc: [
-		"Setting this machine up with lava on one side and water on another allows you to create either stone or cobblestone"
+		"Wenn du diese Maschine mit Lava auf der einen Seite und Wasser auf der anderen einrichtest, kannst du entweder Stein oder Pflasterstein herstellen"
 		""
-		"At later tiers you can create any stone variant, even obsidian at HV!"
+		"In späteren Stufen kannst du jede Steinvariante herstellen, sogar Obsidian bei HV!"
 	]
-	quest.48B97E3C2A93BC46.quest_subtitle: "Aspen + Beech"
-	quest.48BA8ACFADE3C8CE.quest_subtitle: "Citron + Wild Cherry"
-	quest.48BE7DAC5082044D.quest_desc: ["Stress, like &dRotational Power&r, is important and confusing. \\n\\nStress Units (Su) are power loads for our &6Machines&r. Some &6Machines&r will have a minimum Stress, that means you'll need that much Stress in your System to work the &6Machine&r. \\n\\n&6Deployers&f, &6Mechanical Saws&f, and &6Encased Fans&r are examples of those! \\n\\nSome &6Machines&r also have a maximum Stress Units. That means if it goes over the amount, it will most likely stop working. Or blow up, either or! \\n\\nStress Units are developed from &dCogs&r and from our &6Machines&r that make &dRotational Power&r. &9Water Wheels&r give little Stress while &dSteam Engines&r can give a ton!"]
+	quest.48B97E3C2A93BC46.quest_subtitle: "Espe + Buche"
+	quest.48BA8ACFADE3C8CE.quest_subtitle: "Zitronatszitrone + Wildkirsche"
+	quest.48BE7DAC5082044D.quest_desc: ["Stress ist wie &dRotationsenergie&r wichtig und verwirrend. \\n\\nStress-Einheiten (Su) sind Energielasten für unsere &6Maschinen&r. Einige &6Maschinen&r haben einen Mindeststress, das bedeutet, dass du so viel Stress in deinem System benötigst, um die &6Maschine&r zu betreiben. \\n\\n&6Entfalter&f, &6Mechanische Sägen&f und &6Eingekapselte Ventilatoren&r sind Beispiele dafür! \\n\\nEinige &6Maschinen&r haben auch maximale Stress-Einheiten. Das bedeutet, wenn es über den Betrag hinausgeht, wird es höchstwahrscheinlich aufhören zu funktionieren. Oder explodieren, eines von beiden! \\n\\nStress-Einheiten werden von &dZahnrädern&r und von unseren &6Maschinen&r entwickelt, die &dRotationsenergie&r erzeugen. &9Wasserräder&r geben wenig Stress, während &dDampfmaschinen&r eine Menge geben können!"]
 	quest.48BE7DAC5082044D.title: "Stress"
-	quest.48BF71269DEA1AB1.title: "&4Supremium Farmland"
-	quest.48C68664319B0294.quest_desc: ["To obtain this special Spell Book you'll need to slay the &4&lDead King&r! \\n\\nIt has 10 &3Spell&r Slots but 4 are taken up already. &4Blood Slash&r, &4Blood Step&r, &4Ray of Siphoning&r, and &4Blaze Storm&r come on it already and can't be taken off."]
-	quest.48C68664319B0294.title: "Necronomicom"
-	quest.48D358470A019E7A.title: "Tier 1 Starlight Charger Catalyst"
-	quest.48DC9E8E9D21A2FA.quest_desc: ["Mekanism provides several ways to make power using renewable resources.\\n\\nThe &9Solar Generators&r harness the power of the Sun to provide basic power needs. It does not work during the night, and must have access to the sky. Glass is okay.\\n\\nThe &9Wind Generator&r provides power via the wind. Unless you've figured out a way for your character to manually spin this, the speed it spins is based off of the Y lvl it is placed at. It also needs direct access to the sky without any blocks above it."]
-	quest.48DC9E8E9D21A2FA.quest_subtitle: "The Power of the Sun..."
-	quest.48DC9E8E9D21A2FA.title: "&9Mekanism: &aRenewable Energy"
-	quest.48EE6C807C1668D4.quest_desc: ["If you need Wires to go either farther or connect to more places, you might need a Connector Node. \\n\\nSimple as that!"]
-	quest.48EE6C807C1668D4.title: "Wires go here, Wires go there"
-	quest.48F496BD0FFE5A34.quest_desc: ["The &4Magnetic &9Attraction &7Unit&r works just like a Simple Magnet. When used/worn, it will attract &eItems&r toward you that are out of range. \\n\\nThe more &4Magnetic &9Attraction &7Units&r the farther &eItems&r can be that will be pulled toward you."]
-	quest.48F496BD0FFE5A34.quest_subtitle: "Boots"
-	quest.48F496BD0FFE5A34.title: "&4Magnetic &9Attraction &7Unit"
+	quest.48BF71269DEA1AB1.title: "&4Supremium-Ackerland"
+	quest.48C68664319B0294.quest_desc: ["Um dieses besondere Zauberbuch zu erhalten, musst du den &4&lTotenkönig&r erschlagen! \\n\\nEs hat 10 &3Zauber&r-Plätze, aber 4 sind bereits belegt. &4Blutschnitt&r, &4Blutschritt&r, &4Strahl des Entzugs&r und &4Feuersturm&r sind bereits darauf und können nicht entfernt werden."]
+	quest.48C68664319B0294.title: "Necronomicon"
+	quest.48D358470A019E7A.title: "Stufe 1 Sternenlicht-Ladekatalysator"
+	quest.48DC9E8E9D21A2FA.quest_desc: ["Mekanism bietet mehrere Möglichkeiten, Energie mit erneuerbaren Ressourcen zu erzeugen.\\n\\nDie &9Solargeneratoren&r nutzen die Kraft der Sonne, um grundlegende Energiebedürfnisse zu decken. Sie funktionieren nachts nicht und müssen Zugang zum Himmel haben. Glas ist in Ordnung.\\n\\nDer &9Windgenerator&r erzeugt Energie durch den Wind. Wenn du nicht einen Weg gefunden hast, wie dein Charakter diesen manuell drehen kann, basiert die Geschwindigkeit, mit der er sich dreht, auf der Y-Ebene, auf der er platziert ist. Er benötigt auch direkten Zugang zum Himmel ohne Blöcke darüber."]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "Die Kraft der Sonne..."
+	quest.48DC9E8E9D21A2FA.title: "&9Mekanism: &aErneuerbare Energie"
+	quest.48EE6C807C1668D4.quest_desc: ["Wenn du Kabel brauchst, die entweder weiter reichen oder sich mit mehr Stellen verbinden, brauchst du möglicherweise einen Verbindungsknoten. \\n\\nSo einfach ist das!"]
+	quest.48EE6C807C1668D4.title: "Kabel gehen hierher, Kabel gehen dorthin"
+	quest.48F496BD0FFE5A34.quest_desc: ["Die &4Magnetische &9Anziehungs&7-Einheit&r funktioniert genau wie ein einfacher Magnet. Wenn verwendet/getragen, zieht sie &eGegenstände&r zu dir, die außerhalb der Reichweite sind. \\n\\nJe mehr &4Magnetische &9Anziehungs&7-Einheiten&r, desto weiter können &eGegenstände&r entfernt sein, die zu dir gezogen werden."]
+	quest.48F496BD0FFE5A34.quest_subtitle: "Stiefel"
+	quest.48F496BD0FFE5A34.title: "&4Magnetische &9Anziehungs&7-Einheit"
 	quest.49109192F6D95AB4.quest_desc: [
-		"For all your UV tier processing needs!"
+		"Für all deine UV-Stufen-Verarbeitungsbedürfnisse!"
 		""
-		"Now we can upgrade our multiblocks to run at UV processing speeds! Lets go!"
+		"Jetzt können wir unsere Multiblocks aufrüsten, um mit UV-Verarbeitungsgeschwindigkeiten zu laufen! Los geht's!"
 	]
-	quest.49109192F6D95AB4.quest_subtitle: "UV Energy Hatch!"
-	quest.492386DF6CA892BD.quest_subtitle: "Not that kind of brewery"
-	quest.49262C7C4E9EF712.quest_desc: ["Finally we have the means to make our next Voltage coil for Energy hatches as well as ZPM Motors for other ZPM tier Covers!"]
-	quest.49262C7C4E9EF712.quest_subtitle: "Super Rare Fine Wire"
-	quest.4926C95DD02F1410.quest_desc: ["You ever see those Tutorials that use Beacons as a &4Laser Security Gate&r. Then, when you try it you get disappointed it doesn't kill people? \\n\\nWell &4Lasers&r do just that! \\n\\nTrust me, they look like Beacons and they definitely kill! \\n\\nUnlike Beacons though, you can't change its Color with Glass. Most likely because they break almost every Block that gets in their way and Voids the drops... \\n\\nThey also use &aEnergy&r instead of Materials to get powered. \\n\\nI don't know the exact amount of Damage they do but they do enough to Fry a Chicken the instant it touches the &4Laser&r!"]
-	quest.4926C95DD02F1410.title: "&4Lasers"
-	quest.492D28D6B81CAEE0.quest_desc: ["The Large Extraction Module functions just like the Extractor single block that we have used time and time again. Now you can run a lot through this Large Multiblock, and even parallelize the machine. (Parallelization of machines is the theme after all)"]
-	quest.492D28D6B81CAEE0.quest_subtitle: "Now that we have a LEM, lets go to the Moon!"
-	quest.4933CF4675E77D50.quest_desc: ["After you take a hit from Fire Damage, the &5Obsidian Skull&r will activate giving you a period of Fire Resistance. Hopefully long enough to escape the flames!"]
-	quest.4933CF4675E77D50.quest_subtitle: "Belt"
-	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
-	quest.4935209D870E25F2.quest_desc: ["90% of &5&lMekanism&r &5Machines&r will need &aEnergy&r to run. &5&lMekanism&r uses FE to run &5Machines&r! \\n\\n1kFE is 1000 FE, and 1mFE is 1,000,000 FE! \\n\\nThe &aEnergy Tablet&r is &5&lMekanism's&r version of the Battery. It will also be needed to Craft most &aGenerators&r. \\n\\nYes, &5&lMekanism&r has &aGenerators&r and yes, they are awesome! "]
-	quest.4935209D870E25F2.title: "&a&lPower!"
+	quest.49109192F6D95AB4.quest_subtitle: "UV-Energieschacht!"
+	quest.492386DF6CA892BD.quest_subtitle: "Nicht diese Art von Brauerei"
+	quest.49262C7C4E9EF712.quest_desc: ["Endlich haben wir die Mittel, unsere nächste Spannungsspule für Energieschächte sowie ZPM-Motoren für andere ZPM-Stufen-Abdeckungen herzustellen!"]
+	quest.49262C7C4E9EF712.quest_subtitle: "Super seltener feiner Draht"
+	quest.4926C95DD02F1410.quest_desc: ["Hast du jemals diese Tutorials gesehen, die Leuchtfeuer als &4Lasersicherheitstor&r verwenden? Dann, wenn du es versuchst, bist du enttäuscht, dass es keine Menschen tötet? \\n\\nNun, &4Laser&r tun genau das! \\n\\nGlaub mir, sie sehen aus wie Leuchtfeuer und sie töten definitiv! \\n\\nIm Gegensatz zu Leuchtfeuern kannst du ihre Farbe jedoch nicht mit Glas ändern. Höchstwahrscheinlich, weil sie fast jeden Block, der ihnen in den Weg kommt, zerstören und die Drops ins Nichts verschwinden lassen... \\n\\nSie verwenden auch &aEnergie&r anstelle von Materialien, um betrieben zu werden. \\n\\nIch weiß nicht genau, wie viel Schaden sie anrichten, aber sie richten genug an, um ein Huhn in dem Moment zu braten, in dem es den &4Laser&r berührt!"]
+	quest.4926C95DD02F1410.title: "&4Laser"
+	quest.492D28D6B81CAEE0.quest_desc: ["Das große Extraktionsmodul funktioniert genau wie der Extraktor-Einzelblock, den wir immer wieder verwendet haben. Jetzt kannst du viel durch diesen großen Multiblock laufen lassen und sogar die Maschine parallelisieren. (Parallelisierung von Maschinen ist schließlich das Thema)"]
+	quest.492D28D6B81CAEE0.quest_subtitle: "Jetzt, da wir ein LEM haben, gehen wir zum Mond!"
+	quest.4933CF4675E77D50.quest_desc: ["Nachdem du einen Treffer von Feuerschaden erhalten hast, aktiviert sich der &5Obsidianschädel&r und gibt dir eine Periode der Feuerresistenz. Hoffentlich lange genug, um den Flammen zu entkommen!"]
+	quest.4933CF4675E77D50.quest_subtitle: "Gürtel"
+	quest.4933CF4675E77D50.title: "&5Obsidianschädel&r"
+	quest.4935209D870E25F2.quest_desc: ["90% der &5&lMekanism&r &5Maschinen&r benötigen &aEnergie&r zum Betrieb. &5&lMekanism&r verwendet FE, um &5Maschinen&r zu betreiben! \\n\\n1kFE sind 1000 FE und 1mFE sind 1.000.000 FE! \\n\\nDie &aEnergietablette&r ist &5&lMekanisms&r Version der Batterie. Sie wird auch benötigt, um die meisten &aGeneratoren&r herzustellen. \\n\\nJa, &5&lMekanism&r hat &aGeneratoren&r und ja, sie sind fantastisch!"]
+	quest.4935209D870E25F2.title: "&a&lEnergie!"
 	quest.493D04D954E4FBA0.quest_desc: [
-		"&5&lMekanism&r is Tech Mod... why are you surprised it needs Energy for its Machines?"
+		"&5&lMekanism&r ist ein Technik-Mod... warum bist du überrascht, dass er Energie für seine Maschinen benötigt?"
 		"{image:atm:textures/questpics/logistics/meka_cable.png width:200 height:50 align:center}"
 	]
-	quest.493D04D954E4FBA0.quest_subtitle: "Energy"
-	quest.495B0CC178B4CFA9.quest_desc: ["The &eBrass Funnel&r is placed and used similar to the &eAndesite Tunnel&r. \\n\\nBut each side comes with new configs! \\n\\nThe Input Side will now come with a Filter option. Just place the &eItem&r in, and it will only take in that &eItem&r. \\n\\nThe Output Side will now come with a limit. You can Scroll to set a number from 1 to 64. You can also choose whether it will Output exactly that amount, or up to that amount. \\n\\nIf it is exactly that amout, it will wait until that amount is within the Inventory to Output it. If it is up to, it will keep Outputting &eItems&r until that number is reached."]
-	quest.495B0CC178B4CFA9.title: "&eBrass Funnel"
-	quest.495DCA49B4E80852.quest_desc: ["The &3Minigun&r is a gun that needs pressure and ammo to work. Read the tooltip for more info."]
-	quest.495DCA49B4E80852.quest_subtitle: "Pew Pew!"
-	quest.49636B3C6E6D0C2A.quest_desc: ["Has no uses, looks cool though."]
-	quest.4966162FBA933453.quest_desc: ["The 262m Storage Disk can store.... well....  262m items."]
-	quest.4966162FBA933453.title: "&4262m Storage Part&r"
-	quest.497028C92F886AE0.quest_desc: ["You'll need these for MV Electric Motors, a component for many MV machines"]
-	quest.49772923B8AF0F1F.quest_desc: ["The 1048m Fluid Storage Part is used to craft the 1048m Fluid Storage Disk."]
-	quest.49772923B8AF0F1F.title: "&b1048m Fluid Part&r"
-	quest.4978A9B616362CCE.title: "&aRank 2&r: More &cBlood"
+	quest.493D04D954E4FBA0.quest_subtitle: "Energie"
+	quest.495B0CC178B4CFA9.quest_desc: ["Der &eMessing-Trichter&r wird ähnlich wie der &eAndesit-Tunnel&r platziert und verwendet. \\n\\nAber jede Seite kommt mit neuen Konfigurationen! \\n\\nDie Eingangsseite hat jetzt eine Filteroption. Lege einfach den &eGegenstand&r hinein, und es wird nur diesen &eGegenstand&r aufnehmen. \\n\\nDie Ausgangsseite hat jetzt ein Limit. Du kannst scrollen, um eine Zahl von 1 bis 64 einzustellen. Du kannst auch wählen, ob es genau diese Menge ausgibt oder bis zu dieser Menge. \\n\\nWenn es genau diese Menge ist, wird es warten, bis diese Menge im Inventar vorhanden ist, um sie auszugeben. Wenn es bis zu ist, wird es weiterhin &eGegenstände&r ausgeben, bis diese Zahl erreicht ist."]
+	quest.495B0CC178B4CFA9.title: "&eMessing-Trichter"
+	quest.495DCA49B4E80852.quest_desc: ["Das &3Maschinengewehr&r ist eine Waffe, die Druck und Munition benötigt, um zu funktionieren. Lies den Tooltip für mehr Informationen."]
+	quest.495DCA49B4E80852.quest_subtitle: "Peng Peng!"
+	quest.49636B3C6E6D0C2A.quest_desc: ["Hat keine Verwendungen, sieht aber cool aus."]
+	quest.4966162FBA933453.quest_desc: ["Die 262m-Speicherdisk kann speichern... nun ja... 262m Gegenstände."]
+	quest.4966162FBA933453.title: "&4262m-Speicherteil&r"
+	quest.497028C92F886AE0.quest_desc: ["Du wirst diese für MV-Elektromotoren benötigen, eine Komponente für viele MV-Maschinen"]
+	quest.49772923B8AF0F1F.quest_desc: ["Das 1048m-Flüssigkeitsspeicherteil wird verwendet, um die 1048m-Flüssigkeitsspeicherdisk herzustellen."]
+	quest.49772923B8AF0F1F.title: "&b1048m-Flüssigkeitsteil&r"
+	quest.4978A9B616362CCE.title: "&aRang 2&r: Mehr &cBlut"
 	quest.497AE687B7E95DE8.quest_desc: [
-		"The &aRitual of the Forest&r can be done by creating a multiblock structure using 8 Wooden Stands, 16 &eGold Powder&r and either an Oak or a Jungle Sapling, depending on the recipe.\\n\\nTo start a ritual place the items needed for the recipe on the Wooden Stands and Grow the Sapling needed in the middle. The &eGold Powder&r is consumed in the recipe, so you'll need a lot."
+		"Das &aRitual des Waldes&r kann durch die Erstellung einer Multiblock-Struktur mit 8 Holzständern, 16 &eGoldpulver&r und entweder einem Eichen- oder einem Dschungelsetzling, abhängig vom Rezept, durchgeführt werden.\\n\\nUm ein Ritual zu starten, platziere die für das Rezept benötigten Gegenstände auf den Holzständern und lasse den benötigten Setzling in der Mitte wachsen. Das &eGoldpulver&r wird im Rezept verbraucht, also wirst du viel davon benötigen."
 		"{image:atm:textures/questpics/natures_aura/forest_ritual.png width:295 height:150 align:center}"
 	]
-	quest.497AE687B7E95DE8.title: "&aRitual of the Forest"
-	quest.497C981D49B7FBD6.quest_desc: ["Increases the chance of a Pixie spawning when hit, and augments the strength of any Pixies that are spawned."]
-	quest.497D222F74A52DF5.quest_desc: ["Now this is what I like! Iron is very common and its Armor is incredible for early game. \\n\\nZombies and Skeletons stand just about no chance!"]
+	quest.497AE687B7E95DE8.title: "&aRitual des Waldes"
+	quest.497C981D49B7FBD6.quest_desc: ["Erhöht die Chance, dass bei einem Treffer eine Fee erscheint, und verstärkt die Stärke aller erscheinenden Feen."]
+	quest.497D222F74A52DF5.quest_desc: ["Das gefällt mir! Eisen ist sehr häufig und seine Rüstung ist unglaublich für das frühe Spiel. \\n\\nZombies und Skelette haben fast keine Chance!"]
 	quest.497D222F74A52DF5.quest_subtitle: "15"
-	quest.497FA7CA04117995.title: "Life"
+	quest.497FA7CA04117995.title: "Leben"
 	quest.498483750C18FCD6.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_regalium.png width:100 height:150 align:center}"]
 	quest.498483750C18FCD6.title: "&eRegalium&r"
 	quest.4993431DBE076E1B.quest_desc: [
-		"The EV Circuit Assembler, the next major step in making higher tier circuits and making lower tier circuits even cheaper!"
+		"Der EV-Schaltkreisassembler, der nächste große Schritt bei der Herstellung höherwertiger Schaltkreise und der noch günstigeren Herstellung von Schaltkreisen niedriger Stufe!"
 		""
-		"You've still got a ways to go with fluids before you make the &3Nanoprocessor&r tier of circuits"
+		"Du hast noch einen weiten Weg mit Flüssigkeiten vor dir, bevor du die &3Nanoprozessor&r-Stufe der Schaltkreise herstellst"
 	]
-	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril trees can be found in Meneglin biomes.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth."]
-	quest.499CF9F39CED8899.quest_subtitle: "Growing Menril"
+	quest.499CF9F39CED8899.quest_desc: ["&bIntegrated Dynamics&r (ID) ist ein Logistik-Mod, der für Lagerung, Gegenstands-/Energie-/Flüssigkeitstransfer und mehr verwendet werden kann!\\n\\nMenril-Bäume können in Meneglin-Biomen gefunden werden.\\n\\nDiese Quests werden einige der grundlegenden Konzepte des Mods behandeln, lies das Handbuch, das als Belohnung für diese Quest gegeben wird, wenn du tiefer einsteigen möchtest."]
+	quest.499CF9F39CED8899.quest_subtitle: "Menril anbauen"
 	quest.499CF9F39CED8899.title: "&bIntegrated Dynamics"
 	quest.49A42093EB18E7EB.quest_desc: ["This semi-conductor will be put to good use in order for our Fusion Reactor to produce a useful byproduct."]
 	quest.49A42093EB18E7EB.quest_subtitle: "Liquid Silicon"
