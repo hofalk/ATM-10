@@ -7999,253 +7999,253 @@
 		""
 		"Nein, er stellt nicht die Haltbarkeit der Kreide wieder her."
 	]
-	quest.4CE571F942461909.title: "Tools of the Trade: Artisanal Ritual Satchel"
-	quest.4CE6CABCB2334C0E.quest_desc: ["We have used a bunch of chromium already. But we again need to call on this highly resistive and high hardness metal, except in its liquid form."]
-	quest.4CE6CABCB2334C0E.quest_subtitle: "Liquid Chromium"
-	quest.4CE6EB54B12EF6C5.quest_subtitle: "&f10 &cAttack Damage"
-	quest.4CED346215DDBAC0.quest_desc: ["Significantly increases the amount of time a Mana Burst can go without starting to lose Mana, but slows it down as well."]
-	quest.4CFE097D0A8683C8.quest_desc: ["The &5Obsidian Skull&r is a Helmet that when worn can protect you from Fire/Lava damage! \\n\\nOvertime it will wear down to which you'll need to repair it with &5Obsidiansteel&r. \\n\\nThat is also how you craft it, a Skeleton Skull with 8 &5Obsidiansteel&r."]
-	quest.4CFE097D0A8683C8.title: "&5Obsidian Skull"
-	quest.4D07B0A4A2E77CDA.quest_desc: ["Max entities is the amount of mobs that can be spawned by a spawner and kept. If it's only 6 max entities when 6 mobs are already spawned no more will spawned until they're dead or moved. Each Ghast Tear brings it up or down 2 Entities. Max of 16 Entities and Minimum of 1."]
-	quest.4D07B0A4A2E77CDA.title: "Max Entities"
-	quest.4D0B50731FED3CEE.quest_desc: ["To get the Cresant Spear you will need to either craft it from Items dropped by the Lunar Monstrosity and the Tangled Hatred, or have it dropped from the Lunar Monstrosity. (You'll have to kill him regardless basically). \\n\\nYou can use the Spear like a Trident and just smack Mobs or you can hold Right Click to be sent flying forward with it. If you hit any Mobs with the second attack, any Mobs nearby will also take damage."]
+	quest.4CE571F942461909.title: "Werkzeuge des Handwerks: Kunstvoller Ritualbeutel"
+	quest.4CE6CABCB2334C0E.quest_desc: ["Wir haben bereits eine Menge Chrom verwendet. Aber wir müssen wieder auf dieses hochresistente und harte Metall zurückgreifen, allerdings in seiner flüssigen Form."]
+	quest.4CE6CABCB2334C0E.quest_subtitle: "Flüssiges Chrom"
+	quest.4CE6EB54B12EF6C5.quest_subtitle: "&f10 &cAngriffsschaden"
+	quest.4CED346215DDBAC0.quest_desc: ["Erhöht deutlich die Zeit, die ein Mana-Schub ohne Mana-Verlust unterwegs sein kann, verlangsamt ihn jedoch auch."]
+	quest.4CFE097D0A8683C8.quest_desc: ["Der &5Obsidianschädel&r ist ein Helm, der dich beim Tragen vor Feuer-/Lavaschaden schützen kann! \\n\\nMit der Zeit nutzt er sich ab und muss mit &5Obsidianstahl&r repariert werden. \\n\\nSo wird er auch hergestellt: Ein Skelettschädel mit 8 &5Obsidianstahl&r."]
+	quest.4CFE097D0A8683C8.title: "&5Obsidianschädel"
+	quest.4D07B0A4A2E77CDA.quest_desc: ["Max. Entitäten ist die Anzahl der Mobs, die von einem Spawner erzeugt und gehalten werden können. Wenn bereits 6 Mobs gespawnt wurden und das Maximum 6 beträgt, werden keine weiteren gespawnt, bis sie getötet oder bewegt wurden. Jede Ghast-Träne erhöht oder verringert die Anzahl um 2 Entitäten. Maximum von 16 Entitäten und Minimum von 1."]
+	quest.4D07B0A4A2E77CDA.title: "Max. Entitäten"
+	quest.4D0B50731FED3CEE.quest_desc: ["Um den Mondsichelspeer zu erhalten, musst du ihn entweder aus Gegenständen herstellen, die von der Mondungeheuerlichkeit und dem Verflochtenen Hass fallen gelassen wurden, oder er wird von der Mondungeheuerlichkeit fallen gelassen. (Grundsätzlich musst du ihn so oder so töten). \\n\\nDu kannst den Speer wie einen Dreizack benutzen und einfach Mobs schlagen oder du kannst die rechte Maustaste gedrückt halten, um damit nach vorne geschleudert zu werden. Wenn du Mobs mit dem zweiten Angriff triffst, nehmen auch alle Mobs in der Nähe Schaden."]
 	quest.4D160570DC0C8898.quest_desc: [
-		"Situated past the edge of the End, is the Beyond, a completely unavoidable space for those builders that want a lot of clear area to work in. "
+		"Jenseits der Grenze des Endes liegt das Jenseits, ein völlig unvermeidbarer Raum für Baumeister, die viel freie Fläche zum Arbeiten haben möchten. "
 		""
-		"Similar to the overworld->Nether, there is a block ratio of 1:50 for the End->Beyond"
+		"Ähnlich wie bei Oberwelt->Nether gibt es ein Blockverhältnis von 1:50 für End->Jenseits."
 	]
-	quest.4D160570DC0C8898.title: "&aThe&r &dBeyond&r"
+	quest.4D160570DC0C8898.title: "&aDas&r &dJenseits&r"
 	quest.4D193D60A3CAF435.quest_desc: [
-		"This is the Generator you will most likely be using, the &2&lDiesel Generator&r! \\n\\nYou will &9Input&r Fuel in the bottom left and right corners of the &2&lDiesel Generator&r. The Fuel can be: Creasote Oil, Biodiesel, and High-Cetane Biodiesel. Those are in order from worst to best! \\n\\nThe &2&lDiesel Generator&r will burn the Fuel and produce &cEnergy&r which can be &6Output&r from the 3 connectors in the front."
+		"Dies ist der Generator, den du höchstwahrscheinlich verwenden wirst, der &2&lDieselgenerator&r! \\n\\nDu wirst Kraftstoff in die unteren linken und rechten Ecken des &2&lDieselgenerators&r &9einspeisen&r. Der Kraftstoff kann sein: Kreosotöl, Biodiesel und Biodiesel mit hoher Cetanzahl. Diese sind in der Reihenfolge von schlecht nach gut aufgeführt! \\n\\nDer &2&lDieselgenerator&r verbrennt den Kraftstoff und produziert &cEnergie&r, die über die 3 Anschlüsse an der Vorderseite &6ausgegeben&r werden kann."
 		"{@pagebreak}"
-		"In the back of the &2&lDiesel Generator&r we'll need 3 &8Radiator Blocks&r. The middle will be &bFluid Pipes&r surrounded by &8Steel Scaffolding&r. With the front having a &6Generator Block&r and 2 &bFluid Pipes&r next to it."
+		"An der Rückseite des &2&lDieselgenerators&r benötigen wir 3 &8Kühlkörper-Blöcke&r. Die Mitte wird mit &bFlüssigkeitsrohren&r sein, umgeben von &8Stahlgerüst&r. Die Vorderseite hat einen &6Generator-Block&r und 2 &bFlüssigkeitsrohre&r daneben."
 		"{image:atm:textures/questpics/immersive/immersive_diesel1.png width:100 height:150 align:center}"
-		"Above the 3 &8Radiator Blocks&r will be 3 more &8Radiator Blocks&r! And the &6Generator Block&r and &bFluid Pipes&r next to it, will have 3 &6Generator Blocks&r above them. The rest will be filled with &7Heavy Engineering Blocks&r and a single &4Redstone Engineering Block&r."
+		"Über den 3 &8Kühlkörper-Blöcken&r werden 3 weitere &8Kühlkörper-Blöcke&r sein! Und über dem &6Generator-Block&r und den &bFlüssigkeitsrohren&r daneben werden 3 &6Generator-Blöcke&r sein. Der Rest wird mit &7Schweren Konstruktionsblöcken&r und einem einzelnen &4Redstone-Konstruktionsblock&r gefüllt."
 		"{image:atm:textures/questpics/immersive/immersive_diesel2.png width:100 height:100 align:center}"
-		"To finish we'll need 3 more &8Radiator Blocks&r above the other ones, and next to it we'll make a cross of &7Heavy Engineering Blocks&r."
+		"Zum Abschluss benötigen wir 3 weitere &8Kühlkörper-Blöcke&r über den anderen, und daneben werden wir ein Kreuz aus &7Schweren Konstruktionsblöcken&r machen."
 		"{image:atm:textures/questpics/immersive/immersive_diesel3.png width:100 height:100 align:center}"
-		"Last step is to Right Click the middle and top &6Generator Block&r with our &6Engineer's Hammer&r!"
+		"Der letzte Schritt besteht darin, mit unserem &6Ingenieurshammer&r auf den mittleren und oberen &6Generator-Block&r zu rechtsklicken!"
 		"{image:atm:textures/questpics/immersive/immersive_diesel.png width:100 height:100 align:center}"
 	]
-	quest.4D193D60A3CAF435.title: "&2&lDiesel Generator"
-	quest.4D3379D38237F830.quest_desc: ["While wearing &bthese&r on your Feet you can preform a miracle! Walking on &9Water&r! \\n\\nWell actually running on &9Water&r, you have to be Sprinting to be able to run over &9Water&r. Once you stop Sprinting you will start Sinking."]
-	quest.4D3379D38237F830.quest_subtitle: "Feet"
-	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
-	quest.4D3D96B6019CA7F9.title: "Singularity"
-	quest.4D4152032F0410D2.quest_desc: ["The Logic Programmer lets you set the value of variables. This can be set to to items and fluids for filtering, or even values. \\n\\nLet me give you a simple example: Select &bItem&r from the left side, place an item of choice into the center slot of the GUI that pops up, and place a &bVariable Card&r in the bottom right slot. If you then put that variable card in an importer/exporter, it will only import/export that block!"]
-	quest.4D4152032F0410D2.quest_subtitle: "Getting Advanced"
-	quest.4D4AB60B3B1CD437.quest_desc: ["From the scales of the &2Naga&r, you can craft some armor.\\n\\nThe armor isn't very strong, but it looks nice."]
-	quest.4D4AB60B3B1CD437.title: "&2Naga Scale Armor"
-	quest.4D4DE266A2A325B0.quest_desc: ["Redstone, Golem Steel, and Oxidized Golem Steel are Items used for finding the Golem Forge. \\n\\nHold one of these (most likely Redstone which does spawn in the Starlight underground) in your Offhand and use the Seeking Eye to find the Golem Forge which btw is underground!"]
-	quest.4D4DE266A2A325B0.title: "Golem Items"
-	quest.4D53D9BBD8279282.quest_desc: ["Lunar Trees can range from massive towering Trees, to itty bitty ones. They adapt to take as much room as they can! (That would explain Dense Forests). \\n\\nThey plant like normal Saplings and can have Lunar Berries spawn from their leaves!"]
-	quest.4D562F5D72038083.quest_subtitle: "Alder + European Larch"
-	quest.4D62C62B523C69EC.quest_desc: ["The Generator generates FE using burnable fuels like Coal."]
-	quest.4D62C62B523C69EC.quest_subtitle: "Providing Energy!"
-	quest.4D644A9829C240CB.quest_desc: ["You like the &b&lIgnis'&r shield? Well you can make 1 of your own with &bIgnitium&r. \\n\\nThe &bBulwark of the Flame&r can be used like a normal Shield but also has a special effect. \\n\\nWhen Holding Right Click and Shift, letting go will let you charge at whatever is infront of you, like how goats do. \\n\\nWhatever gets hit will take Damage and if pinched against a wall will also get stunned. \\n\\nDefinitely nice to have around!"]
-	quest.4D644A9829C240CB.title: "&bBulwark of the Flame"
+	quest.4D193D60A3CAF435.title: "&2&lDieselgenerator"
+	quest.4D3379D38237F830.quest_desc: ["Wenn du &bdiese&r an deinen Füßen trägst, kannst du ein Wunder vollbringen! Auf &9Wasser&r laufen! \\n\\nNun, eigentlich auf &9Wasser&r rennen, du musst sprinten, um über &9Wasser&r laufen zu können. Sobald du aufhörst zu sprinten, beginnst du zu sinken."]
+	quest.4D3379D38237F830.quest_subtitle: "Füße"
+	quest.4D3379D38237F830.title: "&bAqua-Flitzer&r"
+	quest.4D3D96B6019CA7F9.title: "Singularität"
+	quest.4D4152032F0410D2.quest_desc: ["Mit dem Logikprogrammierer kannst du den Wert von Variablen festlegen. Dies kann für Gegenstände und Flüssigkeiten zum Filtern oder sogar für Werte eingestellt werden. \\n\\nLass mich dir ein einfaches Beispiel geben: Wähle &bGegenstand&r von der linken Seite, lege einen Gegenstand deiner Wahl in den mittleren Slot der GUI, die erscheint, und lege eine &bVariablenkarte&r in den unteren rechten Slot. Wenn du dann diese Variablenkarte in einen Importeur/Exporteur legst, wird sie nur diesen Block importieren/exportieren!"]
+	quest.4D4152032F0410D2.quest_subtitle: "Fortgeschritten werden"
+	quest.4D4AB60B3B1CD437.quest_desc: ["Aus den Schuppen der &2Naga&r kannst du eine Rüstung herstellen.\\n\\nDie Rüstung ist nicht besonders stark, aber sie sieht gut aus."]
+	quest.4D4AB60B3B1CD437.title: "&2Naga-Schuppen-Rüstung"
+	quest.4D4DE266A2A325B0.quest_desc: ["Redstone, Golem-Stahl und oxidierter Golem-Stahl sind Gegenstände, die zum Finden der Golem-Schmiede verwendet werden. \\n\\nHalte einen davon (wahrscheinlich Redstone, das im Sternenlicht-Untergrund spawnt) in deiner Nebenhand und verwende das Suchende Auge, um die Golem-Schmiede zu finden, die übrigens unterirdisch ist!"]
+	quest.4D4DE266A2A325B0.title: "Golem-Gegenstände"
+	quest.4D53D9BBD8279282.quest_desc: ["Lunarbäume können von riesigen, turmhohen Bäumen bis hin zu winzigen Bäumen reichen. Sie passen sich an, um so viel Platz wie möglich einzunehmen! (Das würde dichte Wälder erklären). \\n\\nSie werden wie normale Setzlinge gepflanzt und können Lunarbeeren haben, die aus ihren Blättern wachsen!"]
+	quest.4D562F5D72038083.quest_subtitle: "Erle + Europäische Lärche"
+	quest.4D62C62B523C69EC.quest_desc: ["Der Generator erzeugt FE mit brennbaren Brennstoffen wie Kohle."]
+	quest.4D62C62B523C69EC.quest_subtitle: "Energieversorgung!"
+	quest.4D644A9829C240CB.quest_desc: ["Dir gefällt der Schild von &b&lIgnis&r? Du kannst deinen eigenen mit &bIgnitium&r herstellen. \\n\\nDas &bBollwerk der Flamme&r kann wie ein normaler Schild verwendet werden, hat aber auch einen speziellen Effekt. \\n\\nWenn du die rechte Maustaste gedrückt hältst und dann Shift drückst, kannst du beim Loslassen auf alles zustürmen, was vor dir ist, ähnlich wie Ziegen es tun. \\n\\nAlles, was getroffen wird, nimmt Schaden, und wenn es gegen eine Wand gedrückt wird, wird es auch betäubt. \\n\\nDefinitiv gut zu haben!"]
+	quest.4D644A9829C240CB.title: "&bBollwerk der Flamme"
 	quest.4D6885EFA4EE272F.quest_desc: [
-		"You've been remembering to batch craft things, right?"
+		"Du hast daran gedacht, Dinge in Chargen herzustellen, richtig?"
 		""
-		"I'll give you a pass this time and assume you have"
+		"Ich werde dir diesmal eine Ausnahme machen und annehmen, dass du es getan hast"
 	]
-	quest.4D6885EFA4EE272F.quest_subtitle: "Onwards to MV!"
-	quest.4D7B6842B9F53459.quest_desc: ["The Effortless Ring gives you a speed boost and step height!"]
-	quest.4D7D4C718837BCA5.quest_desc: ["The main part of the recipe for the Miniature Nether Portal is the &3Hellshelf of Masterful Sight&r. Usually it is used to see what Enchantments you'll get but we're here for the &6&lATM Star&r not for Enchantments. \\n\\nYou'll only need to enchant to an &4Infused Hellshelf&r which you can get from just a few Shelves. Then you need to craft with it to upgrade it even more! \\n\\nAfter that you can craft the Miniature Nether Portal, which no you can't walk through you're too big!"]
-	quest.4D8190E94851C546.quest_desc: ["Live &cWires&r (&cWires&r transporting &cEnergy&r are Live &cWires&r) will hurt you when using a &6&lSkyhook&r on them. \\n\\nUnless you Insulate your Grip!"]
-	quest.4D822D92492E1F53.quest_desc: ["The &3Aptrgangr&r is the mini boss within the &3Frosted Prison&r. \\n\\nThey have 800 &4Hearts&r and will attack you with their giant Axe. \\n\\nThey can swing their Axe like normal, or they might smash it on the ground near you. When they do that, lasers will spawn damaging all in their path. They also have a charge attack similar to the &eKobolediator&r! \\n\\nOn death they will drop Black Steel Ingots and Nuggets, and Rotten Flesh and Bones."]
+	quest.4D6885EFA4EE272F.quest_subtitle: "Weiter zu MV!"
+	quest.4D7B6842B9F53459.quest_desc: ["Der Ring der Mühelosigkeit gibt dir einen Geschwindigkeitsschub und erhöht deine Schrittgröße!"]
+	quest.4D7D4C718837BCA5.quest_desc: ["Der Hauptbestandteil des Rezepts für das Miniatur-Netherportal ist das &3Höllenregal der meisterhaften Sicht&r. Normalerweise wird es verwendet, um zu sehen, welche Verzauberungen du bekommen wirst, aber wir sind hier für den &6&lATM-Stern&r, nicht für Verzauberungen. \\n\\nDu musst nur zu einem &4Infundierten Höllenregal&r verzaubern, das du aus nur wenigen Regalen herstellen kannst. Dann musst du es weitercrafte, um es noch mehr aufzuwerten! \\n\\nDanach kannst du das Miniatur-Netherportal herstellen, durch das du nicht gehen kannst – du bist zu groß!"]
+	quest.4D8190E94851C546.quest_desc: ["Spannungsführende &cKabel&r (&cKabel&r, die &cEnergie&r transportieren) werden dir schaden, wenn du einen &6&lSkyhook&r darauf verwendest. \\n\\nEs sei denn, du isolierst deinen Griff!"]
+	quest.4D822D92492E1F53.quest_desc: ["Der &3Aptrgangr&r ist der Miniboss im &3Frostgefängnis&r. \\n\\nEr hat 800 &4Herzen&r und wird dich mit seiner riesigen Axt angreifen. \\n\\nEr kann seine Axt normal schwingen oder sie möglicherweise in deiner Nähe auf den Boden schmettern. Wenn er das tut, erscheinen Laser, die alles auf ihrem Weg beschädigen. Er hat auch einen Ladeangriff ähnlich dem &eKobolediator&r! \\n\\nBeim Tod lässt er Schwarzstahlbarren und -nuggets sowie verrottetes Fleisch und Knochen fallen."]
 	quest.4D822D92492E1F53.title: "&3Aptrgangr"
 	quest.4D836B9D9E3B898F.quest_desc: [
-		"&2Stoneborns&r are the perfect mix of Villagers and Iron Golems. \\n\\nYou can trade with them by Right Clicking them. \\n\\nAnd they will fight off Hostile Mobs (or Players who hit them)."
+		"&2Steingeborene&r sind die perfekte Mischung aus Dorfbewohnern und Eisengolems. \\n\\nDu kannst mit ihnen handeln, indem du sie mit der rechten Maustaste anklickst. \\n\\nUnd sie werden feindliche Mobs bekämpfen (oder Spieler, die sie schlagen)."
 		"{image:atm:textures/questpics/undergarden/undergarden_stoneborn.png width:100 height:150 align:center}"
 	]
-	quest.4D836B9D9E3B898F.title: "&2Stoneborn&r"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "Tier: &63"
-	quest.4D8C9960BB675221.quest_desc: ["It has a funny name!"]
+	quest.4D836B9D9E3B898F.title: "&2Steingeborene&r"
+	quest.4D8B82FBA0FFD49E.quest_subtitle: "Stufe: &63"
+	quest.4D8C9960BB675221.quest_desc: ["Es hat einen lustigen Namen!"]
 	quest.4D98D2123BD5BFB3.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lFähigkeitstyp:&r Passiv"
 		""
-		"&lAbility Function:&r"
+		"&lFähigkeitsfunktion:&r"
 		""
-		"Mines adjacent logs all at once, note will increase time taken to break when mining multipul logs."
+		"Abbau aller angrenzenden Stämme auf einmal, beachte jedoch, dass sich die Abbauzeit erhöht, wenn mehrere Stämme abgebaut werden."
 	]
 	quest.4DA04ABF4FF2625C.quest_desc: [
-		"&dAureal Bottles&r can be found in loot chests, but they can also be crafted using Arcane Crystal Dust."
+		"&dAureal-Flaschen&r können in Beutekisten gefunden werden, können aber auch mit Arkanem Kristallstaub hergestellt werden."
 		""
-		"You can also generate Aureal with Arcane Crystal Obelisks."
+		"Du kannst Aureal auch mit Arkanen Kristallobelisken erzeugen."
 	]
 	quest.4DA04ABF4FF2625C.title: "&9Aureal"
-	quest.4DA0725E089D7C91.quest_desc: ["Find the &cQ&6u&ee&2s&3t&9i&5n&cg &6R&ea&2m&r, for it bestows wealth to those who give it &cR&6a&ei&2n&3b&9o&5w &6W&eo&2o&3l&r (16 colors).\\n\\nHint: There's a Dispenser above your head in the ruins where the Ram is. It might prove useful."]
+	quest.4DA0725E089D7C91.quest_desc: ["Finde den &cQ&6u&ee&2s&3t&9i&5n&cg &6R&ea&2m&r, denn er beschert denen Reichtum, die ihm &cR&6e&eg&2e&3n&9b&5o&cg&6e&en&2w&3o&9l&5l&ce&r geben (16 Farben).\\n\\nHinweis: In den Ruinen, wo der Widder ist, befindet sich ein Werfer über deinem Kopf. Er könnte nützlich sein."]
 	quest.4DA0725E089D7C91.quest_subtitle: "Quests?"
-	quest.4DA0725E089D7C91.title: "&cR&6a&em&2i&3f&9i&5c&ca&6t&ei&2o&3n"
-	quest.4DA1C95BED78A662.quest_subtitle: "Better than Netherite"
-	quest.4DA1C95BED78A662.title: "&1Draco Arcanus Armor&r"
+	quest.4DA0725E089D7C91.title: "&cR&6a&em&2i&3f&9i&5k&ca&6t&ei&2o&3n"
+	quest.4DA1C95BED78A662.quest_subtitle: "Besser als Netherit"
+	quest.4DA1C95BED78A662.title: "&1Draco Arcanus Rüstung&r"
 	quest.4DA2B92417DD41F8.quest_desc: [
-		"You may be wondering, why bother making an LV chip? Isn't this &6HV&r?"
+		"Du fragst dich vielleicht, warum du einen LV-Chip herstellen solltest? Ist das nicht &6HV&r?"
 		""
-		"Well, yes, but what if you wanted a new LV machine? Wouldn't you rather get it for less resources than you were previously?"
+		"Nun ja, aber was, wenn du eine neue LV-Maschine haben möchtest? Würdest du sie nicht lieber für weniger Ressourcen bekommen als vorher?"
 		""
-		"Operating 40 LV machines is 4 times more energy efficient than operating 10 HV machines, so long as the recipe runs at LV"
+		"Der Betrieb von 40 LV-Maschinen ist 4-mal energieeffizienter als der Betrieb von 10 HV-Maschinen, solange das Rezept mit LV läuft"
 	]
 	quest.4DB3A860A30D7BF5.quest_desc: [
-		"What, was UV Energy Hatches not enough?"
+		"Was, waren UV-Energieschächte nicht genug?"
 		""
-		"Fine. Heres a 4A UV Energy Hatch! Now you can run your machines at UHV speeds! If UV was not enough, now you really got the power!"
+		"Na gut. Hier ist ein 4A UV-Energieschacht! Jetzt kannst du deine Maschinen mit UHV-Geschwindigkeit betreiben! Wenn UV nicht genug war, hast du jetzt wirklich die Leistung!"
 	]
-	quest.4DB3A860A30D7BF5.quest_subtitle: "Need More?"
-	quest.4DB5DD6E20619B4D.quest_desc: ["Used to make machines better."]
+	quest.4DB3A860A30D7BF5.quest_subtitle: "Brauchst du mehr?"
+	quest.4DB5DD6E20619B4D.quest_desc: ["Wird verwendet, um Maschinen zu verbessern."]
 	quest.4DBC3B4D38CC6152.quest_desc: [
-		"Crystallized Moths spawn deep below the Crystallized Deserts. \\n\\nThey are neutral and I recommend not hitting them because they do a ton of damage! \\n\\nThey also have 10 Hearts and can drop Starlight Crystals or Shivering Gel on death."
+		"Kristallisierte Motten spawnen tief unter den kristallisierten Wüsten. \\n\\nSie sind neutral und ich empfehle, sie nicht zu schlagen, da sie eine Menge Schaden anrichten! \\n\\nSie haben auch 10 Herzen und können beim Tod Sternenlicht-Kristalle oder Zitterndes Gel fallen lassen."
 		"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
 	]
-	quest.4DBC3B4D38CC6152.title: "Crystallized Moth"
-	quest.4DCEC4B97E24B6F1.quest_subtitle: "&f17 &cAttack Damage"
-	quest.4DD66E31859EA593.quest_desc: ["&3Vibranium Armor&r but with buffs to &e&lIron's Spells&r Spells!"]
+	quest.4DBC3B4D38CC6152.title: "Kristallisierte Motte"
+	quest.4DCEC4B97E24B6F1.quest_subtitle: "&f17 &cAngriffsschaden"
+	quest.4DD66E31859EA593.quest_desc: ["&3Vibranium-Rüstung&r, aber mit Verbesserungen für &e&lIron's Spells&r-Zauber!"]
 	quest.4DD66E31859EA593.quest_subtitle: "32"
-	quest.4DD66E31859EA593.title: "&3Vibranium Mage Outfit"
-	quest.4DD7F3508B757EF0.quest_desc: ["Insert a block of ruby into your cutter to get nine ruby plates"]
-	quest.4DDFD3BAA86DC342.quest_desc: ["The UHPIC chip once the wafer is broken down into chips by a Cutting machine."]
-	quest.4DDFD3BAA86DC342.quest_subtitle: "Semi-Conductors are Fun!"
+	quest.4DD66E31859EA593.title: "&3Vibranium-Magier-Outfit"
+	quest.4DD7F3508B757EF0.quest_desc: ["Lege einen Rubinblock in deinen Schneider ein, um neun Rubinplatten zu erhalten"]
+	quest.4DDFD3BAA86DC342.quest_desc: ["Der UHPIC-Chip, sobald der Wafer von einer Schneidemaschine in Chips zerteilt wurde."]
+	quest.4DDFD3BAA86DC342.quest_subtitle: "Halbleiter machen Spaß!"
 	quest.4DE1158931F84F22.quest_desc: [
-		"Once you have an Iron or better tier Pickaxe, you'll be able to mine &cRedstone&r. "
+		"Sobald du eine Eisenspitzhacke oder besser hast, kannst du &cRedstone&r abbauen. "
 		""
-		"Redstone starts your journey into many technical mods, like creating power or making fancy gadgets. "
+		"Redstone beginnt deine Reise in viele technische Mods, wie das Erzeugen von Energie oder das Herstellen ausgefallener Geräte. "
 		""
-		"This is a resource you will want a lot of!"
+		"Dies ist eine Ressource, von der du viel haben möchtest!"
 	]
 	quest.4DE1158931F84F22.title: "&cRedstone&r"
 	quest.4DE719FC2E4C69AB.quest_desc: [
-		"Welcome to the Steam Age! Steam machines can process any recipe in JEI up to &e&lUsage: 32 EU/t (LV)&r&r"
+		"Willkommen im Dampfzeitalter! Dampfmaschinen können jedes Rezept in JEI bis zu &e&lVerbrauch: 32 EU/t (LV)&r&r verarbeiten"
 		""
-		"There are High Pressure and Low Pressure variants of machines. Low Pressure machines will take twice as long to process a recipe but consume less steam."
+		"Es gibt Hochdruck- und Niederdruckvarianten von Maschinen. Niederdruckmaschinen benötigen doppelt so lange für die Verarbeitung eines Rezepts, verbrauchen aber weniger Dampf."
 		""
-		"&l&4NOTE:&r&r After every recipe, &n&6steam machines need to vent the used steam&r "
+		"&l&4HINWEIS:&r&r Nach jedem Rezept &n&6müssen Dampfmaschinen den verbrauchten Dampf ablassen&r "
 		""
-		"By default the vent is located on the back, but with your handy-dandy &bwrench&r you can change which side the exhaust port faces! "
+		"Standardmäßig befindet sich der Auslass auf der Rückseite, aber mit deinem praktischen &bSchraubenschlüssel&r kannst du ändern, in welche Richtung der Auslass zeigt! "
 		""
-		"If the exhaust port is blocked, then the machine will fail to vent and stop working."
+		"Wenn der Auslass blockiert ist, kann die Maschine nicht entlüften und funktioniert nicht mehr."
 	]
-	quest.4DE719FC2E4C69AB.quest_subtitle: "And so it begins"
-	quest.4DE719FC2E4C69AB.title: "The Steam Age"
-	quest.4DF0D7B85065ADC9.quest_subtitle: "Hack and slash!"
-	quest.4DF0D7B85065ADC9.title: "Tools of the Trade: Butcher's Knife"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "Tier: &b4"
+	quest.4DE719FC2E4C69AB.quest_subtitle: "Und so beginnt es"
+	quest.4DE719FC2E4C69AB.title: "Das Dampfzeitalter"
+	quest.4DF0D7B85065ADC9.quest_subtitle: "Hacken und schlagen!"
+	quest.4DF0D7B85065ADC9.title: "Werkzeuge des Handwerks: Metzgermesser"
+	quest.4DF23FC932F5EB7D.quest_subtitle: "Stufe: &b4"
 	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
-	quest.4DF683461225690F.title: "&7Iron&r"
-	quest.4DF7E2149F4BD8CC.quest_desc: ["To insert the desired potion, just right click with the &2Primed Pendant&r in hand to open its inventory."]
-	quest.4DF7E2149F4BD8CC.quest_subtitle: "Applies Potion Effects"
-	quest.4E014B495668A601.quest_desc: ["Now that we have our &aExperience Holder&r collecting &aXP&r, we can just pipe the &aXP Fluid&r into our &c&lAuto Forge&r!"]
-	quest.4E014B495668A601.title: "&aXP Fluid&r"
+	quest.4DF683461225690F.title: "&7Eisen&r"
+	quest.4DF7E2149F4BD8CC.quest_desc: ["Um den gewünschten Trank einzusetzen, klicke einfach mit dem &2Aufgeladenen Anhänger&r in der Hand mit der rechten Maustaste, um sein Inventar zu öffnen."]
+	quest.4DF7E2149F4BD8CC.quest_subtitle: "Wendet Trankeffekte an"
+	quest.4E014B495668A601.quest_desc: ["Jetzt, da unser &aErfahrungshalter&r &aXP&r sammelt, können wir einfach die &aXP-Flüssigkeit&r in unsere &c&lAuto-Schmiede&r leiten!"]
+	quest.4E014B495668A601.title: "&aXP-Flüssigkeit&r"
 	quest.4E02DC8A474A4A2F.quest_desc: [
-		"The &aPure Daisy&r is one of the first flowers you'll create!"
+		"Die &aPure Daisy&r ist eine der ersten Blumen, die du erschaffen wirst!"
 		""
-		"This flower will convert up to 8 nearby &2Wooden Logs&r or &9Stone&r into &2Livingwood&r or &9Livingrock&r, respectively. This only converts in a 1 block radius around the flower."
+		"Diese Blume verwandelt bis zu 8 nahegelegene &2Holzstämme&r oder &9Stein&r in &2Lebendigholz&r bzw. &9Lebendigen Fels&r. Dies geschieht nur in einem Radius von 1 Block um die Blume herum."
 	]
-	quest.4E02DC8A474A4A2F.title: "Our First Flower"
-	quest.4E03AC9D56202353.quest_desc: ["Combining an &2Elven Mana Spreader&r with the power of Dragonstones and a &6Gaia Spirit&r creates the best Mana Spreader you can get."]
+	quest.4E02DC8A474A4A2F.title: "Unsere erste Blume"
+	quest.4E03AC9D56202353.quest_desc: ["Die Kombination eines &2Elfischen Mana-Verteilers&r mit der Kraft der Drachensteine und eines &6Gaia-Geistes&r erschafft den besten Mana-Verteiler, den du bekommen kannst."]
 	quest.4E03AE15BEF86178.quest_desc: [
-		"Valid Upgrades:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
-		"- Drops Teleporter"
+		"Gültige Upgrades:"
+		"- Mob-Scanner"
+		"- Auto-Räucherer"
+		"- Wunden kauterisieren"
+		"- Drops-Teleporter"
 	]
-	quest.4E09BBC0BAED3440.quest_subtitle: "Tier: &c5"
+	quest.4E09BBC0BAED3440.quest_subtitle: "Stufe: &c5"
 	quest.4E178CCAC7F85F54.quest_desc: [
-		"&6Allthemodium&r items start you on your journey to becoming OP! "
+		"&6Allthemodium&r-Gegenstände beginnen deine Reise zur Übermächtigkeit! "
 		""
-		"To start, all tools and armor items are &dIndestructible&r, meaning no need to worry about breaking them or repairing them! "
+		"Zu Beginn sind alle Werkzeuge und Rüstungsgegenstände &dunzerstörbar&r, was bedeutet, dass du dir keine Sorgen machen musst, sie zu zerbrechen oder zu reparieren! "
 		""
-		"The tools are also super fast and pack a mean punch with high base damage."
+		"Die Werkzeuge sind auch superschnell und haben einen hohen Grundschaden."
 	]
-	quest.4E178CCAC7F85F54.title: "&6Allthemodium&r &dTools and Armor&r"
-	quest.4E18E28BDF6B7983.quest_desc: ["&cFusion Reactor Ports&r will replace the Reactor Glass within the &c&lFusion Reactor&r in order to be used. \\n\\nWe'll need a few &cPorts&r. 2 (or 1) for &cDeuterium&r and &aTritium&r (or just &5D-T Fuel&r) for Fuel. We'll also need 1 for Outputting &aEnergy&r. \\n\\nIf you want to use &9Water&r to cool the &c&lFusion Reactor&r, you'll need 2 more &cPorts&r. 1 for Inputting &9Water&r and 1 for Outputting Steam. \\n\\nLike other Ports, we can use the &3Configurator&r to set whether the &cPort&r Inputs or Outputs!"]
-	quest.4E18E28BDF6B7983.title: "&cFusion Reactor Ports"
-	quest.4E1D5EC061A4AE55.quest_desc: ["A copper ingot and 63mB of oxygen in your arc furnace will make an annealed copper ingot"]
-	quest.4E1E31EDD544EE10.quest_subtitle: "64,000mb"
-	quest.4E28B67554CBDAB7.quest_desc: ["Second in damage of all Swords. The first in damage does Infinite, and there's no competing with Infinite."]
-	quest.4E28B67554CBDAB7.title: "&6Allthemodium &5Alloy &3Sword"
-	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsinks are our only &5&lRailgun&r exclusive Upgrades. \\n\\nIt will make it so the &5&lRailgun&r charges up much faster!"]
-	quest.4E2C589C7638390F.quest_desc: ["The &3Cursed Bow&r works similar to a Bow with the Multishot Enchantment! \\n\\nWith normal Arrows, it will shoot 3 at a time! With special Arrows it will only shoot 2. \\n\\nI wonder if you can Enchant it with Multishot as well?"]
-	quest.4E2C589C7638390F.title: "&3Cursed Bow"
-	quest.4E3355FDCB65BB63.quest_desc: ["&aEvokers&r are known as being a powerful and deadly Miniboss of Minecraft. So of course &lIron&r added an even more powerful and deadly version! And yes this &eBook&r is a rare drop from both! \\n\\nIt has 10 Spell Slots but 3 are occupied. &aFang Strike&r, &aFang Ward&r, and &aVex Swarm&r all come with the &eBook&r and can not be moved. \\n\\nAlso gives a boost to &a&lEvocation&r!"]
-	quest.4E3355FDCB65BB63.title: "&aGrimore of Evokation"
-	quest.4E36F1E61458C286.quest_desc: ["The easiest Item we'll need for the &6&lATM Star&r from &4&lCataclysm&r is the &5Abyssal Sacrifice&r. \\\\n\\\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\\\n\\\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop them! \\\\n\\\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\\\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
-	quest.4E36F1E61458C286.title: "&5Abyssal Sacrifice"
+	quest.4E178CCAC7F85F54.title: "&6Allthemodium&r &dWerkzeuge und Rüstung&r"
+	quest.4E18E28BDF6B7983.quest_desc: ["&cFusionsreaktor-Ports&r ersetzen das Reaktorglas innerhalb des &c&lFusionsreaktors&r, um verwendet zu werden. \\n\\nWir benötigen einige &cPorts&r. 2 (oder 1) für &cDeuterium&r und &aTritium&r (oder nur &5D-T-Brennstoff&r) als Brennstoff. Wir brauchen auch 1 für die Ausgabe von &aEnergie&r. \\n\\nWenn du &9Wasser&r verwenden möchtest, um den &c&lFusionsreaktor&r zu kühlen, benötigst du 2 weitere &cPorts&r. 1 für die Eingabe von &9Wasser&r und 1 für die Ausgabe von Dampf. \\n\\nWie bei anderen Ports können wir den &3Konfigurator&r verwenden, um festzulegen, ob der &cPort&r Eingang oder Ausgang ist!"]
+	quest.4E18E28BDF6B7983.title: "&cFusionsreaktor-Ports"
+	quest.4E1D5EC061A4AE55.quest_desc: ["Ein Kupferbarren und 63mB Sauerstoff in deinem Lichtbogenofen ergeben einen ausgeglühten Kupferbarren"]
+	quest.4E1E31EDD544EE10.quest_subtitle: "64.000mb"
+	quest.4E28B67554CBDAB7.quest_desc: ["Zweiter im Schaden von allen Schwertern. Der erste im Schaden verursacht Unendlich, und damit kann man nicht konkurrieren."]
+	quest.4E28B67554CBDAB7.title: "&6Allthemodium &5Legierungs &3Schwert"
+	quest.4E297778DCEEC963.quest_desc: ["Fortschrittliche Kühlkörper sind unsere einzigen &5&lRailgun&r-exklusiven Upgrades. \\n\\nSie sorgen dafür, dass sich die &5&lRailgun&r viel schneller auflädt!"]
+	quest.4E2C589C7638390F.quest_desc: ["Der &3Verfluchte Bogen&r funktioniert ähnlich wie ein Bogen mit der Mehrfachschuss-Verzauberung! \\n\\nMit normalen Pfeilen schießt er 3 auf einmal! Mit speziellen Pfeilen schießt er nur 2. \\n\\nIch frage mich, ob du ihn auch mit Mehrfachschuss verzaubern kannst?"]
+	quest.4E2C589C7638390F.title: "&3Verfluchter Bogen"
+	quest.4E3355FDCB65BB63.quest_desc: ["&aBeschwörer&r sind als mächtige und tödliche Minibosse von Minecraft bekannt. Natürlich hat &lIron&r eine noch mächtigere und tödlichere Version hinzugefügt! Und ja, dieses &eBuch&r ist ein seltener Drop von beiden! \\n\\nEs hat 10 Zauberplätze, aber 3 sind belegt. &aZahnschlag&r, &aZahnschutz&r und &aVex-Schwarm&r kommen mit dem &eBuch&r und können nicht verschoben werden. \\n\\nGibt auch einen Boost für &a&lEvokation&r!"]
+	quest.4E3355FDCB65BB63.title: "&aGrimore der Evokation"
+	quest.4E36F1E61458C286.quest_desc: ["Der einfachste Gegenstand, den wir für den &6&lATM-Stern&r von &4&lCataclysm&r benötigen, ist das &5Abgrundopfer&r. \\\\n\\\\nDie grundlegendsten Gegenstände, die benötigt werden, sind die Barrenblöcke und Amethyst, die einfach &2&lVanilla&r-Gegenstände sind. \\\\n\\\\nDann brauchst du eine Nautilusmuschel und ein Herz des Meeres. Dies sind &2&lVanilla&r-Gegenstände, die selten zu bekommen sind... es sei denn, du tötest &5Deeplings&r, die sie fallen lassen können! \\\\n\\\\nDu brauchst auch ein Athame, das eine Waffe ist, die von &5Deepling-Hexenmeistern &fund &5Priestern&r verwendet und von ihnen beim Tod fallen gelassen wird. \\\\nDer letzte Teil gibt uns eine Wahl, entweder kristallisierte Koralle oder Korallenstück. Beides sind Drops von &5Korallengolems&r und &5Coralssus&r."]
+	quest.4E36F1E61458C286.title: "&5Abgrundopfer"
 	quest.4E384F9FEF629386.quest_desc: [
-		"What a Strong liquid this is! "
+		"Was für eine starke Flüssigkeit das ist! "
 		""
-		"I wonder if liquid titanium would shine with irridescence like the metal does when its introduced to heat..."
+		"Ich frage mich, ob flüssiges Titan wie das Metall irisieren würde, wenn es Hitze ausgesetzt wird..."
 	]
-	quest.4E384F9FEF629386.quest_subtitle: "Oh so strong!"
+	quest.4E384F9FEF629386.quest_subtitle: "Oh, so stark!"
 	quest.4E3D548E5D8D7D26.quest_desc: [
-		"Forgotten Fields are the Plains of the &2&lUndergarden&r. \\n\\nThey don't have Trees but they have plenty of Rocks, Flowers, and Mobs! \\n\\nThey do not spawn &7Forgottens&r though, yeah sorry to ruin your enthusiasm."
+		"Vergessene Felder sind die Ebenen des &2&lUndergarden&r. \\n\\nSie haben keine Bäume, aber viele Steine, Blumen und Mobs! \\n\\nSie spawnen jedoch keine &7Vergessenen&r, ja, tut mir leid, deine Begeisterung zu dämpfen."
 		"{image:atm:textures/questpics/undergarden/undergarden_field.png width:200 height:100 align:center}"
 	]
-	quest.4E3D548E5D8D7D26.title: "Forgotten Fields"
-	quest.4E4692C5E5A3D1A9.quest_desc: ["This functions identically to the bronze version, but is much more efficient at transferring fluids, resulting in around 2x as much water getting pumped through it!"]
+	quest.4E3D548E5D8D7D26.title: "Vergessene Felder"
+	quest.4E4692C5E5A3D1A9.quest_desc: ["Dies funktioniert identisch zur Bronzeversion, ist aber viel effizienter beim Übertragen von Flüssigkeiten, was zu etwa 2x so viel Wasser führt, das hindurchgepumpt wird!"]
 	quest.4E4C4C962753B6AB.quest_desc: [
-		"This is the beginning of Modern Industrialisation. You will need a casing for every bronze machine you will need."
+		"Dies ist der Anfang von Modern Industrialisation. Du brauchst ein Gehäuse für jede Bronzemaschine, die du benötigst."
 		""
-		"&lSteam Age&l"
+		"&lDampfzeitalter&l"
 	]
-	quest.4E4C4C962753B6AB.title: "Bronze Machine Casing"
-	quest.4E4C8BCD45766F03.quest_desc: ["This Drawer will auto convert the item placed inside it into it's compacted form."]
-	quest.4E4C8BCD45766F03.quest_subtitle: "Auto Compacts/Decompacts"
-	quest.4E5238F00CEED8B2.quest_desc: ["Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources!\\n\\nThere are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r.\\n\\nThese will break down 1 raw ore into 2 dusts which can be smelting into ingots, effectively doubling your ingot output!\\n\\nWant more per raw ore? Check out the mod &5Occultism&r!"]
-	quest.4E5238F00CEED8B2.title: "&eBasic Ore Doubling"
-	quest.4E55A1169742B901.quest_desc: ["Eventually you'll want more steam than the single block boilers can provide. When that happens, make way for the Large Bronze Boiler!"]
-	quest.4E55A1169742B901.quest_subtitle: "Steam producing Multiblock"
-	quest.4E5FE40373675AED.quest_desc: ["Back into the &ecutter&r!"]
+	quest.4E4C4C962753B6AB.title: "Bronzemaschinengehäuse"
+	quest.4E4C8BCD45766F03.quest_desc: ["Diese Schublade konvertiert den darin platzierten Gegenstand automatisch in seine kompaktierte Form."]
+	quest.4E4C8BCD45766F03.quest_subtitle: "Automatische Kompaktierung/Dekompaktierung"
+	quest.4E5238F00CEED8B2.quest_desc: ["Das Schmelzen von Roherzen ist am Anfang notwendig, aber du verpasst zusätzliche Ressourcen!\\n\\nEs gibt mehrere Möglichkeiten, deine Ausbeute pro Roherz zu verdoppeln, aber eine der einfachsten Möglichkeiten ist die Herstellung und Verwendung eines &eErzhammers&r.\\n\\nDieser zerkleinert 1 Roherz in 2 Stäube, die zu Barren geschmolzen werden können, wodurch sich deine Barrenausbeute effektiv verdoppelt!\\n\\nWillst du mehr pro Roherz? Schau dir den Mod &5Occultism&r an!"]
+	quest.4E5238F00CEED8B2.title: "&eGrundlegende Erzverdoppelung"
+	quest.4E55A1169742B901.quest_desc: ["Irgendwann wirst du mehr Dampf benötigen, als die Einzelblock-Kessel liefern können. Wenn das passiert, mach Platz für den großen Bronzekessel!"]
+	quest.4E55A1169742B901.quest_subtitle: "Dampfproduzierender Multiblock"
+	quest.4E5FE40373675AED.quest_desc: ["Zurück in den &eSchneider&r!"]
 	quest.4E67C04AD43EB70D.quest_desc: [
-		"Now that we have the resources to craft ZPM Motors, we can craft other ZPM components, which will allow us to craft ZPM machines! "
+		"Jetzt, da wir die Ressourcen haben, um ZPM-Motoren herzustellen, können wir andere ZPM-Komponenten herstellen, die es uns ermöglichen, ZPM-Maschinen herzustellen! "
 		""
-		"We're getting there, one step at a time!"
+		"Wir kommen Schritt für Schritt voran!"
 	]
-	quest.4E67C04AD43EB70D.quest_subtitle: "Tesla ain't got nothing on this motor!"
+	quest.4E67C04AD43EB70D.quest_subtitle: "Tesla hat nichts auf diesen Motor!"
 	quest.4E737C490DCC5D6C.quest_desc: [
-		"&5Unobtainium Armor&r is the best we can get from &6&lAllTheModium&r! We'll need it for the real best Armors! \\n\\n&5Unobtainium Armor&r gives 40 Armor Points, 60 Armor Toughness, plus 100% Knockback Resistance. You ain't going anywhere! \\n\\nNow, along with the other effects given by the previous Armors, we'll get 90% &dMagic Damage Resistance&r."
+		"&5Unobtainium-Rüstung&r ist das Beste, was wir von &6&lAllTheModium&r bekommen können! Wir werden sie für die wirklich beste Rüstung brauchen! \\n\\n&5Unobtainium-Rüstung&r gibt 40 Rüstungspunkte, 60 Rüstungszähigkeit plus 100% Rückstoßresistenz. Du gehst nirgendwo hin! \\n\\nZusätzlich zu den anderen Effekten der vorherigen Rüstungen erhalten wir jetzt 90% &dMagieschadensresistenz&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_uno.png width:100 height:175 align:center}"
 	]
-	quest.4E737C490DCC5D6C.title: "&5Unobtainium Armor"
-	quest.4E7823C2FCEBE4DC.quest_desc: ["Just a normal Bow that takes &aEnergy&r instead of Durability."]
-	quest.4E7823C2FCEBE4DC.title: "&3Electric Bow"
-	quest.4E7990AEBCCC3C95.quest_subtitle: "Tier: &b4"
-	quest.4E802144C6E40D43.quest_subtitle: "Ceylon Ebony + Cherry"
-	quest.4E802144C6E40D43.title: "Purple Crepe Myrtle Sapling"
+	quest.4E737C490DCC5D6C.title: "&5Unobtainium-Rüstung"
+	quest.4E7823C2FCEBE4DC.quest_desc: ["Nur ein normaler Bogen, der &aEnergie&r anstelle von Haltbarkeit verbraucht."]
+	quest.4E7823C2FCEBE4DC.title: "&3Elektrischer Bogen"
+	quest.4E7990AEBCCC3C95.quest_subtitle: "Stufe: &b4"
+	quest.4E802144C6E40D43.quest_subtitle: "Ceylon-Ebenholz + Kirsche"
+	quest.4E802144C6E40D43.title: "Lila Kreppmyrten-Setzling"
 	quest.4E82E843737045D9.quest_desc: [""]
-	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
-	quest.4E82E843737045D9.title: "&d&lDragon Soul"
-	quest.4E8860056D068610.quest_desc: ["These can't be Crafted, instead they are last Trades from a Machinist Villager. \\n\\n&0Graphite Electrodes&r are used as Fuel for the &8&lArc Furnace&r (also for Fluorescent Lights). \\n\\nTo get them we'll need this special &9Blueprint&r."]
-	quest.4E8860056D068610.title: "&9Arc Furnace Electrodes Blueprints "
-	quest.4E895C54651A3CB3.quest_desc: ["&8Tomes&r are &7Books&r... just more useful &7Books&r! \\n\\nEach &8Tome&r is Crafted with &7Books&r, Sticks, &cBlaze Rods &fand &cPowder&r. \\n\\n&8Tomes&r can be &5Enchanted&r, like Items, to get certain &5Enchantments&r. \\n\\nThere is also the &8Tomes of Scrapping&r which can be used in Anvils to take &5Enchantments&r off Items."]
-	quest.4E895C54651A3CB3.title: "&8&lTomes"
-	quest.4E8A05C3BFA80540.quest_desc: ["Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital &eStorage Cells&f. These cells are accessible through either an &eME Chest&r for single cells, or an &eME Drive&r for multiple cells.\\n\\nThe &bME Chest&f holds a single Cell at a time, which can then be read from and written to from any other terminal on the same network. The ME Chest itself also provides its own terminal screen on the top with specific access only to the cell it contains.\\n\\nThe &bME Drive&f can hold up to 10 assorted Storage Cells in the space of a single block and a single ME channel. However, it does not provide its own terminal screen, requiring some external terminal elsewhere on the network for storage access."]
-	quest.4E8A05C3BFA80540.quest_subtitle: "Items as a file system"
-	quest.4E8A05C3BFA80540.title: "The Storage"
-	quest.4E8C32CD6057A1AB.quest_desc: ["To make the &c&lPhilospher's Fuel&r we get a choice of whether we want to use &cBlaze Burners&r or &aUranium Quad Fuel Rods&r. \\n\\nWhichever you find easier to Craft! \\n\\n(AKA the &cBlaze Burner&r!)"]
-	quest.4E8C32CD6057A1AB.title: "&cBlaze Burner&f or &aUranium Quad Fuel Rods"
+	quest.4E82E843737045D9.quest_subtitle: "&oDie Essenz der mächtigsten Wesen."
+	quest.4E82E843737045D9.title: "&d&lDrachenseele"
+	quest.4E8860056D068610.quest_desc: ["Diese können nicht hergestellt werden, stattdessen sind sie der letzte Handel eines Maschinisten-Dorfbewohners. \\n\\n&0Graphitelektroden&r werden als Brennstoff für den &8&lLichtbogenofen&r verwendet (auch für Leuchtstofflampen). \\n\\nUm sie zu bekommen, benötigen wir diese spezielle &9Blaupause&r."]
+	quest.4E8860056D068610.title: "&9Lichtbogenofen-Elektroden-Blaupausen"
+	quest.4E895C54651A3CB3.quest_desc: ["&8Folianten&r sind &7Bücher&r... nur nützlichere &7Bücher&r! \\n\\nJeder &8Foliant&r wird mit &7Büchern&r, Stöcken, &cLohenruten &fund &cLohenpulver&r hergestellt. \\n\\n&8Folianten&r können wie Gegenstände &5verzaubert&r werden, um bestimmte &5Verzauberungen&r zu erhalten. \\n\\nEs gibt auch den &8Verschrottungsfoliant&r, der in Ambosse verwendet werden kann, um &5Verzauberungen&r von Gegenständen zu entfernen."]
+	quest.4E895C54651A3CB3.title: "&8&lFolianten"
+	quest.4E8A05C3BFA80540.quest_desc: ["Der wichtigste Aspekt von Applied Energistics 2 ist sein Speichersystem, das digitale &eSpeicherzellen&f verwendet. Diese Zellen sind entweder über eine &eME-Truhe&r für einzelne Zellen oder über ein &eME-Laufwerk&r für mehrere Zellen zugänglich.\\n\\nDie &bME-Truhe&f enthält jeweils eine einzelne Zelle, die dann von jedem anderen Terminal im selben Netzwerk gelesen und beschrieben werden kann. Die ME-Truhe selbst bietet auch ihren eigenen Terminalbildschirm oben mit spezifischem Zugriff nur auf die darin enthaltene Zelle.\\n\\nDas &bME-Laufwerk&f kann bis zu 10 verschiedene Speicherzellen auf dem Raum eines einzelnen Blocks und eines einzelnen ME-Kanals aufnehmen. Es bietet jedoch keinen eigenen Terminalbildschirm, sondern erfordert ein externes Terminal an anderer Stelle im Netzwerk für den Speicherzugriff."]
+	quest.4E8A05C3BFA80540.quest_subtitle: "Gegenstände als Dateisystem"
+	quest.4E8A05C3BFA80540.title: "Der Speicher"
+	quest.4E8C32CD6057A1AB.quest_desc: ["Um den &c&lPhilosophentreibstoff&r herzustellen, haben wir die Wahl, ob wir &cLohenbrennkästen&r oder &aUranbrennstäbe der vierfachen Art&r verwenden wollen. \\n\\nJe nachdem, was du einfacher herzustellen findest! \\n\\n(AKA den &cLohenbrennkasten&r!)"]
+	quest.4E8C32CD6057A1AB.title: "&cLohenbrennkasten&f oder &aUranbrennstäbe der vierfachen Art"
 	quest.4E8E49EB9C83188E.quest_desc: [
-		"&cMars&r is considered a cold planet, but that doesn't mean you won't find some new lifeforms there. Make sure you are prepared!"
+		"&cMars&r gilt als kalter Planet, aber das bedeutet nicht, dass du dort keine neuen Lebensformen finden wirst. Stelle sicher, dass du vorbereitet bist!"
 		""
-		"Mars Info:"
-		"Gravity: 3.72076 m/s"
-		"Oxygen: None"
-		"Temperature: -65.0 Â°C"
+		"Mars-Infos:"
+		"Schwerkraft: 3.72076 m/s"
+		"Sauerstoff: Keiner"
+		"Temperatur: -65,0 °C"
 	]
-	quest.4E8E49EB9C83188E.title: "Visit Mars"
-	quest.4E8ECD407C8EA2DC.quest_subtitle: "Mandarin + Pomelo"
+	quest.4E8E49EB9C83188E.title: "Besuche Mars"
+	quest.4E8ECD407C8EA2DC.quest_subtitle: "Mandarine + Pomelo"
 	quest.4E9229FBA875C0BE.quest_desc: [
-		"Exploration is a big part of the &6ATM&r packs! "
+		"Erkundung ist ein großer Teil der &6ATM&r-Pakete! "
 		""
-		"With tons of adventure mods, you'll stumble into plenty of new structures, mobs, bosses, and most importantly: &c&lL&6&lo&e&lo&a&lt&9&l!&r"
+		"Mit tonnenweise Abenteuermods wirst du auf viele neue Strukturen, Mobs, Bosse und vor allem: &c&lB&6&le&e&lu&a&lt&9&le&r stoßen!"
 	]
-	quest.4E9229FBA875C0BE.title: "&9Time To Explore!&r"
-	quest.4E9B35DCA018FD42.title: "Tool Upgrades"
+	quest.4E9229FBA875C0BE.title: "&9Zeit zum Erkunden!&r"
+	quest.4E9B35DCA018FD42.title: "Werkzeug-Upgrades"
 	quest.4EA0E385FF7E5FEB.quest_desc: [
-		"You'll need a LOT of &cDesh&r to make the &aTier 2 Rocket&r."
+		"Du wirst VIEL &cDesh&r benötigen, um die &aRakete der Stufe 2&r herzustellen."
 		""
-		"With this rocket, you can fly all the way to &cMars&r! Just remember to stock up on extra &bOxygen&r and &eFuel&r for your flight back."
+		"Mit dieser Rakete kannst du bis zum &cMars&r fliegen! Denk daran, für deinen Rückflug zusätzlichen &bSauerstoff&r und &eTreibstoff&r einzupacken."
 	]
 	quest.4EA0F9DE0A373761.quest_desc: ["To get Morgan you need to kill the Warden with Caliburn. Also Caliburns Innate Cap will be Morgans Innate Cap. Good luck!"]
 	quest.4EA0F9DE0A373761.title: "Got Morgan"
