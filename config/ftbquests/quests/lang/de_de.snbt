@@ -13499,258 +13499,258 @@
 		""
 		"Für weitere Informationen kannst du immer deine &aLexica Botania&r überprüfen."
 	]
-	quest.7DF972754C48E22B.quest_desc: ["Now, having a multiblock, we can set \"Distinct Buses\" and set each one to do a specific mold and or Programmed Circuit! We now have an all in one machine!!"]
-	quest.7DF972754C48E22B.quest_subtitle: "Extruding Saves Materials"
-	quest.7DFF18CFEB0B8DBE.quest_desc: ["You'll want to start growing &aInferium&r as soon as you can!\\n\\nWhile not required for growing these seeds, you can also create &eEssence Farmland&r that will increase the growth speed of the seeds (especially Inferium Seeds). However, certain seeds will require certain farmlands to be planted on."]
-	quest.7DFF18CFEB0B8DBE.title: "&aInferium Farmland"
+	quest.7DF972754C48E22B.quest_desc: ["Jetzt, da wir einen Multiblock haben, können wir \"Unterschiedliche Anschlüsse\" einrichten und jeden für eine spezifische Form und/oder einen programmierten Schaltkreis konfigurieren! Wir haben jetzt eine All-in-One-Maschine!!"]
+	quest.7DF972754C48E22B.quest_subtitle: "Extrudieren spart Material"
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["Du solltest so früh wie möglich anfangen, &aInferium&r anzubauen!\\n\\nObwohl es für den Anbau dieser Samen nicht erforderlich ist, kannst du auch &eEssenz-Ackerland&r herstellen, das die Wachstumsgeschwindigkeit der Samen erhöht (insbesondere bei Inferium-Samen). Bestimmte Samen benötigen jedoch bestimmte Ackerland-Arten, um gepflanzt werden zu können."]
+	quest.7DFF18CFEB0B8DBE.title: "&aInferium-Ackerland"
 	quest.7E07C5A6FA6B6B1F.quest_desc: [
-		"Once you've built a fully functional &aReprocessor&r, you can pump in power, water, and &9Cyanite&r to create &dBlutonium&r."
+		"Sobald du einen voll funktionsfähigen &aWiederaufbereiter&r gebaut hast, kannst du Energie, Wasser und &9Cyanit&r einleiten, um &dBlutonium&r herzustellen."
 		""
-		"This can be used as a fuel for your reactor, and creates its own waste called &9Magentite&r. "
+		"Dies kann als Brennstoff für deinen Reaktor verwendet werden und erzeugt seinen eigenen Abfall namens &9Magentit&r. "
 	]
 	quest.7E07C5A6FA6B6B1F.title: "Blutonium"
-	quest.7E124E6EFC7E8ADD.quest_desc: ["Increases movement speed."]
-	quest.7E13007340A818C5.quest_desc: ["This is a Tier 1 Pillar Cap for the Starlight Charger."]
-	quest.7E13007340A818C5.title: "Tier 1 Starlight Charger Pillar Cap"
-	quest.7E39FB9F3E973009.title: "Ether Gas"
+	quest.7E124E6EFC7E8ADD.quest_desc: ["Erhöht die Bewegungsgeschwindigkeit."]
+	quest.7E13007340A818C5.quest_desc: ["Dies ist eine Säulenkappe der Stufe 1 für das Sternenlicht-Aufladegerät."]
+	quest.7E13007340A818C5.title: "Sternenlicht-Aufladegerät-Säulenkappe Stufe 1"
+	quest.7E39FB9F3E973009.title: "Äthergas"
 	quest.7E3C84D7FCEC9D52.quest_desc: [
-		"The smallest (working) &2&lFission Reactor&r we can make is 3x4x3. \\n\\nThe base and frame will need to be made of &2Fission Reactor Casing&r while the inside will need to be either Empty, or have &2Fuel Rod Assembly&r or &2Control Rod Assembly&r! \\n\\nThe inside of the walls (not the edges) can have our &2Fission Reactor Ports&r or &2FRLA&r and the rest can be filled with &2Reactor Glass&r. \\n\\nOnce our &2&lFission Reactor&r is built, we can Right Click anywhere (besides the &2FRLA&r) on the &2Reactor&r to open its GUI. "
+		"Der kleinste (funktionierende) &2&lSpaltungsreaktor&r, den wir bauen können, ist 3x4x3. \\n\\nDie Basis und der Rahmen müssen aus &2Spaltungsreaktor-Gehäuse&r bestehen, während das Innere entweder leer sein oder &2Brennstab-Anordnungen&r oder &2Kontrollstab-Anordnungen&r enthalten muss! \\n\\nAn den Innenseiten der Wände (nicht an den Kanten) können wir unsere &2Spaltungsreaktor-Anschlüsse&r oder &2FRLA&r anbringen, und der Rest kann mit &2Reaktorglas&r gefüllt werden. \\n\\nSobald unser &2&lSpaltungsreaktor&r gebaut ist, können wir überall (außer an der &2FRLA&r) auf den &2Reaktor&r rechtsklicken, um seine Benutzeroberfläche zu öffnen. "
 		"{@pagebreak}"
-		"This can look pretty scary to new Players so we'll go through it slowly to understand it better! \\n\\nAt the top, we can see 4 different Bars. These are where we can see how much &2Fissile Fuel&f, &bCoolant&f, &6Heated Coolant&f, and &8Nuclear Waste&r. \\n\\nBetween the Bars we'll find the main menu of the &2&lReactor&r. It will tell us whether it is on or off, how &2Fissile Fuel&r is being used up every Tick, how much Temperature it rises every Tick, and how much Damage the &2&lReactor&r has suffered! \\n\\nBelow all of these we'll see 2 Buttons! One to turn on the &2&lReactor&r saying Activate and the other to turn it off saying SCRAM. Next to the SCRAM Button is a little image to help Players know if it is on or off. Green when on, Red when off. \\n\\nBelow those Buttons we'll see how Hot our &2&lReactor&r is and below it will show a visual of the Temperature change. "
+		"Das kann für neue Spieler ziemlich einschüchternd aussehen, also werden wir es langsam durchgehen, um es besser zu verstehen! \\n\\nOben sehen wir 4 verschiedene Balken. Diese zeigen an, wie viel &2Spaltbarer Brennstoff&f, &bKühlmittel&f, &6Erhitztes Kühlmittel&f und &8Nuklearabfall&r vorhanden ist. \\n\\nZwischen den Balken finden wir das Hauptmenü des &2&lReaktors&r. Es zeigt an, ob er ein- oder ausgeschaltet ist, wie viel &2Spaltbarer Brennstoff&r pro Tick verbraucht wird, wie stark die Temperatur pro Tick ansteigt und wie viel Schaden der &2&lReaktor&r erlitten hat! \\n\\nUnter all diesen Anzeigen sehen wir 2 Schaltflächen! Eine zum Einschalten des &2&lReaktors&r mit der Aufschrift \"Aktivieren\" und die andere zum Ausschalten mit der Aufschrift \"SCRAM\". Neben der SCRAM-Schaltfläche befindet sich ein kleines Bild, das den Spielern hilft zu erkennen, ob der Reaktor ein- oder ausgeschaltet ist. Grün bedeutet eingeschaltet, Rot ausgeschaltet. \\n\\nDarunter sehen wir, wie heiß unser &2&lReaktor&r ist, und darunter wird eine visuelle Darstellung der Temperaturänderung angezeigt. "
 		"{@pagebreak}"
-		"Outside of this menu, we can Click the Top Tab to pull up the Statistics. \\n\\nThe top Chart shows off how much Heat can be held until Damage occurs, how much room &2Fuel&r has within the &2&lReactor&r, and how Efficient it is at using Heat to use up &2Fuel&r. \\n\\nThe rest is all based on how much &2Fuel&r can be used each Tick. We can set a max in the Type Box. It is also set at mB per Tick! \\n\\nThe other Tab we can find on the side of the main menu is for our Temperature! \\n\\nIt will show its Dissipiation rate as well as the Temperature Unit shown. We can change the Temperature Unit by Clicking on the Tab. You'll most likely use F (Fahrenheit) or C (Celsius) but we can also use K (Kelvin), R (Rankine), or STP (Standard Temperature and Pressure)!"
+		"Außerhalb dieses Menüs können wir auf die obere Registerkarte klicken, um die Statistiken anzuzeigen. \\n\\nDas obere Diagramm zeigt, wie viel Wärme gehalten werden kann, bevor Schäden auftreten, wie viel Platz &2Brennstoff&r innerhalb des &2&lReaktors&r hat und wie effizient er Wärme nutzt, um &2Brennstoff&r zu verbrauchen. \\n\\nDer Rest basiert darauf, wie viel &2Brennstoff&r pro Tick verwendet werden kann. Wir können ein Maximum im Typ-Feld festlegen. Es ist auch in mB pro Tick eingestellt! \\n\\nDie andere Registerkarte, die wir an der Seite des Hauptmenüs finden, ist für unsere Temperatur! \\n\\nSie zeigt die Abkühlungsrate sowie die angezeigte Temperatureinheit an. Wir können die Temperatureinheit ändern, indem wir auf die Registerkarte klicken. Wahrscheinlich wirst du F (Fahrenheit) oder C (Celsius) verwenden, aber wir können auch K (Kelvin), R (Rankine) oder STP (Standardtemperatur und -druck) wählen!"
 		"{@pagebreak}"
-		"MELTDOWNS! \\n\\nThe &2&lFission Reactor&r will explode if it goes to 250% Damage. When it explodes it will break Blocks, start Fires, and worst of all... spread &aRadiation&r! \\n\\nLet's avoid that! \\n\\nThe Damage will increase when the Temperature goes over 1,200K. We'll need to use &bCoolants&r to keep that Temperature down. \\n\\nMake sure it has a constant supply of &bCoolant&r and make sure the &bCoolant Output&r doesn't bottle-neck. If this happens, more &bCoolant&r can't be used and the Temperature will increase. \\n\\nLEAKS! \\n\\n&aRadiation&r leaks can also occur if the &8Nuclear Waste&r Bar is full. This will spread &aRadiation&r around the &2&lReactor&r. Avoid this with constantly removing &8Nuclear Waste&r and even using &2FRLA&r to know when &8Waste&r is full!"
+		"KERNSCHMELZEN! \\n\\nDer &2&lSpaltungsreaktor&r explodiert, wenn er 250% Schaden erreicht. Wenn er explodiert, zerstört er Blöcke, verursacht Brände und, was am schlimmsten ist... verbreitet &aStrahlung&r! \\n\\nLass uns das vermeiden! \\n\\nDer Schaden nimmt zu, wenn die Temperatur über 1.200K steigt. Wir müssen &bKühlmittel&r verwenden, um die Temperatur niedrig zu halten. \\n\\nStelle sicher, dass er einen konstanten Vorrat an &bKühlmittel&r hat und dass der &bKühlmittelausgang&r nicht verstopft ist. Wenn dies passiert, kann nicht mehr &bKühlmittel&r verwendet werden und die Temperatur steigt an. \\n\\nLECKS! \\n\\n&aStrahlung&r-Lecks können auch auftreten, wenn der &8Nuklearabfall&r-Balken voll ist. Dies wird &aStrahlung&r um den &2&lReaktor&r herum verbreiten. Vermeide dies, indem du ständig &8Nuklearabfall&r entfernst und sogar &2FRLA&r verwendest, um zu wissen, wann der &8Abfall&r voll ist!"
 		"{@pagebreak}"
-		"This Multiblock can be made at any size available, not just what is shown through the Images. The Images merely show the smallest size we can make."
+		"Dieser Multiblock kann in jeder verfügbaren Größe gebaut werden, nicht nur in der, die in den Bildern gezeigt wird. Die Bilder zeigen lediglich die kleinste Größe, die wir bauen können."
 		"{image:atm:textures/questpics/mek/mek_fission1.png width:100 height:75 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fission2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fission3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/mek/mek_fission4.png width:100 height:110 align:center}"
 	]
-	quest.7E3C84D7FCEC9D52.quest_subtitle: "Splitting 1 Element into 2"
-	quest.7E3C84D7FCEC9D52.title: "&2&lFission Reactor"
+	quest.7E3C84D7FCEC9D52.quest_subtitle: "Ein Element in 2 spalten"
+	quest.7E3C84D7FCEC9D52.title: "&2&lSpaltungsreaktor"
 	quest.7E3DA4168D352B42.quest_desc: [
-		"I promise this is the last Mushroom Bog! \\nThese Mushrooms look pretty normal, their gimmick though is what comes from them! \\n\\nThe Veils! Definitely a useful decoration Block."
+		"Ich verspreche, dass dies die letzte Pilzsumpf-Quest ist! \\nDiese Pilze sehen ziemlich normal aus, ihr Gimmick ist jedoch das, was aus ihnen herauskommt! \\n\\nDie Schleier! Definitiv eine nützliche Dekoration."
 		"{image:atm:textures/questpics/undergarden/undergarden_veil.png width:200 height:100 align:center}"
 	]
-	quest.7E3DA4168D352B42.title: "Veil Mushroom Bog"
-	quest.7E407CDBFD85E65F.quest_desc: ["Oxygen + Ethylene on &aProgram 2&r in your &eChemical Reactor&r is one way to make Acetic Acid"]
-	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \\n\\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
+	quest.7E3DA4168D352B42.title: "Schleier-Pilz-Sumpf"
+	quest.7E407CDBFD85E65F.quest_desc: ["Sauerstoff + Ethylen auf &aProgramm 2&r in deinem &eChemischen Reaktor&r ist eine Möglichkeit, Essigsäure herzustellen"]
+	quest.7E4367252A39BE6C.quest_desc: ["Bei &c&lPowah&r geht es um Energie! Das Erzeugen von Energie wie FE, um Maschinen aus anderen Mods wie &5&lMekanism&r oder &lIndustrial Foregoing&r zu verwenden! \\n\\nEs gibt verschiedene Stufen, die du herstellen musst, und natürlich brauchen wir die letzte für den &6&lStern&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
-	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r is a very fun magic Mod and with it brings its own set of Wood! \\n\\nArchwood comes in 5 different colors of trees that spawn in most Biomes but mostly in their Archwood Biome!"]
-	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r Logs"
-	quest.7E697FE6A6C8B4EE.quest_desc: ["These LuV Tier Superconductor ingots will serve us well in making Superconductor Wires, and Fine Wire. "]
-	quest.7E697FE6A6C8B4EE.quest_subtitle: "With Ingots we have options!"
-	quest.7E7637DAD2C242CB.quest_subtitle: "European Larch + Spruce"
-	quest.7E79F52147B606F9.quest_desc: ["To start collecting blood, we need to craft the &cBlood Extractor&r.\\n\\nAs long as you have this in your inventory, killing mobs will collect blood into the extractor. &cBlood&r is an important resource in EvilCraft.\\n\\nNeed to increase the storage of the Extractor? Simply make another, and then combine them in a crafting grid!\\n\\nThese can also be used to extract blood from &cBlood Stains&r you find (or create) on the ground.\\n\\nLastly, with enough blood stored, you can sneak-right click on the ground to place a bucket of blood down."]
-	quest.7E79F52147B606F9.title: "&aCollecting&r &cBlood"
+	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r ist eine sehr unterhaltsame Zaubermod und bringt seine eigene Holzsorte mit! \\n\\nArchwood gibt es in 5 verschiedenen Baumfarben, die in den meisten Biomen spawnen, aber hauptsächlich in ihrem Archwood-Biom!"]
+	quest.7E49C985A0433B20.title: "&d&lArs Nouveau&r-Stämme"
+	quest.7E697FE6A6C8B4EE.quest_desc: ["Diese LuV-Stufen-Supraleiterbarrren werden uns beim Herstellen von Supraleiterkabeln und feinen Drähten gute Dienste leisten."]
+	quest.7E697FE6A6C8B4EE.quest_subtitle: "Mit Barren haben wir Optionen!"
+	quest.7E7637DAD2C242CB.quest_subtitle: "Europäische Lärche + Fichte"
+	quest.7E79F52147B606F9.quest_desc: ["Um mit dem Sammeln von Blut zu beginnen, müssen wir den &cBlutextraktor&r herstellen.\\n\\nSolange du diesen in deinem Inventar hast, wird beim Töten von Mobs Blut in den Extraktor gesammelt. &cBlut&r ist eine wichtige Ressource in EvilCraft.\\n\\nMöchtest du die Speicherkapazität des Extraktors erhöhen? Stelle einfach einen weiteren her und kombiniere sie im Crafting-Gitter!\\n\\nSie können auch verwendet werden, um Blut aus &cBlutflecken&r zu extrahieren, die du auf dem Boden findest (oder erzeugst).\\n\\nSchließlich kannst du mit genügend gespeichertem Blut Shift-Rechtsklick auf den Boden machen, um einen Eimer Blut abzustellen."]
+	quest.7E79F52147B606F9.title: "&cBlut&r &asammeln"
 	quest.7E7FAA72581D2186.quest_desc: [
-		"&eMix&r together your &dIndium&r, &bGallium&r, and &6Phosphorus&r dusts on &aProgram 1&r"
+		"&eMische&r dein &dIndium&r, &bGallium&r und &6Phosphor&r-Staub auf &aProgramm 1&r"
 		""
-		"This stuff will replace the Gallium Arsenide for the &3Advanced SMD Diode&r as well as be used extensively upgrading &cMPIC wafers&r to the higher voltage tiers"
+		"Dieses Zeug wird das Galliumarsenid für die &3Fortgeschrittene SMD-Diode&r ersetzen und auch ausgiebig für die Aufrüstung von &cMPIC-Wafern&r auf höhere Spannungsstufen verwendet werden"
 	]
-	quest.7E8C36302FDD93C8.title: "UHV Tier"
+	quest.7E8C36302FDD93C8.title: "UHV-Stufe"
 	quest.7E8FE99A3C448413.quest_desc: [
-		"The &9Mining Dimension&r has several layers for finding ores!"
+		"Die &9Mining-Dimension&r hat mehrere Schichten zum Finden von Erzen!"
 		""
-		"This dimension comes with the regular &3Stone&r and &3Deepslate&r Overworld layers, as well as a &cNetherrack&r layer for finding Nether ores, and finally an &eEnd Stone&r layer for End ores."
+		"Diese Dimension enthält die regulären &3Stein&r- und &3Tiefenschiefer&r-Schichten der Oberwelt sowie eine &cNetherstein&r-Schicht zum Finden von Nether-Erzen und schließlich eine &eEndstein&r-Schicht für End-Erze."
 	]
-	quest.7E8FE99A3C448413.title: "Mining Dimension"
-	quest.7E90138B0A2C3210.quest_desc: ["The Northland Trees are big sturdy Trees up in the Permafrost Forests. \\n\\nThey look like Spruce but much lighter! Maybe they're an albino Spruce. \\n\\nTheir saplings need to be placed on Dirt, not Grass, and in a 2x2 formation."]
-	quest.7E92ED270C67FDE5.quest_desc: ["Almost every single machine you can make in the mod will require a &9Dielectric Casing&r.\\n\\nYou'll need to make the &bPaste&r first, as well as some &aRods&r to progress!"]
-	quest.7E92ED270C67FDE5.title: "Starting with Dielectric Mats"
-	quest.7E9CD5C38BF5970F.quest_desc: ["And we should be able to craft ZPM machines and process out all of the ZPM tier components!"]
-	quest.7E9CD5C38BF5970F.quest_subtitle: "3 ZPM components now"
-	quest.7E9CD5C38BF5970F.title: "Onward to ZPM Machines"
-	quest.7E9E03274A88347D.quest_desc: ["Increases stack size in the Backpack by 2."]
-	quest.7E9E03274A88347D.title: "&fStack Upgrade Tier 1"
-	quest.7EAFF64FFE8B5378.quest_subtitle: "Iron + Sweat"
-	quest.7EAFF64FFE8B5378.title: "Zinc Bee"
-	quest.7EC01E7DB045DB05.quest_desc: ["&aAugments&r are Furnace upgrades that can either change or upgrade the function of a Furnace.\\n\\n - Blasting: Converts the Furnace to only allow for Blasting recipes.\\n\\n - Smoking: Converts the Furnace to only allow for Smoking recipes.\\n\\n - Factory: Converts the Furnace to use power instead of fuel, and upgrades it to a factory, allowing it to smelt multiple items at once. This increases depending on the tier of Furnace.\\n\\n - Speed: Doubles the speed of the furnace at the cost of double the fuel.\\n\\n - Fuel Efficiency: Doubles the amount of items smelted per fuel, but reduces the speed by 25%"]
-	quest.7EC01E7DB045DB05.title: "Furnace &aAugments"
-	quest.7EC7E12C0880F8F5.quest_subtitle: "Tier: &e5"
-	quest.7EC8814940C4C3D7.quest_desc: ["Use this item to shrink. Helpful for working on automation and also just overall fun."]
-	quest.7EC8814940C4C3D7.quest_subtitle: "Honey I Shrunk Myself"
-	quest.7EC8814940C4C3D7.title: "Personal Shrinking Device"
-	quest.7EC89242980768B3.quest_subtitle: "Pecan + Wild Chery"
-	quest.7ECA0633AF1AEC19.quest_desc: ["The &e&lPrecision Sawmill&r will work to \"recycle\" &6Wood Items&r. \\n\\nJust give it some &aEnergy&r and throw a &6Wood Item&r in and wait! \\n\\nIt will turn Beds into 3 &6Wood Planks&r and 3 Wool. &6Doors&r into &6Wood Planks&r. And &2Logs&f into 6 &6Planks&r instead of 4! \\n\\nIt will also turn &7Sticks&r into &6Sawdust&r which is needed for the &6Cardboard Box&r!"]
-	quest.7ECA0633AF1AEC19.title: "&e&lPrecision Sawmill"
-	quest.7ECE00D12CFC50A4.quest_desc: ["The &bSilk Touch &7Unit&r will act as a Silk Touch Enchantment for the &dMeka-Tool&r. \\n\\nBut not just the Pickaxe part, also the Shovel and other Tools within the &dMeka-Tool&r! \\n\\nSo you can pick up Stone and Ores plus Grass and Mycelium. \\n\\nWe can't use this &7Unit&r with the &dOre Refinement &7Unit&r on a &dMeka-Tool&r."]
-	quest.7ECE00D12CFC50A4.quest_subtitle: "Meka-Tool"
-	quest.7ECE00D12CFC50A4.title: "&bSilk Touch &7Unit"
-	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10 &cAttack Damage"
-	quest.7EE14ED04C64E2AA.quest_desc: ["If we take the Fiber Reinforced Circuit Boards we made in the LuV tier, and change the recipe a bit, we can create a Multi-Layered Fiber Reinforced Circuit Board"]
-	quest.7EE14ED04C64E2AA.quest_subtitle: "Change up"
-	quest.7EE27C3908008E20.quest_desc: ["If you need to string your &cLaser Nodes&r a far distance try using Connectors! Just use the Wrench like normal."]
+	quest.7E8FE99A3C448413.title: "Mining-Dimension"
+	quest.7E90138B0A2C3210.quest_desc: ["Die Northland-Bäume sind große, robuste Bäume in den Permafrostwäldern. \\n\\nSie sehen aus wie Fichten, aber viel heller! Vielleicht sind sie Albino-Fichten. \\n\\nIhre Setzlinge müssen auf Erde, nicht auf Gras, und in einer 2x2-Formation platziert werden."]
+	quest.7E92ED270C67FDE5.quest_desc: ["Fast jede Maschine, die du in dieser Mod herstellen kannst, benötigt ein &9Dielektrisches Gehäuse&r.\\n\\nDu musst zuerst die &bPaste&r sowie einige &aStangen&r herstellen, um fortzufahren!"]
+	quest.7E92ED270C67FDE5.title: "Anfang mit dielektrischen Materialien"
+	quest.7E9CD5C38BF5970F.quest_desc: ["Und wir sollten in der Lage sein, ZPM-Maschinen herzustellen und alle ZPM-Stufen-Komponenten zu verarbeiten!"]
+	quest.7E9CD5C38BF5970F.quest_subtitle: "Jetzt 3 ZPM-Komponenten"
+	quest.7E9CD5C38BF5970F.title: "Weiter zu ZPM-Maschinen"
+	quest.7E9E03274A88347D.quest_desc: ["Erhöht die Stapelgröße im Rucksack um 2."]
+	quest.7E9E03274A88347D.title: "&fStapel-Upgrade Stufe 1"
+	quest.7EAFF64FFE8B5378.quest_subtitle: "Eisen + Schweiß"
+	quest.7EAFF64FFE8B5378.title: "Zink-Biene"
+	quest.7EC01E7DB045DB05.quest_desc: ["&aAugmente&r sind Ofen-Upgrades, die die Funktion eines Ofens ändern oder verbessern können.\\n\\n - Sprengen: Wandelt den Ofen so um, dass er nur Sprengrezepte zulässt.\\n\\n - Räuchern: Wandelt den Ofen so um, dass er nur Räucherrezepte zulässt.\\n\\n - Fabrik: Wandelt den Ofen so um, dass er Energie statt Brennstoff verwendet, und verbessert ihn zu einer Fabrik, die mehrere Gegenstände gleichzeitig schmelzen kann. Dies erhöht sich je nach Stufe des Ofens.\\n\\n - Geschwindigkeit: Verdoppelt die Geschwindigkeit des Ofens auf Kosten des doppelten Brennstoffs.\\n\\n - Brennstoffeffizienz: Verdoppelt die Anzahl der geschmolzenen Gegenstände pro Brennstoff, reduziert jedoch die Geschwindigkeit um 25%"]
+	quest.7EC01E7DB045DB05.title: "Ofen-&aAugmente"
+	quest.7EC7E12C0880F8F5.quest_subtitle: "Stufe: &e5"
+	quest.7EC8814940C4C3D7.quest_desc: ["Verwende diesen Gegenstand zum Schrumpfen. Hilfreich für die Arbeit an Automatisierungen und auch einfach insgesamt spaßig."]
+	quest.7EC8814940C4C3D7.quest_subtitle: "Schatz, ich habe mich geschrumpft"
+	quest.7EC8814940C4C3D7.title: "Persönliches Schrumpfgerät"
+	quest.7EC89242980768B3.quest_subtitle: "Pekannuss + Wildkirsche"
+	quest.7ECA0633AF1AEC19.quest_desc: ["Die &e&lPräzisionssägemühle&r dient zum \"Recyceln\" von &6Holzgegenständen&r. \\n\\nGib ihr etwas &aEnergie&r, wirf einen &6Holzgegenstand&r hinein und warte! \\n\\nSie verwandelt Betten in 3 &6Holzbretter&r und 3 Wolle. &6Türen&r in &6Holzbretter&r. Und &2Stämme&f in 6 &6Bretter&r anstatt 4! \\n\\nSie verwandelt auch &7Stöcke&r in &6Sägemehl&r, das für die &6Pappkarton&r benötigt wird!"]
+	quest.7ECA0633AF1AEC19.title: "&e&lPräzisionssägemühle"
+	quest.7ECE00D12CFC50A4.quest_desc: ["Die &bBehutsamkeits&r-&7Einheit&r fungiert als Behutsamkeits-Verzauberung für das &dMeka-Werkzeug&r. \\n\\nAber nicht nur für den Spitzhacken-Teil, sondern auch für die Schaufel und andere Werkzeuge innerhalb des &dMeka-Werkzeugs&r! \\n\\nDu kannst also Stein und Erze sowie Gras und Myzel aufnehmen. \\n\\nWir können diese &7Einheit&r nicht mit der &dErzveredelungs&r-&7Einheit&r auf einem &dMeka-Werkzeug&r verwenden."]
+	quest.7ECE00D12CFC50A4.quest_subtitle: "Meka-Werkzeug"
+	quest.7ECE00D12CFC50A4.title: "&bBehutsamkeits&r-&7Einheit"
+	quest.7EDF2CC08FC774F9.quest_subtitle: "&f10 &cAngriffsschaden"
+	quest.7EE14ED04C64E2AA.quest_desc: ["Wenn wir die faserverstärkten Leiterplatten, die wir in der LuV-Stufe hergestellt haben, nehmen und das Rezept etwas ändern, können wir eine mehrschichtige faserverstärkte Leiterplatte herstellen"]
+	quest.7EE14ED04C64E2AA.quest_subtitle: "Änderung"
+	quest.7EE27C3908008E20.quest_desc: ["Wenn du &cLaserknoten&r über eine weite Strecke verbinden musst, versuche es mit Verbindern! Verwende einfach den Schraubenschlüssel wie gewohnt."]
 	quest.7EED2502F1F38147.quest_desc: [
-		"When held in hand, you can right-click to create a water source block for 100LP. Not bad huh?"
+		"Wenn du ihn in der Hand hältst, kannst du mit Rechtsklick einen Wasserquellblock für 100 LP erstellen. Nicht schlecht, oder?"
 		""
-		"Unless you don't have 100LP. In that case, it'll just take your health. :)"
+		"Es sei denn, du hast keine 100 LP. In diesem Fall nimmt er einfach deine Gesundheit. :)"
 	]
-	quest.7EEEEDD5FF31ACD3.quest_desc: ["The &eSmart Chute&r is a &eChute&r with the options to Filter."]
-	quest.7EEEEDD5FF31ACD3.title: "&eSmart Chute"
-	quest.7EF57BBEAA4B6B08.quest_desc: ["Looking to create virtual storage using a mod like &9Applied Energistics 2&r?\\n\\nThese are great ways to upgrade your storage, but it is important to talk about &eNBT Items&r and the best way to store them.\\n\\nNBT items are items with extra tags attached to them. Enchanted items, items with durability and more. These are items with NBT tags attached to them. Because of this, they don't usually stack.\\n\\nWhen you store a lot of these into a storage system like AE2, you run the chance of creating issues for your save or server.\\n\\nBecause of this, it is best to store them in Chests or Bags!"]
-	quest.7EFA4F2C0A895502.quest_desc: ["A Glass Lens (Green) can also make this, but making the colored glass lens is an HV recipe"]
+	quest.7EEEEDD5FF31ACD3.quest_desc: ["Die &eSmarte Rutsche&r ist eine &eRutsche&r mit Filtermöglichkeiten."]
+	quest.7EEEEDD5FF31ACD3.title: "&eSmarte Rutsche"
+	quest.7EF57BBEAA4B6B08.quest_desc: ["Möchtest du virtuellen Speicher mit einer Mod wie &9Applied Energistics 2&r erstellen?\\n\\nDies sind großartige Möglichkeiten, deinen Speicher zu erweitern, aber es ist wichtig, über &eNBT-Gegenstände&r und die beste Art, sie zu speichern, zu sprechen.\\n\\nNBT-Gegenstände sind Gegenstände mit zusätzlichen Tags. Verzauberte Gegenstände, Gegenstände mit Haltbarkeit und mehr. Dies sind Gegenstände mit NBT-Tags. Aufgrund dessen stapeln sie normalerweise nicht.\\n\\nWenn du viele davon in einem Speichersystem wie AE2 speicherst, riskierst du, Probleme für deinen Spielstand oder Server zu verursachen.\\n\\nDeshalb ist es am besten, sie in Truhen oder Taschen aufzubewahren!"]
+	quest.7EFA4F2C0A895502.quest_desc: ["Eine Glaslinse (Grün) kann dies auch herstellen, aber die Herstellung der farbigen Glaslinse ist ein HV-Rezept"]
 	quest.7EFBAF3E281D2EBE.quest_desc: [
-		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME. "
+		"Der &bME-Speicherbus&f ermöglicht es, wenn er auf einen externen Speicherbehälter gerichtet ist, den Behälter so zu verwenden, als wäre er Teil des ME-Netzwerks. Dadurch können Gegenstände aus dem Behälter entnommen oder in ihn eingefügt werden, und zwar ausschließlich über ME. "
 		""
-		"Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage."
+		"Speicherbusse können gefiltert und mit bestimmten Prioritäten versehen werden, sodass bestimmte Gegenstände zuerst in den angeschlossenen Speicher gelangen, jedoch werden keine gefilterten Gegenstände rückwirkend von anderswo im Netzwerk in den angeschlossenen Speicher verschoben."
 	]
-	quest.7EFBAF3E281D2EBE.quest_subtitle: "The spare chest"
-	quest.7EFBFF5D0DA018E7.quest_desc: ["Adds a filter for items you want to auto-delete in the Backpack."]
-	quest.7EFBFF5D0DA018E7.quest_subtitle: "Adds a filter for items you want to auto-delete in the backpack."
-	quest.7EFEE009212A4FD4.quest_subtitle: "Tier: &63"
-	quest.7F042DED357DEF3C.quest_desc: ["Bookshelves are your starting point, but definitely not your end point. Atleast not normal bookshelves. With only normal bookshelves you can only get &aEterna&r up and to a max of 15. (I will explain the Enchantment Levels soon but just know you need them up)"]
-	quest.7F042DED357DEF3C.title: "Vanilla Max is just the start"
-	quest.7F076FC4F2187692.quest_subtitle: "&f8 &cAttack Damage"
+	quest.7EFBAF3E281D2EBE.quest_subtitle: "Die Ersatztruhe"
+	quest.7EFBFF5D0DA018E7.quest_desc: ["Fügt einen Filter für Gegenstände hinzu, die du automatisch im Rucksack löschen möchtest."]
+	quest.7EFBFF5D0DA018E7.quest_subtitle: "Fügt einen Filter für Gegenstände hinzu, die du automatisch im Rucksack löschen möchtest."
+	quest.7EFEE009212A4FD4.quest_subtitle: "Stufe: &63"
+	quest.7F042DED357DEF3C.quest_desc: ["Bücherregale sind dein Ausgangspunkt, aber definitiv nicht dein Endpunkt. Zumindest nicht normale Bücherregale. Mit nur normalen Bücherregalen kannst du nur &aEterna&r bis maximal 15 bekommen. (Ich werde die Verzauberungsstufen bald erklären, aber wisse, dass du sie erhöhen musst)"]
+	quest.7F042DED357DEF3C.title: "Vanilla-Maximum ist nur der Anfang"
+	quest.7F076FC4F2187692.quest_subtitle: "&f8 &cAngriffsschaden"
 	quest.7F09F8F98C13F11B.quest_desc: [
-		"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrifical Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
+		"Was wäre ein dämonisches Ritual ohne ein &cOpfer&r! :D\\n\\nMeistens mögen Dämonen nur Gegenstände, also hab nicht zu viel Angst. Wenn du jedoch eine Lieblingskuh hast, solltest du dir vielleicht Sorgen machen. Tut mir leid, Betsy.\\n\\n&aOpferschalen&r werden verwendet, um Gegenstände zu platzieren, die für Rituale benötigt werden. Diese können überall innerhalb des Rituals platziert werden, solange sie keine der erforderlichen Kreide bedecken. "
 		""
-		"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Sacrificial Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
+		"Vorerst benötigst du nur vier, aber später wirst du bis zu zehn Schalen für jedes Ritual brauchen!\\n\\nDie &6Goldene Opferschale&r wird in der Mitte des Rituals platziert, um es zu aktivieren, und benötigt normalerweise auch ein Buch der Bindung für das Ritual."
 	]
-	quest.7F09F8F98C13F11B.title: "Preparing for a Ritual: &6Bowls"
-	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things is a jack of all trades mod. Just Dire Things adds a new crafting mechanic called Goo Spread, along with machines that assist in the automation of Goo Spread and other utilities."]
+	quest.7F09F8F98C13F11B.title: "Vorbereitung für ein Ritual: &6Schalen"
+	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things ist eine Allround-Mod. Just Dire Things fügt eine neue Crafting-Mechanik namens Goo Spread hinzu, zusammen mit Maschinen, die bei der Automatisierung von Goo Spread und anderen Nützlichkeiten helfen."]
 	quest.7F0B2D58361FB00E.title: "Just Dire Things"
-	quest.7F0F7111552F95A9.quest_desc: ["Okay we got our fully Assembled &5Train&r, now how do we use it? \\n\\nIf you are Controlling it, you'll need to Right Click the &5Train Controls&r. \\n\\nThen, you can Hold W to move Forward or Hold S to go Backwards. No, &5Trains&r don't turn like Cars do, they just follow the &7Tracks&r. \\n\\nGoing Forward you'll pick up a lot of Speed, you can see it in the Bar that replaces your &aExperience Bar&r. Backwards won't give as much Speed. \\n\\nIf you are getting near a &5Train Station&r and not moving at the speed of light, you can Hold Space to stop the &5Train&f at the &5Station&r. This is helpful for disassembling them or even connecting more &5Boogeys&r."]
-	quest.7F0F7111552F95A9.title: "Controlling your &5Train"
-	quest.7F11ABFB2E21B7E4.quest_desc: ["Armor is a very important part of &l&2Minecraft&r, it is what protects you from harm. \\n\\nDifferent pieces of Armor give different Armor Points. These are what determine the effectiveness for your Armor, the more the merrier!\\n\\nMost armor can be changed for more decoration with Armor Trims, use a piece of Armor with an Armor Trim, and an Item for coloring to change the look!"]
-	quest.7F11ABFB2E21B7E4.title: "&l&bBasic Armor&r"
-	quest.7F187E291C3D5BA7.quest_desc: ["The Fluid Unloader is the exact opposite of the Fluid Loader. Instead of being over the &6Track&r its under. Instead of giving &3Steam Locomotives&r water it takes their water. I don't know why you'd want to do that but you can!"]
-	quest.7F187E291C3D5BA7.title: "Fluid Unloader"
+	quest.7F0F7111552F95A9.quest_desc: ["Okay, wir haben unseren vollständig zusammengebauten &5Zug&r, wie benutzen wir ihn jetzt? \\n\\nWenn du ihn steuerst, musst du mit der rechten Maustaste auf die &5Zugsteuerung&r klicken. \\n\\nDann kannst du W gedrückt halten, um vorwärts zu fahren, oder S gedrückt halten, um rückwärts zu fahren. Nein, &5Züge&r drehen sich nicht wie Autos, sie folgen einfach den &7Schienen&r. \\n\\nBei der Vorwärtsfahrt wirst du viel Geschwindigkeit aufnehmen, du kannst sie in der Leiste sehen, die deinen &aErfahrungsbalken&r ersetzt. Rückwärts gibt nicht so viel Geschwindigkeit. \\n\\nWenn du dich einer &5Zugstation&r näherst und nicht mit Lichtgeschwindigkeit unterwegs bist, kannst du die Leertaste gedrückt halten, um den &5Zug&f an der &5Station&r anzuhalten. Dies ist nützlich für die Demontage oder auch zum Anschließen weiterer &5Drehgestelle&r."]
+	quest.7F0F7111552F95A9.title: "Deinen &5Zug&r steuern"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["Rüstung ist ein sehr wichtiger Teil von &l&2Minecraft&r, sie schützt dich vor Schaden. \\n\\nVerschiedene Rüstungsteile geben unterschiedliche Rüstungspunkte. Diese bestimmen die Wirksamkeit deiner Rüstung, je mehr, desto besser!\\n\\nDie meisten Rüstungen können mit Rüstungsbesätzen für mehr Dekoration geändert werden. Verwende ein Rüstungsstück mit einem Rüstungsbesatz und einem Gegenstand zum Färben, um das Aussehen zu ändern!"]
+	quest.7F11ABFB2E21B7E4.title: "&l&bGrundlegende Rüstung&r"
+	quest.7F187E291C3D5BA7.quest_desc: ["Der Flüssigkeitsentlader ist das genaue Gegenteil des Flüssigkeitsladers. Anstatt über der &6Schiene&r zu sein, ist er darunter. Anstatt &3Dampflokomotiven&r Wasser zu geben, nimmt er ihr Wasser. Ich weiß nicht, warum du das tun möchtest, aber du kannst es!"]
+	quest.7F187E291C3D5BA7.title: "Flüssigkeitsentlader"
 	quest.7F2D4C5BEFE3DDD3.quest_desc: [
-		"These are the pipes for the Active Transformer."
+		"Dies sind die Rohre für den Aktiven Transformator."
 		""
-		"Again, they &0&lMUST&r&r be colored in order to function, and cannot make turns. You will need more Active Transformers to change directions of the laser."
+		"Auch hier &0&lMÜSSEN&r&r sie gefärbt sein, um zu funktionieren, und können keine Kurven machen. Du wirst mehr Aktive Transformatoren benötigen, um die Richtung des Lasers zu ändern."
 	]
-	quest.7F2D4C5BEFE3DDD3.quest_subtitle: "Yet More Pipes"
-	quest.7F2D696AC9F4C4E4.quest_desc: ["'&bMirror Mirror&r on the wall how do I get back to my Respawn Point from my travels?' \\n \\n'After setting the &bMagic Mirror&r to a Bed by right clicking with it, you can hold right click for the &bMagic Mirror&r to teleport you back to your bed!' \\n \\n'Thank you &bMirror&r!'"]
-	quest.7F2D696AC9F4C4E4.quest_subtitle: "Found in Mineshafts or Strongholds"
-	quest.7F2D696AC9F4C4E4.title: "&bMagic Mirror"
-	quest.7F3B96033AB7A21E.title: "Allthemodium Apple"
-	quest.7F4963FCAE5337EC.quest_desc: ["Because just fighting the &b&lIgnis&r isn't hard enough, you'll have to fight the &bIgnited Revenant&r first to get &bBurning Ashes&r. \\n\\nOnce you have them, use them on the Altar of Fire to summon the &b&lIgnis&r."]
-	quest.7F4963FCAE5337EC.quest_subtitle: "Relighting the Ignis"
-	quest.7F4963FCAE5337EC.title: "&bBurning Ashes"
-	quest.7F4B734CFB0F0306.quest_desc: ["These new &7Carts&r are similar to the special &2Vanilla&r &7Carts&r. The &7Minecart with a Tank&r will hold and move any Liquid held in it. The &7Minecart with an Energy cell&r will instead hold and move Energy!"]
-	quest.7F4B734CFB0F0306.title: "New Carts"
+	quest.7F2D4C5BEFE3DDD3.quest_subtitle: "Noch mehr Rohre"
+	quest.7F2D696AC9F4C4E4.quest_desc: ["'&bSpiegel, Spiegel&r an der Wand, wie komme ich von meinen Reisen zurück zu meinem Spawnpunkt?' \\n \\n'Nachdem du den &bMagischen Spiegel&r auf ein Bett eingestellt hast, indem du mit der rechten Maustaste darauf klickst, kannst du die rechte Maustaste gedrückt halten, damit der &bMagische Spiegel&r dich zurück zu deinem Bett teleportiert!' \\n \\n'Danke, &bSpiegel&r!'"]
+	quest.7F2D696AC9F4C4E4.quest_subtitle: "Gefunden in Minenschächten oder Strongholds"
+	quest.7F2D696AC9F4C4E4.title: "&bMagischer Spiegel"
+	quest.7F3B96033AB7A21E.title: "Allthemodium-Apfel"
+	quest.7F4963FCAE5337EC.quest_desc: ["Weil der Kampf gegen &b&lIgnis&r allein nicht schwer genug ist, musst du zuerst gegen das &bEntflammte Gespenst&r kämpfen, um &bBrennende Asche&r zu bekommen. \\n\\nSobald du sie hast, verwende sie auf dem Feueraltar, um &b&lIgnis&r zu beschwören."]
+	quest.7F4963FCAE5337EC.quest_subtitle: "Wiederbelebung des Ignis"
+	quest.7F4963FCAE5337EC.title: "&bBrennende Asche"
+	quest.7F4B734CFB0F0306.quest_desc: ["Diese neuen &7Loren&r ähneln den speziellen &2Vanilla&r &7Loren&r. Die &7Lore mit Tank&r hält und bewegt jede darin enthaltene Flüssigkeit. Die &7Lore mit Energiezelle&r hält und bewegt stattdessen Energie!"]
+	quest.7F4B734CFB0F0306.title: "Neue Loren"
 	quest.7F59941D62E672B0.quest_desc: [
-		"Occultism provides more than just Demons to crush your ores!"
+		"Occultism bietet mehr als nur Dämonen zum Zermalmen deiner Erze!"
 		""
-		"There are Demons that can move stuff for you, chop down wood, and more!!"
+		"Es gibt Dämonen, die Sachen für dich bewegen, Holz fällen und mehr können!!"
 		""
-		"There are also ways to summon cool friends known as &dFamiliars&r that give special buffs and even fight for you! Make sure to check out the &dFamiliar Rituals&r in your guide book!"
+		"Es gibt auch Möglichkeiten, coole Freunde namens &dFamiliare&r zu beschwören, die spezielle Buffs geben und sogar für dich kämpfen! Schau dir unbedingt die &dFamiliar-Rituale&r in deinem Handbuch an!"
 	]
-	quest.7F59941D62E672B0.title: "&dFamiliars"
+	quest.7F59941D62E672B0.title: "&dFamiliare"
 	quest.7F5DAB3EDB6E9592.quest_desc: [
-		"There is going to be a lot of Trinaquah being made."
+		"Es wird viel Trinaquah hergestellt werden müssen."
 		""
-		"Figuring out how to optimize the process for speed and efficiency will probably be necessary."
+		"Es wird wahrscheinlich notwendig sein, herauszufinden, wie man den Prozess für Geschwindigkeit und Effizienz optimieren kann."
 	]
-	quest.7F5DAB3EDB6E9592.quest_subtitle: "Cooling Alloys"
+	quest.7F5DAB3EDB6E9592.quest_subtitle: "Legierungen kühlen"
 	quest.7F64202F2C0BAD2A.quest_desc: [
-		"Keep in mind that &e4 RF : 1 EU&r conversion factor! We're at 512 EU at HV, so 2048 RF"
+		"Denk an den &e4 RF : 1 EU&r-Umrechnungsfaktor! Wir haben 512 EU bei HV, also 2048 RF"
 		""
-		"Some recipes will use all of that per tick to process, so make sure your energy production can keep up!"
+		"Einige Rezepte werden all das pro Tick verwenden, um zu verarbeiten, also stelle sicher, dass deine Energieproduktion mithalten kann!"
 	]
-	quest.7F64202F2C0BAD2A.quest_subtitle: "Got power?"
-	quest.7F67849DE9F700D8.quest_desc: ["&2Augment&r: Speed makes it so your Furnace is faster! &bDiamond Furnace&r will instead smelt every 40 Ticks instead of 80 Ticks. At the cost of twice the Fuel usage."]
-	quest.7F67849DE9F700D8.title: "&2Augment&r: Speed"
-	quest.7F6B66566C211735.quest_desc: ["Dripstone used on the spawner will reduce the max health of the mob spawned. This can decrease their health to as low as 20%"]
-	quest.7F6B66566C211735.title: "Health"
-	quest.7F7ED94590B5B857.quest_desc: ["Some &eSpells&r can be put into &7Scrolls&r to be used wherever needed. \\n\\nFirst, you'll need a &7Spell Cloth&r and place it down. Then, do the same ritual but onto the &7Spell Cloth&r. \\n\\nOnce all the &4Blood&r and &bPowder&r is done Right Click the &7Spell Cloth&r and BOOM &7Scroll&r! \\n\\nSome &eSpells&r can not be turned into &7Scrolls&r, so I am not held liable to wasted materials for that."]
-	quest.7F7ED94590B5B857.title: "&eSpells&r on the go!"
+	quest.7F64202F2C0BAD2A.quest_subtitle: "Hast du Energie?"
+	quest.7F67849DE9F700D8.quest_desc: ["&2Augment&r: Geschwindigkeit sorgt dafür, dass dein Ofen schneller arbeitet! &bDiamantofen&r schmilzt alle 40 Ticks statt alle 80 Ticks. Allerdings mit doppeltem Brennstoffverbrauch."]
+	quest.7F67849DE9F700D8.title: "&2Augment&r: Geschwindigkeit"
+	quest.7F6B66566C211735.quest_desc: ["Tropfstein, der am Spawner verwendet wird, reduziert die maximale Gesundheit des gespawnten Mobs. Dies kann ihre Gesundheit auf bis zu 20% verringern"]
+	quest.7F6B66566C211735.title: "Gesundheit"
+	quest.7F7ED94590B5B857.quest_desc: ["Einige &eZauber&r können in &7Schriftrollen&r gesteckt werden, um überall verwendet zu werden. \\n\\nZuerst benötigst du einen &7Zauberstoff&r und platzierst ihn. Dann führe das gleiche Ritual durch, aber auf den &7Zauberstoff&r. \\n\\nSobald das ganze &4Blut&r und &bPulver&r fertig ist, klicke mit der rechten Maustaste auf den &7Zauberstoff&r und BOOM &7Schriftrolle&r! \\n\\nEinige &eZauber&r können nicht in &7Schriftrollen&r umgewandelt werden, daher hafte ich nicht für verschwendete Materialien dafür."]
+	quest.7F7ED94590B5B857.title: "&eZauber&r unterwegs!"
 	quest.7F85669FEA41CD97.quest_desc: [
-		"The Neutral protector of the &6Village&r. He will attack all nearby Hostile Mobs. Like an Iron Golem but he look familiar for some reason? Could it be someone we know in a costume? \\n\\nYou can trade Healing Potions with him and Emeralds for a Furled Map which will soon be made to help against &aEvoker Forts&r! \\n\\nIf you do wish to kill him he will repeatedly attack you with &6Holy Spells&r. He will also Heal himself when getting low. \\n\\nOnce killed he will drop Arcane Essence, Inks, &6Holy Runes&r, and &6Holy Scrolls&r."
+		"Der neutrale Beschützer des &6Dorfes&r. Er greift alle Feindmobs in der Nähe an. Wie ein Eisengolem, aber er sieht irgendwie bekannt aus? Könnte es jemand sein, den wir kennen, in einem Kostüm? \\n\\nDu kannst mit ihm Heiltränke gegen Smaragde handeln für eine eingerollte Karte, die bald helfen wird gegen &aHexer-Festungen&r! \\n\\nWenn du ihn töten möchtest, wird er dich wiederholt mit &6Heiligen Zaubern&r angreifen. Er wird sich auch heilen, wenn er wenig Leben hat. \\n\\nNach dem Töten lässt er Arkane Essenz, Tinten, &6Heilige Runen&r und &6Heilige Schriftrollen&r fallen."
 		"{image:atm:textures/questpics/iron_spells/spells_priest.png width:100 height:200 align:center}"
 	]
-	quest.7F85669FEA41CD97.title: "&6&lPriest"
+	quest.7F85669FEA41CD97.title: "&6&lPriester"
 	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
-	quest.7F8B6D5F360D985A.title: "&eFiery"
-	quest.7F8DEDD0A54D1E11.quest_desc: ["I wonder what Droppers do? \\nI think they drop things... \\n\\nAny item in the Buffer will be dropped on the ground. \\n\\nCould be helpful with something like Botania!"]
-	quest.7F8E50FA436DB4E6.quest_desc: ["&dEncased Chain Drives&r will act similar to &eBelts&r, by connecting &8Shafts&r to each other in a row. \\n\\nThere is quite a few differences though, like that &dEncased Chain Drives&r can be used with a &6Wrench&r to rotate. They also need to be placed directly next to other &dChain Drives&r to keep &dRotating&r. \\n\\nLike &eBelts&r though, they keep the same Speed and Stress Units as the original &8Shaft&r. Plus they keep the same direction!"]
-	quest.7F8E50FA436DB4E6.title: "&dEncased Chain Drives"
+	quest.7F8B6D5F360D985A.title: "&eFeurig"
+	quest.7F8DEDD0A54D1E11.quest_desc: ["Ich frage mich, was Dropper machen? \\nIch denke, sie lassen Dinge fallen... \\n\\nJeder Gegenstand im Puffer wird auf den Boden fallen gelassen. \\n\\nKönnte hilfreich sein mit etwas wie Botania!"]
+	quest.7F8E50FA436DB4E6.quest_desc: ["&dVerkapselte Kettenantriebe&r funktionieren ähnlich wie &eRiemen&r, indem sie &8Wellen&r miteinander in einer Reihe verbinden. \\n\\nEs gibt jedoch einige Unterschiede, wie zum Beispiel, dass &dVerkapselte Kettenantriebe&r mit einem &6Schraubenschlüssel&r gedreht werden können. Sie müssen auch direkt neben anderen &dKettenantrieben&r platziert werden, um sich &dzu drehen&r. \\n\\nWie bei &eRiemen&r behalten sie die gleiche Geschwindigkeit und Belastungseinheiten wie die ursprüngliche &8Welle&r. Außerdem behalten sie die gleiche Richtung bei!"]
+	quest.7F8E50FA436DB4E6.title: "&dVerkapselte Kettenantriebe"
 	quest.7F9131107E7F9AC8.quest_desc: [
-		"Now that you have steam, you need something to transfer it around!"
+		"Jetzt, wo du Dampf hast, brauchst du etwas, um ihn zu übertragen!"
 		""
-		"Placing these will allow you to transfer steam from your boiler to a machine"
+		"Das Platzieren dieser Rohre ermöglicht es dir, Dampf von deinem Kessel zu einer Maschine zu übertragen"
 		""
-		"Use a &bwrench&r to add or remove connections as necessary"
+		"Verwende einen &bSchraubenschlüssel&r, um Verbindungen nach Bedarf hinzuzufügen oder zu entfernen"
 	]
-	quest.7F990FBC1A691020.quest_desc: ["Trapped Chests are the same as regular Chests only the emit a Redstone signal when opened and they can't be combined together into 1."]
-	quest.7F990FBC1A691020.quest_subtitle: "\"I wonder what's in here?\""
-	quest.7F9BFE49B53AF2BF.quest_desc: ["Take your Strengthened Diamond Sword in a pool of Dragon's Breath and you will get Clarent! Clarent works as a shield and sword. Hold right click to block with Clarent and any attacks it blocks it'll deal the same damage it blocked."]
+	quest.7F990FBC1A691020.quest_desc: ["Redstonetruhen sind wie normale Truhen, nur geben sie ein Redstonesignal ab, wenn sie geöffnet werden, und können nicht zu einer einzigen zusammengefügt werden."]
+	quest.7F990FBC1A691020.quest_subtitle: "\"Ich frage mich, was hier drin ist?\""
+	quest.7F9BFE49B53AF2BF.quest_desc: ["Tauche dein Verstärktes Diamantschwert in einen Pool von Drachenhauch und du erhältst Clarent! Clarent funktioniert sowohl als Schild als auch als Schwert. Halte die rechte Maustaste gedrückt, um mit Clarent zu blocken, und jeder Angriff, den es blockt, wird den gleichen Schaden verursachen, den es geblockt hat."]
 	quest.7F9BFE49B53AF2BF.title: "Clarent"
-	quest.7FA79ED5DABCF998.quest_desc: ["The Mixing Vessel is incredibly important especially for all of the alloys that are currently made, but for all of the alloys that are to come!"]
-	quest.7FA79ED5DABCF998.quest_subtitle: "Mix it up!"
-	quest.7FA85713C86166DA.quest_desc: ["Allows you to access your fluid grid wirelessly."]
-	quest.7FA85713C86166DA.title: "Wireless Fluid Grid"
-	quest.7FABB77A60E7962C.quest_desc: ["By infusing Obsidian with &bDiamonds&r we can get Refined Obsidian Dust! \\n\\nThen, we can compress &7Osmium&r into it to get it in Ingot form. \\n\\nAfter that, we can turn those Ingots into Armor with better stats than even &6Allthemodium Armor&r!"]
+	quest.7FA79ED5DABCF998.quest_desc: ["Das Mischgefäß ist unglaublich wichtig, besonders für alle Legierungen, die derzeit hergestellt werden, aber auch für alle Legierungen, die noch kommen werden!"]
+	quest.7FA79ED5DABCF998.quest_subtitle: "Misch es auf!"
+	quest.7FA85713C86166DA.quest_desc: ["Ermöglicht dir drahtlosen Zugriff auf dein Flüssigkeitenraster."]
+	quest.7FA85713C86166DA.title: "Drahtloses Flüssigkeitenraster"
+	quest.7FABB77A60E7962C.quest_desc: ["Durch das Infundieren von Obsidian mit &bDiamanten&r können wir Raffinierten Obsidianstaub herstellen! \\n\\nDann können wir &7Osmium&r damit komprimieren, um es in Barrenform zu bekommen. \\n\\nDanach können wir diese Barren zu Rüstungen mit besseren Werten als sogar &6Allthemodium-Rüstung&r verarbeiten!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
-	quest.7FABB77A60E7962C.title: "&5Refined Obsidian Armor"
-	quest.7FB12EC3A5888123.quest_desc: ["The &3Tube Junction&r gives you more control over the transportation of your pressure by allowing you to move your Pressure Tubes in more directions."]
-	quest.7FB12EC3A5888123.quest_subtitle: "No, go this way!"
-	quest.7FB787C9FE990A93.quest_desc: ["The only way to increase Morgan's damage is by killing villagers. Baby Villagers give even more damage! Hopefully you have a farm set up. Then after many many many villager deaths you'll have a maxed out Morgan. Also you can hold right click with Morgan to do a special attack."]
-	quest.7FB787C9FE990A93.title: "Maxed out Morgan"
-	quest.7FBB431AC055FE93.quest_desc: ["The Soulit Spectator is crafted with a Trapped Soul and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
+	quest.7FABB77A60E7962C.title: "&5Raffinierte Obsidian-Rüstung"
+	quest.7FB12EC3A5888123.quest_desc: ["Die &3Rohrverbindung&r gibt dir mehr Kontrolle über den Transport deines Drucks, indem sie dir ermöglicht, deine Druckrohre in mehr Richtungen zu bewegen."]
+	quest.7FB12EC3A5888123.quest_subtitle: "Nein, geh diesen Weg!"
+	quest.7FB787C9FE990A93.quest_desc: ["Der einzige Weg, den Schaden von Morgan zu erhöhen, ist durch das Töten von Dorfbewohnern. Baby-Dorfbewohner geben sogar noch mehr Schaden! Hoffentlich hast du eine Farm eingerichtet. Nach vielen, vielen, vielen Dorfbewohner-Tötungen wirst du einen maximal ausgebauten Morgan haben. Du kannst auch die rechte Maustaste mit Morgan gedrückt halten, um einen Spezialangriff auszuführen."]
+	quest.7FB787C9FE990A93.title: "Maximal ausgebauter Morgan"
+	quest.7FBB431AC055FE93.quest_desc: ["Der Seelenblick-Beobachter wird mit einer Eingefangenen Seele und einem Nachtfall-Spinnenauge hergestellt. \\n\\nEr funktioniert ähnlich wie eine klebrige Kamera aus Tom Clancy's Splinter Cell. Du kannst mit der rechten Maustaste klicken, um den Beobachter zu senden, und nach einer Weile kannst du durch ihn sehen. Du kannst dich sogar selbst damit sehen! \\n\\nEs kann nicht frühzeitig beendet werden, also sei vorsichtig, wenn du es benutzt. Es hat auch Haltbarkeit und eine Abklingzeit."]
 	quest.7FBC64E6408D8D7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_knightmetal.png width:100 height:150 align:center}"]
-	quest.7FBC64E6408D8D7F.title: "&7Knightmetal"
+	quest.7FBC64E6408D8D7F.title: "&7Rittermetall"
 	quest.7FC54AF87CBDD222.quest_desc: [
-		"&5Ancient Battlegrounds&r are only a fragment of the past. \\n\\nWho knows what happened. \\n\\nWho knows who fought who. All we have now are parts of the walls and these &5Piles of Armor&r. Might as well just pick them up by Mining them with your Pickaxe."
+		"&5Antike Schlachtfelder&r sind nur ein Fragment der Vergangenheit. \\n\\nWer weiß, was passiert ist. \\n\\nWer weiß, wer gegen wen gekämpft hat. Alles, was wir jetzt haben, sind Teile der Mauern und diese &5Rüstungshaufen&r. Du könntest sie genauso gut aufsammeln, indem du sie mit deiner Spitzhacke abbaust."
 		"{image:atm:textures/questpics/iron_spells/spells_battleground.png width:200 height:100 align:center}"
 	]
-	quest.7FC54AF87CBDD222.title: "&5Ancient Battleground"
-	quest.7FE273141D3DFFFD.quest_desc: ["The Fusilier is the medium unit of the new Pillagers! \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon of choice is a &5&lRailgun&r that is charged by their Accumulator Backpack they wear! \\n\\nOn death they will drop &aEmeralds&r and &7Iron Rods&r."]
-	quest.7FE273141D3DFFFD.title: "Fusilier"
-	quest.7FE2EED58AB791E8.quest_desc: ["Note: This accepts Tree Oil, Creosote Oil, and Refined Fuel."]
-	quest.7FE2EED58AB791E8.quest_subtitle: "Generates Power using Liquid Fuel!"
-	quest.7FE969CB4B419FC6.quest_desc: ["With a little work into Mekanism, this machine allows you to transfer anything wirelessly.\\n\\nYou can set specific channels to transfer individual items, energy, or even gases from Mekanism. It's pretty cool."]
-	quest.7FE969CB4B419FC6.quest_subtitle: "Doesn't just work for Power"
+	quest.7FC54AF87CBDD222.title: "&5Antikes Schlachtfeld"
+	quest.7FE273141D3DFFFD.quest_desc: ["Der Gewehrschütze ist die mittlere Einheit der neuen Plünderer! \\n\\nSie haben 12 Herzen und keine Rüstung. \\n\\nIhre Waffe der Wahl ist eine &5&lSchienenkanone&r, die durch ihren getragenen Akkumulatorrucksack aufgeladen wird! \\n\\nBeim Tod lassen sie &aSmaragde&r und &7Eisenstangen&r fallen."]
+	quest.7FE273141D3DFFFD.title: "Gewehrschütze"
+	quest.7FE2EED58AB791E8.quest_desc: ["Hinweis: Dies akzeptiert Baumöl, Kreosotöl und Raffiniertes Öl."]
+	quest.7FE2EED58AB791E8.quest_subtitle: "Erzeugt Energie mit flüssigem Brennstoff!"
+	quest.7FE969CB4B419FC6.quest_desc: ["Mit etwas Arbeit in Mekanism ermöglicht dir diese Maschine, alles drahtlos zu übertragen.\\n\\nDu kannst bestimmte Kanäle einrichten, um einzelne Gegenstände, Energie oder sogar Gase von Mekanism zu übertragen. Es ist ziemlich cool."]
+	quest.7FE969CB4B419FC6.quest_subtitle: "Funktioniert nicht nur für Energie"
 	quest.7FE969CB4B419FC6.title: "&9Mekanism: &6Quantum Entangloporter"
-	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \\n\\nYou can make more Blocks out of it!"]
-	reward_table.04285B94275AB879.title: "Powah: Rods and Cables"
-	reward_table.047C4C58EC06DBF3.title: "Powah: Hardened"
-	reward_table.06C4634E81851A6C.title: "Reward: Common"
-	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Rewards"
-	reward_table.0A18991D9745743A.title: "AE2: Basic Rewards"
-	reward_table.0A4D0C6441DBF319.title: "Immersive: Resources"
-	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: Rewards"
-	reward_table.0CFCEDF988F211F3.title: "Immersive: Alloys and Parts"
-	reward_table.11204745E52B4C0C.title: "Logs \\& Saplings"
+	quest.7FF77463F2A0E210.quest_desc: ["Nachtfall-Schlamm kann nur in den Dunklen Sümpfen gefunden werden. \\n\\nDu kannst mehr Blöcke daraus herstellen!"]
+	reward_table.04285B94275AB879.title: "Powah: Stäbe und Kabel"
+	reward_table.047C4C58EC06DBF3.title: "Powah: Gehärtet"
+	reward_table.06C4634E81851A6C.title: "Belohnung: Gewöhnlich"
+	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Belohnungen"
+	reward_table.0A18991D9745743A.title: "AE2: Grundlegende Belohnungen"
+	reward_table.0A4D0C6441DBF319.title: "Immersive: Ressourcen"
+	reward_table.0C83C7A93ED80A36.title: "Nature's Aura: Belohnungen"
+	reward_table.0CFCEDF988F211F3.title: "Immersive: Legierungen und Teile"
+	reward_table.11204745E52B4C0C.title: "Stämme & Setzlinge"
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
-	reward_table.1AE4A39086CA5564.title: "MA: Tier 4 Seed Bag"
-	reward_table.1C750D27FEF7C386.title: "Powah: Blazing"
-	reward_table.1DB1EEDA7B79672B.title: "RailCraft: Rails"
-	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
-	reward_table.21B1896C13F84C09.title: "MA: Tier 2 Seed Bag"
-	reward_table.2A2E3EFEF58354A9.title: "Immersive: Building Block"
-	reward_table.37F912BDB7C8E6B6.title: "1x1 Wooden Drawers"
-	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
+	reward_table.1AE4A39086CA5564.title: "MA: Stufe 4 Samentasche"
+	reward_table.1C750D27FEF7C386.title: "Powah: Lodernd"
+	reward_table.1DB1EEDA7B79672B.title: "RailCraft: Schienen"
+	reward_table.1EC6956FA2BB2B00.title: "Grundlegender Speicher: Belohnungen"
+	reward_table.21B1896C13F84C09.title: "MA: Stufe 2 Samentasche"
+	reward_table.2A2E3EFEF58354A9.title: "Immersive: Baublock"
+	reward_table.37F912BDB7C8E6B6.title: "1x1 Holzschubladen"
+	reward_table.3A3BDBA4E9AD13C4.title: "Belohnung: Ungewöhnlich"
 	reward_table.3AC97B13FF3E4FD3.title: "Powah: Starter"
-	reward_table.43C220CBD5447FE6.title: "PNC: PCB Tier"
-	reward_table.471CE0CD88F57EDC.title: "IF: Basic Rewards"
-	reward_table.481E10AEAC95C550.title: "Reward: Legendary"
-	reward_table.4B19C9059B3AA9AC.title: "Powah: Basic"
-	reward_table.4D37FFAF33DF678A.title: "Reward: Rare"
-	reward_table.4E550B6FE754E446.title: "Powah: Niotic"
-	reward_table.517CB2DAB0515A50.title: "AE2: Advanced Rewards"
-	reward_table.51D32A776892238B.title: "Powah: Spirited"
-	reward_table.57002573D954732E.title: "PNC: Basic Tier"
-	reward_table.5832C9BCFDB476AF.title: "Ars Nouveau: Rewards"
-	reward_table.5A138D1EDF8AA0C1.title: "PNC: Plastic Tier"
-	reward_table.5AF0FD7302DEC2B1.title: "MA: Tier 1 Seed Bag"
-	reward_table.611A165B35847A5A.title: "Bumblezone: Rewards"
-	reward_table.617F6D802ED0FD00.title: "Reward: Epic"
-	reward_table.636C0F2A58AD8FC1.title: "MA: Basic Rewards"
-	reward_table.63E11953DD289422.title: "Mekanism: Rewards"
-	reward_table.64E6D6A658988648.title: "MA: Tier 3 Seed Bag"
-	reward_table.67D8094B10FAA687.title: "EvilCraft: Rewards"
-	reward_table.73E94318B401E916.title: "IF: Advanced Rewards"
-	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: Rewards"
-	reward_table.75FE7CDF68581EDE.title: "RailCraft: Random"
-	reward_table.7609CF2A167B45C8.title: "Theurgy: Salt"
-	reward_table.779C873798AE0A92.title: "Mahou: Powders"
-	reward_table.79C7738D7CEDABD4.title: "MA: Tier 5 Seed Bag"
-	reward_table.7FB97C5850827C71.title: "PNC: Advanced Tier"
+	reward_table.43C220CBD5447FE6.title: "PNC: PCB-Stufe"
+	reward_table.471CE0CD88F57EDC.title: "IF: Grundlegende Belohnungen"
+	reward_table.481E10AEAC95C550.title: "Belohnung: Legendär"
+	reward_table.4B19C9059B3AA9AC.title: "Powah: Basis"
+	reward_table.4D37FFAF33DF678A.title: "Belohnung: Selten"
+	reward_table.4E550B6FE754E446.title: "Powah: Niotisch"
+	reward_table.517CB2DAB0515A50.title: "AE2: Fortgeschrittene Belohnungen"
+	reward_table.51D32A776892238B.title: "Powah: Beseelt"
+	reward_table.57002573D954732E.title: "PNC: Grundstufe"
+	reward_table.5832C9BCFDB476AF.title: "Ars Nouveau: Belohnungen"
+	reward_table.5A138D1EDF8AA0C1.title: "PNC: Plastik-Stufe"
+	reward_table.5AF0FD7302DEC2B1.title: "MA: Stufe 1 Samentasche"
+	reward_table.611A165B35847A5A.title: "Bumblezone: Belohnungen"
+	reward_table.617F6D802ED0FD00.title: "Belohnung: Episch"
+	reward_table.636C0F2A58AD8FC1.title: "MA: Grundlegende Belohnungen"
+	reward_table.63E11953DD289422.title: "Mekanism: Belohnungen"
+	reward_table.64E6D6A658988648.title: "MA: Stufe 3 Samentasche"
+	reward_table.67D8094B10FAA687.title: "EvilCraft: Belohnungen"
+	reward_table.73E94318B401E916.title: "IF: Fortgeschrittene Belohnungen"
+	reward_table.74164DBBE7919A3B.title: "Mekanism-Reaktoren: Belohnungen"
+	reward_table.75FE7CDF68581EDE.title: "RailCraft: Zufällig"
+	reward_table.7609CF2A167B45C8.title: "Theurgy: Salz"
+	reward_table.779C873798AE0A92.title: "Mahou: Pulver"
+	reward_table.79C7738D7CEDABD4.title: "MA: Stufe 5 Samentasche"
+	reward_table.7FB97C5850827C71.title: "PNC: Fortgeschrittene Stufe"
 	task.00648047034C9531.title: "Rock Crusher"
 	task.00A904FBEDE80712.title: "Macaw's Roofs"
 	task.00C6A5CB44392D7E.title: "AllRightsReserved"
